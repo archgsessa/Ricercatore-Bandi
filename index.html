@@ -1,0 +1,610 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{color-scheme:light}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ricerca bandi — studio tecnico</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{color-scheme:light}
+  :root {
+    --bg: #F5F7F1;
+    --surface: #FFFFFF;
+    --surface-sunken: #EEF2EA;
+    --ink: #1E2B23;
+    --ink-soft: #5B6B5F;
+    --ink-faint: #8C998F;
+    --line: rgba(30,43,35,0.10);
+    --line-strong: rgba(30,43,35,0.18);
+    --accent: #E2590C;
+    --accent-soft: #FDE7D6;
+    --accent-ink: #B8430A;
+    --aperto: #2E8F5C; --aperto-bg: #E1F3E7;
+    --chiuso: #7C8478; --chiuso-bg: #EBEEE7;
+    --urgente: #D5372E; --urgente-bg: #FBE2DF;
+    --bassa: #A17A2E; --bassa-bg: #F6EBD6;
+    --font-display: 'Baloo 2', 'Segoe UI Rounded', ui-rounded, sans-serif;
+    --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --radius-lg: 18px;
+    --radius-md: 12px;
+    --radius-sm: 8px;
+    --shadow-card: 0 1px 2px rgba(30,43,35,0.06), 0 6px 16px rgba(30,43,35,0.07);
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font-family:var(--font-sans); -webkit-font-smoothing:antialiased; }
+  .wrap { max-width: 760px; margin:0 auto; padding: 22px 16px 60px; }
+
+  header.top { padding-bottom:18px; margin-bottom:18px; }
+  .kicker { font-family:var(--font-sans); font-weight:700; font-size:12px; color:var(--accent-ink); letter-spacing:0.06em; text-transform:uppercase; margin:0 0 6px; }
+  h1 { font-family:var(--font-display); font-weight:700; font-size:30px; letter-spacing:0.01em; margin:0 0 6px; text-wrap:balance; color:var(--ink); }
+  .sub { font-size:13.5px; color:var(--ink-soft); margin:0; }
+
+  .alert-critici { background: var(--urgente-bg); border-radius:var(--radius-md); padding:14px 16px; margin-bottom:18px; }
+  .alert-critici .t { font-family:var(--font-display); font-size:15px; color:var(--urgente); margin:0 0 8px; font-weight:700; }
+  .alert-critici .item { font-size:12.5px; color:var(--ink); line-height:1.6; }
+  .alert-critici .item b { color: var(--urgente); }
+
+  .stats-row { display:grid; grid-template-columns:repeat(4,1fr); gap:8px; margin-bottom:20px; }
+  .stat { background:var(--surface); border-radius:var(--radius-md); padding:12px 10px; box-shadow:var(--shadow-card); text-align:center; }
+  .stat .n { font-family:var(--font-display); font-size:22px; font-weight:700; line-height:1.1; color:var(--ink); }
+  .stat .l { font-size:10.5px; color:var(--ink-soft); margin-top:3px; }
+  .stat.urgente .n { color:var(--urgente); }
+
+  section.need { border-radius:var(--radius-lg); padding:18px; margin-bottom:22px; background:var(--surface); box-shadow:var(--shadow-card); }
+  section.need h2 { font-family:var(--font-display); font-size:18px; margin:0 0 5px; font-weight:700; }
+  section.need .hint { font-size:12.5px; color:var(--ink-soft); margin:0 0 12px; line-height:1.5; }
+  textarea#need { width:100%; min-height:64px; font-family:var(--font-sans); font-size:14px; color:var(--ink); background:var(--surface-sunken); border:1.5px solid transparent; border-radius:var(--radius-sm); padding:10px 12px; resize:vertical; }
+  textarea#need:focus { outline:none; border-color:var(--accent); background:var(--surface); }
+  .need-actions { display:flex; gap:8px; margin-top:10px; }
+  button.btn { font-family:var(--font-sans); font-size:13px; font-weight:700; border-radius:999px; padding:9px 16px; cursor:pointer; border:1.5px solid var(--line-strong); background:var(--surface); color:var(--ink); transition:transform .1s ease; }
+  button.btn.primary { background:var(--accent); color:#fff; border-color:var(--accent); }
+  button.btn.ghost { background:transparent; border-color:transparent; color:var(--ink-soft); }
+  button.btn:active { transform:scale(0.97); }
+  button.btn:hover { border-color:var(--accent); }
+  button.btn.primary:hover { border-color:var(--accent-ink); background:var(--accent-ink); }
+  #needThemes { display:flex; flex-wrap:wrap; gap:6px; margin-top:12px; }
+  .chip { display:inline-flex; align-items:center; gap:6px; font-size:12px; font-weight:700; padding:6px 6px 6px 12px; border-radius:999px; background:var(--accent-soft); color:var(--accent-ink); }
+  .chip button { border:none; background:none; color:var(--accent-ink); cursor:pointer; font-size:14px; line-height:1; padding:0 5px; border-radius:50%; }
+  .chip button:hover { background:rgba(226,89,12,0.18); }
+  select.add-theme { font-family:var(--font-sans); font-size:12px; font-weight:700; color:var(--ink-soft); background:var(--surface-sunken); border:1.5px dashed var(--line-strong); border-radius:999px; padding:6px 10px; cursor:pointer; }
+  #needResults { margin-top:16px; }
+  #needResults .need-empty { font-size:12.5px; color:var(--ink-faint); padding:8px 2px; }
+  #needResults .need-count { font-size:11.5px; color:var(--ink-faint); margin-bottom:10px; font-weight:700; }
+
+  .filters { display:flex; flex-direction:column; gap:8px; margin-bottom:16px; }
+  input#f-testo { font-family:var(--font-sans); font-size:14px; color:var(--ink); background:var(--surface); border:1.5px solid var(--line-strong); border-radius:var(--radius-sm); padding:10px 12px; width:100%; }
+  .filters-row { display:grid; grid-template-columns:1fr 1fr; gap:8px; }
+  select { font-family:var(--font-sans); font-size:13.5px; color:var(--ink); background:var(--surface); border:1.5px solid var(--line-strong); border-radius:var(--radius-sm); padding:9px 10px; width:100%; appearance:none;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6' fill='%235B6B5F'/%3E%3C/svg%3E");
+    background-repeat:no-repeat; background-position:right 12px center; padding-right:28px; }
+  .chips-row { display:flex; gap:6px; align-items:center; flex-wrap:wrap; }
+  .chips-row .lbl { font-size:12.5px; color:var(--ink-soft); margin-right:2px; font-weight:700; }
+  .prio-btn { font-family:var(--font-sans); font-weight:700; font-size:12.5px; background:var(--surface); border:1.5px solid var(--line-strong); color:var(--ink-soft); padding:6px 12px; border-radius:999px; cursor:pointer; }
+  .prio-btn.active { color:#fff; border-color:var(--accent); background:var(--accent); }
+  .export-row { display:flex; justify-content:flex-end; margin-top:6px; }
+
+  .list { display:flex; flex-direction:column; gap:12px; margin-top:12px; }
+  .bando { background:var(--surface); border-radius:var(--radius-lg); padding:18px; box-shadow:var(--shadow-card); }
+  .bando-head { display:flex; justify-content:space-between; align-items:center; gap:10px; margin-bottom:8px; }
+  .bando-code { font-family:var(--font-sans); font-weight:700; font-size:11px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:0.04em; }
+  .bando-priorita { display:flex; gap:3px; flex-shrink:0; }
+  .pseg { width:7px; height:7px; border-radius:50%; background:var(--line-strong); }
+  .pseg.on { background:var(--accent); }
+  .bando-titolo { font-family:var(--font-display); font-weight:700; font-size:19px; line-height:1.3; margin:0 0 8px; text-wrap:balance; }
+  .tags { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:12px; }
+  .tag { font-size:11px; font-weight:700; padding:4px 10px; border-radius:999px; background:var(--surface-sunken); color:var(--ink-soft); }
+  .tag.stato-aperto { background:var(--aperto-bg); color:var(--aperto); }
+  .tag.stato-chiuso { background:var(--chiuso-bg); color:var(--chiuso); }
+  .tag.urgente { background:var(--urgente-bg); color:var(--urgente); }
+  .tag.bassa { background:var(--bassa-bg); color:var(--bassa); }
+  .tag.tema { background:var(--accent-soft); color:var(--accent-ink); }
+
+  .riepilogo { display:grid; grid-template-columns:1fr 1fr; gap:12px 10px; background:var(--surface-sunken); border-radius:var(--radius-md); padding:12px 14px; margin-bottom:12px; }
+  .rie-item { display:flex; align-items:flex-start; gap:9px; }
+  .rie-item.full { grid-column:1 / -1; }
+  .rie-icon { width:26px; height:26px; border-radius:50%; background:var(--accent-soft); color:var(--accent-ink); display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+  .rie-icon svg { width:14px; height:14px; }
+  .rie-label { font-size:10.5px; font-weight:700; color:var(--ink-soft); text-transform:uppercase; letter-spacing:0.03em; margin-bottom:2px; }
+  .rie-value { font-size:13px; font-weight:600; color:var(--ink); line-height:1.35; font-variant-numeric:tabular-nums; }
+  .rie-value.urgente { color:var(--urgente); }
+
+  .bando-oggetto { font-size:13.5px; color:var(--ink); line-height:1.55; margin:0 0 10px; }
+  details.bando-detail { margin: 4px 0 4px; }
+  details.bando-detail summary { font-size:12.5px; font-weight:700; color:var(--accent-ink); cursor:pointer; list-style:none; }
+  details.bando-detail summary::-webkit-details-marker { display:none; }
+  details.bando-detail summary::before { content:'+ '; }
+  details.bando-detail[open] summary::before { content:'– '; }
+  details.bando-detail .dbody { font-size:12.5px; color:var(--ink-soft); line-height:1.6; margin-top:8px; }
+  details.bando-detail .dbody div { margin-bottom:6px; }
+  details.bando-detail .dbody b { color:var(--ink); }
+  .bando-pertinenza { font-size:12.5px; color:var(--ink-soft); font-style:italic; margin:0 0 10px; }
+  .bando-foot { display:flex; justify-content:flex-end; align-items:center; margin-top:10px; }
+  a.apri { font-size:13px; font-weight:700; color:#fff; background:var(--accent); text-decoration:none; padding:8px 16px; border-radius:999px; }
+  a.apri:hover { background:var(--accent-ink); }
+
+  .empty { text-align:center; padding:50px 20px; color:var(--ink-soft); }
+  .empty .t { font-family:var(--font-display); font-weight:700; font-size:18px; color:var(--ink); margin-bottom:6px; }
+  .empty .b { font-size:13px; line-height:1.6; max-width:320px; margin:0 auto; }
+
+  footer.note { margin-top:26px; padding-top:16px; border-top:1px solid var(--line); font-size:11.5px; color:var(--ink-faint); line-height:1.6; }
+  .snapshot-warning { margin-top:8px; padding:10px 12px; border-radius:var(--radius-sm); background:var(--bassa-bg); color:var(--bassa); font-size:11.5px; line-height:1.6; }
+</style>
+</head>
+<body>
+<svg style="display:none" aria-hidden="true">
+  <symbol id="ic-coin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="9"/>
+    <path d="M15 9.3c-.5-.9-1.6-1.4-3-1.4-2 0-3.2 1-3.2 2.2 0 1 .8 1.6 2.3 2l1.7.4c1.5.4 2.3 1 2.3 2.1 0 1.3-1.2 2.3-3.1 2.3-1.4 0-2.5-.5-3-1.4"/>
+    <path d="M7.8 10.3h4.4M7.8 13.6h3.6"/>
+  </symbol>
+  <symbol id="ic-calendar" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3" y="5" width="18" height="16" rx="3"/>
+    <path d="M3 10h18M8 3v4M16 3v4"/>
+    <circle cx="8.5" cy="14.5" r="1.1" fill="currentColor" stroke="none"/>
+    <circle cx="12" cy="14.5" r="1.1" fill="currentColor" stroke="none"/>
+    <circle cx="15.5" cy="14.5" r="1.1" fill="currentColor" stroke="none"/>
+  </symbol>
+  <symbol id="ic-people" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="9" cy="8" r="3.2"/>
+    <path d="M3.5 20c0-3.6 2.5-6.2 5.5-6.2s5.5 2.6 5.5 6.2"/>
+    <circle cx="17" cy="8.5" r="2.4"/>
+    <path d="M16 13.9c2.4.4 4.2 2.5 4.5 5.4"/>
+  </symbol>
+</svg>
+<div class="wrap">
+
+  <header class="top">
+    <h1>Bandi di investimento e finanziamento</h1>
+    <p class="sub" id="aggiornamento"></p>
+  </header>
+
+  <div id="alertCritici"></div>
+
+  <div class="stats-row">
+    <div class="stat"><div class="n" id="stat-totale">–</div><div class="l">bandi monitorati</div></div>
+    <div class="stat"><div class="n" id="stat-aperti">–</div><div class="l">aperti</div></div>
+    <div class="stat"><div class="n" id="stat-p5">–</div><div class="l">priorità 5</div></div>
+    <div class="stat urgente"><div class="n" id="stat-urgenti">–</div><div class="l">scadenza ≤10gg</div></div>
+  </div>
+
+  <section class="need">
+    <h2>Descrivi cosa vuoi realizzare</h2>
+    <p class="hint">Scrivi liberamente un'esigenza (es. "voglio realizzare un panificio sociale in una struttura pubblica"): l'app riconosce i temi coinvolti e mostra i bandi più pertinenti, dando più peso ai temi rari e specifici.</p>
+    <textarea id="need" placeholder="Es. vorremmo aprire un panificio sociale in un edificio comunale inutilizzato..."></textarea>
+    <div class="need-actions">
+      <button class="btn primary" id="needBtn">Trova bandi pertinenti</button>
+      <button class="btn ghost" id="needClear">Cancella</button>
+    </div>
+    <div id="needThemes"></div>
+    <div id="needResults"></div>
+  </section>
+
+  <div class="filters">
+    <input type="text" id="f-testo" placeholder="Cerca per titolo, ente, oggetto...">
+    <div class="filters-row">
+      <select id="f-area"><option value="">Area geografica — tutte</option></select>
+      <select id="f-stato">
+        <option value="">Stato — tutti</option>
+        <option value="aperto">Aperto</option>
+        <option value="chiuso">Chiuso — monitorabile</option>
+      </select>
+    </div>
+    <div class="chips-row">
+      <span class="lbl">Priorità minima</span>
+      <button class="prio-btn active" data-prio="0">Tutte</button>
+      <button class="prio-btn" data-prio="3">≥3</button>
+      <button class="prio-btn" data-prio="4">≥4</button>
+      <button class="prio-btn" data-prio="5">=5</button>
+    </div>
+    <div class="export-row">
+      <button class="btn" id="exportCsv">Esporta CSV</button>
+    </div>
+  </div>
+
+  <div class="list" id="list"></div>
+
+  <footer class="note">
+    Dossier di sola consultazione, aggiornato dal ciclo di monitoraggio su Cowork. I bandi a bassa pertinenza tematica sono comunque inclusi con punteggio 1-2 e nota esplicativa, non filtrati silenziosamente.
+    <div id="footer-snapshot" class="snapshot-warning"></div>
+  </footer>
+
+</div>
+
+<script>
+let DATA = [];
+const SYNONYMS = {"sport": ["sport", "sportivo", "sportiva", "sportivi", "palestra", "impianto sportivo", "attivita motoria", "attivita sportiva", "calcio", "pallavolo", "basket", "atletica", "piscina", "oratorio sportivo", "campo da gioco"], "terzo-settore-generico": ["terzo settore", "associazione", "associazionismo", "ente non profit", "no profit", "onlus", "odv", "aps", "ets", "attivita ordinaria", "rafforzamento associativo"], "disabilita": ["disabilita", "disabile", "disabili", "handicap", "invalidita", "persone con disabilita", "barriere architettoniche", "inclusione disabili", "autismo", "non autosufficienza"], "inclusione-digitale": ["digitale", "digitalizzazione", "alfabetizzazione digitale", "competenze digitali", "tecnologia", "informatica", "divario digitale", "cittadinanza digitale"], "diritti-umani-pace": ["pace", "diritti umani", "solidarieta internazionale", "cooperazione internazionale", "rifugiati", "accoglienza migranti", "aiuti umanitari", "giustizia sociale", "educazione alla pace"], "poverta-marginalita": ["poverta", "mensa", "mense", "dormitorio", "dormitori", "senza dimora", "homeless", "marginalita", "indigenti", "emergenza sociale", "fragilita sociale", "persone fragili"], "immigrazione-integrazione": ["immigrazione", "integrazione", "stranieri", "migranti", "tratta", "alunni stranieri", "seconda generazione", "interculturalita", "richiedenti asilo"], "volontariato": ["volontariato", "volontari", "presidio territoriale", "attivita di volontariato", "organizzazione di volontariato"], "dispersione-scolastica": ["dispersione scolastica", "abbandono scolastico", "scuola", "minori a rischio", "adolescenti a rischio", "ragazzi in difficolta scolastica"], "poverta-educativa": ["poverta educativa", "minori", "infanzia", "adolescenza", "educazione", "doposcuola", "cantiere educativo", "bambini"], "musica-cultura": ["musica", "cultura", "culturale", "teatro", "cinema", "coro", "cori", "banda musicale", "bande musicali", "festival", "spettacolo", "arte", "biblioteca", "museo", "patrimonio culturale"], "immobili-pubblici": ["immobile pubblico", "edificio pubblico", "bene confiscato", "patrimonio pubblico", "riqualificazione edificio", "struttura pubblica", "recupero immobile", "ex caserma", "bene comune", "panificio", "panificio sociale", "spazio pubblico inutilizzato", "immobile comunale"], "parita-di-genere": ["parita di genere", "violenza di genere", "donne", "femminicidio", "discriminazione di genere", "lgbtqia", "liberta femminile"], "agricoltura-sociale": ["agricoltura sociale", "orto sociale", "fattoria sociale", "verde pubblico", "giardino", "coltivazione", "orto urbano", "inserimento lavorativo agricolo"], "beni-confiscati": ["beni confiscati", "mafia", "antimafia", "criminalita organizzata", "bene sequestrato", "bene confiscato alle mafie"], "pa-digitale": ["pubblica amministrazione digitale", "digitalizzazione comune", "suap", "sue", "servizi digitali comunali", "spid", "pagopa", "trasformazione digitale enti locali"], "giovani": ["giovani", "gioventu", "youth", "ragazzi", "mobilita giovanile", "protagonismo giovanile", "politiche giovanili"], "istruzione-formazione": ["formazione professionale", "istruzione", "educazione degli adulti", "apprendimento", "competenze professionali", "corso di formazione"], "europa-creativa": ["europa creativa", "arti performative", "cooperazione culturale europea", "mobilita artisti", "cultura internazionale"], "impresa-sociale": ["impresa sociale", "cooperativa sociale", "startup sociale", "imprenditoria sociale", "panificio sociale", "bottega sociale", "inserimento lavorativo", "impresa di comunita"], "servizio-civile": ["servizio civile", "volontari in servizio civile", "scu", "servizio civile universale"], "sicurezza-urbana": ["sicurezza urbana", "videosorveglianza", "movida", "decoro urbano", "sicurezza pubblica", "telecamere"], "famiglia": ["famiglia", "famiglie", "bambini", "piccoli comuni", "natalita", "politiche familiari", "prossimita", "servizi di prossimita"], "rigenerazione-urbana": ["rigenerazione urbana", "quartiere", "spazio pubblico", "riqualificazione urbana", "periferie", "spazi comuni", "rigenerazione di quartiere"], "ambiente-sostenibilita": ["ambiente", "sostenibilita", "spreco alimentare", "transizione ecologica", "economia circolare", "energia rinnovabile", "comunita energetica", "tutela ambientale"]};
+const MACRO_LABELS = {"sport": "Sport e attività motoria", "terzo-settore-generico": "Terzo settore — attività generali", "disabilita": "Disabilità e inclusione", "inclusione-digitale": "Inclusione e competenze digitali", "diritti-umani-pace": "Diritti umani, pace e solidarietà internazionale", "poverta-marginalita": "Povertà e marginalità sociale", "immigrazione-integrazione": "Immigrazione e integrazione", "volontariato": "Volontariato e associazionismo", "dispersione-scolastica": "Dispersione scolastica", "poverta-educativa": "Povertà educativa e minori", "musica-cultura": "Cultura, musica e spettacolo", "immobili-pubblici": "Immobili e beni pubblici", "parita-di-genere": "Parità di genere", "agricoltura-sociale": "Agricoltura sociale e verde pubblico", "beni-confiscati": "Beni confiscati alla criminalità", "pa-digitale": "PA digitale e servizi comunali", "giovani": "Giovani e gioventù", "istruzione-formazione": "Istruzione e formazione professionale", "europa-creativa": "Europa Creativa e cooperazione culturale", "impresa-sociale": "Impresa sociale e inserimento lavorativo", "servizio-civile": "Servizio civile universale", "sicurezza-urbana": "Sicurezza urbana", "famiglia": "Famiglia e piccoli comuni", "rigenerazione-urbana": "Rigenerazione urbana", "ambiente-sostenibilita": "Ambiente e sostenibilità"};
+
+const STATO_LABEL = { aperto: 'Aperto', chiuso: 'Chiuso — monitorabile' };
+const RUOLO_LABEL = {
+  beneficiario_diretto: 'Beneficiario diretto',
+  partner_tecnico: 'Partner tecnico ammesso',
+  redazione_documentazione: 'Redazione documentazione',
+  assistenza_rup: 'Assistenza RUP / supporto tecnico-amministrativo',
+  da_verificare: 'Ruolo da verificare'
+};
+
+// ---------- utilità testo / motore di ricerca per esigenza ----------
+function normalizeTxt(s){
+  return (s||'').toString().toLowerCase()
+    .normalize('NFD').replace(/[̀-ͯ]/g,'')
+    .replace(/[^a-z0-9\s]/g,' ')
+    .replace(/\s+/g,' ').trim();
+}
+
+const STOPWORDS = new Set(['il','lo','la','i','gli','le','di','a','da','in','con','su','per','tra','fra','un','uno','una','che','del','dello','della','dei','degli','delle','al','allo','alla','ai','agli','alle','nel','nello','nella','nei','negli','nelle','sul','sullo','sulla','sui','sugli','sulle','vorrei','vogliamo','voglio','realizzare','fare','creare','avviare','un','ed','e','o','anche','come','nostro','nostra','loro','suo','sua']);
+
+function stemWord(w){
+  w = normalizeTxt(w);
+  if (w.length <= 3) return w;
+  const suffixes = ['azione','azioni','mente','ivita','issimo','issima','zione','zioni','tore','tori','trice','trici','ita','ale','ali','ico','ici','ica','iche','oso','osa','osi','ose','ando','endo','are','ere','ire','ato','ata','ati','ate','uto','uta','uti','ute'];
+  for (const s of suffixes){
+    if (w.length - s.length >= 3 && w.endsWith(s)) { w = w.slice(0, w.length - s.length); break; }
+  }
+  if (w.length > 5) w = w.slice(0,5);
+  return w;
+}
+
+// parole troppo generiche: comparirebbero in decine di sinonimi di temi diversi
+// (es. "sociale", "pubblico", "comunale") e da sole genererebbero falsi positivi
+// nel riconoscimento dei temi. Non vengono indicizzate come trigger singole:
+// una frase resta comunque riconosciuta tramite le sue altre parole distintive.
+const GENERIC_WORDS = ['sociale','sociali','pubblico','pubblica','pubblici','pubbliche','comune','comunale','comunali','comuni','comunita','locale','locali','generale','generali','nazionale','nazionali','regionale','regionali','sviluppo','promozione','valorizzazione','gestione','servizio','servizi','progetto','progetti','iniziativa','iniziative','intervento','interventi','sostegno','contributo','contributi','attivita'];
+const GENERIC_STEMS = new Set(GENERIC_WORDS.map(stemWord));
+
+let STEM_INDEX = null;
+function buildStemIndex(){
+  const idx = {};
+  for (const tag in SYNONYMS){
+    const phrases = SYNONYMS[tag].concat([tag.replace(/-/g,' ')]);
+    for (const phrase of phrases){
+      const words = normalizeTxt(phrase).split(' ').filter(w => w.length >= 3 && !STOPWORDS.has(w));
+      for (const w of words){
+        const st = stemWord(w);
+        if (!st || GENERIC_STEMS.has(st)) continue;
+        if (!idx[st]) idx[st] = new Set();
+        idx[st].add(tag);
+      }
+    }
+  }
+  return idx;
+}
+
+function activatedTags(text){
+  if (!STEM_INDEX) STEM_INDEX = buildStemIndex();
+  const counts = {};
+  const words = normalizeTxt(text).split(' ').filter(w => w.length >= 3 && !STOPWORDS.has(w));
+  for (const w of words){
+    const st = stemWord(w);
+    const tags = STEM_INDEX[st];
+    if (tags){ tags.forEach(t => { counts[t] = (counts[t]||0) + 1; }); }
+  }
+  return counts;
+}
+
+let TAG_DOC_FREQ = null;
+function tagDocFrequency(){
+  const freq = {};
+  const aperti = DATA.filter(b => b.stato === 'aperto');
+  for (const b of aperti){ (b.tag||[]).forEach(t => { freq[t] = (freq[t]||0) + 1; }); }
+  return { freq, totale: aperti.length || 1 };
+}
+
+function tagWeight(tag){
+  if (!TAG_DOC_FREQ) TAG_DOC_FREQ = tagDocFrequency();
+  const df = TAG_DOC_FREQ.freq[tag] || 0;
+  return Math.log((TAG_DOC_FREQ.totale + 1) / (df + 1)) + 1;
+}
+
+function scoreByActiveTags(bando, activeTagsSet){
+  let score = 0;
+  (bando.tag||[]).forEach(t => { if (activeTagsSet.has(t)) score += tagWeight(t); });
+  return score;
+}
+
+function computeScoredList(activeTagsSet){
+  if (activeTagsSet.size === 0) return [];
+  const scored = DATA
+    .map(b => ({ b, score: scoreByActiveTags(b, activeTagsSet) }))
+    .filter(x => x.score > 0);
+  scored.sort((x,y) => {
+    if (y.score !== x.score) return y.score - x.score;
+    if ((y.b.punteggio||0) !== (x.b.punteggio||0)) return (y.b.punteggio||0) - (x.b.punteggio||0);
+    const sa = x.b.scadenza ? new Date(x.b.scadenza) : new Date('2999-01-01');
+    const sb = y.b.scadenza ? new Date(y.b.scadenza) : new Date('2999-01-01');
+    return sa - sb;
+  });
+  return scored;
+}
+
+let needActiveTags = new Set();
+
+function renderThemeChips(){
+  const el = document.getElementById('needThemes');
+  el.innerHTML = '';
+  if (needActiveTags.size === 0 && !document.getElementById('need').value.trim()){
+    return;
+  }
+  needActiveTags.forEach(tag => {
+    const chip = document.createElement('span');
+    chip.className = 'chip';
+    chip.innerHTML = '<span>' + (MACRO_LABELS[tag] || tag) + '</span>';
+    const btn = document.createElement('button');
+    btn.textContent = '×';
+    btn.title = 'Rimuovi tema';
+    btn.addEventListener('click', () => { needActiveTags.delete(tag); renderNeedResults(); });
+    chip.appendChild(btn);
+    el.appendChild(chip);
+  });
+  const sel = document.createElement('select');
+  sel.className = 'add-theme';
+  const optDefault = document.createElement('option');
+  optDefault.value = ''; optDefault.textContent = '+ aggiungi tema';
+  sel.appendChild(optDefault);
+  Object.keys(MACRO_LABELS).sort((a,b) => MACRO_LABELS[a].localeCompare(MACRO_LABELS[b], 'it')).forEach(tag => {
+    if (needActiveTags.has(tag)) return;
+    const o = document.createElement('option');
+    o.value = tag; o.textContent = MACRO_LABELS[tag];
+    sel.appendChild(o);
+  });
+  sel.addEventListener('change', () => {
+    if (sel.value){ needActiveTags.add(sel.value); renderNeedResults(); }
+  });
+  el.appendChild(sel);
+}
+
+function renderResultsList(scoredList){
+  const el = document.getElementById('needResults');
+  el.innerHTML = '';
+  if (needActiveTags.size === 0){
+    return;
+  }
+  if (scoredList.length === 0){
+    el.innerHTML = '<div class="need-empty">Nessun bando corrisponde ai temi selezionati. Prova ad aggiungere un tema più generico.</div>';
+    return;
+  }
+  const countEl = document.createElement('div');
+  countEl.className = 'need-count';
+  countEl.textContent = scoredList.length + ' bandi pertinenti trovati, ordinati per rilevanza rispetto ai temi selezionati';
+  el.appendChild(countEl);
+  scoredList.slice(0, 20).forEach(x => el.appendChild(renderBandoCard(x.b)));
+}
+
+function renderNeedResults(){
+  renderThemeChips();
+  const scored = computeScoredList(needActiveTags);
+  renderResultsList(scored);
+}
+
+document.getElementById('needBtn').addEventListener('click', () => {
+  const text = document.getElementById('need').value;
+  const counts = activatedTags(text);
+  needActiveTags = new Set(Object.keys(counts));
+  renderNeedResults();
+});
+document.getElementById('needClear').addEventListener('click', () => {
+  document.getElementById('need').value = '';
+  needActiveTags = new Set();
+  renderNeedResults();
+});
+
+// ---------- app principale: filtri, contatori, lista, CSV ----------
+let sortMode = 'priorita';
+let minPrio = 0;
+
+function giorniLabel(b){
+  if (b.giorni === null || b.giorni === undefined) return null;
+  return b.giorni;
+}
+
+function popolaFiltriArea(){
+  const set = new Set();
+  DATA.forEach(b => (b.regioni||[]).forEach(r => set.add(r)));
+  set.add('Nazionale');
+  const arr = [...set].filter(r => r !== 'Nazionale').sort((a,b)=>a.localeCompare(b,'it'));
+  arr.unshift('Nazionale');
+  const sel = document.getElementById('f-area');
+  const current = sel.value;
+  sel.querySelectorAll('option[data-dyn]').forEach(o => o.remove());
+  arr.forEach(a => { const o = document.createElement('option'); o.value = a; o.textContent = a; o.setAttribute('data-dyn','1'); sel.appendChild(o); });
+  if ([...sel.options].some(o => o.value === current)) sel.value = current;
+}
+
+function renderBandoCard(b){
+  const urgente = b.stato === 'aperto' && b.giorni !== null && b.giorni !== undefined && b.giorni >= 0 && b.giorni <= 10;
+  const el = document.createElement('div');
+  el.className = 'bando';
+
+  const priSeg = Array.from({length:5}, (_,i) => '<div class="pseg' + (i < (b.punteggio||0) ? ' on' : '') + '"></div>').join('');
+  const ruoloLabel = RUOLO_LABEL[b.ruolo] || 'Ruolo da verificare';
+  const tagsHtml = (b.tag||[]).map(t => '<span class="tag tema">' + (MACRO_LABELS[t]||t) + '</span>').join('');
+  const checklistHtml = (b.checklist||[]).length ? '<div><b>Checklist:</b> ' + b.checklist.join(' · ') + '</div>' : '';
+  const scadenzaValue = b.scadenza_testo + (urgente ? ' · tra ' + b.giorni + ' giorni' : '');
+  const dettagliHtml = ((b.checklist||[]).length || b.note)
+    ? '<details class="bando-detail"><summary>Altri dettagli operativi</summary><div class="dbody">' + checklistHtml + (b.note ? '<div><b>Note:</b> ' + b.note + '</div>' : '') + '</div></details>'
+    : '';
+
+  el.innerHTML =
+    '<div class="bando-head">' +
+      '<span class="bando-code">' + (b.fonte || 'fonte n.d.') + (b.area_testo ? ' · ' + b.area_testo : '') + '</span>' +
+      '<div class="bando-priorita">' + priSeg + '</div>' +
+    '</div>' +
+    '<p class="bando-titolo">' + b.titolo + '</p>' +
+    '<div class="tags">' +
+      '<span class="tag stato-' + b.stato + '">' + STATO_LABEL[b.stato] + '</span>' +
+      '<span class="tag">' + ruoloLabel + '</span>' +
+      (urgente ? '<span class="tag urgente">scadenza imminente</span>' : '') +
+      (b.pertinenza_bassa ? '<span class="tag bassa">pertinenza bassa</span>' : '') +
+    '</div>' +
+    '<div class="riepilogo">' +
+      '<div class="rie-item"><span class="rie-icon"><svg><use href="#ic-coin"></use></svg></span><div><div class="rie-label">Importo</div><div class="rie-value">' + (b.importo || 'non specificato') + '</div></div></div>' +
+      '<div class="rie-item"><span class="rie-icon"><svg><use href="#ic-calendar"></use></svg></span><div><div class="rie-label">Scadenza</div><div class="rie-value' + (urgente ? ' urgente' : '') + '">' + scadenzaValue + '</div></div></div>' +
+      '<div class="rie-item full"><span class="rie-icon"><svg><use href="#ic-people"></use></svg></span><div><div class="rie-label">Chi può partecipare</div><div class="rie-value">' + b.beneficiari + '</div></div></div>' +
+    '</div>' +
+    '<p class="bando-oggetto">' + b.oggetto + '</p>' +
+    (tagsHtml ? '<div class="tags">' + tagsHtml + '</div>' : '') +
+    (b.pertinenza_bassa && b.nota_pertinenza ? '<p class="bando-pertinenza">' + b.nota_pertinenza + '</p>' : '') +
+    dettagliHtml +
+    '<div class="bando-foot">' +
+      (b.link ? '<a class="apri" href="' + b.link + '" target="_blank" rel="noopener">Apri il bando →</a>' : '') +
+    '</div>';
+  return el;
+}
+function filtraDati(){
+  const testo = normalizeTxt(document.getElementById('f-testo').value);
+  const area = document.getElementById('f-area').value;
+  const stato = document.getElementById('f-stato').value;
+
+  return DATA.filter(b => {
+    if (area && !(b.regioni||[]).includes(area) && !(b.regioni||[]).includes('Nazionale')) return false;
+    if (stato && b.stato !== stato) return false;
+    if ((b.punteggio||0) < minPrio) return false;
+    if (testo){
+      const hay = normalizeTxt([b.titolo,b.ente,b.oggetto,b.note,(b.tag||[]).map(t=>MACRO_LABELS[t]||t).join(' ')].join(' '));
+      if (!hay.includes(testo)) return false;
+    }
+    return true;
+  });
+}
+
+function render(){
+  const filtrati = filtraDati();
+  filtrati.sort((a,b) => {
+    const pd = (b.punteggio||0) - (a.punteggio||0);
+    if (pd !== 0) return pd;
+    const sa = a.scadenza ? new Date(a.scadenza) : new Date('2999-01-01');
+    const sb = b.scadenza ? new Date(b.scadenza) : new Date('2999-01-01');
+    return sa - sb;
+  });
+
+  const list = document.getElementById('list');
+  list.innerHTML = '';
+  if (filtrati.length === 0){
+    list.innerHTML = '<div class="empty"><div class="t">Nessun bando corrisponde ai filtri</div><div class="b">Prova ad ampliare area geografica, stato o priorità minima.</div></div>';
+    return;
+  }
+  filtrati.forEach(b => list.appendChild(renderBandoCard(b)));
+}
+
+function csvEscape(v){
+  const s = (v===null||v===undefined) ? '' : String(v);
+  if (/[",\n;]/.test(s)) return '"' + s.replace(/"/g,'""') + '"';
+  return s;
+}
+
+async function esportaCsv(){
+  const rows = filtraDati();
+  const header = ['Bando','Ente','Oggetto','Tipo','Area','Regioni','Beneficiari','Importo','Stato','Scadenza','Giorni','Punteggio','Ruolo','Checklist','Note','Fonte','Link'];
+  const lines = [header.join(';')];
+  rows.forEach(b => {
+    const tipo = (b.tag||[]).map(t => MACRO_LABELS[t]||t).join(' | ');
+    const line = [
+      b.titolo, b.ente, b.oggetto, tipo, b.area_testo, (b.regioni||[]).join(' | '),
+      b.beneficiari, b.importo, STATO_LABEL[b.stato], b.scadenza_testo, (b.giorni===null||b.giorni===undefined)?'':b.giorni,
+      b.punteggio, RUOLO_LABEL[b.ruolo]||'', (b.checklist||[]).join(' | '), b.note, b.fonte, b.link
+    ].map(csvEscape).join(';');
+    lines.push(line);
+  });
+  const blob = new Blob(['﻿' + lines.join('\r\n')], { type: 'text/csv;charset=utf-8;' });
+
+  // Nella pagina pubblicata come artifact, il download diretto via <a download>
+  // non funziona nel visualizzatore sandboxato: si usa la capability "downloads".
+  // Nel file HTML autonomo aperto direttamente nel browser (senza runtime Claude)
+  // non esiste window.claude: si ricade sul download via Blob/anchor, che li funziona.
+  let downloads = null;
+  try {
+    if (window.claude && typeof window.claude.use === 'function'){
+      downloads = await window.claude.use('downloads');
+    }
+  } catch(e){ downloads = null; }
+
+  if (downloads){
+    try {
+      await downloads.save({ filename: 'bandi_export.csv', data: blob });
+      return;
+    } catch(e){
+      // in caso di rifiuto/errore della capability si tenta comunque il fallback locale
+    }
+  }
+
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url; a.download = 'bandi_export.csv';
+  document.body.appendChild(a); a.click(); document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+
+function renderAlertCritici(){
+  const critici = DATA.filter(b => b.stato === 'aperto' && b.giorni !== null && b.giorni !== undefined && b.giorni >= 0 && b.giorni <= 10);
+  const el = document.getElementById('alertCritici');
+  if (critici.length === 0){ el.innerHTML = ''; return; }
+  critici.sort((a,b) => a.giorni - b.giorni);
+  el.innerHTML = '<div class="alert-critici"><p class="t">⚠ ' + critici.length + ' bandi con scadenza entro 10 giorni</p>' +
+    critici.map(b => '<div class="item"><b>' + b.giorni + 'gg</b> — ' + b.titolo + ' (' + b.ente + ')' + (b.pertinenza_bassa ? ' — pertinenza bassa' : '') + '</div>').join('') +
+    '</div>';
+}
+
+function initHeader(){
+  const dateFmt = d => { try { return new Date(d+'T00:00:00').toLocaleDateString('it-IT', {day:'numeric', month:'long', year:'numeric'}); } catch(e){ return d; } };
+  let ultimo = null;
+  DATA.forEach(b => { if (b.aggiornato_il && (!ultimo || b.aggiornato_il > ultimo)) ultimo = b.aggiornato_il; });
+  document.getElementById('aggiornamento').textContent = (ultimo ? 'Ultimo aggiornamento: ' + dateFmt(ultimo) + ' · ' : '') + DATA.length + ' bandi monitorati, ' + DATA.filter(b=>b.stato==='aperto').length + ' aperti';
+  document.getElementById('stat-totale').textContent = DATA.length;
+  document.getElementById('stat-aperti').textContent = DATA.filter(b=>b.stato==='aperto').length;
+  document.getElementById('stat-p5').textContent = DATA.filter(b=>b.punteggio===5).length;
+  document.getElementById('stat-urgenti').textContent = DATA.filter(b=>b.stato==='aperto' && b.giorni!==null && b.giorni!==undefined && b.giorni>=0 && b.giorni<=10).length;
+}
+
+function renderSnapshotNotice(){
+  const el = document.getElementById('footer-snapshot');
+  if (!el) return;
+  el.textContent = 'Dati aggiornati a ogni ciclo di monitoraggio e pubblicati automaticamente su questa pagina.';
+}
+
+function refreshAll(){
+  TAG_DOC_FREQ = null;
+  popolaFiltriArea();
+  initHeader();
+  renderAlertCritici();
+  render();
+  if (needActiveTags.size > 0) renderNeedResults();
+}
+
+renderSnapshotNotice();
+document.getElementById('list').innerHTML = '<div class=\"empty\"><div class=\"t\">Caricamento bandi…</div></div>';
+document.getElementById('aggiornamento').textContent = 'Caricamento…';
+
+async function initData(){
+  try {
+    const res = await fetch('./bandi.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    DATA = await res.json();
+    refreshAll();
+  } catch(e){
+    document.getElementById('list').innerHTML = '<div class=\"empty\"><div class=\"t\">Dati non disponibili</div><div class=\"b\">Impossibile caricare i dati dei bandi (bandi.json). Riprova pi\u00f9 tardi.</div></div>';
+    document.getElementById('aggiornamento').textContent = 'Errore di caricamento dei dati';
+  }
+}
+
+initData();
+
+document.getElementById('f-testo').addEventListener('input', render);
+document.getElementById('f-area').addEventListener('change', render);
+document.getElementById('f-stato').addEventListener('change', render);
+document.getElementById('exportCsv').addEventListener('click', () => { esportaCsv(); });
+document.querySelectorAll('.prio-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.prio-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    minPrio = parseInt(btn.dataset.prio, 10);
+    render();
+  });
+});
+</script>
+</body>
+</html>
+
+</body></html>

@@ -1,0 +1,2414 @@
+[
+{
+"id": "famiglia-piccolicomuni",
+"titolo": "Crescere nei piccoli comuni 2026",
+"ente": "Dipartimento per le Politiche della Famiglia — Presidenza del Consiglio dei Ministri",
+"oggetto": "Rafforza i servizi di prossimità e le opportunità educative e sociali per famiglie, bambini e adolescenti nei piccoli comuni italiani.",
+"area_testo": "Nazionale (comuni fino a 5.000 abitanti)",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Comuni fino a 5.000 abitanti, singoli o in forma associata.",
+"importo": "Dotazione complessiva 50.000.000 € (importo per progetto non specificato)",
+"stato": "aperto",
+"scadenza": "2026-09-29",
+"scadenza_testo": "29 set 2026",
+"giorni": 10,
+"checklist": [
+"Delibera di adesione del/dei Comune/i",
+"Eventuale accordo di forma associata tra comuni",
+"Progetto di servizi di prossimità"
+],
+"note": "Target esplicito e diretto: piccoli Comuni. Massima priorità per proposta di assistenza tecnica/RUP.",
+"fonte": "Ricerca mirata PNRR/regionali",
+"link": "https://famiglia.governo.it/it/politiche-e-attivita/finanziamenti-avvisi-e-bandi/avvisi-e-bandi/avviso-crescere-nei-piccoli-comuni-2026-stanziati-50-milioni-di-euro-per-le-famiglie/",
+"tag": [
+"famiglia",
+"immobili-pubblici"
+],
+"punteggio": 5,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-tratta",
+"titolo": "Bando per progetti a favore di vittime della tratta — anno 2026",
+"ente": "Dipartimento per le pari opportunità",
+"oggetto": "Finanzia alloggio, vitto, assistenza sanitaria e percorsi di integrazione per le vittime di tratta ai sensi dell'art. 18 d.lgs. 286/1998.",
+"area_testo": "Nazionale, con massimali differenziati per ambito territoriale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Regioni, Province autonome, Comuni, Città metropolitane, Comunità montane/unioni di comuni, anche con privati convenzionati.",
+"importo": "Dotazione complessiva 36.000.000 € (massimale variabile per ambito territoriale)",
+"stato": "aperto",
+"scadenza": "2026-09-30",
+"scadenza_testo": "30 set 2026",
+"giorni": 11,
+"checklist": [
+"Convenzione con enti pubblici (se privato)",
+"Progetto di presa in carico 18 mesi",
+"Invio via PEC"
+],
+"note": "Invio a interventitratta@pec.governo.it. Avvio progetti previsto 01/12/2026. Enti comunali esplicitamente ammessi: alta priorità per assistenza tecnica.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/bando-per-progetti-a-favore-di-vittime-della-tratta-anno-2026/",
+"tag": [
+"immigrazione-integrazione",
+"poverta-marginalita"
+],
+"punteggio": 4,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-volontariato2026",
+"titolo": "Bando Volontariato 2026",
+"ente": "Fondazione CON IL SUD",
+"oggetto": "Rafforza ODV e APS come presidi territoriali nei piccoli comuni del Mezzogiorno (aree interne, fino a 5.000 abitanti), sostenendo le loro attività ordinarie.",
+"area_testo": "Basilicata, Calabria, Campania, Molise, Puglia, Sardegna, Sicilia",
+"regioni": [
+"Basilicata",
+"Calabria",
+"Campania",
+"Molise",
+"Puglia",
+"Sardegna",
+"Sicilia"
+],
+"beneficiari": "ODV/APS RUNTS costituite prima del 1/1/2025, mai finanziate prima dalla Fondazione, con sede in piccoli comuni del Mezzogiorno.",
+"importo": "10.000 / 20.000 / 30.000 € in base alle entrate medie (dotazione 4.000.000 €, nessun cofinanziamento richiesto)",
+"stato": "aperto",
+"scadenza": "2026-09-30",
+"scadenza_testo": "30 set 2026",
+"giorni": 11,
+"checklist": [
+"Iscrizione RUNTS ODV/APS",
+"Dichiarazione mai finanziati in precedenza",
+"Bilanci ultimi esercizi"
+],
+"note": "Domanda su portale Chàiros, una sola domanda per ente. È il bando più esplicito nel collegare terzo settore e piccoli comuni del Mezzogiorno.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/bando-volontariato-2026/",
+"tag": [
+"volontariato",
+"terzo-settore-generico"
+],
+"punteggio": 4,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-scuolafuturo4",
+"titolo": "\"A scuola per il futuro\" — IV edizione",
+"ente": "Fondazione CDP",
+"oggetto": "Contrasta la dispersione scolastica dalla quarta primaria alla seconda superiore, agendo su fattori sociali, economici, familiari e pedagogici.",
+"area_testo": "Nazionale, almeno 50% risorse al Mezzogiorno",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti non profit iscritti al RUNTS in partenariato obbligatorio con almeno una scuola pubblica (delibera del consiglio) e un altro ETS.",
+"importo": "150.000–200.000 € a progetto (dotazione 1.200.000 €)",
+"stato": "aperto",
+"scadenza": "2026-09-30",
+"scadenza_testo": "30 set 2026",
+"giorni": 11,
+"checklist": [
+"Lettera d'intenti (fase 1)",
+"Delibera di adesione della scuola pubblica partner",
+"Partenariato con altro ETS"
+],
+"note": "Procedura in due fasi sul portale Fondazione CDP; durata progetto 36 mesi, una sola candidatura per capofila.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/bando-a-scuola-per-il-futuro-quarta-edizione/",
+"tag": [
+"dispersione-scolastica",
+"poverta-educativa"
+],
+"punteggio": 4,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "lazio-sicurezza-comune",
+"titolo": "Avviso pubblico \"Sicurezza in comune\" — annualità 2026",
+"ente": "Regione Lazio",
+"oggetto": "Finanzia interventi di videosorveglianza nelle scuole e nelle zone della \"movida\", e riqualificazione di aree urbane degradate.",
+"area_testo": "Lazio",
+"regioni": [
+"Lazio"
+],
+"beneficiari": "Roma Capitale e Municipi, Comuni e Unioni di Comuni del Lazio.",
+"importo": "Dotazione 3.300.000 € (800.000 € Roma Capitale/Municipi, 2.500.000 € altri comuni); max per progetto 100.000-200.000 € a seconda della linea",
+"stato": "aperto",
+"scadenza": "2026-09-30",
+"scadenza_testo": "30 set 2026",
+"giorni": 11,
+"checklist": [
+"Progetto tecnico di videosorveglianza/riqualificazione",
+"Delibera comunale di adesione",
+"Individuazione linea di finanziamento (Roma/altri comuni)"
+],
+"note": "Determina G09653 del 13/07/2026, BUR Lazio n.56 del 14/07/2026. Rivolto direttamente a Comuni: ottimo profilo per assistenza al RUP e redazione documentazione.",
+"fonte": "Ricerca mirata PNRR/regionali",
+"link": "https://bandiavvisi.regione.lazio.it/bandiavvisi/",
+"tag": [
+"sicurezza-urbana",
+"immobili-pubblici"
+],
+"punteggio": 4,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "neb-2026",
+"titolo": "New European Bauhaus — bandi europei rigenerazione urbana/quartieri",
+"ente": "Commissione Europea (NEB Facility)",
+"oggetto": "Finanzia percorsi di rigenerazione di quartieri e spazi pubblici tramite processi partecipativi, mobilità sostenibile, sistemi alimentari locali e resilienza climatica.",
+"area_testo": "Nazionale/UE",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti locali/comuni italiani, pubbliche amministrazioni, università, PMI, organizzazioni del terzo settore, associazioni, organizzazioni di comunità.",
+"importo": "Contributo UE fino all'85% dei costi ammissibili (finanziamento forfettario); dotazione complessiva 2026 circa 101,1 milioni di euro su più call",
+"stato": "aperto",
+"scadenza": "2026-09-30",
+"scadenza_testo": "30 set 2026",
+"giorni": 11,
+"checklist": [
+"Profilo su portale Funding & Tenders UE",
+"Partenariato multi-attore (comune + terzo settore)",
+"Progetto di rigenerazione partecipata"
+],
+"note": "Programma europeo diretto (non PNRR/statale italiano); altre finestre aperte fino al 01/12/2026. Ottimo profilo comuni + terzo settore.",
+"fonte": "Ricerca mirata PNRR/regionali",
+"link": "https://new-european-bauhaus.europa.eu/calls-proposals/co-create-neb_en",
+"tag": [
+"rigenerazione-urbana",
+"immobili-pubblici"
+],
+"punteggio": 4,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-beniconfiscati26",
+"titolo": "Iniziativa Beni Confiscati — Regolamento 2026",
+"ente": "Fondazione CON IL SUD",
+"oggetto": "Sostiene la valorizzazione di beni confiscati alle mafie tramite imprenditoria sociale; spesso coinvolge i comuni assegnatari dei beni.",
+"area_testo": "Basilicata, Calabria, Campania, Puglia, Sardegna, Sicilia",
+"regioni": [
+"Basilicata",
+"Calabria",
+"Campania",
+"Puglia",
+"Sardegna",
+"Sicilia"
+],
+"beneficiari": "ETS RUNTS costituiti prima del 1/1/2024, mai finanziati prima per beni confiscati, in partnership di almeno 2 enti.",
+"importo": "Max 400.000 €, cofinanziamento minimo 20% (dotazione 2.000.000 €)",
+"stato": "aperto",
+"scadenza": "2026-12-10",
+"scadenza_testo": "10 dic 2026",
+"giorni": 82,
+"checklist": [
+"Idea progettuale (fase 1) su Chàiros",
+"Bene assegnato da massimo 3 anni",
+"Disponibilità del bene per almeno 10 anni"
+],
+"note": "Procedura in due fasi; durata progetto 36-48 mesi. Il Comune assegnatario del bene è spesso partner necessario: ottima leva per assistenza tecnica.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/iniziativa-beni-confiscati-regolamento-2026/",
+"tag": [
+"beni-confiscati",
+"immobili-pubblici"
+],
+"punteggio": 4,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "campania-rigenerazioneurbana",
+"titolo": "Bando Rigenerazione Urbana",
+"ente": "Regione Campania",
+"oggetto": "Finanzia interventi di rigenerazione urbana e riqualificazione di aree e immobili pubblici in Campania.",
+"area_testo": "Campania",
+"regioni": [
+"Campania"
+],
+"beneficiari": "Comuni campani.",
+"importo": "Non specificato — graduatoria già approvata",
+"stato": "chiuso",
+"scadenza": "2026-01-01",
+"scadenza_testo": "Chiuso — graduatorie già approvate",
+"giorni": null,
+"checklist": [
+"Progetto tecnico di rigenerazione urbana"
+],
+"note": "Graduatorie già approvate: bando chiuso. Monitorare Regione Campania per prossimo ciclo di programmazione.",
+"fonte": "Ricerca mirata PNRR/regionali",
+"link": "https://www.regione.campania.it",
+"tag": [
+"rigenerazione-urbana",
+"immobili-pubblici"
+],
+"punteggio": 3,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "casaitalia-piccolicomuni",
+"titolo": "Casa Italia — Bando piccoli comuni (riqualificazione)",
+"ente": "Ministero dell'Interno / Casa Italia",
+"oggetto": "Finanzia interventi di riqualificazione e messa in sicurezza in piccoli comuni italiani.",
+"area_testo": "Nazionale (piccoli comuni)",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Piccoli Comuni.",
+"importo": "Non specificato — decreto di assegnazione risorse già pubblicato",
+"stato": "chiuso",
+"scadenza": "2026-01-01",
+"scadenza_testo": "Fase di presentazione domande conclusa",
+"giorni": null,
+"checklist": [
+"Verificare direttamente su casaitalia.governo.it lo stato aggiornato"
+],
+"note": "Segnali indicano fase di presentazione domande conclusa (decreto di assegnazione già pubblicato dal Ministero dell'Interno): verificare direttamente prima di escludere definitivamente. Target comuni molto rilevante per assistenza tecnica: monitorare per prossimo ciclo.",
+"fonte": "Ricerca mirata PNRR/regionali",
+"link": "https://casaitalia.governo.it",
+"tag": [
+"immobili-pubblici",
+"rigenerazione-urbana"
+],
+"punteggio": 3,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cdp-ecosistemiculturali2025",
+"titolo": "Ecosistemi culturali al Sud Italia (edizione 2025)",
+"ente": "Fondazione CDP (con Fondazione CON IL SUD)",
+"oggetto": "Finanzia la rigenerazione di immobili pubblici e la valorizzazione del patrimonio artistico, culturale e paesaggistico nel Mezzogiorno.",
+"area_testo": "Comuni 5.000-100.000 abitanti di Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna, Abruzzo, Molise",
+"regioni": [
+"Campania",
+"Puglia",
+"Basilicata",
+"Calabria",
+"Sicilia",
+"Sardegna",
+"Abruzzo",
+"Molise"
+],
+"beneficiari": "Partenariati di almeno 3 soggetti: minimo 2 enti del terzo settore + l'ente pubblico proprietario del bene immobile.",
+"importo": "Dotazione 1.000.000 €; progetti singoli 150.000-350.000 €",
+"stato": "chiuso",
+"scadenza": "2026-02-02",
+"scadenza_testo": "2 feb 2026",
+"giorni": null,
+"checklist": [
+"Partenariato con ente pubblico proprietario dell'immobile",
+"Titolo di disponibilità del bene",
+"Piano di valorizzazione culturale"
+],
+"note": "Bando chiuso (scaduto 02/02/2026), ma è un'iniziativa a cadenza annuale con ottimo profilo comuni + terzo settore + immobili pubblici: priorità di monitoraggio per la prossima edizione.",
+"fonte": "Fondazione CDP",
+"link": "https://www.cdp.it/it/fondazione_bando_eco_cult_2025.page",
+"tag": [
+"rigenerazione-urbana",
+"immobili-pubblici",
+"musica-cultura"
+],
+"punteggio": 3,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "sport-periferie2026",
+"titolo": "Sport e Periferie 2026",
+"ente": "Dipartimento per lo Sport",
+"oggetto": "Finanzia la realizzazione e riqualificazione di impianti sportivi nelle periferie urbane.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Comuni.",
+"importo": "Non specificato — verificare bando ufficiale",
+"stato": "chiuso",
+"scadenza": "2026-07-22",
+"scadenza_testo": "22 lug 2026",
+"giorni": null,
+"checklist": [
+"Progetto tecnico impianto sportivo",
+"Titolo di disponibilità dell'area"
+],
+"note": "Domande chiuse dal 22/07/2026: sono in corso solo le fasi di caricamento documentazione per i comuni già ammessi. Buon profilo (comuni) per una prossima edizione: monitorare.",
+"fonte": "Ricerca mirata PNRR/regionali",
+"link": "https://www.sportegoverno.it",
+"tag": [
+"sport",
+"immobili-pubblici"
+],
+"punteggio": 3,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "mic-piccolicomuni",
+"titolo": "\"Cultura nei piccoli comuni\" 2026",
+"ente": "Ministero della Cultura — DG Creatività Contemporanea",
+"oggetto": "Sostiene iniziative culturali nei piccoli comuni italiani per la valorizzazione dei territori.",
+"area_testo": "Nazionale (piccoli comuni)",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Comuni di piccole dimensioni.",
+"importo": "Non specificato — verificare eventuale riapertura",
+"stato": "chiuso",
+"scadenza": "2026-08-31",
+"scadenza_testo": "31 ago 2026",
+"giorni": null,
+"checklist": [
+"Delibera comunale di adesione"
+],
+"note": "Bando chiuso (scaduto 31/08/2026), confermato da più fonti concordanti: monitorare per eventuale nuova edizione.",
+"fonte": "Ricerca mirata PNRR/regionali",
+"link": "https://cultura.gov.it",
+"tag": [
+"musica-cultura",
+"famiglia"
+],
+"punteggio": 3,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-zenit",
+"titolo": "Bando \"Zenit\" — competenze digitali delle persone con disabilità",
+"ente": "Fondo per la Repubblica Digitale",
+"oggetto": "Sostiene percorsi di formazione digitale e accompagnamento all'occupazione per persone con disabilità o invalidità tra 16 e 67 anni, tramite partenariati multi-attore.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Partenariati di 2-5 soggetti con capofila non-profit costituito da almeno 2 anni; possono partecipare anche enti pubblici come partner.",
+"importo": "250.000–500.000 € a progetto (dotazione complessiva 6.000.000 €)",
+"stato": "chiuso",
+"scadenza": "2026-09-18",
+"scadenza_testo": "18 set 2026",
+"giorni": null,
+"checklist": [
+"Costituzione partenariato 2-5 soggetti",
+"Requisito anzianità capofila ≥2 anni",
+"Progetto conforme a Universal Design"
+],
+"note": "Domanda su piattaforma Re@dy. Durata progetto 12-24 mesi, accessibilità obbligatoria.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/bando-zenit-competenze-digitali-delle-persone-con-disabilita/",
+"tag": [
+"disabilita",
+"inclusione-digitale"
+],
+"punteggio": 3,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-mense",
+"titolo": "Iniziative 2026 mense e dormitori per i poveri",
+"ente": "Fondazione Intesa Sanpaolo",
+"oggetto": "Due filoni di intervento: accoglienza notturna gratuita per persone indigenti e distribuzione di pasti caldi per persone senza dimora.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "ETS coerenti con l'iniziativa scelta.",
+"importo": "Non specificato (deciso dal CdA dopo la chiusura delle adesioni)",
+"stato": "aperto",
+"scadenza": "2026-09-22",
+"scadenza_testo": "22 set 2026",
+"giorni": 3,
+"checklist": [
+"Modulistica richiesta via email a iniziative@fispo.it",
+"Descrizione del servizio (mensa o dormitorio)"
+],
+"note": "Chiusura anticipata a 80 adesioni per iniziativa: conviene muoversi subito.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/contributi-per-progetti-di-utilita-sociale-direttrici-di-intervento-2026-copy/",
+"tag": [
+"poverta-marginalita",
+"terzo-settore-generico"
+],
+"punteggio": 3,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-secondaoccasione",
+"titolo": "\"Opportunità per me, un futuro migliore\" — percorsi di seconda occasione",
+"ente": "Impresa sociale Con i Bambini",
+"oggetto": "Finanzia percorsi educativi personalizzati (cantieri educativi) per adolescenti 14-21enni a rischio di abbandono scolastico.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Partenariati di almeno 3 enti, capofila ETS RUNTS attivo da almeno 2 anni più almeno un altro ETS.",
+"importo": "250.000–800.000 € a progetto, cofinanziamento minimo 10% (dotazione 15.000.000 €)",
+"stato": "aperto",
+"scadenza": "2026-09-30",
+"scadenza_testo": "30 set 2026",
+"giorni": 11,
+"checklist": [
+"Partenariato ≥3 enti su piattaforma Chàiros",
+"Almeno 65% risorse gestite dal Terzo settore",
+"Piano di cofinanziamento"
+],
+"note": "",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/bando-opportunita-per-me-un-futuro-migliore-percorsi-di-seconda-occasione/",
+"tag": [
+"dispersione-scolastica",
+"poverta-educativa"
+],
+"punteggio": 3,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-8x1000statale",
+"titolo": "Otto per mille a gestione diretta statale — 2026",
+"ente": "Presidenza del Consiglio dei Ministri",
+"oggetto": "Contributi su fondi 8x1000 a gestione statale per interventi sociali, sanitari, culturali e ambientali di rilievo pubblico.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti pubblici e privati senza fini di lucro, inclusi Comuni.",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2026-09-30",
+"scadenza_testo": "30 set 2026",
+"giorni": 11,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/otto-per-mille-a-gestione-diretta-statale-anno-2026/",
+"tag": [
+"terzo-settore-generico"
+],
+"punteggio": 3,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "scu-2026",
+"titolo": "Presentazione programmi di intervento di Servizio Civile Universale — anno 2026",
+"ente": "Dipartimento Politiche Giovanili e Servizio Civile Universale (PCM)",
+"oggetto": "Consente a enti accreditati (compresi i Comuni) di presentare o aggiornare programmi di intervento per l'impiego di volontari del Servizio Civile Universale.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti di servizio civile accreditati: terzo settore ed enti pubblici, inclusi i Comuni.",
+"importo": "Non specificato nelle fonti consultate",
+"stato": "aperto",
+"scadenza": "2026-09-30",
+"scadenza_testo": "30 set 2026",
+"giorni": 11,
+"checklist": [
+"Accreditamento SCU dell'ente",
+"Progetto di programma di intervento",
+"Verifica requisiti su piattaforma politichegiovanili.gov.it"
+],
+"note": "Fonti concordanti (infoserviziocivile.it, csvcalabriacentro.it, anciabruzzo.it); verificare data e testo esatti sul portale ufficiale prima di proporsi.",
+"fonte": "Ricerca mirata PNRR/regionali",
+"link": "https://politichegiovanili.gov.it",
+"tag": [
+"servizio-civile",
+"giovani"
+],
+"punteggio": 3,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-fami",
+"titolo": "Interventi rafforzamento integrazione scolastica alunni Paesi terzi 2027-2028",
+"ente": "Commissione europea — Autorità di Gestione FAMI",
+"oggetto": "Finanzia formazione linguistica, contrasto alla dispersione e coinvolgimento delle famiglie per l'integrazione scolastica di alunni stranieri.",
+"area_testo": "Basilicata, Campania, Friuli-Venezia Giulia, Marche, Molise, Valle d'Aosta, Trento, Bolzano",
+"regioni": [
+"Basilicata",
+"Campania",
+"Friuli-Venezia Giulia",
+"Marche",
+"Molise",
+"Valle d'Aosta",
+"Trentino-Alto Adige"
+],
+"beneficiari": "Capofila Uffici Scolastici Regionali/Istituzioni scolastiche statali; partner: enti locali, ETS, ONG, cooperative sociali, università.",
+"importo": "200.000 € fisso + quota variabile (dotazione 3.936.721,53 €)",
+"stato": "aperto",
+"scadenza": "2026-10-08",
+"scadenza_testo": "8 ott 2026",
+"giorni": 19,
+"checklist": [
+"Accesso SPID+PEC+firma digitale",
+"Accordo di partenariato con ente locale",
+"Piano didattico 24 mesi"
+],
+"note": "Sistema informativo FAMI. Enti locali esplicitamente ammessi come partner.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/interventi-di-rafforzamento-dellintegrazione-scolastica-di-alunni-e-studenti-di-paesi-terzi-2027-2028/",
+"tag": [
+"immigrazione-integrazione",
+"dispersione-scolastica"
+],
+"punteggio": 3,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-oratori",
+"titolo": "Spazi dedicati allo sport negli oratori",
+"ente": "Dipartimento per lo sport",
+"oggetto": "Finanzia realizzazione o riqualificazione di spazi sportivi negli oratori di aree degradate.",
+"area_testo": "Nazionale, 80% risorse al Mezzogiorno",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Diocesi, Istituti Religiosi, Società di Vita Apostolica, enti ecclesiastici collegati (parrocchie, fondazioni di culto) — non comuni direttamente.",
+"importo": "Max 300.000 € (nuove strutture) / 200.000 € (ristrutturazioni), dotazione 48.500.000 €, cofinanziamento minimo 15%",
+"stato": "aperto",
+"scadenza": "2026-10-16",
+"scadenza_testo": "16 ott 2026",
+"giorni": 27,
+"checklist": [
+"Titolo di disponibilità dell'immobile",
+"Progetto tecnico di realizzazione/riqualificazione",
+"Piano di cofinanziamento ≥15%"
+],
+"note": "Max 1 progetto per comune e 1 per ente ecclesiastico. Beneficiario non è l'ente comunale ma può richiedere supporto tecnico locale.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/spazi-dedicati-allo-sport-negli-oratori/",
+"tag": [
+"sport",
+"immobili-pubblici"
+],
+"punteggio": 3,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "lom-terzosettore2628",
+"titolo": "Bando Terzo Settore 2026-2028",
+"ente": "Regione Lombardia",
+"oggetto": "Finanzia progetti territoriali di sviluppo sociale ed economico delle comunità locali su famiglia, solidarietà sociale, disabilità e pari opportunità.",
+"area_testo": "Lombardia",
+"regioni": [
+"Lombardia"
+],
+"beneficiari": "ODV, APS, Fondazioni del Terzo Settore iscritte RUNTS con sede in Lombardia.",
+"importo": "Progetti grande scala 100.000-125.000 € (80% pubblico/20% cofinanziamento); piccola scala 39.000-50.000 € (dotazione complessiva 8.432.666 €)",
+"stato": "aperto",
+"scadenza": "2026-10-16",
+"scadenza_testo": "16 ott 2026",
+"giorni": 27,
+"checklist": [
+"Iscrizione RUNTS con sede in Lombardia",
+"Piano di cofinanziamento 20%",
+"Scelta scala progetto (grande/piccola)"
+],
+"note": "Domande aperte dal 24/08/2026.",
+"fonte": "CSV Lombardia",
+"link": "https://bandi.regione.lombardia.it/servizi/servizio/catalogo/dettaglio/politiche-sociali/terzo-settore-volontariato/terzo-settore-triennio-2026-2028-RLJ12026054688",
+"tag": [
+"terzo-settore-generico"
+],
+"punteggio": 3,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-avviso2terzosettore",
+"titolo": "Avviso 2026 progetti di rilevanza nazionale del Terzo settore",
+"ente": "Ministero del Lavoro e delle Politiche Sociali",
+"oggetto": "Finanzia attività di interesse generale allineate all'Agenda 2030, realizzate in almeno 10 Regioni per 12-18 mesi.",
+"area_testo": "Nazionale (attività in almeno 10 Regioni)",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "ODV/APS/Fondazioni RUNTS, reti associative ex art. 41 CTS.",
+"importo": "250.000–500.000 € a progetto, copertura 80% (ODV/APS) o 50% (fondazioni), dotazione 10.533.994,88 €",
+"stato": "aperto",
+"scadenza": "2026-10-22",
+"scadenza_testo": "22 ott 2026",
+"giorni": 33,
+"checklist": [
+"Accesso SPID su servizi.lavoro.gov.it",
+"Modello E su piattaforma Open Impact",
+"Costo progetto ≤ entrate ultimo bilancio"
+],
+"note": "Apertura 17/09/2026 ore 10:00. Confermato anche da fonti regionali/CSV.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/avviso-2026-per-il-finanziamento-di-progetti-di-rilevanza-nazionale-del-terzo-settore/",
+"tag": [
+"terzo-settore-generico"
+],
+"punteggio": 3,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-utilitasociale-direttrici",
+"titolo": "Contributi progetti utilità sociale — direttrici 2026",
+"ente": "Fondazione Intesa Sanpaolo",
+"oggetto": "Tre linee di intervento: contrasto alla povertà, tutela delle donne, opportunità per persone con disabilità.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "ETS (RUNTS/Anagrafe Onlus) ed Enti Pubblici.",
+"importo": "Nessun min/max fissato",
+"stato": "aperto",
+"scadenza": "2026-12-31",
+"scadenza_testo": "31 dic 2026",
+"giorni": 103,
+"checklist": [
+"Domanda a segreteria@fispo.it",
+"Descrizione della linea di intervento scelta"
+],
+"note": "Presentazioni accettate durante tutto il 2026; durata max 1 anno, rinnovabile fino a 3 volte. Esclusi eventi e gestione ordinaria. Ammette esplicitamente anche enti pubblici.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/contributi-per-progetti-di-utilita-sociale-direttrici-di-intervento-2026/",
+"tag": [
+"poverta-marginalita",
+"parita-di-genere",
+"disabilita"
+],
+"punteggio": 3,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-inclusionedigitale",
+"titolo": "Iniziative in cofinanziamento per l'inclusione digitale — Regolamento 2026",
+"ente": "Fondo per la Repubblica Digitale",
+"oggetto": "Finanzia progetti di formazione e inclusione digitale realizzati tramite collaborazioni strategiche a scala sub-regionale, regionale o nazionale.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Soggetti pubblici e privati, con o senza scopo di lucro; privati non-profit con cofinanziamento minimo 50%.",
+"importo": "Dotazione 9.480.452 €, contributo minimo 100.000 €, copertura max 50%",
+"stato": "aperto",
+"scadenza": "2026-12-31",
+"scadenza_testo": "31 dic 2026",
+"giorni": 103,
+"checklist": [
+"Contatto preliminare su piattaforma Re@dy",
+"Progettazione di dettaglio (fase 2)",
+"Piano di cofinanziamento ≥50%"
+],
+"note": "Esame delle domande in ordine cronologico. Ammette esplicitamente soggetti pubblici.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/iniziative-in-cofinanziamento-per-linclusione-digitale-regolamento-2026/",
+"tag": [
+"inclusione-digitale",
+"pa-digitale"
+],
+"punteggio": 3,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-infrastrutturazione-sud",
+"titolo": "Iniziative cofinanziamento infrastrutturazione sociale Mezzogiorno",
+"ente": "Fondazione CON IL SUD",
+"oggetto": "Sostiene la realizzazione e riqualificazione di infrastrutture sociali (spesso immobili pubblici) nel Mezzogiorno.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "ETS in partenariato con enti pubblici proprietari degli immobili.",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": null,
+"scadenza_testo": "Nessuna scadenza (sportello)",
+"giorni": null,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/iniziative-in-cofinanziamento-per-linfrastrutturazione-sociale-del-mezzogiorno/",
+"tag": [
+"immobili-pubblici",
+"terzo-settore-generico"
+],
+"punteggio": 3,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "sc-albo-competenze",
+"titolo": "Albo delle Competenze Specialistiche e delle Aree Tecniche (agg. 29)",
+"ente": "Sviluppo Campania S.p.A.",
+"oggetto": "Registro permanente di professionisti e studi tecnici a cui Sviluppo Campania attinge per incarichi di competenze specialistiche; canale di iscrizione continuativo, non un bando a progetto per un ente terzo.",
+"area_testo": "Campania",
+"regioni": [
+"Campania"
+],
+"beneficiari": "Professionisti e studi tecnici (iscrizione diretta dello studio, non di un ente terzo).",
+"importo": "Non pertinente (albo, non finanziamento)",
+"stato": "aperto",
+"scadenza": null,
+"scadenza_testo": "Nessuna scadenza (sportello — iscrizione continuativa)",
+"giorni": null,
+"checklist": [
+"Verificare bando istitutivo e Determina n. 212 del 03/09/2026",
+"Requisiti di iscrizione per aree tecniche"
+],
+"note": "Non è un bando di finanziamento ma un albo fornitori: opportunità diretta per lo studio di candidarsi come fornitore di competenze tecniche, da verificare se copre assistenza tecnico-amministrativa/RUP.",
+"fonte": "Sviluppo Campania",
+"link": "https://www.sviluppocampania.it/2026/09/07/albo-delle-competenze-specialistiche-e-delle-aree-tecniche-aggiornamento-29/",
+"tag": [
+"pa-digitale",
+"terzo-settore-generico"
+],
+"punteggio": 3,
+"ruolo": "da_verificare",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "padigitale-2026",
+"titolo": "PA Digitale 2026 — avvisi per la digitalizzazione dei comuni",
+"ente": "Dipartimento per la Trasformazione Digitale",
+"oggetto": "Programma con avvisi multipli e ricorrenti (SUAP, SUE, piattaforme digitali) per la digitalizzazione dei servizi comunali; alcuni avvisi pubblicati a luglio 2026.",
+"area_testo": "Nazionale (comuni)",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Comuni.",
+"importo": "Variabile per singolo avviso — non riepilogabile in un unico importo",
+"stato": "aperto",
+"scadenza": null,
+"scadenza_testo": "Nessuna scadenza unica (avvisi multipli ricorrenti — verificare portale)",
+"giorni": null,
+"checklist": [
+"Consultare elenco avvisi attivi su padigitale2026.gov.it/enti/comuni",
+"Verificare requisiti tecnici specifici per ciascun avviso"
+],
+"note": "Non è un bando singolo ma un programma con più avvisi ricorrenti: non è stato possibile estrarre scadenze puntuali aggiornate. Area di forte interesse per assistenza tecnico-amministrativa ai comuni — richiede monitoraggio dedicato del portale.",
+"fonte": "Ricerca mirata PNRR/regionali",
+"link": "https://padigitale2026.gov.it/enti/comuni",
+"tag": [
+"pa-digitale",
+"immobili-pubblici"
+],
+"punteggio": 3,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "sicilia-enti-locali",
+"titolo": "\"Sicilia che piace\" 2026 — Enti Locali",
+"ente": "Regione Siciliana",
+"oggetto": "Contributi regionali per iniziative di promozione turistico-culturale del territorio siciliano promosse da enti locali.",
+"area_testo": "Sicilia",
+"regioni": [
+"Sicilia"
+],
+"beneficiari": "Comuni ed enti locali siciliani.",
+"importo": "Non specificato — verificare eventuale riapertura",
+"stato": "chiuso",
+"scadenza": "2026-03-09",
+"scadenza_testo": "9 mar 2026",
+"giorni": null,
+"checklist": [
+"Progetto di promozione turistico-culturale"
+],
+"note": "Bando chiuso (scaduto 09/03/2026): monitorare per eventuale nuova edizione annuale.",
+"fonte": "Ricerca mirata PNRR/regionali",
+"link": "https://www.regione.sicilia.it",
+"tag": [
+"musica-cultura"
+],
+"punteggio": 2,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cdp-premioinnovsociale2",
+"titolo": "Premio Innovazione Sociale 2026 — II edizione",
+"ente": "Fondazione CDP",
+"oggetto": "Premio per soluzioni innovative testate per l'inclusione sociale e lavorativa di soggetti fragili.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti non profit ETS iscritti RUNTS, Startup innovative a Vocazione Sociale (SIAVS).",
+"importo": "90.000 € + 45.000 € per categoria (3 categorie) + 90.000 € premio speciale AI",
+"stato": "chiuso",
+"scadenza": "2026-06-30",
+"scadenza_testo": "30 giu 2026",
+"giorni": null,
+"checklist": [
+"Iscrizione RUNTS o qualifica SIAVS",
+"Evidenza dei risultati della soluzione testata"
+],
+"note": "Bando chiuso (scaduto il 30/06/2026): monitorare il sito Fondazione CDP per un'eventuale III edizione, dato lo storico di riedizioni annuali.",
+"fonte": "Fondazione CDP",
+"link": "https://www.cdp.it/it/premio_innovazione_sociale_2.page",
+"tag": [
+"impresa-sociale",
+"terzo-settore-generico"
+],
+"punteggio": 2,
+"ruolo": "da_verificare",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "sicilia-associazioni-ets",
+"titolo": "\"Sicilia che piace\" 2026 — Associazioni/ETS (II finestra)",
+"ente": "Regione Siciliana",
+"oggetto": "Contributi regionali per iniziative di promozione turistico-culturale promosse da associazioni ed ETS siciliani.",
+"area_testo": "Sicilia",
+"regioni": [
+"Sicilia"
+],
+"beneficiari": "Associazioni ed ETS con sede in Sicilia.",
+"importo": "Non specificato — verificare eventuale riapertura",
+"stato": "chiuso",
+"scadenza": "2026-08-03",
+"scadenza_testo": "3 ago 2026",
+"giorni": null,
+"checklist": [
+"Iscrizione RUNTS/registro associazioni"
+],
+"note": "Bando chiuso (scaduto 03/08/2026): monitorare per eventuale nuova edizione.",
+"fonte": "Ricerca mirata PNRR/regionali",
+"link": "https://www.regione.sicilia.it",
+"tag": [
+"musica-cultura",
+"terzo-settore-generico"
+],
+"punteggio": 2,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "puglia-energiesociali",
+"titolo": "Puglia Energie Sociali",
+"ente": "Regione Puglia",
+"oggetto": "Finanzia progetti del Terzo Settore pugliese su innovazione sociale e comunità energetiche.",
+"area_testo": "Puglia",
+"regioni": [
+"Puglia"
+],
+"beneficiari": "Enti del Terzo Settore con sede in Puglia.",
+"importo": "Non specificato — verificare eventuale riapertura",
+"stato": "chiuso",
+"scadenza": "2026-09-10",
+"scadenza_testo": "10 set 2026",
+"giorni": null,
+"checklist": [
+"Iscrizione RUNTS"
+],
+"note": "Bando chiuso da pochi giorni (scaduto 10/09/2026): monitorare con priorità per eventuale riapertura imminente.",
+"fonte": "Ricerca mirata PNRR/regionali",
+"link": "https://www.regione.puglia.it",
+"tag": [
+"terzo-settore-generico",
+"ambiente-sostenibilita"
+],
+"punteggio": 2,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-circolo65",
+"titolo": "Bando \"Circolo 65\" — sport nella terza età",
+"ente": "Sport e Salute SpA",
+"oggetto": "Finanzia progetti che diffondono la pratica sportiva tra i 65 e i 99 anni con almeno 5 eventi (camminate, attività intergenerazionali) per il benessere psico-fisico degli anziani.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "ASD/SSD iscritte al RASD ed ETS sportivi RUNTS, in partenariato obbligatorio con almeno 2 soggetti (non solo ASD/SSD).",
+"importo": "Max 23.800 € a progetto (dotazione complessiva 500.000 €)",
+"stato": "chiuso",
+"scadenza": "2026-09-18",
+"scadenza_testo": "18 set 2026",
+"giorni": null,
+"checklist": [
+"Iscrizione RASD/RUNTS del capofila",
+"Accordo di partenariato con almeno 2 soggetti",
+"Piano attività 12 mesi"
+],
+"note": "Domanda su piattaforma Sport e Salute. Non finanzia interventi infrastrutturali.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/bando-circolo-65-per-promuovere-lo-sport-nella-terza-eta/",
+"tag": [
+"sport",
+"terzo-settore-generico"
+],
+"punteggio": 2,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-impattopiu",
+"titolo": "Crowdfunding Impatto+ 2026 — \"Costruire la Pace\"",
+"ente": "Banca Etica",
+"oggetto": "Sostiene campagne di crowdfunding dedicate a cultura di pace, accoglienza rifugiati e riconciliazione comunitaria, con contributo premiante in base alla raccolta ottenuta.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "ETS (RUNTS o non iscritti), cooperative sociali, imprese sociali e reti con sede in Italia.",
+"importo": "7.500–35.000 € (contributo 30% se raccolto ≥70% da pubblico, premio +5% al raggiungimento del target)",
+"stato": "aperto",
+"scadenza": "2026-09-21",
+"scadenza_testo": "21 set 2026",
+"giorni": 2,
+"checklist": [
+"Progetto di raccolta fondi su produzionidalbasso.com",
+"Piano di comunicazione campagna",
+"Budget di progetto entro feb. 2028"
+],
+"note": "Raccolta fondi prevista 30/11/2026-30/01/2027.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/bando-crowdfunding-impatto-2026-per-progetti-di-educazione-alla-pace/",
+"tag": [
+"diritti-umani-pace",
+"terzo-settore-generico"
+],
+"punteggio": 2,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "abruzzo-terzosettore",
+"titolo": "Avviso pubblico finanziamento progetti Terzo Settore — Regione Abruzzo",
+"ente": "Regione Abruzzo",
+"oggetto": "Finanzia progetti di ODV, APS e Fondazioni del Terzo Settore attivi sul territorio regionale abruzzese.",
+"area_testo": "Abruzzo",
+"regioni": [
+"Abruzzo"
+],
+"beneficiari": "ODV, APS, Fondazioni Terzo Settore iscritte RUNTS entro il 7/8/2026.",
+"importo": "Dotazione 660.000 €; per progetto 10.000-25.000 €, cofinanziamento minimo 10%",
+"stato": "aperto",
+"scadenza": "2026-09-28",
+"scadenza_testo": "28 set 2026",
+"giorni": 9,
+"checklist": [
+"Iscrizione RUNTS entro 7/8/2026",
+"Piano di cofinanziamento 10%"
+],
+"note": "Finestra molto stretta (apertura 21/09, chiusura 28/09/2026). Nessun link diretto univoco reperito: verificare su sportello digitale regione.abruzzo.it prima di proporsi.",
+"fonte": "Ricerca mirata PNRR/regionali",
+"link": "https://www.regione.abruzzo.it",
+"tag": [
+"terzo-settore-generico"
+],
+"punteggio": 2,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-ka2-formazioneprof",
+"titolo": "KA2 — Partenariati piccola scala formazione professionale (2ª scadenza)",
+"ente": "Commissione Europea (Erasmus+)",
+"oggetto": "Finanzia piccoli partenariati di cooperazione nel settore della formazione professionale.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2026-09-30",
+"scadenza_testo": "30 set 2026",
+"giorni": 11,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/ka-2-partenariati-di-piccola-scala-nel-settore-della-formazione-professionale-2-scadenza/",
+"tag": [
+"istruzione-formazione"
+],
+"punteggio": 2,
+"ruolo": "da_verificare",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-8x1000-apostolica",
+"titolo": "Richieste finanziamento 8x1000 Chiesa Apostolica 2026",
+"ente": "Chiesa Apostolica in Italia",
+"oggetto": "Contributi da fondi 8x1000 per progetti sociali e assistenziali.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2026-09-30",
+"scadenza_testo": "30 set 2026",
+"giorni": 11,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/richieste-di-finanziamento-allotto-per-mille-della-chiesa-apostolica-anno-2026/",
+"tag": [
+"terzo-settore-generico"
+],
+"punteggio": 2,
+"ruolo": "da_verificare",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-sprechialimentari",
+"titolo": "Prevenire gli sprechi alimentari",
+"ente": "Commissione Europea — HaDEA",
+"oggetto": "Finanzia progetti di prevenzione e riduzione dello spreco alimentare a livello locale.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti pubblici e organizzazioni no-profit.",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2026-10-10",
+"scadenza_testo": "10 ott 2026",
+"giorni": 21,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/prevenire-gli-sprechi-alimentari/",
+"tag": [
+"ambiente-sostenibilita"
+],
+"punteggio": 2,
+"ruolo": "da_verificare",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-festivalcori",
+"titolo": "Sostegno a festival, cori e bande musicali — 2026",
+"ente": "Ministero della Cultura",
+"oggetto": "Promuove musica popolare, coralità e bande musicali con particolare attenzione al coinvolgimento giovanile.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Associazioni nazionali/regionali, fondazioni di rilevanza nazionale, raggruppamenti di almeno 4 organismi (anche RTI con enti pubblici).",
+"importo": "Dotazione 1.500.000 €, nessun min/max indicato",
+"stato": "aperto",
+"scadenza": "2026-10-15",
+"scadenza_testo": "15 ott 2026",
+"giorni": 26,
+"checklist": [
+"Raggruppamento di almeno 4 organismi",
+"Rendicontazione a consuntivo",
+"Domanda su piattaforma FUSonline"
+],
+"note": "Domanda a consuntivo: spese già sostenute e documentate.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/sostegno-a-festival-cori-e-bande-musicali-anno-2025-copy/",
+"tag": [
+"musica-cultura"
+],
+"punteggio": 2,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-notecomunita",
+"titolo": "\"Note di comunità\" — esperienze musicali di quartiere",
+"ente": "Impresa sociale Con i Bambini",
+"oggetto": "Sostiene la pratica musicale d'insieme per minori 6-18 anni in aree di esclusione sociale, in un singolo comune capoluogo (esclusi capoluoghi regionali).",
+"area_testo": "Nazionale (comuni capoluogo non regionali)",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Partenariati di almeno 3 soggetti, capofila ETS RUNTS ≥2 anni + altro ETS + ente musicale.",
+"importo": "250.000–400.000 €, cofinanziamento minimo 10% (dotazione 5.000.000 €)",
+"stato": "aperto",
+"scadenza": "2026-10-16",
+"scadenza_testo": "16 ott 2026",
+"giorni": 27,
+"checklist": [
+"Partenariato su piattaforma Chàiros",
+"Almeno 65% risorse a ETS",
+"Piano di cofinanziamento"
+],
+"note": "",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/bando-note-di-comunita-esperienze-musicali-di-quartiere/",
+"tag": [
+"musica-cultura",
+"poverta-educativa"
+],
+"punteggio": 2,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-stereotipi",
+"titolo": "\"Progetti oltre gli stereotipi\" — giustizia di genere",
+"ente": "AIDOS",
+"oggetto": "Rafforza associazioni piccole e medie impegnate su giustizia di genere, prospettiva transfemminista e diritti LGBTQIA+.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Associazioni/ETS senza scopo di lucro attive in Italia.",
+"importo": "Tipo A: 20.000–30.000 € (bilancio 25-200mila €); Tipo B: 5.000 € (bilancio <25mila €), copertura 100%",
+"stato": "aperto",
+"scadenza": "2026-10-25",
+"scadenza_testo": "25 ott 2026",
+"giorni": 36,
+"checklist": [
+"Bilancio ultimo esercizio",
+"Invio via email a AIDOS",
+"Progetto 12-24 mesi"
+],
+"note": "Invio a ilaria.bertocchini@aidos.it.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/progetti-oltre-gli-stereotipi-bando-per-iniziative-per-la-giustizia-di-genere/",
+"tag": [
+"parita-di-genere"
+],
+"punteggio": 2,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-agricolturasociale",
+"titolo": "Coltiviamo Agricoltura Sociale — edizione 2026",
+"ente": "Confagricoltura",
+"oggetto": "Premia progetti di agricoltura sociale per gruppi svantaggiati, con una sezione speciale dedicata alla gestione e riqualificazione del verde pubblico.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Sezione ordinaria: imprenditori agricoli/cooperative sociali; sezione speciale: anche ETS non agricoli (rilevante per verde pubblico comunale).",
+"importo": "3 premi da 40.000 € (ordinaria) + 1 premio da 20.000 € (speciale)",
+"stato": "aperto",
+"scadenza": "2026-10-26",
+"scadenza_testo": "26 ott 2026",
+"giorni": 37,
+"checklist": [
+"Doppio invio obbligatorio (email + raccomandata cartacea)",
+"Progetto di realizzazione entro 31/10/2027"
+],
+"note": "Attenzione: invio cartaceo obbligatorio pena esclusione, oltre a quello via email.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/coltiviamo-agricoltura-sociale-edizione-2026/",
+"tag": [
+"agricoltura-sociale",
+"immobili-pubblici"
+],
+"punteggio": 2,
+"ruolo": "da_verificare",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-daphne",
+"titolo": "DAPHNE 2026 — violenza di genere e minori",
+"ente": "Commissione Europea — DG Giustizia",
+"oggetto": "Finanzia progetti di prevenzione e contrasto alla violenza di genere e verso i minori.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "ETS, enti pubblici e organizzazioni no-profit europee.",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2026-11-05",
+"scadenza_testo": "5 nov 2026",
+"giorni": 47,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/daphne-2026-prevenire-e-combattere-la-violenza-di-genere-e-nei-confronti-dei-minori/",
+"tag": [
+"parita-di-genere"
+],
+"punteggio": 2,
+"ruolo": "da_verificare",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-intraprenderesociale",
+"titolo": "Intraprendere nel sociale 2026",
+"ente": "Fondazione Cattolica",
+"oggetto": "Sostiene progetti auto-sostenibili su anziani, disabilità, famiglia e nuove povertà.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Associazioni ed enti privati senza fini di lucro attivi in Italia.",
+"importo": "Max 30.000 €, non oltre il 50% dei costi",
+"stato": "aperto",
+"scadenza": "2026-11-13",
+"scadenza_testo": "13 nov 2026",
+"giorni": 55,
+"checklist": [
+"Colloquio telefonico preliminare obbligatorio",
+"Piano di sostenibilità economica del progetto"
+],
+"note": "Esclusi immobili/attrezzature salvo importi minimi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/bando-intraprendere-nel-sociale-2026/",
+"tag": [
+"terzo-settore-generico",
+"disabilita"
+],
+"punteggio": 2,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "lom-manifestazioni2026",
+"titolo": "Contributi 2026 per iniziative e manifestazioni di rilievo regionale",
+"ente": "Regione Lombardia (tramite CSV Lombardia)",
+"oggetto": "Contributi per l'organizzazione di iniziative e manifestazioni di rilievo regionale promosse da enti del terzo settore lombardi.",
+"area_testo": "Lombardia",
+"regioni": [
+"Lombardia"
+],
+"beneficiari": "Enti del terzo settore lombardi.",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2026-11-16",
+"scadenza_testo": "16 nov 2026",
+"giorni": 58,
+"checklist": [
+"Verificare requisiti di rilievo regionale della manifestazione",
+"Piano organizzativo dell'iniziativa"
+],
+"note": "",
+"fonte": "CSV Lombardia",
+"link": "https://www.csvlombardia.it/lombardia/post/anno-2026-contributi-per-iniziative-e-manifestazioni-di-rilievo-regionale-scade-il-16-novembre-2026/",
+"tag": [
+"musica-cultura",
+"terzo-settore-generico"
+],
+"punteggio": 2,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-copower",
+"titolo": "Bando CoPower — violenza di genere (prima fase)",
+"ente": "Oxfam",
+"oggetto": "Sostiene progetti di contrasto alla violenza di genere gestiti da reti di associazioni.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2026-11-23",
+"scadenza_testo": "23 nov 2026",
+"giorni": 65,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/bando-copower-per-contrastare-la-violenza-di-genere-prima-fase/",
+"tag": [
+"parita-di-genere"
+],
+"punteggio": 2,
+"ruolo": "da_verificare",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-povertaeducativa5ed",
+"titolo": "V edizione — cofinanziamento contrasto povertà educativa",
+"ente": "Impresa sociale Con i Bambini",
+"oggetto": "Sostiene interventi congiunti di contrasto alla povertà educativa minorile (0-17 anni) in collaborazione con altri enti erogatori.",
+"area_testo": "Nazionale (40% multiregionale, 60% regionale)",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "ETS capofila con partnership di almeno 3 soggetti (min. 2 ETS); enti pubblici non ammessi come cofinanziatori.",
+"importo": "200.000–1.500.000 € (fino al 50% delle risorse), dotazione 10.000.000 €",
+"stato": "aperto",
+"scadenza": "2027-06-30",
+"scadenza_testo": "30 giu 2027",
+"giorni": 284,
+"checklist": [
+"Partenariato su piattaforma Chàiros",
+"Individuazione co-finanziatore",
+"Piano di progetto 36-48 mesi"
+],
+"note": "Procedura in due fasi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/v-edizione-iniziative-in-cofinanziamento-a-contrasto-della-poverta-educativa/",
+"tag": [
+"poverta-educativa",
+"dispersione-scolastica"
+],
+"punteggio": 2,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-fondobeneficenza-isp",
+"titolo": "Linee Guida 2025-2026 Fondo beneficenza Intesa Sanpaolo",
+"ente": "Gruppo Intesa Sanpaolo",
+"oggetto": "Contributi a sportello per iniziative di utilità sociale segnalate al Fondo di beneficenza del Gruppo.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": null,
+"scadenza_testo": "Nessuna scadenza (sportello)",
+"giorni": null,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/linee-guida-2025-2026-per-le-richieste-di-contributo-al-fondo-di-beneficenza-di-intesa-sanpaolo/",
+"tag": [
+"terzo-settore-generico"
+],
+"punteggio": 2,
+"ruolo": "da_verificare",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-culturacresce",
+"titolo": "\"Cultura Cresce\" — imprese culturali/creative",
+"ente": "Ministero della Cultura",
+"oggetto": "Contributi a sportello per lo sviluppo di imprese culturali e creative.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": null,
+"scadenza_testo": "Nessuna scadenza (sportello)",
+"giorni": null,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/cultura-cresce-contributi-per-lo-sviluppo-delle-imprese-culturali-e-creative/",
+"tag": [
+"musica-cultura",
+"impresa-sociale"
+],
+"punteggio": 2,
+"ruolo": "da_verificare",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-sanzeno",
+"titolo": "Contributi negli ambiti educazione e lavoro",
+"ente": "Fondazione San Zeno",
+"oggetto": "Contributi a sportello per progetti su educazione e inserimento lavorativo.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": null,
+"scadenza_testo": "Nessuna scadenza (sportello)",
+"giorni": null,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/contributi-negli-ambiti-educazione-e-lavoro/",
+"tag": [
+"poverta-educativa",
+"istruzione-formazione"
+],
+"punteggio": 2,
+"ruolo": "da_verificare",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-enelcuore",
+"titolo": "Progetti a Enel Cuore (nuova piattaforma)",
+"ente": "Enel Cuore",
+"oggetto": "Contributi a sportello per progetti sociali segnalati tramite la piattaforma Enel Cuore Onlus.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": null,
+"scadenza_testo": "Nessuna scadenza (sportello)",
+"giorni": null,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/presentazione-di-progetti-a-enel-cuore-online-la-nuova-piattaforma/",
+"tag": [
+"terzo-settore-generico"
+],
+"punteggio": 2,
+"ruolo": "da_verificare",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-realefoundation",
+"titolo": "Contributi di Reale Foundation",
+"ente": "Reale Foundation",
+"oggetto": "Contributi a sportello per progetti su welfare, ambiente e cultura assicurativa.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": null,
+"scadenza_testo": "Nessuna scadenza (sportello)",
+"giorni": null,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/contributi-di-reale-foundation-2/",
+"tag": [
+"terzo-settore-generico"
+],
+"punteggio": 2,
+"ruolo": "da_verificare",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-terzopilastro",
+"titolo": "Sportello della solidarietà",
+"ente": "Fondazione Terzo Pilastro",
+"oggetto": "Contributi a sportello permanente per iniziative di solidarietà sociale.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": null,
+"scadenza_testo": "Nessuna scadenza (sportello)",
+"giorni": null,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/bando-aperto-sportello-della-solidarieta/",
+"tag": [
+"terzo-settore-generico",
+"poverta-marginalita"
+],
+"punteggio": 2,
+"ruolo": "da_verificare",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "pnrr-m5c2-disabilita",
+"titolo": "PNRR Missione 5 C2 — Percorsi di autonomia per persone con disabilità (Investimento 1.2)",
+"ente": "Ambiti Territoriali Sociali (attuazione locale)",
+"oggetto": "Finanzia percorsi di autonomia e vita indipendente per persone con disabilità, tramite avvisi di co-progettazione gestiti a livello di singoli ambiti territoriali/distretti sociosanitari.",
+"area_testo": "Frammentato per ambito territoriale (esempio verificato: Consorzio Sociale BR1, Puglia)",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Partenariati tra enti pubblici (ambiti territoriali/comuni capofila) ed enti del Terzo Settore, tramite co-progettazione.",
+"importo": "Variabile per singolo avviso territoriale — non riepilogabile",
+"stato": "aperto",
+"scadenza": null,
+"scadenza_testo": "Nessuna scadenza unica (avvisi frammentati su base locale)",
+"giorni": null,
+"checklist": [
+"Individuare l'ambito territoriale/distretto sociosanitario di riferimento",
+"Verificare avviso locale di co-progettazione attivo",
+"Costituire partenariato pubblico-privato ex art. 55 CTS"
+],
+"note": "Non esiste un bando unico nazionale: gli avvisi sono pubblicati dai singoli ambiti territoriali. Richiede monitoraggio mirato sui siti dei consorzi/ambiti sociali locali di interesse per lo studio.",
+"fonte": "Ricerca mirata PNRR/regionali",
+"link": "https://www.lavoro.gov.it",
+"tag": [
+"disabilita",
+"poverta-marginalita"
+],
+"punteggio": 2,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "veneto-odvapsfondazioni",
+"titolo": "Bando ODV/APS/Fondazioni",
+"ente": "Regione Veneto",
+"oggetto": "Finanzia progetti di ODV, APS e Fondazioni del Terzo Settore venete.",
+"area_testo": "Veneto",
+"regioni": [
+"Veneto"
+],
+"beneficiari": "ODV, APS, Fondazioni Terzo Settore RUNTS con sede in Veneto.",
+"importo": "Non specificato",
+"stato": "chiuso",
+"scadenza": "2026-01-01",
+"scadenza_testo": "Chiuso — esiti già pubblicati (maggio 2026)",
+"giorni": null,
+"checklist": [
+"Iscrizione RUNTS"
+],
+"note": "Esiti pubblicati a maggio 2026; nessuna nuova edizione 2026 individuata al momento. Monitorare per riapertura.",
+"fonte": "Ricerca mirata PNRR/regionali",
+"link": "https://www.regione.veneto.it",
+"tag": [
+"terzo-settore-generico"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Bando chiuso con esiti già pubblicati e nessun segnale di nuova edizione: bassa priorità operativa immediata.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "er-rilevanzalocale2627",
+"titolo": "Bando progetti di rilevanza locale 2026/2027",
+"ente": "Regione Emilia-Romagna",
+"oggetto": "Finanzia progetti del Terzo Settore emiliano-romagnolo di rilevanza locale su temi sociali.",
+"area_testo": "Emilia-Romagna",
+"regioni": [
+"Emilia-Romagna"
+],
+"beneficiari": "Enti del Terzo Settore con sede in Emilia-Romagna.",
+"importo": "Non specificato — verificare eventuale riapertura",
+"stato": "chiuso",
+"scadenza": "2026-03-13",
+"scadenza_testo": "13 mar 2026",
+"giorni": null,
+"checklist": [
+"Iscrizione RUNTS"
+],
+"note": "Bando chiuso (scaduto 13/03/2026): monitorare per l'annualità successiva.",
+"fonte": "Ricerca mirata PNRR/regionali",
+"link": "https://www.regione.emilia-romagna.it",
+"tag": [
+"terzo-settore-generico"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Bando chiuso, con poche informazioni di dettaglio raccolte in questo ciclo: mantenuto a bassa priorità operativa immediata.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "fvg-terzosettore2526",
+"titolo": "Avviso Terzo Settore Fondi 2025-2026",
+"ente": "Regione Friuli-Venezia Giulia",
+"oggetto": "Finanzia progetti di ODV, APS e Fondazioni del Terzo Settore attivi sul territorio regionale.",
+"area_testo": "Friuli-Venezia Giulia",
+"regioni": [
+"Friuli-Venezia Giulia"
+],
+"beneficiari": "ODV, APS, Fondazioni Terzo Settore RUNTS.",
+"importo": "Non specificato — verificare eventuale riapertura",
+"stato": "chiuso",
+"scadenza": "2026-06-05",
+"scadenza_testo": "5 giu 2026",
+"giorni": null,
+"checklist": [
+"Iscrizione RUNTS"
+],
+"note": "Bando chiuso (scaduto 05/06/2026): monitorare per eventuale nuova annualità.",
+"fonte": "Ricerca mirata PNRR/regionali",
+"link": "https://www.regione.fvg.it",
+"tag": [
+"terzo-settore-generico"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Bando chiuso, informazioni di dettaglio limitate raccolte in questo ciclo: mantenuto in monitoraggio a bassa priorità operativa immediata.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-cinema-nazionale",
+"titolo": "Piano Nazionale \"Cinema e immagini per la scuola\" — progetti di rilevanza nazionale",
+"ente": "MiC / MIM",
+"oggetto": "Progetti di educazione all'audiovisivo e al cinema nelle scuole, di respiro nazionale.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "chiuso",
+"scadenza": "2026-09-18",
+"scadenza_testo": "18 set 2026",
+"giorni": null,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/piano-nazionale-cinema-e-immagini-per-la-scuola-progetti-di-rilevanza-nazionale/",
+"tag": [
+"musica-cultura"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Rivolto principalmente a scuole/reti nazionali; margini stretti per assistenza tecnica a comuni o ETS.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-cinema-territoriale",
+"titolo": "Piano Nazionale \"Cinema e immagini per la scuola\" — progetti di rilevanza territoriale",
+"ente": "MiC / MIM",
+"oggetto": "Progetti di educazione all'audiovisivo e al cinema nelle scuole, a scala territoriale.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "chiuso",
+"scadenza": "2026-09-18",
+"scadenza_testo": "18 set 2026",
+"giorni": null,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/piano-nazionale-cinema-e-immagini-per-la-scuola-progetti-di-rilevanza-territoriale/",
+"tag": [
+"musica-cultura"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Target principalmente scolastico; utilità per lo studio tecnico marginale.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-cinema-scuole",
+"titolo": "Piano Nazionale \"Cinema e immagini per la scuola\" — Bando Scuole",
+"ente": "MiC / MIM",
+"oggetto": "Contributi diretti alle istituzioni scolastiche per progetti di cinema ed educazione all'immagine.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "chiuso",
+"scadenza": "2026-09-18",
+"scadenza_testo": "18 set 2026",
+"giorni": null,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/piano-nazionale-cinema-e-immagini-per-la-scuola-bando-scuole/",
+"tag": [
+"musica-cultura"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Beneficiario è la scuola statale, non comuni/ETS: fuori dal profilo primario.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-youthstartup",
+"titolo": "Youth Start-Up Challenge 2026",
+"ente": "Commissione Europea — DG GROW",
+"oggetto": "Concorso per giovani imprenditori con idee di impresa innovative.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2026-09-20",
+"scadenza_testo": "20 set 2026",
+"giorni": 1,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/youth-start-up-challenge-2026-concorso-per-giovani-imprenditori/",
+"tag": [
+"giovani"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Rivolto a singoli giovani imprenditori, non a comuni/ETS/associazioni: pertinenza tematica bassa per il profilo assistito.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-ka1-gioventu",
+"titolo": "KA1 — Accreditamento nel settore della Gioventù",
+"ente": "Commissione Europea (Erasmus+)",
+"oggetto": "Accreditamento pluriennale per organizzazioni attive nella mobilità giovanile Erasmus+.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2026-09-29",
+"scadenza_testo": "29 set 2026",
+"giorni": 10,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/ka-1-accreditamento-nel-settore-della-gioventu/",
+"tag": [
+"giovani",
+"istruzione-formazione"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Procedura di accreditamento Erasmus+, non un bando a progetto: pertinenza operativa bassa per assistenza documentale una tantum.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-ka1-formazione",
+"titolo": "KA1 — Accreditamento formazione professionale/istruzione/educazione adulti",
+"ente": "Commissione Europea (Erasmus+)",
+"oggetto": "Accreditamento pluriennale Erasmus+ per organizzazioni di formazione professionale e istruzione adulti.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2026-09-29",
+"scadenza_testo": "29 set 2026",
+"giorni": 10,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/ka1-accreditamento-nei-settori-della-formazione-professionale-dellistruzione-scolastica-e-delleducazione-degli-adulti-2/",
+"tag": [
+"istruzione-formazione"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Accreditamento Erasmus+, non bando a progetto: bassa pertinenza operativa immediata.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-dwf-foundation",
+"titolo": "Richieste di contributo DWF Foundation (3ª scadenza 2026)",
+"ente": "DWF Foundation",
+"oggetto": "Contributi a progetti sociali di piccola/media entità.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2026-09-30",
+"scadenza_testo": "30 set 2026",
+"giorni": 11,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/richieste-di-contributo-alla-dwf-foundation-3-scadenza-2026/",
+"tag": [
+"terzo-settore-generico"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Informazioni limitate reperite in fase di scansione; importi tipicamente contenuti e destinati a piccole realtà auto-gestite.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-ka1-mobilita2",
+"titolo": "KA1 — Mobilità nel settore della Gioventù (2ª scadenza)",
+"ente": "Commissione Europea (Erasmus+)",
+"oggetto": "Finanzia progetti di mobilità transnazionale per operatori e gruppi giovanili.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2026-10-01",
+"scadenza_testo": "1 ott 2026",
+"giorni": 12,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/ka1-mobilita-nel-settore-della-gioventu-2-scadenza-4/",
+"tag": [
+"giovani"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Bando Erasmus+ a gestione diretta dell'ente promotore, documentazione gestita su piattaforma UE dedicata con margini stretti per assistenza esterna.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-ka1-partecipazione2",
+"titolo": "KA1 — Attività di partecipazione dei giovani (2ª scadenza)",
+"ente": "Commissione Europea (Erasmus+)",
+"oggetto": "Sostiene attività di partecipazione civica e democratica dei giovani.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2026-10-01",
+"scadenza_testo": "1 ott 2026",
+"giorni": 12,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/ka1-attivita-di-partecipazione-dei-giovani-2-scadenza-5/",
+"tag": [
+"giovani"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Bando Erasmus+ a gestione diretta, margini stretti per assistenza tecnica esterna.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-volontariato-ces2",
+"titolo": "Progetti di volontariato (2ª scadenza, Corpo europeo di Solidarietà)",
+"ente": "Commissione Europea",
+"oggetto": "Finanzia progetti di volontariato transnazionale nell'ambito del Corpo europeo di Solidarietà.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2026-10-01",
+"scadenza_testo": "1 ott 2026",
+"giorni": 12,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/progetti-di-volontariato-2-scadenza-5/",
+"tag": [
+"volontariato",
+"giovani"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Programma UE a gestione diretta con procedure specifiche del Corpo europeo di Solidarietà, poco compatibile con supporto tecnico esterno standard.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-solidarieta-ces2",
+"titolo": "Progetti di solidarietà (2ª scadenza, Corpo europeo di Solidarietà)",
+"ente": "Commissione Europea",
+"oggetto": "Finanzia iniziative locali di solidarietà promosse da giovani.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2026-10-01",
+"scadenza_testo": "1 ott 2026",
+"giorni": 12,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/progetti-di-solidarieta-2-scadenza-4/",
+"tag": [
+"volontariato",
+"giovani"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Iniziative gestite direttamente da gruppi informali di giovani: pertinenza bassa per assistenza tecnica strutturata.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-performeurope",
+"titolo": "Perform Europe 2026-2028",
+"ente": "Commissione Europea (Europa Creativa)",
+"oggetto": "Sostiene la mobilità internazionale delle arti performative in Europa.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2026-10-22",
+"scadenza_testo": "22 ott 2026",
+"giorni": 33,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/perform-europe-2026-2028-mobilita-internazionale-delle-arti-performative/",
+"tag": [
+"europa-creativa",
+"musica-cultura"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Rivolto a compagnie/organizzazioni artistiche per tournée internazionali: fuori dal profilo comuni/ETS generalista.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-premiomattei",
+"titolo": "Premio Mattei per la cooperazione culturale Italia-Africa",
+"ente": "Ministero della Cultura",
+"oggetto": "Premio per progetti di cooperazione culturale tra Italia e Paesi africani.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2026-10-31",
+"scadenza_testo": "31 ott 2026",
+"giorni": 42,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/premio-mattei-per-la-cooperazione-culturale-italia-africa/",
+"tag": [
+"musica-cultura",
+"diritti-umani-pace"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Premio a consuntivo per iniziative già realizzate, ambito di nicchia (cooperazione Italia-Africa).",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-marchioqualita-umanitari",
+"titolo": "Marchio di Qualità per il volontariato — aiuti umanitari",
+"ente": "Commissione Europea",
+"oggetto": "Certificazione di qualità per organizzazioni attive nel volontariato umanitario internazionale.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2027-09-22",
+"scadenza_testo": "22 set 2027",
+"giorni": 368,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/marchio-di-qualita-per-il-volontariato-nel-settore-degli-aiuti-umanitari-2/",
+"tag": [
+"volontariato",
+"diritti-umani-pace"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "È una certificazione/accreditamento, non un finanziamento diretto a progetti: non richiede assistenza documentale tipo bando.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-zmina",
+"titolo": "ZMINA-Resilience — cultura Ucraina/Europa Creativa",
+"ente": "Commissione Europea (Europa Creativa)",
+"oggetto": "Sostiene progetti culturali co-creati tra operatori ucraini e organizzazioni di Paesi Europa Creativa.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2027-10-14",
+"scadenza_testo": "14 ott 2027",
+"giorni": 390,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/zmina-resilience-progetti-culturali-co-creati-tra-ucraina-e-paesi-europa-creativa/",
+"tag": [
+"europa-creativa",
+"diritti-umani-pace"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Ambito molto specifico (cooperazione culturale con operatori ucraini), poco ricorrente per il profilo comuni/ETS generalista.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-marchioqualita-gen",
+"titolo": "Marchio di Qualità per il volontariato",
+"ente": "Commissione Europea",
+"oggetto": "Certificazione di qualità generale per organizzazioni di volontariato attive su programmi UE.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": "2027-12-31",
+"scadenza_testo": "31 dic 2027",
+"giorni": 468,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/marchio-di-qualita-per-il-volontariato-2/",
+"tag": [
+"volontariato"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Accreditamento/certificazione, non erogazione di un contributo a progetto.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-internetfreedom",
+"titolo": "Internet Freedom Fund",
+"ente": "Open Technology Fund",
+"oggetto": "Sostiene tecnologie e progetti a difesa della libertà di accesso a internet nel mondo.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": null,
+"scadenza_testo": "Nessuna scadenza (sportello)",
+"giorni": null,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/internet-freedom-fund/",
+"tag": [
+"diritti-umani-pace",
+"inclusione-digitale"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Ambito specialistico (tecnologie anti-censura), poco allineato al profilo comuni/ETS italiani generalisti.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-caritas-microprogetti",
+"titolo": "MicroProgetti di sviluppo Caritas",
+"ente": "Caritas Italiana",
+"oggetto": "Finanzia micro-progetti di sviluppo locale e cooperazione, generalmente di piccola entità.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": null,
+"scadenza_testo": "Nessuna scadenza (sportello)",
+"giorni": null,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/presentazione-di-microprogetti-di-sviluppo-alla-caritas/",
+"tag": [
+"poverta-marginalita",
+"terzo-settore-generico"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Tipicamente micro-progetti auto-gestiti da piccole realtà parrocchiali/diocesane, importi contenuti e iter semplificato.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-peacefirst",
+"titolo": "The Peace First Challenge",
+"ente": "Peace First",
+"oggetto": "Micro-progetti ideati da giovani per combattere ingiustizie sociali nelle proprie comunità.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": null,
+"scadenza_testo": "Nessuna scadenza (sportello)",
+"giorni": null,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/the-peace-first-challenge-micro-progetti-dei-giovani-per-combattere-le-ingiustizie/",
+"tag": [
+"diritti-umani-pace",
+"giovani"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Micro-grant auto-gestiti da singoli giovani/piccoli gruppi informali, senza necessità di assistenza tecnica strutturata.",
+"aggiornato_il": "2026-09-19"
+},
+{
+"id": "cn-pollination",
+"titolo": "A Grant Everyday",
+"ente": "Pollination Project",
+"oggetto": "Micro-grant giornalieri per piccole iniziative di cambiamento sociale.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
+"importo": "Non specificato — verificare sulla pagina del bando",
+"stato": "aperto",
+"scadenza": null,
+"scadenza_testo": "Nessuna scadenza (sportello)",
+"giorni": null,
+"checklist": [
+"Verificare requisiti di ammissibilità sulla pagina del bando",
+"Verificare modalità e piattaforma di invio della domanda"
+],
+"note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+"fonte": "Infobandi CSVnet",
+"link": "https://infobandi.csvnet.it/a-grant-everyday/",
+"tag": [
+"terzo-settore-generico"
+],
+"punteggio": 1,
+"ruolo": "da_verificare",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Micro-grant di importo molto contenuto, rivolti a piccoli gruppi informali: non richiedono assistenza tecnica strutturata.",
+"aggiornato_il": "2026-09-19"
+}
+]
