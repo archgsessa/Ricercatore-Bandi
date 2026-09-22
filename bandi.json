@@ -13,7 +13,7 @@
 "stato": "aperto",
 "scadenza": "2026-09-29",
 "scadenza_testo": "29 set 2026",
-"giorni": 10,
+"giorni": 7,
 "checklist": [
 "Delibera di adesione del/dei Comune/i",
 "Eventuale accordo di forma associata tra comuni",
@@ -30,7 +30,7 @@
 "ruolo": "assistenza_rup",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-tratta",
@@ -46,7 +46,7 @@
 "stato": "aperto",
 "scadenza": "2026-09-30",
 "scadenza_testo": "30 set 2026",
-"giorni": 11,
+"giorni": 8,
 "checklist": [
 "Convenzione con enti pubblici (se privato)",
 "Progetto di presa in carico 18 mesi",
@@ -63,7 +63,7 @@
 "ruolo": "assistenza_rup",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-volontariato2026",
@@ -85,7 +85,7 @@
 "stato": "aperto",
 "scadenza": "2026-09-30",
 "scadenza_testo": "30 set 2026",
-"giorni": 11,
+"giorni": 8,
 "checklist": [
 "Iscrizione RUNTS ODV/APS",
 "Dichiarazione mai finanziati in precedenza",
@@ -102,7 +102,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-scuolafuturo4",
@@ -118,7 +118,7 @@
 "stato": "aperto",
 "scadenza": "2026-09-30",
 "scadenza_testo": "30 set 2026",
-"giorni": 11,
+"giorni": 8,
 "checklist": [
 "Lettera d'intenti (fase 1)",
 "Delibera di adesione della scuola pubblica partner",
@@ -135,7 +135,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "lazio-sicurezza-comune",
@@ -151,7 +151,7 @@
 "stato": "aperto",
 "scadenza": "2026-09-30",
 "scadenza_testo": "30 set 2026",
-"giorni": 11,
+"giorni": 8,
 "checklist": [
 "Progetto tecnico di videosorveglianza/riqualificazione",
 "Delibera comunale di adesione",
@@ -168,7 +168,7 @@
 "ruolo": "assistenza_rup",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "neb-2026",
@@ -184,7 +184,7 @@
 "stato": "aperto",
 "scadenza": "2026-09-30",
 "scadenza_testo": "30 set 2026",
-"giorni": 11,
+"giorni": 8,
 "checklist": [
 "Profilo su portale Funding & Tenders UE",
 "Partenariato multi-attore (comune + terzo settore)",
@@ -201,7 +201,7 @@
 "ruolo": "assistenza_rup",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-beniconfiscati26",
@@ -222,7 +222,7 @@
 "stato": "aperto",
 "scadenza": "2026-12-10",
 "scadenza_testo": "10 dic 2026",
-"giorni": 82,
+"giorni": 79,
 "checklist": [
 "Idea progettuale (fase 1) su Chàiros",
 "Bene assegnato da massimo 3 anni",
@@ -239,7 +239,7 @@
 "ruolo": "assistenza_rup",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "campania-rigenerazioneurbana",
@@ -270,7 +270,7 @@
 "ruolo": "assistenza_rup",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "casaitalia-piccolicomuni",
@@ -301,7 +301,7 @@
 "ruolo": "assistenza_rup",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cdp-ecosistemiculturali2025",
@@ -342,7 +342,7 @@
 "ruolo": "assistenza_rup",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "sport-periferie2026",
@@ -374,7 +374,7 @@
 "ruolo": "assistenza_rup",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "mic-piccolicomuni",
@@ -405,7 +405,7 @@
 "ruolo": "assistenza_rup",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-zenit",
@@ -438,7 +438,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-mense",
@@ -454,7 +454,7 @@
 "stato": "aperto",
 "scadenza": "2026-09-22",
 "scadenza_testo": "22 set 2026",
-"giorni": 3,
+"giorni": 0,
 "checklist": [
 "Modulistica richiesta via email a iniziative@fispo.it",
 "Descrizione del servizio (mensa o dormitorio)"
@@ -470,7 +470,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-secondaoccasione",
@@ -486,7 +486,7 @@
 "stato": "aperto",
 "scadenza": "2026-09-30",
 "scadenza_testo": "30 set 2026",
-"giorni": 11,
+"giorni": 8,
 "checklist": [
 "Partenariato ≥3 enti su piattaforma Chàiros",
 "Almeno 65% risorse gestite dal Terzo settore",
@@ -503,7 +503,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-8x1000statale",
@@ -519,7 +519,7 @@
 "stato": "aperto",
 "scadenza": "2026-09-30",
 "scadenza_testo": "30 set 2026",
-"giorni": 11,
+"giorni": 8,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -534,7 +534,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "scu-2026",
@@ -550,7 +550,7 @@
 "stato": "aperto",
 "scadenza": "2026-09-30",
 "scadenza_testo": "30 set 2026",
-"giorni": 11,
+"giorni": 8,
 "checklist": [
 "Accreditamento SCU dell'ente",
 "Progetto di programma di intervento",
@@ -567,7 +567,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-fami",
@@ -589,7 +589,7 @@
 "stato": "aperto",
 "scadenza": "2026-10-08",
 "scadenza_testo": "8 ott 2026",
-"giorni": 19,
+"giorni": 16,
 "checklist": [
 "Accesso SPID+PEC+firma digitale",
 "Accordo di partenariato con ente locale",
@@ -606,7 +606,7 @@
 "ruolo": "assistenza_rup",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-oratori",
@@ -622,7 +622,7 @@
 "stato": "aperto",
 "scadenza": "2026-10-16",
 "scadenza_testo": "16 ott 2026",
-"giorni": 27,
+"giorni": 24,
 "checklist": [
 "Titolo di disponibilità dell'immobile",
 "Progetto tecnico di realizzazione/riqualificazione",
@@ -639,7 +639,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "lom-terzosettore2628",
@@ -655,7 +655,7 @@
 "stato": "aperto",
 "scadenza": "2026-10-16",
 "scadenza_testo": "16 ott 2026",
-"giorni": 27,
+"giorni": 24,
 "checklist": [
 "Iscrizione RUNTS con sede in Lombardia",
 "Piano di cofinanziamento 20%",
@@ -671,7 +671,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-avviso2terzosettore",
@@ -687,7 +687,7 @@
 "stato": "aperto",
 "scadenza": "2026-10-22",
 "scadenza_testo": "22 ott 2026",
-"giorni": 33,
+"giorni": 30,
 "checklist": [
 "Accesso SPID su servizi.lavoro.gov.it",
 "Modello E su piattaforma Open Impact",
@@ -703,7 +703,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-utilitasociale-direttrici",
@@ -719,7 +719,7 @@
 "stato": "aperto",
 "scadenza": "2026-12-31",
 "scadenza_testo": "31 dic 2026",
-"giorni": 103,
+"giorni": 100,
 "checklist": [
 "Domanda a segreteria@fispo.it",
 "Descrizione della linea di intervento scelta"
@@ -736,7 +736,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-inclusionedigitale",
@@ -752,7 +752,7 @@
 "stato": "aperto",
 "scadenza": "2026-12-31",
 "scadenza_testo": "31 dic 2026",
-"giorni": 103,
+"giorni": 100,
 "checklist": [
 "Contatto preliminare su piattaforma Re@dy",
 "Progettazione di dettaglio (fase 2)",
@@ -769,7 +769,7 @@
 "ruolo": "assistenza_rup",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-infrastrutturazione-sud",
@@ -801,7 +801,7 @@
 "ruolo": "assistenza_rup",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "sc-albo-competenze",
@@ -833,7 +833,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "padigitale-2026",
@@ -865,7 +865,7 @@
 "ruolo": "assistenza_rup",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "sicilia-enti-locali",
@@ -895,7 +895,7 @@
 "ruolo": "assistenza_rup",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cdp-premioinnovsociale2",
@@ -927,7 +927,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "sicilia-associazioni-ets",
@@ -958,7 +958,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "puglia-energiesociali",
@@ -989,7 +989,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-circolo65",
@@ -1022,7 +1022,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-impattopiu",
@@ -1035,10 +1035,10 @@
 ],
 "beneficiari": "ETS (RUNTS o non iscritti), cooperative sociali, imprese sociali e reti con sede in Italia.",
 "importo": "7.500–35.000 € (contributo 30% se raccolto ≥70% da pubblico, premio +5% al raggiungimento del target)",
-"stato": "aperto",
+"stato": "chiuso",
 "scadenza": "2026-09-21",
 "scadenza_testo": "21 set 2026",
-"giorni": 2,
+"giorni": null,
 "checklist": [
 "Progetto di raccolta fondi su produzionidalbasso.com",
 "Piano di comunicazione campagna",
@@ -1055,7 +1055,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "abruzzo-terzosettore",
@@ -1071,7 +1071,7 @@
 "stato": "aperto",
 "scadenza": "2026-09-28",
 "scadenza_testo": "28 set 2026",
-"giorni": 9,
+"giorni": 6,
 "checklist": [
 "Iscrizione RUNTS entro 7/8/2026",
 "Piano di cofinanziamento 10%"
@@ -1086,7 +1086,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-ka2-formazioneprof",
@@ -1102,7 +1102,7 @@
 "stato": "aperto",
 "scadenza": "2026-09-30",
 "scadenza_testo": "30 set 2026",
-"giorni": 11,
+"giorni": 8,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -1117,7 +1117,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-8x1000-apostolica",
@@ -1133,7 +1133,7 @@
 "stato": "aperto",
 "scadenza": "2026-09-30",
 "scadenza_testo": "30 set 2026",
-"giorni": 11,
+"giorni": 8,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -1148,7 +1148,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-sprechialimentari",
@@ -1164,7 +1164,7 @@
 "stato": "aperto",
 "scadenza": "2026-10-10",
 "scadenza_testo": "10 ott 2026",
-"giorni": 21,
+"giorni": 18,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -1179,7 +1179,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-festivalcori",
@@ -1195,7 +1195,7 @@
 "stato": "aperto",
 "scadenza": "2026-10-15",
 "scadenza_testo": "15 ott 2026",
-"giorni": 26,
+"giorni": 23,
 "checklist": [
 "Raggruppamento di almeno 4 organismi",
 "Rendicontazione a consuntivo",
@@ -1211,7 +1211,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-notecomunita",
@@ -1227,7 +1227,7 @@
 "stato": "aperto",
 "scadenza": "2026-10-16",
 "scadenza_testo": "16 ott 2026",
-"giorni": 27,
+"giorni": 24,
 "checklist": [
 "Partenariato su piattaforma Chàiros",
 "Almeno 65% risorse a ETS",
@@ -1244,7 +1244,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-stereotipi",
@@ -1260,7 +1260,7 @@
 "stato": "aperto",
 "scadenza": "2026-10-25",
 "scadenza_testo": "25 ott 2026",
-"giorni": 36,
+"giorni": 33,
 "checklist": [
 "Bilancio ultimo esercizio",
 "Invio via email a AIDOS",
@@ -1276,7 +1276,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-agricolturasociale",
@@ -1292,7 +1292,7 @@
 "stato": "aperto",
 "scadenza": "2026-10-26",
 "scadenza_testo": "26 ott 2026",
-"giorni": 37,
+"giorni": 34,
 "checklist": [
 "Doppio invio obbligatorio (email + raccomandata cartacea)",
 "Progetto di realizzazione entro 31/10/2027"
@@ -1308,7 +1308,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-daphne",
@@ -1324,7 +1324,7 @@
 "stato": "aperto",
 "scadenza": "2026-11-05",
 "scadenza_testo": "5 nov 2026",
-"giorni": 47,
+"giorni": 44,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -1339,7 +1339,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-intraprenderesociale",
@@ -1355,7 +1355,7 @@
 "stato": "aperto",
 "scadenza": "2026-11-13",
 "scadenza_testo": "13 nov 2026",
-"giorni": 55,
+"giorni": 52,
 "checklist": [
 "Colloquio telefonico preliminare obbligatorio",
 "Piano di sostenibilità economica del progetto"
@@ -1371,7 +1371,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "lom-manifestazioni2026",
@@ -1387,7 +1387,7 @@
 "stato": "aperto",
 "scadenza": "2026-11-16",
 "scadenza_testo": "16 nov 2026",
-"giorni": 58,
+"giorni": 55,
 "checklist": [
 "Verificare requisiti di rilievo regionale della manifestazione",
 "Piano organizzativo dell'iniziativa"
@@ -1403,7 +1403,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-copower",
@@ -1419,7 +1419,7 @@
 "stato": "aperto",
 "scadenza": "2026-11-23",
 "scadenza_testo": "23 nov 2026",
-"giorni": 65,
+"giorni": 62,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -1434,7 +1434,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-povertaeducativa5ed",
@@ -1450,7 +1450,7 @@
 "stato": "aperto",
 "scadenza": "2027-06-30",
 "scadenza_testo": "30 giu 2027",
-"giorni": 284,
+"giorni": 281,
 "checklist": [
 "Partenariato su piattaforma Chàiros",
 "Individuazione co-finanziatore",
@@ -1467,7 +1467,7 @@
 "ruolo": "redazione_documentazione",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-fondobeneficenza-isp",
@@ -1498,7 +1498,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-culturacresce",
@@ -1530,7 +1530,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-sanzeno",
@@ -1562,7 +1562,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-enelcuore",
@@ -1593,7 +1593,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-realefoundation",
@@ -1624,7 +1624,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-terzopilastro",
@@ -1656,7 +1656,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "pnrr-m5c2-disabilita",
@@ -1689,7 +1689,7 @@
 "ruolo": "assistenza_rup",
 "pertinenza_bassa": false,
 "nota_pertinenza": "",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "veneto-odvapsfondazioni",
@@ -1719,7 +1719,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Bando chiuso con esiti già pubblicati e nessun segnale di nuova edizione: bassa priorità operativa immediata.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "er-rilevanzalocale2627",
@@ -1749,7 +1749,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Bando chiuso, con poche informazioni di dettaglio raccolte in questo ciclo: mantenuto a bassa priorità operativa immediata.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "fvg-terzosettore2526",
@@ -1779,7 +1779,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Bando chiuso, informazioni di dettaglio limitate raccolte in questo ciclo: mantenuto in monitoraggio a bassa priorità operativa immediata.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-cinema-nazionale",
@@ -1810,7 +1810,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Rivolto principalmente a scuole/reti nazionali; margini stretti per assistenza tecnica a comuni o ETS.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-cinema-territoriale",
@@ -1841,7 +1841,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Target principalmente scolastico; utilità per lo studio tecnico marginale.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-cinema-scuole",
@@ -1872,7 +1872,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Beneficiario è la scuola statale, non comuni/ETS: fuori dal profilo primario.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-youthstartup",
@@ -1885,10 +1885,10 @@
 ],
 "beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
 "importo": "Non specificato — verificare sulla pagina del bando",
-"stato": "aperto",
+"stato": "chiuso",
 "scadenza": "2026-09-20",
 "scadenza_testo": "20 set 2026",
-"giorni": 1,
+"giorni": null,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -1903,7 +1903,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Rivolto a singoli giovani imprenditori, non a comuni/ETS/associazioni: pertinenza tematica bassa per il profilo assistito.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-ka1-gioventu",
@@ -1919,7 +1919,7 @@
 "stato": "aperto",
 "scadenza": "2026-09-29",
 "scadenza_testo": "29 set 2026",
-"giorni": 10,
+"giorni": 7,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -1935,7 +1935,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Procedura di accreditamento Erasmus+, non un bando a progetto: pertinenza operativa bassa per assistenza documentale una tantum.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-ka1-formazione",
@@ -1951,7 +1951,7 @@
 "stato": "aperto",
 "scadenza": "2026-09-29",
 "scadenza_testo": "29 set 2026",
-"giorni": 10,
+"giorni": 7,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -1966,7 +1966,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Accreditamento Erasmus+, non bando a progetto: bassa pertinenza operativa immediata.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-dwf-foundation",
@@ -1982,7 +1982,7 @@
 "stato": "aperto",
 "scadenza": "2026-09-30",
 "scadenza_testo": "30 set 2026",
-"giorni": 11,
+"giorni": 8,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -1997,7 +1997,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Informazioni limitate reperite in fase di scansione; importi tipicamente contenuti e destinati a piccole realtà auto-gestite.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-ka1-mobilita2",
@@ -2013,7 +2013,7 @@
 "stato": "aperto",
 "scadenza": "2026-10-01",
 "scadenza_testo": "1 ott 2026",
-"giorni": 12,
+"giorni": 9,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -2028,7 +2028,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Bando Erasmus+ a gestione diretta dell'ente promotore, documentazione gestita su piattaforma UE dedicata con margini stretti per assistenza esterna.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-ka1-partecipazione2",
@@ -2044,7 +2044,7 @@
 "stato": "aperto",
 "scadenza": "2026-10-01",
 "scadenza_testo": "1 ott 2026",
-"giorni": 12,
+"giorni": 9,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -2059,7 +2059,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Bando Erasmus+ a gestione diretta, margini stretti per assistenza tecnica esterna.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-volontariato-ces2",
@@ -2075,7 +2075,7 @@
 "stato": "aperto",
 "scadenza": "2026-10-01",
 "scadenza_testo": "1 ott 2026",
-"giorni": 12,
+"giorni": 9,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -2091,7 +2091,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Programma UE a gestione diretta con procedure specifiche del Corpo europeo di Solidarietà, poco compatibile con supporto tecnico esterno standard.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-solidarieta-ces2",
@@ -2107,7 +2107,7 @@
 "stato": "aperto",
 "scadenza": "2026-10-01",
 "scadenza_testo": "1 ott 2026",
-"giorni": 12,
+"giorni": 9,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -2123,7 +2123,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Iniziative gestite direttamente da gruppi informali di giovani: pertinenza bassa per assistenza tecnica strutturata.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-performeurope",
@@ -2139,7 +2139,7 @@
 "stato": "aperto",
 "scadenza": "2026-10-22",
 "scadenza_testo": "22 ott 2026",
-"giorni": 33,
+"giorni": 30,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -2155,7 +2155,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Rivolto a compagnie/organizzazioni artistiche per tournée internazionali: fuori dal profilo comuni/ETS generalista.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-premiomattei",
@@ -2171,7 +2171,7 @@
 "stato": "aperto",
 "scadenza": "2026-10-31",
 "scadenza_testo": "31 ott 2026",
-"giorni": 42,
+"giorni": 39,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -2187,7 +2187,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Premio a consuntivo per iniziative già realizzate, ambito di nicchia (cooperazione Italia-Africa).",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-marchioqualita-umanitari",
@@ -2203,7 +2203,7 @@
 "stato": "aperto",
 "scadenza": "2027-09-22",
 "scadenza_testo": "22 set 2027",
-"giorni": 368,
+"giorni": 365,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -2219,7 +2219,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "È una certificazione/accreditamento, non un finanziamento diretto a progetti: non richiede assistenza documentale tipo bando.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-zmina",
@@ -2235,7 +2235,7 @@
 "stato": "aperto",
 "scadenza": "2027-10-14",
 "scadenza_testo": "14 ott 2027",
-"giorni": 390,
+"giorni": 387,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -2251,7 +2251,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Ambito molto specifico (cooperazione culturale con operatori ucraini), poco ricorrente per il profilo comuni/ETS generalista.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-marchioqualita-gen",
@@ -2267,7 +2267,7 @@
 "stato": "aperto",
 "scadenza": "2027-12-31",
 "scadenza_testo": "31 dic 2027",
-"giorni": 468,
+"giorni": 465,
 "checklist": [
 "Verificare requisiti di ammissibilità sulla pagina del bando",
 "Verificare modalità e piattaforma di invio della domanda"
@@ -2282,7 +2282,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Accreditamento/certificazione, non erogazione di un contributo a progetto.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-internetfreedom",
@@ -2314,7 +2314,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Ambito specialistico (tecnologie anti-censura), poco allineato al profilo comuni/ETS italiani generalisti.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-caritas-microprogetti",
@@ -2346,7 +2346,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Tipicamente micro-progetti auto-gestiti da piccole realtà parrocchiali/diocesane, importi contenuti e iter semplificato.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-peacefirst",
@@ -2378,7 +2378,7 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Micro-grant auto-gestiti da singoli giovani/piccoli gruppi informali, senza necessità di assistenza tecnica strutturata.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 },
 {
 "id": "cn-pollination",
@@ -2409,6 +2409,6 @@
 "ruolo": "da_verificare",
 "pertinenza_bassa": true,
 "nota_pertinenza": "Micro-grant di importo molto contenuto, rivolti a piccoli gruppi informali: non richiedono assistenza tecnica strutturata.",
-"aggiornato_il": "2026-09-19"
+"aggiornato_il": "2026-09-22"
 }
 ]
