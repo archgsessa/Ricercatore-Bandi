@@ -23,8 +23,8 @@
     --accent-soft: #FDE7D6;
     --accent-ink: #B8430A;
     --aperto: #2E8F5C; --aperto-bg: #E1F3E7;
-    --chiuso: #7C8478; --chiuso-bg: #EBEEE7;
-    --urgente: #D5372E; --urgente-bg: #FBE2DF;
+    --chiuso: #C0392B; --chiuso-bg: #FBE2DF;
+    --urgente: #C7740A; --urgente-bg: #FBEBD3;
     --bassa: #A17A2E; --bassa-bg: #F6EBD6;
     --font-display: 'Baloo 2', 'Segoe UI Rounded', ui-rounded, sans-serif;
     --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
@@ -87,7 +87,10 @@
   .export-row { display:flex; justify-content:flex-end; margin-top:6px; }
 
   .list { display:flex; flex-direction:column; gap:12px; margin-top:12px; }
-  .bando { background:var(--surface); border-radius:var(--radius-lg); padding:18px; box-shadow:var(--shadow-card); }
+  .bando { background:var(--surface); border-radius:var(--radius-lg); padding:18px; box-shadow:var(--shadow-card); border-left:4px solid var(--line); }
+  .bando:has(.tag.stato-aperto) { border-left-color:var(--aperto); }
+  .bando:has(.tag.urgente) { border-left-color:var(--urgente); }
+  .bando:has(.tag.stato-chiuso) { border-left-color:var(--chiuso); }
   .bando-head { display:flex; justify-content:space-between; align-items:center; gap:10px; margin-bottom:8px; }
   .bando-code { font-family:var(--font-sans); font-weight:700; font-size:11px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:0.04em; }
   .bando-priorita { display:flex; gap:3px; flex-shrink:0; }
