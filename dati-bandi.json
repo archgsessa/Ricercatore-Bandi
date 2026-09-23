@@ -2410,5 +2410,336 @@
 "pertinenza_bassa": true,
 "nota_pertinenza": "Micro-grant di importo molto contenuto, rivolti a piccoli gruppi informali: non richiedono assistenza tecnica strutturata.",
 "aggiornato_il": "2026-09-23"
+},
+{
+"id": "cultura-missione-comune2026",
+"titolo": "Cultura Missione Comune 2026",
+"ente": "Istituto per il Credito Sportivo e Culturale (ICSC) — con ANCI e Ministero della Cultura",
+"oggetto": "Mutui a tasso agevolato (abbattimento integrale degli interessi) per interventi di tutela, recupero e valorizzazione del patrimonio culturale degli enti territoriali.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Comuni, Unioni di Comuni, Città Metropolitane, Province, Regioni.",
+"importo": "Plafond 50 milioni di euro; da 2 a 6 milioni di euro per ente secondo tipologia/dimensione.",
+"scadenza": "2026-09-30",
+"checklist": [
+"Delibera dell'ente",
+"Progetto di intervento sul bene culturale",
+"Piano di ammortamento del mutuo"
+],
+"note": "Bando diffuso anche tramite ANCI. Scadenza molto ravvicinata: verificare subito i requisiti con l'ente interessato.",
+"fonte": "Ministero della Cultura / ICSC / ANCI",
+"link": "https://cultura.gov.it/comunicato/29093",
+"tag": [
+"immobili-pubblici",
+"musica-cultura"
+],
+"punteggio": 4,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"stato": "aperto",
+"giorni": 7,
+"scadenza_testo": "30 set 2026",
+"aggiornato_il": "2026-09-23"
+},
+{
+"id": "anci-sport-missione-comune2026",
+"titolo": "Sport Missione Comune 2026",
+"ente": "Istituto per il Credito Sportivo e Culturale (ICSC) — diffuso tramite ANCI",
+"oggetto": "Mutui a tasso agevolato con contributo in conto interessi per costruzione, ampliamento, ristrutturazione ed efficientamento di impianti sportivi pubblici.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Comuni, Unioni di Comuni, Comuni in forma associata, Città Metropolitane, Province, Regioni.",
+"importo": "Plafond 250 milioni di euro (42 milioni di contributi in conto interessi); da 2 a 6 milioni di euro per ente.",
+"scadenza": "2026-09-30",
+"checklist": [
+"Delibera dell'ente",
+"Progetto tecnico dell'impianto sportivo",
+"Piano di ammortamento del mutuo"
+],
+"note": "Scadenza molto ravvicinata (pochi giorni).",
+"fonte": "ANCI / Istituto per il Credito Sportivo",
+"link": "https://www.anci.it/nuovo-bando-sport-missione-comune-2026-domande-fino-al-30-settembre/",
+"tag": [
+"sport",
+"immobili-pubblici"
+],
+"punteggio": 4,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"stato": "aperto",
+"giorni": 7,
+"scadenza_testo": "30 set 2026",
+"aggiornato_il": "2026-09-23"
+},
+{
+"id": "anci-spazi-pubblici-under35-iv",
+"titolo": "Spazi pubblici inutilizzati per giovani under 35 — IV edizione",
+"ente": "ANCI — Fondo per le Politiche Giovanili",
+"oggetto": "Assegnazione e riqualificazione di spazi/immobili pubblici inutilizzati a giovani under 35 per progetti innovativi.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Comuni non capoluogo fino a 29.999 abitanti; Unioni di Comuni fino a 49.999 abitanti (esclusi beneficiari di edizioni precedenti).",
+"importo": "Importo per questa edizione non confermato (edizione precedente: fino a 200.000 € con cofinanziamento locale minimo 20% — verificare sull'avviso ufficiale).",
+"scadenza": "2026-11-30",
+"checklist": [
+"Individuazione dell'immobile pubblico inutilizzato",
+"Progetto di riuso/riqualificazione",
+"Delibera dell'ente"
+],
+"note": "Molto adatto a piccoli/medi comuni. Importo esatto da confermare sull'avviso ufficiale.",
+"fonte": "ANCI",
+"link": "https://www.anci.it/online-la-iv-edizione-dellavviso-anci-per-spazi-pubblici-inutilizzati-da-assegnare-agli-under-35/",
+"tag": [
+"immobili-pubblici",
+"rigenerazione-urbana",
+"giovani"
+],
+"punteggio": 4,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"stato": "aperto",
+"giorni": 68,
+"scadenza_testo": "30 nov 2026",
+"aggiornato_il": "2026-09-23"
+},
+{
+"id": "campania-qualita-architettura-qa26",
+"titolo": "Qualità dell'Architettura — Annualità 2026 (QA26)",
+"ente": "Regione Campania — Direzione Generale Governo del Territorio",
+"oggetto": "Contributi per la realizzazione/potenziamento di Case dell'Architettura e Urban Center nei territori dei Programmi Integrati di Valorizzazione (Masterplan) attivi.",
+"area_testo": "Regionale (Campania)",
+"regioni": [
+"Campania"
+],
+"beneficiari": "Enti Locali, anche in collaborazione con Università, Fondazioni, associazioni culturali, Ordini professionali.",
+"importo": "144.000 € complessivi, contributo fino al 70% delle spese ammissibili.",
+"scadenza": "2026-10-05",
+"checklist": [
+"Delibera dell'ente",
+"Proposta progettuale Casa dell'Architettura/Urban Center",
+"Verifica territorio Masterplan attivo"
+],
+"note": "Bando specifico per studi di architettura in collaborazione con enti locali.",
+"fonte": "Regione Campania",
+"link": "https://www.territorio.regione.campania.it/bandi-e-avvisi/bando-promozione-della-qualit-dellarchitettura-qa24-m2zp8-6mlg5",
+"tag": [
+"immobili-pubblici",
+"rigenerazione-urbana"
+],
+"punteggio": 5,
+"ruolo": "partner_tecnico",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"stato": "aperto",
+"giorni": 12,
+"scadenza_testo": "5 ott 2026",
+"aggiornato_il": "2026-09-23"
+},
+{
+"id": "campania-barriere-architettoniche2026",
+"titolo": "Eliminazione delle barriere architettoniche",
+"ente": "Regione Campania — Direzione Generale Governo del Territorio",
+"oggetto": "Interventi di accessibilità (rampe, ascensori, montascale, percorsi) in edifici pubblici, parchi e aree pubbliche.",
+"area_testo": "Regionale (Campania)",
+"regioni": [
+"Campania"
+],
+"beneficiari": "Comuni della Campania (massimo 2 domande per Comune).",
+"importo": "1,2 milioni di euro totali (600.000 € 2026 + 600.000 € 2027); massimo 50.000 €/progetto, fino al 70% della spesa.",
+"scadenza": "2026-10-12",
+"checklist": [
+"Individuazione interventi di accessibilità",
+"Progetto tecnico",
+"Delibera dell'ente"
+],
+"note": "",
+"fonte": "Regione Campania",
+"link": "https://www.territorio.regione.campania.it/bandi-e-avvisi/eliminazione-delle-barriere-architettoniche",
+"tag": [
+"immobili-pubblici",
+"disabilita"
+],
+"punteggio": 5,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"stato": "aperto",
+"giorni": 19,
+"scadenza_testo": "12 ott 2026",
+"aggiornato_il": "2026-09-23"
+},
+{
+"id": "campania-terzosettore-ap2025-27",
+"titolo": "Terzo Settore — iniziative e progetti di rilevanza locale (Accordo di Programma 2025-2027)",
+"ente": "Regione Campania",
+"oggetto": "Sostegno a iniziative e progetti comunali/sovracomunali promossi da organizzazioni di Terzo Settore.",
+"area_testo": "Regionale (Campania)",
+"regioni": [
+"Campania"
+],
+"beneficiari": "Organizzazioni di Volontariato (OdV), Associazioni di Promozione Sociale (APS), Fondazioni iscritte al RUNTS.",
+"importo": "4.772.609 € complessivi (riserva di 1,4 milioni di euro per progetti comunali/sovracomunali).",
+"scadenza": "2026-09-24",
+"checklist": [
+"Iscrizione RUNTS",
+"Progetto di rilevanza comunale/sovracomunale",
+"Partenariato con l'ente locale"
+],
+"note": "Scadenza fortemente ravvicinata: verificare subito sul comunicato ufficiale che il termine non sia stato prorogato o già chiuso.",
+"fonte": "Regione Campania — comunicato n. 464 del 28/07/2026",
+"link": "https://www.regione.campania.it/comunicazione/area-stampa/comunicati/28072026-comunicato-n-464-terzo-settore-regione-campania-stanzia-oltre-47-milioni-euro-sostenere-iniziative-rilevanza-locale",
+"tag": [
+"terzo-settore-generico",
+"famiglia"
+],
+"punteggio": 3,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"stato": "aperto",
+"giorni": 1,
+"scadenza_testo": "24 set 2026",
+"aggiornato_il": "2026-09-23"
+},
+{
+"id": "campania-scuola-viva-cantiere2",
+"titolo": "Scuola Viva in Cantiere — II Fase (PR FESR 2021-2027)",
+"ente": "Regione Campania — PR FESR 2021-2027",
+"oggetto": "Interventi di riqualificazione ed efficientamento dell'edilizia scolastica pubblica.",
+"area_testo": "Regionale (Campania)",
+"regioni": [
+"Campania"
+],
+"beneficiari": "Comuni/Enti proprietari di edifici scolastici iscritti in ARES.",
+"importo": "Non specificato nella comunicazione consultata — verificare l'avviso ufficiale.",
+"scadenza": "2026-10-16",
+"checklist": [
+"Iscrizione edificio scolastico in ARES",
+"Progetto di riqualificazione/efficientamento",
+"Delibera dell'ente"
+],
+"note": "Termine prorogato con DD n.127/2026 e n.139/2026: 30/09/2026 o 16/10/2026 secondo la tipologia di intervento — verificare quale si applica al caso specifico.",
+"fonte": "Regione Campania — PR FESR 2021-2027",
+"link": "https://servizi-digitali.regione.campania.it/Svic",
+"tag": [
+"immobili-pubblici",
+"istruzione-formazione"
+],
+"punteggio": 4,
+"ruolo": "assistenza_rup",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"stato": "aperto",
+"giorni": 23,
+"scadenza_testo": "16 ott 2026",
+"aggiornato_il": "2026-09-23"
+},
+{
+"id": "invitalia-resto-al-sud2",
+"titolo": "Resto al Sud 2.0",
+"ente": "Invitalia (Ministero del Lavoro e delle Politiche Sociali)",
+"oggetto": "Incentivo per l'avvio di nuove imprese, attività libero-professionali e di lavoro autonomo nel Mezzogiorno.",
+"area_testo": "Sud Italia (incl. Campania)",
+"regioni": [
+"Campania"
+],
+"beneficiari": "Persone tra 18 e 35 anni non compiuti, inattive/inoccupate/disoccupate, nelle regioni del Sud Italia.",
+"importo": "Voucher fino a 40.000 € (elevabile a 50.000 €); oppure contributo a fondo perduto 75% (investimenti fino a 120.000 €) o 70% (120.000–200.000 €).",
+"scadenza": null,
+"checklist": [
+"Requisiti anagrafici/occupazionali del richiedente",
+"Business plan",
+"Domanda a sportello"
+],
+"note": "Bando a sportello, senza scadenza fissa (riapertura dal 15/10/2025). Utile per clienti privati/imprenditori, non per enti pubblici.",
+"fonte": "Invitalia",
+"link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud-20",
+"tag": [
+"giovani",
+"impresa-sociale"
+],
+"punteggio": 3,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": false,
+"nota_pertinenza": "",
+"stato": "aperto",
+"giorni": null,
+"scadenza_testo": "A sportello continuo",
+"aggiornato_il": "2026-09-23"
+},
+{
+"id": "invitalia-smart-start-italia",
+"titolo": "Smart&Start Italia",
+"ente": "Invitalia (MIMIT)",
+"oggetto": "Sostegno a startup innovative ad alto contenuto tecnologico, con bonus a fondo perduto aggiuntivo per il Centro-Sud Italia.",
+"area_testo": "Nazionale (bonus aggiuntivo Centro-Sud)",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Startup innovative costituite da meno di 60 mesi (anche team esteri con Startup Visa).",
+"importo": "Progetti da 100.000 a 1.500.000 €; finanziamento a tasso zero 80% (90% se femminile/giovanile/con dottore di ricerca); fondo perduto aggiuntivo 30% per il Centro-Sud.",
+"scadenza": null,
+"checklist": [
+"Costituzione come startup innovativa",
+"Business plan tecnologico",
+"Domanda a sportello"
+],
+"note": "Bando a sportello, nessuna scadenza fissa.",
+"fonte": "Invitalia",
+"link": "https://www.invitalia.it/incentivi-e-strumenti/smart-start-italia",
+"tag": [
+"giovani",
+"impresa-sociale"
+],
+"punteggio": 2,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Rivolto a startup tecnologiche: rilevante solo se lo studio assiste clienti in ambito innovazione/imprenditoria, non per le pratiche edilizie/urbanistiche abituali.",
+"stato": "aperto",
+"giorni": null,
+"scadenza_testo": "A sportello continuo",
+"aggiornato_il": "2026-09-23"
+},
+{
+"id": "mic-marchio-patrimonio-europeo2027",
+"titolo": "Marchio del Patrimonio Europeo — Selezione 2027 (preselezione nazionale)",
+"ente": "Ministero della Cultura",
+"oggetto": "Preselezione nazionale di siti/luoghi di valore simbolico europeo da candidare alla Commissione UE per il Marchio del Patrimonio Europeo.",
+"area_testo": "Nazionale",
+"regioni": [
+"Nazionale"
+],
+"beneficiari": "Enti gestori di siti culturali italiani (Comuni, musei, aree archeologiche, parchi), anche in forma singola o associata.",
+"importo": "Nessun contributo economico diretto — riconoscimento/marchio europeo.",
+"scadenza": "2026-11-04",
+"checklist": [
+"Individuazione del sito di valore simbolico europeo",
+"Dossier di candidatura",
+"Invio via PEC al MiC"
+],
+"note": "Non è un contributo economico ma un riconoscimento: valutare solo per comuni con siti di particolare pregio culturale.",
+"fonte": "Ministero della Cultura",
+"link": "https://cultura.gov.it/comunicato/bando-per-la-preselezione-dei-siti-italiani-da-candidarsi-al-marchio-del-patrimonio-europeo-nellambito-della-selezione-2027",
+"tag": [
+"musica-cultura",
+"immobili-pubblici"
+],
+"punteggio": 3,
+"ruolo": "redazione_documentazione",
+"pertinenza_bassa": true,
+"nota_pertinenza": "Riconoscimento, non finanziamento diretto: valutare solo per enti con beni culturali di particolare pregio.",
+"stato": "aperto",
+"giorni": 42,
+"scadenza_testo": "4 nov 2026",
+"aggiornato_il": "2026-09-23"
 }
 ]
