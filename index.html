@@ -579,7 +579,7 @@ document.getElementById('aggiornamento').textContent = 'Caricamento…';
 
 async function initData(){
   try {
-    const res = await fetch('./bandi.json?v=' + Date.now(), { cache: 'no-store' });
+    const res = await fetch('./dati-bandi.json?v=' + Date.now(), { cache: 'no-store' });
     if (!res.ok) throw new Error('HTTP ' + res.status);
     DATA = await res.json();
     refreshAll();
