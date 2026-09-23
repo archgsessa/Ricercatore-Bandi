@@ -308,6 +308,7 @@ function scoreByActiveTags(bando, activeTagsSet){
 function computeScoredList(activeTagsSet){
   if (activeTagsSet.size === 0) return [];
   const scored = DATA
+    .filter(b => b.stato === 'aperto')
     .map(b => ({ b, score: scoreByActiveTags(b, activeTagsSet) }))
     .filter(x => x.score > 0);
   scored.sort((x,y) => {
@@ -368,7 +369,7 @@ function renderResultsList(scoredList){
   }
   const countEl = document.createElement('div');
   countEl.className = 'need-count';
-  countEl.textContent = scoredList.length + ' bandi pertinenti trovati, ordinati per rilevanza rispetto ai temi selezionati';
+  countEl.textContent = scoredList.length + ' bandi aperti pertinenti trovati, ordinati per rilevanza rispetto ai temi selezionati';
   el.appendChild(countEl);
   scoredList.slice(0, 20).forEach(x => el.appendChild(renderBandoCard(x.b)));
 }
