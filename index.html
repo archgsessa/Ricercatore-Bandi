@@ -41,6 +41,7 @@
   .kicker { font-family:var(--font-sans); font-weight:700; font-size:12px; color:var(--accent-ink); letter-spacing:0.06em; text-transform:uppercase; margin:0 0 6px; }
   h1 { font-family:var(--font-display); font-weight:700; font-size:30px; letter-spacing:0.01em; margin:0 0 6px; text-wrap:balance; color:var(--ink); }
   .sub { font-size:13.5px; color:var(--ink-soft); margin:0; }
+  .verifica-line { font-size:11.5px; color:var(--ink-soft); opacity:.72; margin:3px 0 0; }
 
   .alert-critici { background: var(--urgente-bg); border-radius:var(--radius-md); padding:14px 16px; margin-bottom:18px; }
   .alert-critici .t { font-family:var(--font-display); font-size:15px; color:var(--urgente); margin:0 0 8px; font-weight:700; }
@@ -162,6 +163,7 @@
   <header class="top">
     <h1>Bandi di investimento e finanziamento</h1>
     <p class="sub" id="aggiornamento"></p>
+    <p class="sub verifica-line" id="verifica"></p>
   </header>
 
   <div id="alertCritici"></div>
@@ -218,6 +220,7 @@
 
 <script>
 let DATA = [];
+let VERIFICA = null;
 const SYNONYMS = {"sport": ["sport", "sportivo", "sportiva", "sportivi", "palestra", "impianto sportivo", "attivita motoria", "attivita sportiva", "calcio", "pallavolo", "basket", "atletica", "piscina", "oratorio sportivo", "campo da gioco"], "terzo-settore-generico": ["terzo settore", "associazione", "associazionismo", "ente non profit", "no profit", "onlus", "odv", "aps", "ets", "attivita ordinaria", "rafforzamento associativo"], "disabilita": ["disabilita", "disabile", "disabili", "handicap", "invalidita", "persone con disabilita", "barriere architettoniche", "inclusione disabili", "autismo", "non autosufficienza"], "inclusione-digitale": ["digitale", "digitalizzazione", "alfabetizzazione digitale", "competenze digitali", "tecnologia", "informatica", "divario digitale", "cittadinanza digitale"], "diritti-umani-pace": ["pace", "diritti umani", "solidarieta internazionale", "cooperazione internazionale", "rifugiati", "accoglienza migranti", "aiuti umanitari", "giustizia sociale", "educazione alla pace"], "poverta-marginalita": ["poverta", "mensa", "mense", "dormitorio", "dormitori", "senza dimora", "homeless", "marginalita", "indigenti", "emergenza sociale", "fragilita sociale", "persone fragili"], "immigrazione-integrazione": ["immigrazione", "integrazione", "stranieri", "migranti", "tratta", "alunni stranieri", "seconda generazione", "interculturalita", "richiedenti asilo"], "volontariato": ["volontariato", "volontari", "presidio territoriale", "attivita di volontariato", "organizzazione di volontariato"], "dispersione-scolastica": ["dispersione scolastica", "abbandono scolastico", "scuola", "minori a rischio", "adolescenti a rischio", "ragazzi in difficolta scolastica"], "poverta-educativa": ["poverta educativa", "minori", "infanzia", "adolescenza", "educazione", "doposcuola", "cantiere educativo", "bambini"], "musica-cultura": ["musica", "cultura", "culturale", "teatro", "cinema", "coro", "cori", "banda musicale", "bande musicali", "festival", "spettacolo", "arte", "biblioteca", "museo", "patrimonio culturale"], "immobili-pubblici": ["immobile pubblico", "edificio pubblico", "bene confiscato", "patrimonio pubblico", "riqualificazione edificio", "struttura pubblica", "recupero immobile", "ex caserma", "bene comune", "panificio", "panificio sociale", "spazio pubblico inutilizzato", "immobile comunale"], "parita-di-genere": ["parita di genere", "violenza di genere", "donne", "femminicidio", "discriminazione di genere", "lgbtqia", "liberta femminile"], "agricoltura-sociale": ["agricoltura sociale", "orto sociale", "fattoria sociale", "verde pubblico", "giardino", "coltivazione", "orto urbano", "inserimento lavorativo agricolo"], "beni-confiscati": ["beni confiscati", "mafia", "antimafia", "criminalita organizzata", "bene sequestrato", "bene confiscato alle mafie"], "pa-digitale": ["pubblica amministrazione digitale", "digitalizzazione comune", "suap", "sue", "servizi digitali comunali", "spid", "pagopa", "trasformazione digitale enti locali"], "giovani": ["giovani", "gioventu", "youth", "ragazzi", "mobilita giovanile", "protagonismo giovanile", "politiche giovanili"], "istruzione-formazione": ["formazione professionale", "istruzione", "educazione degli adulti", "apprendimento", "competenze professionali", "corso di formazione"], "europa-creativa": ["europa creativa", "arti performative", "cooperazione culturale europea", "mobilita artisti", "cultura internazionale"], "impresa-sociale": ["impresa sociale", "cooperativa sociale", "startup sociale", "imprenditoria sociale", "panificio sociale", "bottega sociale", "inserimento lavorativo", "impresa di comunita"], "servizio-civile": ["servizio civile", "volontari in servizio civile", "scu", "servizio civile universale"], "sicurezza-urbana": ["sicurezza urbana", "videosorveglianza", "movida", "decoro urbano", "sicurezza pubblica", "telecamere"], "famiglia": ["famiglia", "famiglie", "bambini", "piccoli comuni", "natalita", "politiche familiari", "prossimita", "servizi di prossimita"], "rigenerazione-urbana": ["rigenerazione urbana", "quartiere", "spazio pubblico", "riqualificazione urbana", "periferie", "spazi comuni", "rigenerazione di quartiere"], "ambiente-sostenibilita": ["ambiente", "sostenibilita", "spreco alimentare", "transizione ecologica", "economia circolare", "energia rinnovabile", "comunita energetica", "tutela ambientale"]};
 const MACRO_LABELS = {"sport": "Sport e attività motoria", "terzo-settore-generico": "Terzo settore — attività generali", "disabilita": "Disabilità e inclusione", "inclusione-digitale": "Inclusione e competenze digitali", "diritti-umani-pace": "Diritti umani, pace e solidarietà internazionale", "poverta-marginalita": "Povertà e marginalità sociale", "immigrazione-integrazione": "Immigrazione e integrazione", "volontariato": "Volontariato e associazionismo", "dispersione-scolastica": "Dispersione scolastica", "poverta-educativa": "Povertà educativa e minori", "musica-cultura": "Cultura, musica e spettacolo", "immobili-pubblici": "Immobili e beni pubblici", "parita-di-genere": "Parità di genere", "agricoltura-sociale": "Agricoltura sociale e verde pubblico", "beni-confiscati": "Beni confiscati alla criminalità", "pa-digitale": "PA digitale e servizi comunali", "giovani": "Giovani e gioventù", "istruzione-formazione": "Istruzione e formazione professionale", "europa-creativa": "Europa Creativa e cooperazione culturale", "impresa-sociale": "Impresa sociale e inserimento lavorativo", "servizio-civile": "Servizio civile universale", "sicurezza-urbana": "Sicurezza urbana", "famiglia": "Famiglia e piccoli comuni", "rigenerazione-urbana": "Rigenerazione urbana", "ambiente-sostenibilita": "Ambiente e sostenibilità"};
 
@@ -553,9 +556,14 @@ function renderAlertCritici(){
 
 function initHeader(){
   const dateFmt = d => { try { return new Date(d+'T00:00:00').toLocaleDateString('it-IT', {day:'numeric', month:'long', year:'numeric'}); } catch(e){ return d; } };
+  const dateTimeFmt = iso => { try { return new Date(iso).toLocaleString('it-IT', {day:'numeric', month:'long', year:'numeric', hour:'2-digit', minute:'2-digit'}); } catch(e){ return iso; } };
   let ultimo = null;
   DATA.forEach(b => { if (b.aggiornato_il && (!ultimo || b.aggiornato_il > ultimo)) ultimo = b.aggiornato_il; });
-  document.getElementById('aggiornamento').textContent = (ultimo ? 'Ultimo aggiornamento: ' + dateFmt(ultimo) + ' · ' : '') + DATA.length + ' bandi monitorati, ' + DATA.filter(b=>b.stato==='aperto').length + ' aperti';
+  document.getElementById('aggiornamento').textContent = (ultimo ? 'Ultimo aggiornamento contenuti: ' + dateFmt(ultimo) + ' · ' : '') + DATA.length + ' bandi monitorati, ' + DATA.filter(b=>b.stato==='aperto').length + ' aperti';
+  const verEl = document.getElementById('verifica');
+  if (verEl){
+    verEl.textContent = (VERIFICA && VERIFICA.ultima_verifica) ? ('Ultima verifica effettuata: ' + dateTimeFmt(VERIFICA.ultima_verifica)) : '';
+  }
   document.getElementById('stat-totale').textContent = DATA.length;
   document.getElementById('stat-aperti').textContent = DATA.filter(b=>b.stato==='aperto').length;
   document.getElementById('stat-p5').textContent = DATA.filter(b=>b.punteggio===5).length;
@@ -586,6 +594,10 @@ async function initData(){
     const res = await fetch('./dati-bandi.json?v=' + Date.now(), { cache: 'no-store' });
     if (!res.ok) throw new Error('HTTP ' + res.status);
     DATA = await res.json();
+    try {
+      const resVer = await fetch('./verifica.json?v=' + Date.now(), { cache: 'no-store' });
+      if (resVer.ok) VERIFICA = await resVer.json();
+    } catch(e){ VERIFICA = null; }
     refreshAll();
   } catch(e){
     document.getElementById('list').innerHTML = '<div class=\"empty\"><div class=\"t\">Dati non disponibili</div><div class=\"b\">Impossibile caricare i dati dei bandi (bandi.json). Riprova pi\u00f9 tardi.</div></div>';
