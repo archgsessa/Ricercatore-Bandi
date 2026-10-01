@@ -3762,5 +3762,61 @@
     "pertinenza_bassa": true,
     "nota_pertinenza": "Si tratta di un premio/riconoscimento più che di un bando a sportello: minore necessità di assistenza tecnica strutturata.",
     "aggiornato_il": "2026-10-01"
+  },
+  {
+    "id": "campania-autoimprenditorialita",
+    "titolo": "Autoimprenditorialità e Autoimpiego",
+    "ente": "Regione Campania — Sviluppo Campania",
+    "oggetto": "Sostegno al lavoro autonomo per creare opportunità di inserimento lavorativo attraverso misure di autoimprenditorialità e autoimpiego, rivolto a disoccupati, occupati a rischio di perdita dell'occupazione, giovani e donne.",
+    "area_testo": "Campania",
+    "regioni": [
+      "Campania"
+    ],
+    "beneficiari": "Persone fisiche (disoccupati, occupati a rischio, giovani, donne) che avviano un'attività autonoma",
+    "importo": "Non specificato",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Sportello permanente / scadenza non specificata",
+    "giorni": null,
+    "checklist": [],
+    "note": "",
+    "fonte": "Sviluppo Campania",
+    "link": "https://bandi.sviluppocampania.it/bandi/061124AMP/Pagine/Home.aspx",
+    "tag": [
+      "impresa-sociale"
+    ],
+    "punteggio": 1,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiari sono persone fisiche che avviano un'attività autonoma, non enti comunali, ETS o associazioni: bassa pertinenza per il profilo dello studio.",
+    "aggiornato_il": "2026-10-01"
+  },
+  {
+    "id": "campania-frc2",
+    "titolo": "Fondo Regionale per la Crescita Campania (FRC II)",
+    "ente": "Regione Campania — Sviluppo Campania",
+    "oggetto": "Finanziamenti FESR rivolti a piccole imprese, microimprese e liberi professionisti per sostenere investimenti produttivi in Campania.",
+    "area_testo": "Campania",
+    "regioni": [
+      "Campania"
+    ],
+    "beneficiari": "PMI, microimprese, liberi professionisti",
+    "importo": "Non specificato",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Sportello permanente / scadenza non specificata",
+    "giorni": null,
+    "checklist": [],
+    "note": "",
+    "fonte": "Sviluppo Campania",
+    "link": "https://bandi.sviluppocampania.it/bandi/240924FRC/Pagine/Home.aspx",
+    "tag": [
+      "impresa-sociale"
+    ],
+    "punteggio": 1,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Rivolto a PMI, microimprese e liberi professionisti: forma giuridica non compatibile con il profilo beneficiario (comuni/ETS/associazioni).",
+    "aggiornato_il": "2026-10-01"
   }
 ]
