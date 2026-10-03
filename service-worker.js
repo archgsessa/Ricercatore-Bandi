@@ -3,14 +3,14 @@
 // cosi' l'utente vede sempre i dati piu' recenti quando e' online; cache-first per il resto
 // (icone, font), con fallback alla cache quando offline.
 
-const CACHE_VERSION = 'bandi-pwa-v1';
+const CACHE_VERSION = 'bandi-pwa-v2';
 const CORE_ASSETS = [
   './',
   './index.html',
   './manifest.json',
-  './icon-192.png',
-  './icon-512.png',
-  './icon-512-maskable.png'
+  './icon-192-v2.png',
+  './icon-512-v2.png',
+  './icon-512-maskable-v2.png'
 ];
 
 self.addEventListener('install', (event) => {
