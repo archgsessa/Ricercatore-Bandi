@@ -1,0 +1,17 @@
+{
+  "name": "Ricerca Bandi — Studio Tecnico",
+  "short_name": "Ricerca Bandi",
+  "description": "Monitoraggio bandi di investimento e finanziamento per enti comunali, terzo settore e associazioni.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F5F7F1",
+  "theme_color": "#2B6CB0",
+  "lang": "it",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
