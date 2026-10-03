@@ -1,0 +1,80 @@
+{
+  "fonti_principali": [
+    {
+      "id": "infobandi-csvnet",
+      "nome": "Infobandi CSVnet",
+      "url": "https://infobandi.csvnet.it/home/bandi-attivi/",
+      "categoria": "terzo-settore-nazionale",
+      "regione": "Nazionale",
+      "note": "FONTE PRINCIPALE — scansionare per intero tutte le pagine (?sf_paged=2,3,... fino all'ultima indicata), non fermarsi alla homepage/bandi in evidenza. Non confondere con infobandi.it (servizio commerciale di appalti, non pertinente).",
+      "data_integrazione": "2025-01-01"
+    },
+    {
+      "id": "fondazione-con-il-sud",
+      "nome": "Fondazione con il Sud",
+      "url": "https://www.fondazioneconilsud.it/bandi/",
+      "categoria": "fondazione-bancaria-terzo-settore",
+      "regione": "Sud Italia",
+      "note": "",
+      "data_integrazione": "2025-01-01"
+    },
+    {
+      "id": "fondazione-cdp",
+      "nome": "Fondazione CDP",
+      "url": null,
+      "categoria": "fondazione-bancaria-terzo-settore",
+      "regione": "Nazionale",
+      "note": "Nessuna pagina bandi stabile nota: cercare via web search \"Fondazione CDP bando [anno corrente]\" ogni ciclo, verificando anche la pagina bandi generale se disponibile. NON è Cassa Depositi e Prestiti (CDP): quella non pubblica bandi a scadenza, è solo credito diretto agli enti locali — non includerla nel ciclo di scansione.",
+      "data_integrazione": "2025-01-01"
+    },
+    {
+      "id": "csv-lombardia",
+      "nome": "CSV Lombardia",
+      "url": "https://www.csvlombardia.it",
+      "categoria": "csv-regionale",
+      "regione": "Lombardia",
+      "note": "",
+      "data_integrazione": "2025-01-01"
+    },
+    {
+      "id": "sviluppo-campania",
+      "nome": "Sviluppo Campania",
+      "url": "https://bandi.sviluppocampania.it",
+      "categoria": "ente-regionale",
+      "regione": "Campania",
+      "note": "",
+      "data_integrazione": "2025-01-01"
+    },
+    {
+      "id": "professionearchitetto-concorsi",
+      "nome": "professionearchitetto.it/concorsi",
+      "url": "https://www.professionearchitetto.it/concorsi",
+      "categoria": "albo-professionale",
+      "regione": "Nazionale",
+      "note": "Includere solo bandi di redazione documentazione/assistenza tecnica per un ente (non concorsi di progettazione diretti a cui lo studio parteciperebbe in prima persona).",
+      "data_integrazione": "2025-01-01"
+    },
+    {
+      "id": "europaconcorsi",
+      "nome": "Europaconcorsi",
+      "url": "https://europaconcorsi.com",
+      "categoria": "portale-concorsi",
+      "regione": "Nazionale",
+      "note": "Richiede sessione autenticata via Claude in Chrome. Se i tool Chrome non sono disponibili in questa sessione, saltare e segnalare in fonti_saltate (verifica.json).",
+      "data_integrazione": "2025-01-01"
+    }
+  ],
+  "fonti_aggiuntive": [],
+  "rotazione_regioni": {
+    "ordine": [
+      "Abruzzo", "Basilicata", "Calabria", "Campania", "Emilia-Romagna",
+      "Friuli-Venezia Giulia", "Lazio", "Liguria", "Lombardia", "Marche",
+      "Molise", "Piemonte", "Puglia", "Sardegna", "Sicilia",
+      "Toscana", "Trentino-Alto Adige", "Umbria", "Valle d'Aosta", "Veneto"
+    ],
+    "prossimo_indice": 0,
+    "ultima_regione_controllata": null,
+    "ultima_esecuzione": null
+  },
+  "ultima_ricerca_fonti": null
+}
