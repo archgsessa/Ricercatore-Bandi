@@ -64,17 +64,61 @@
       "data_integrazione": "2025-01-01"
     }
   ],
-  "fonti_aggiuntive": [],
+  "fonti_aggiuntive": [
+    {
+      "id": "regione-lombardia-bandi-terzo-settore",
+      "nome": "Regione Lombardia - Bandi Terzo Settore e Volontariato",
+      "url": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/politiche-sociali/terzo-settore-volontariato",
+      "categoria": "ente-regionale",
+      "regione": "Lombardia",
+      "note": "Portale ufficiale bandi regionali, sezione dedicata terzo settore/volontariato. Verificata: oltre 100 bandi totali (14 pagine), scadenze 2026-2027, pagina dedicata e aggiornata.",
+      "data_integrazione": "2026-10-05"
+    },
+    {
+      "id": "csv-cosenza",
+      "nome": "CSV Cosenza - Bandi attivi",
+      "url": "https://csvcosenza.it/bandi/",
+      "categoria": "csv-regionale",
+      "regione": "Calabria",
+      "note": "Centro Servizi Volontariato provincia di Cosenza. Verificata: 10+ bandi recenti (13 pagine), scadenze settembre-ottobre 2026, aggiornata.",
+      "data_integrazione": "2026-10-05"
+    },
+    {
+      "id": "csv-due-mari-rc",
+      "nome": "CSV dei Due Mari (Reggio Calabria) - Bandi",
+      "url": "https://www.csvrc.it/bandi/",
+      "categoria": "csv-regionale",
+      "regione": "Calabria",
+      "note": "Centro Servizi Volontariato Reggio Calabria. Verificata: piu' bandi attivi/recenti (fondo beneficenza continuativo, Enel Cuore, sport disabilita'), scadenze indicate, voci aggiornate a ottobre 2026.",
+      "data_integrazione": "2026-10-05"
+    }
+  ],
   "rotazione_regioni": {
     "ordine": [
-      "Abruzzo", "Basilicata", "Calabria", "Campania", "Emilia-Romagna",
-      "Friuli-Venezia Giulia", "Lazio", "Liguria", "Lombardia", "Marche",
-      "Molise", "Piemonte", "Puglia", "Sardegna", "Sicilia",
-      "Toscana", "Trentino-Alto Adige", "Umbria", "Valle d'Aosta", "Veneto"
+      "Abruzzo",
+      "Basilicata",
+      "Calabria",
+      "Campania",
+      "Emilia-Romagna",
+      "Friuli-Venezia Giulia",
+      "Lazio",
+      "Liguria",
+      "Lombardia",
+      "Marche",
+      "Molise",
+      "Piemonte",
+      "Puglia",
+      "Sardegna",
+      "Sicilia",
+      "Toscana",
+      "Trentino-Alto Adige",
+      "Umbria",
+      "Valle d'Aosta",
+      "Veneto"
     ],
-    "prossimo_indice": 0,
-    "ultima_regione_controllata": null,
-    "ultima_esecuzione": null
+    "prossimo_indice": 3,
+    "ultima_regione_controllata": "Calabria",
+    "ultima_esecuzione": "2026-10-05"
   },
-  "ultima_ricerca_fonti": null
+  "ultima_ricerca_fonti": "2026-10-05"
 }
