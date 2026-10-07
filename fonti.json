@@ -91,6 +91,24 @@
       "regione": "Calabria",
       "note": "Centro Servizi Volontariato Reggio Calabria. Verificata: piu' bandi attivi/recenti (fondo beneficenza continuativo, Enel Cuore, sport disabilita'), scadenze indicate, voci aggiornate a ottobre 2026.",
       "data_integrazione": "2026-10-05"
+    },
+    {
+      "id": "regione-basilicata-portale-bandi",
+      "nome": "Portale Bandi Regione Basilicata (CeBas)",
+      "url": "https://portalebandi.regione.basilicata.it/",
+      "categoria": "ente-regionale",
+      "regione": "Basilicata",
+      "note": "Portale ufficiale avvisi e bandi della Regione Basilicata. Verificato: 100 bandi in sezione \"In scadenza\" (oltre 9700 totali in archivio), scadenze indicate (es. Avviso sostegno attivita imprenditoriali di interesse socio-assistenziale, euro 8.000.000, scadenza 15/10/2026). Pertinente anche per comuni ed enti del terzo settore.",
+      "data_integrazione": "2026-10-07"
+    },
+    {
+      "id": "fondazione-cariplo-bandi",
+      "nome": "Fondazione Cariplo - Bandi",
+      "url": "https://www.fondazionecariplo.it/contributi/bandi/",
+      "categoria": "fondazione-bancaria-terzo-settore",
+      "regione": "Lombardia",
+      "note": "Pagina ufficiale bandi della fondazione bancaria, dedicata esplicitamente al Terzo Settore. Verificata: almeno 6 bandi attivi visibili con paginazione su piu pagine, aggiornamento gennaio 2026. Scadenze riportate nelle pagine di dettaglio di ciascun bando.",
+      "data_integrazione": "2026-10-07"
     }
   ],
   "rotazione_regioni": {
@@ -116,9 +134,9 @@
       "Valle d'Aosta",
       "Veneto"
     ],
-    "prossimo_indice": 3,
-    "ultima_regione_controllata": "Calabria",
-    "ultima_esecuzione": "2026-10-05"
+    "prossimo_indice": 6,
+    "ultima_regione_controllata": "Friuli-Venezia Giulia",
+    "ultima_esecuzione": "2026-10-07"
   },
-  "ultima_ricerca_fonti": "2026-10-05"
+  "ultima_ricerca_fonti": "2026-10-07"
 }
