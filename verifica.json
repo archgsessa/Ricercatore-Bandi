@@ -1,6 +1,9 @@
 {
-  "ultima_verifica": "2026-10-05T14:55:00+02:00",
+  "ultima_verifica": "2026-10-07T10:30:00+02:00",
   "fonti_saltate": [
-    "Europaconcorsi: estensione Claude in Chrome non connessa in questa sessione (PC irraggiungibile da Chrome)"
+    "Europaconcorsi: tool Claude in Chrome non disponibili in questa sessione (richiede sessione autenticata)",
+    "CSV dei Due Mari (Reggio Calabria): contenuto estratto non aggiornato (riferimenti al 2018 nonostante la fonte risultasse verificata ad ottobre 2026); nessun dato attendibile ottenuto in questo ciclo",
+    "Regione Lombardia - Bandi Terzo Settore e Volontariato: paginazione oltre pagina 1 di 14 non accessibile in questo ciclo (parametro ?page=N non effettivo sul sito); coperta solo la prima pagina (5 bandi)",
+    "Fondazione Cariplo: scansionata solo pagina 1 di 6 della sezione bandi per limiti di tempo; pagine successive da verificare nei prossimi cicli"
   ]
 }
