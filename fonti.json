@@ -109,6 +109,15 @@
       "regione": "Lombardia",
       "note": "Pagina ufficiale bandi della fondazione bancaria, dedicata esplicitamente al Terzo Settore. Verificata: almeno 6 bandi attivi visibili con paginazione su piu pagine, aggiornamento gennaio 2026. Scadenze riportate nelle pagine di dettaglio di ciascun bando.",
       "data_integrazione": "2026-10-07"
+    },
+    {
+      "id": "regione-lazio-avvisi-bandi",
+      "nome": "Regione Lazio - Avvisi e Bandi",
+      "url": "https://regione.lazio.it/avvisi-e-bandi",
+      "categoria": "ente-regionale",
+      "regione": "Lazio",
+      "note": "Sezione ufficiale avvisi regionali (documenti con data di scadenza e proroghe). Integrata dopo segnale concreto: avviso promozione turistica per ETS (Det. G11427/2026, scad. 17/10/2026).",
+      "data_integrazione": "2026-10-12"
     }
   ],
   "rotazione_regioni": {
@@ -134,9 +143,9 @@
       "Valle d'Aosta",
       "Veneto"
     ],
-    "prossimo_indice": 6,
-    "ultima_regione_controllata": "Friuli-Venezia Giulia",
-    "ultima_esecuzione": "2026-10-07"
+    "prossimo_indice": 7,
+    "ultima_regione_controllata": "Lazio",
+    "ultima_esecuzione": "2026-10-12"
   },
-  "ultima_ricerca_fonti": "2026-10-07"
+  "ultima_ricerca_fonti": "2026-10-12"
 }
