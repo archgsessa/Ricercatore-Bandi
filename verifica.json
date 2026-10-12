@@ -1,10 +1,16 @@
 {
   "ultima_verifica": "2026-10-12T09:30:00+02:00",
   "fonti_saltate": [
-    "Claude in Chrome non connesso: ciclo eseguito con il browser integrato (non autenticato su GitHub) e web_fetch; commit non effettuato, file preparati per caricamento manuale.",
+    "Claude in Chrome non connesso: ciclo eseguito con il browser integrato e web_fetch; commit effettuato dopo nuovo accesso a GitHub nel browser integrato.",
     "Europaconcorsi: saltata (sessione Chrome autenticata non disponibile).",
     "professionearchitetto.it/concorsi: non raggiungibile in questo ciclo (URL non recuperabile con web_fetch).",
     "CSV Lombardia (csvlombardia.it): pagina bandi non recuperabile con web_fetch; controllo limitato a ricerca web (nessun nuovo bando CSV individuato).",
     "Regione Campania territorio.regione.campania.it/bandi-e-avvisi: pagina caricata via JavaScript, contenuto vuoto con fetch statico; record esistenti non riconfermati."
+  ],
+  "nuovi": [
+    {
+      "id": "lazio-promozione-turistica-ets-2026",
+      "dal": "2026-10-12"
+    }
   ]
 }

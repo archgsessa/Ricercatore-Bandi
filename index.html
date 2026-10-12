@@ -55,6 +55,12 @@
   .alert-critici .item { font-size:12.5px; color:var(--ink); line-height:1.6; }
   .alert-critici .item b { color: var(--urgente); }
 
+  .nuovi-box { border:2px solid var(--accent); background:var(--accent-soft); border-radius:var(--radius-lg); padding:16px; margin-bottom:22px; }
+  .nuovi-box .nuovi-t { font-family:var(--font-display); font-weight:800; font-size:20px; letter-spacing:0.06em; color:var(--accent-ink); margin:0 0 4px; }
+  .nuovi-box .nuovi-sub { font-size:12px; color:var(--ink-soft); margin:0 0 12px; }
+  .nuovi-box .nuovi-empty { font-size:13px; color:var(--ink-soft); }
+  .nuovi-box .list { margin-top:0; }
+
   .stats-row { display:grid; grid-template-columns:repeat(4,1fr); gap:8px; margin-bottom:20px; }
   .stat { background:var(--surface); border-radius:var(--radius-md); padding:12px 10px; box-shadow:var(--shadow-card); text-align:center; }
   .stat .n { font-family:var(--font-display); font-size:22px; font-weight:700; line-height:1.1; color:var(--ink); }
@@ -193,6 +199,8 @@
     <div id="needThemes"></div>
     <div id="needResults"></div>
   </section>
+
+  <div id="nuoviBandi"></div>
 
   <div class="filters">
     <input type="text" id="f-testo" placeholder="Cerca per titolo, ente, oggetto...">
@@ -583,11 +591,37 @@ function renderSnapshotNotice(){
   el.textContent = 'Dati aggiornati a ogni ciclo di monitoraggio e pubblicati automaticamente su questa pagina.';
 }
 
+function renderNuovi(){
+  const el = document.getElementById('nuoviBandi');
+  if (!el) return;
+  const GIORNI_NUOVO = 7;
+  const oggi = new Date(); oggi.setHours(0,0,0,0);
+  const limite = new Date(oggi.getTime() - GIORNI_NUOVO*864e5);
+  const voci = (VERIFICA && Array.isArray(VERIFICA.nuovi)) ? VERIFICA.nuovi : [];
+  const dalPerId = {};
+  voci.forEach(v => { if (v && v.id && v.dal && new Date(v.dal+'T00:00:00') >= limite) dalPerId[v.id] = v.dal; });
+  const nuovi = DATA.filter(b => dalPerId[b.id] && b.stato === 'aperto');
+  nuovi.sort((a,b) => (dalPerId[b.id] > dalPerId[a.id] ? 1 : dalPerId[b.id] < dalPerId[a.id] ? -1 : (b.punteggio||0)-(a.punteggio||0)));
+  el.innerHTML = '';
+  const box = document.createElement('section');
+  box.className = 'nuovi-box';
+  box.innerHTML = '<p class="nuovi-t">NUOVI BANDI</p><p class="nuovi-sub">Bandi aperti aggiunti negli ultimi ' + GIORNI_NUOVO + ' giorni</p>';
+  if (nuovi.length === 0){
+    box.insertAdjacentHTML('beforeend', '<div class="nuovi-empty">Nessun nuovo bando negli ultimi ' + GIORNI_NUOVO + ' giorni.</div>');
+  } else {
+    const l = document.createElement('div'); l.className = 'list';
+    nuovi.forEach(b => l.appendChild(renderBandoCard(b)));
+    box.appendChild(l);
+  }
+  el.appendChild(box);
+}
+
 function refreshAll(){
   TAG_DOC_FREQ = null;
   popolaFiltriArea();
   initHeader();
   renderAlertCritici();
+  renderNuovi();
   render();
   if (needActiveTags.size > 0) renderNeedResults();
 }
