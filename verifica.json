@@ -1,16 +1,17 @@
 {
-  "ultima_verifica": "2026-10-12T09:30:00+02:00",
+  "ultima_verifica": "2026-10-13T06:15:00+00:00",
   "fonti_saltate": [
-    "Claude in Chrome non connesso: ciclo eseguito con il browser integrato e web_fetch; commit effettuato dopo nuovo accesso a GitHub nel browser integrato.",
-    "Europaconcorsi: saltata (sessione Chrome autenticata non disponibile).",
-    "professionearchitetto.it/concorsi: non raggiungibile in questo ciclo (URL non recuperabile con web_fetch).",
-    "CSV Lombardia (csvlombardia.it): pagina bandi non recuperabile con web_fetch; controllo limitato a ricerca web (nessun nuovo bando CSV individuato).",
-    "Regione Campania territorio.regione.campania.it/bandi-e-avvisi: pagina caricata via JavaScript, contenuto vuoto con fetch statico; record esistenti non riconfermati."
+    "Europaconcorsi: saltata (Chrome non connesso in questa sessione — browser extension non raggiungibile).",
+    "professionearchitetto.it/concorsi: controllata solo pagina 1 di 8 (nessun bando di redazione documentazione/assistenza tecnica pertinente trovato in questa pagina; paginazione 2-8 non verificata in questo ciclo).",
+    "Regione Lazio — Avvisi e Bandi (regione.lazio.it/avvisi-e-bandi): la pagina indicata non elenca bandi di finanziamento reali (solo gare d'appalto, aste e amministrazione trasparente, aggiornata al 24/06/2024); i bandi Lazio pertinenti vengono individuati tramite ricerca web mirata, non tramite questa pagina.",
+    "Fondazione Cariplo: verificata solo pagina 1 di 6 (6 bandi, tutti già presenti in archivio; pagine 2-6 non controllate in questo ciclo).",
+    "Regione Lombardia — Bandi Terzo Settore e Volontariato: verificata solo pagina 1 di 14 (pagine successive non controllate in questo ciclo)."
   ],
   "nuovi": [
-    {
-      "id": "lazio-promozione-turistica-ets-2026",
-      "dal": "2026-10-12"
-    }
+    {"id": "frd-polaris-stem", "dal": "2026-10-13"},
+    {"id": "lombardia-educazione-ambientale2026", "dal": "2026-10-13"}
+  ],
+  "chiusi": [
+    {"id": "campania-barriere-architettoniche2026", "dal": "2026-10-13"}
   ]
 }
