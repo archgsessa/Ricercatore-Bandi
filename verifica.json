@@ -1,17 +1,40 @@
 {
-  "ultima_verifica": "2026-10-13T06:15:00+00:00",
+  "ultima_verifica": "2026-10-16T06:06:44+00:00",
   "fonti_saltate": [
     "Europaconcorsi: saltata (Chrome non connesso in questa sessione — browser extension non raggiungibile).",
-    "professionearchitetto.it/concorsi: controllata solo pagina 1 di 8 (nessun bando di redazione documentazione/assistenza tecnica pertinente trovato in questa pagina; paginazione 2-8 non verificata in questo ciclo).",
-    "Regione Lazio — Avvisi e Bandi (regione.lazio.it/avvisi-e-bandi): la pagina indicata non elenca bandi di finanziamento reali (solo gare d'appalto, aste e amministrazione trasparente, aggiornata al 24/06/2024); i bandi Lazio pertinenti vengono individuati tramite ricerca web mirata, non tramite questa pagina.",
-    "Fondazione Cariplo: verificata solo pagina 1 di 6 (6 bandi, tutti già presenti in archivio; pagine 2-6 non controllate in questo ciclo).",
-    "Regione Lombardia — Bandi Terzo Settore e Volontariato: verificata solo pagina 1 di 14 (pagine successive non controllate in questo ciclo)."
+    "professionearchitetto.it/concorsi: controllate pagine 1-2 di 8 (nessun bando di redazione documentazione/assistenza tecnica pertinente; tutti concorsi di idee/progettazione/design o call for papers; la query ?page=2 ha restituito il medesimo contenuto della pagina 1, probabile paginazione non indicizzabile via fetch — pagine 3-8 non verificate in questo ciclo).",
+    "Fondazione Cariplo: verificata solo pagina 1 di 6 (6 bandi attivi mostrati: Carcere e comunità in rete, Anita Reti Mille, Musei e accessibilità universale, Cofinanziamento Progetti Europei, Nuovi ponti culturali, vEIColo — quest'ultimo per enti di ricerca/università, scaduto il 30/09/2026 e fuori profilo, non incluso; pagine 2-6 non controllate in questo ciclo).",
+    "Regione Lombardia — Bandi Terzo Settore e Volontariato: verificata solo pagina 1 di 14 (6 bandi, tutti già in archivio; pagine 2-14 non controllate in questo ciclo).",
+    "CSV Cosenza: verificata solo pagina 1 (10 bandi, già in archivio o fuori profilo; pagine successive — 13 totali — non controllate in questo ciclo).",
+    "Fondazione CDP: nessuna pagina bandi attiva stabile; ricerca web mirata non ha individuato bandi nuovi pertinenti al profilo oltre a \"A scuola per il futuro\" (già in archivio, chiuso dal 30/09/2026).",
+    "CSV dei Due Mari (Reggio Calabria): bandi in corso verificati, nessuna novità rispetto all'archivio; sezione \"scaduti\" non ulteriormente approfondita."
   ],
   "nuovi": [
-    {"id": "frd-polaris-stem", "dal": "2026-10-13"},
-    {"id": "lombardia-educazione-ambientale2026", "dal": "2026-10-13"}
+    {
+      "id": "frd-idea-callforpartnerships",
+      "dal": "2026-10-16"
+    }
   ],
   "chiusi": [
-    {"id": "campania-barriere-architettoniche2026", "dal": "2026-10-13"}
+    {
+      "id": "cn-sprechialimentari",
+      "dal": "2026-10-16"
+    },
+    {
+      "id": "cn-festivalcori",
+      "dal": "2026-10-16"
+    },
+    {
+      "id": "cn-pop2026",
+      "dal": "2026-10-16"
+    },
+    {
+      "id": "basilicata-sostegno-socioassistenziale",
+      "dal": "2026-10-16"
+    },
+    {
+      "id": "basilicata-forum-giovani",
+      "dal": "2026-10-16"
+    }
   ]
 }
