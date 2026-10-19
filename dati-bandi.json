@@ -13,7 +13,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-29",
     "scadenza_testo": "29 set 2026",
-    "giorni": -17,
+    "giorni": -20,
     "checklist": [
       "Delibera di adesione del/dei Comune/i",
       "Eventuale accordo di forma associata tra comuni",
@@ -46,7 +46,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-30",
     "scadenza_testo": "30 set 2026",
-    "giorni": -16,
+    "giorni": -19,
     "checklist": [
       "Convenzione con enti pubblici (se privato)",
       "Progetto di presa in carico 18 mesi",
@@ -85,7 +85,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-30",
     "scadenza_testo": "30 set 2026",
-    "giorni": -16,
+    "giorni": -19,
     "checklist": [
       "Iscrizione RUNTS ODV/APS",
       "Dichiarazione mai finanziati in precedenza",
@@ -118,7 +118,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-30",
     "scadenza_testo": "30 set 2026",
-    "giorni": -16,
+    "giorni": -19,
     "checklist": [
       "Lettera d'intenti (fase 1)",
       "Delibera di adesione della scuola pubblica partner",
@@ -151,7 +151,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-30",
     "scadenza_testo": "30 set 2026",
-    "giorni": -16,
+    "giorni": -19,
     "checklist": [
       "Progetto tecnico di videosorveglianza/riqualificazione",
       "Delibera comunale di adesione",
@@ -184,7 +184,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-30",
     "scadenza_testo": "30 set 2026",
-    "giorni": -16,
+    "giorni": -19,
     "checklist": [
       "Profilo su portale Funding & Tenders UE",
       "Partenariato multi-attore (comune + terzo settore)",
@@ -222,7 +222,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-10",
     "scadenza_testo": "10 dic 2026",
-    "giorni": 55,
+    "giorni": 52,
     "checklist": [
       "Idea progettuale (fase 1) su Chàiros",
       "Bene assegnato da massimo 3 anni",
@@ -255,7 +255,7 @@
     "stato": "chiuso",
     "scadenza": "2026-01-01",
     "scadenza_testo": "Chiuso — graduatorie già approvate",
-    "giorni": -288,
+    "giorni": -291,
     "checklist": [
       "Progetto tecnico di rigenerazione urbana"
     ],
@@ -286,7 +286,7 @@
     "stato": "chiuso",
     "scadenza": "2026-01-01",
     "scadenza_testo": "Fase di presentazione domande conclusa",
-    "giorni": -288,
+    "giorni": -291,
     "checklist": [
       "Verificare direttamente su casaitalia.governo.it lo stato aggiornato"
     ],
@@ -324,7 +324,7 @@
     "stato": "chiuso",
     "scadenza": "2026-02-02",
     "scadenza_testo": "2 feb 2026",
-    "giorni": -256,
+    "giorni": -259,
     "checklist": [
       "Partenariato con ente pubblico proprietario dell'immobile",
       "Titolo di disponibilità del bene",
@@ -358,7 +358,7 @@
     "stato": "chiuso",
     "scadenza": "2026-07-22",
     "scadenza_testo": "22 lug 2026",
-    "giorni": -86,
+    "giorni": -89,
     "checklist": [
       "Progetto tecnico impianto sportivo",
       "Titolo di disponibilità dell'area"
@@ -390,7 +390,7 @@
     "stato": "chiuso",
     "scadenza": "2026-08-31",
     "scadenza_testo": "31 ago 2026",
-    "giorni": -46,
+    "giorni": -49,
     "checklist": [
       "Delibera comunale di adesione"
     ],
@@ -421,7 +421,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-18",
     "scadenza_testo": "18 set 2026",
-    "giorni": -28,
+    "giorni": -31,
     "checklist": [
       "Costituzione partenariato 2-5 soggetti",
       "Requisito anzianità capofila ≥2 anni",
@@ -454,7 +454,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-22",
     "scadenza_testo": "22 set 2026",
-    "giorni": -24,
+    "giorni": -27,
     "checklist": [
       "Modulistica richiesta via email a iniziative@fispo.it",
       "Descrizione del servizio (mensa o dormitorio)"
@@ -486,7 +486,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-30",
     "scadenza_testo": "30 set 2026",
-    "giorni": -16,
+    "giorni": -19,
     "checklist": [
       "Partenariato ≥3 enti su piattaforma Chàiros",
       "Almeno 65% risorse gestite dal Terzo settore",
@@ -519,7 +519,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-30",
     "scadenza_testo": "30 set 2026",
-    "giorni": -16,
+    "giorni": -19,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -550,7 +550,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-30",
     "scadenza_testo": "30 set 2026",
-    "giorni": -16,
+    "giorni": -19,
     "checklist": [
       "Accreditamento SCU dell'ente",
       "Progetto di programma di intervento",
@@ -589,7 +589,7 @@
     "stato": "chiuso",
     "scadenza": "2026-10-08",
     "scadenza_testo": "8 ott 2026",
-    "giorni": -8,
+    "giorni": -11,
     "checklist": [
       "Accesso SPID+PEC+firma digitale",
       "Accordo di partenariato con ente locale",
@@ -619,10 +619,10 @@
     ],
     "beneficiari": "Diocesi, Istituti Religiosi, Società di Vita Apostolica, enti ecclesiastici collegati (parrocchie, fondazioni di culto) — non comuni direttamente.",
     "importo": "Max 300.000 € (nuove strutture) / 200.000 € (ristrutturazioni), dotazione 48.500.000 €, cofinanziamento minimo 15%",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-16",
     "scadenza_testo": "16 ott 2026",
-    "giorni": 0,
+    "giorni": -3,
     "checklist": [
       "Titolo di disponibilità dell'immobile",
       "Progetto tecnico di realizzazione/riqualificazione",
@@ -652,10 +652,10 @@
     ],
     "beneficiari": "ODV, APS, Fondazioni del Terzo Settore iscritte RUNTS con sede in Lombardia.",
     "importo": "Progetti grande scala 100.000-125.000 € (80% pubblico/20% cofinanziamento); piccola scala 39.000-50.000 € (dotazione complessiva 8.432.666 €)",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-16",
     "scadenza_testo": "16 ott 2026",
-    "giorni": 0,
+    "giorni": -3,
     "checklist": [
       "Iscrizione RUNTS con sede in Lombardia",
       "Piano di cofinanziamento 20%",
@@ -687,7 +687,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-22",
     "scadenza_testo": "22 ott 2026",
-    "giorni": 6,
+    "giorni": 3,
     "checklist": [
       "Accesso SPID su servizi.lavoro.gov.it",
       "Modello E su piattaforma Open Impact",
@@ -719,7 +719,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-31",
     "scadenza_testo": "31 dic 2026",
-    "giorni": 76,
+    "giorni": 73,
     "checklist": [
       "Domanda a segreteria@fispo.it",
       "Descrizione della linea di intervento scelta"
@@ -752,7 +752,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-31",
     "scadenza_testo": "31 dic 2026",
-    "giorni": 76,
+    "giorni": 73,
     "checklist": [
       "Contatto preliminare su piattaforma Re@dy",
       "Progettazione di dettaglio (fase 2)",
@@ -881,7 +881,7 @@
     "stato": "chiuso",
     "scadenza": "2026-03-09",
     "scadenza_testo": "9 mar 2026",
-    "giorni": -221,
+    "giorni": -224,
     "checklist": [
       "Progetto di promozione turistico-culturale"
     ],
@@ -911,7 +911,7 @@
     "stato": "chiuso",
     "scadenza": "2026-06-30",
     "scadenza_testo": "30 giu 2026",
-    "giorni": -108,
+    "giorni": -111,
     "checklist": [
       "Iscrizione RUNTS o qualifica SIAVS",
       "Evidenza dei risultati della soluzione testata"
@@ -943,7 +943,7 @@
     "stato": "chiuso",
     "scadenza": "2026-08-03",
     "scadenza_testo": "3 ago 2026",
-    "giorni": -74,
+    "giorni": -77,
     "checklist": [
       "Iscrizione RUNTS/registro associazioni"
     ],
@@ -974,7 +974,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-10",
     "scadenza_testo": "10 set 2026",
-    "giorni": -36,
+    "giorni": -39,
     "checklist": [
       "Iscrizione RUNTS"
     ],
@@ -1005,7 +1005,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-18",
     "scadenza_testo": "18 set 2026",
-    "giorni": -28,
+    "giorni": -31,
     "checklist": [
       "Iscrizione RASD/RUNTS del capofila",
       "Accordo di partenariato con almeno 2 soggetti",
@@ -1038,7 +1038,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-21",
     "scadenza_testo": "21 set 2026",
-    "giorni": -25,
+    "giorni": -28,
     "checklist": [
       "Progetto di raccolta fondi su produzionidalbasso.com",
       "Piano di comunicazione campagna",
@@ -1071,7 +1071,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-28",
     "scadenza_testo": "28 set 2026",
-    "giorni": -18,
+    "giorni": -21,
     "checklist": [
       "Iscrizione RUNTS entro 7/8/2026",
       "Piano di cofinanziamento 10%"
@@ -1102,7 +1102,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-30",
     "scadenza_testo": "30 set 2026",
-    "giorni": -16,
+    "giorni": -19,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -1133,7 +1133,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-30",
     "scadenza_testo": "30 set 2026",
-    "giorni": -16,
+    "giorni": -19,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -1164,7 +1164,7 @@
     "stato": "chiuso",
     "scadenza": "2026-10-15",
     "scadenza_testo": "15 ott 2026 (prossima finestra utile)",
-    "giorni": -1,
+    "giorni": -4,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -1195,7 +1195,7 @@
     "stato": "chiuso",
     "scadenza": "2026-10-15",
     "scadenza_testo": "15 ott 2026",
-    "giorni": -1,
+    "giorni": -4,
     "checklist": [
       "Raggruppamento di almeno 4 organismi",
       "Rendicontazione a consuntivo",
@@ -1224,10 +1224,10 @@
     ],
     "beneficiari": "Partenariati di almeno 3 soggetti, capofila ETS RUNTS ≥2 anni + altro ETS + ente musicale.",
     "importo": "250.000–400.000 €, cofinanziamento minimo 10% (dotazione 5.000.000 €)",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-16",
     "scadenza_testo": "16 ott 2026",
-    "giorni": 0,
+    "giorni": -3,
     "checklist": [
       "Partenariato su piattaforma Chàiros",
       "Almeno 65% risorse a ETS",
@@ -1260,7 +1260,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-25",
     "scadenza_testo": "25 ott 2026",
-    "giorni": 9,
+    "giorni": 6,
     "checklist": [
       "Bilancio ultimo esercizio",
       "Invio via email a AIDOS",
@@ -1292,7 +1292,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-26",
     "scadenza_testo": "26 ott 2026",
-    "giorni": 10,
+    "giorni": 7,
     "checklist": [
       "Doppio invio obbligatorio (email + raccomandata cartacea)",
       "Progetto di realizzazione entro 31/10/2027"
@@ -1324,7 +1324,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-05",
     "scadenza_testo": "5 nov 2026",
-    "giorni": 20,
+    "giorni": 17,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -1355,7 +1355,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-13",
     "scadenza_testo": "13 nov 2026",
-    "giorni": 28,
+    "giorni": 25,
     "checklist": [
       "Colloquio telefonico preliminare obbligatorio",
       "Piano di sostenibilità economica del progetto"
@@ -1387,7 +1387,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-16",
     "scadenza_testo": "16 nov 2026",
-    "giorni": 31,
+    "giorni": 28,
     "checklist": [
       "Verificare requisiti di rilievo regionale della manifestazione",
       "Piano organizzativo dell'iniziativa"
@@ -1419,7 +1419,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-23",
     "scadenza_testo": "23 nov 2026",
-    "giorni": 38,
+    "giorni": 35,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -1450,7 +1450,7 @@
     "stato": "aperto",
     "scadenza": "2027-06-30",
     "scadenza_testo": "30 giu 2027",
-    "giorni": 257,
+    "giorni": 254,
     "checklist": [
       "Partenariato su piattaforma Chàiros",
       "Individuazione co-finanziatore",
@@ -1483,7 +1483,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-31",
     "scadenza_testo": "31 dic 2026",
-    "giorni": 76,
+    "giorni": 73,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -1705,7 +1705,7 @@
     "stato": "chiuso",
     "scadenza": "2026-01-01",
     "scadenza_testo": "Chiuso — esiti già pubblicati (maggio 2026)",
-    "giorni": -288,
+    "giorni": -291,
     "checklist": [
       "Iscrizione RUNTS"
     ],
@@ -1735,7 +1735,7 @@
     "stato": "chiuso",
     "scadenza": "2026-03-13",
     "scadenza_testo": "13 mar 2026",
-    "giorni": -217,
+    "giorni": -220,
     "checklist": [
       "Iscrizione RUNTS"
     ],
@@ -1765,7 +1765,7 @@
     "stato": "chiuso",
     "scadenza": "2026-06-05",
     "scadenza_testo": "5 giu 2026",
-    "giorni": -133,
+    "giorni": -136,
     "checklist": [
       "Iscrizione RUNTS"
     ],
@@ -1795,7 +1795,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-18",
     "scadenza_testo": "18 set 2026",
-    "giorni": -28,
+    "giorni": -31,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -1826,7 +1826,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-18",
     "scadenza_testo": "18 set 2026",
-    "giorni": -28,
+    "giorni": -31,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -1857,7 +1857,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-18",
     "scadenza_testo": "18 set 2026",
-    "giorni": -28,
+    "giorni": -31,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -1888,7 +1888,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-20",
     "scadenza_testo": "20 set 2026",
-    "giorni": -26,
+    "giorni": -29,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -1919,7 +1919,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-29",
     "scadenza_testo": "29 set 2026",
-    "giorni": -17,
+    "giorni": -20,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -1951,7 +1951,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-29",
     "scadenza_testo": "29 set 2026",
-    "giorni": -17,
+    "giorni": -20,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -1982,7 +1982,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-30",
     "scadenza_testo": "30 set 2026",
-    "giorni": -16,
+    "giorni": -19,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2013,7 +2013,7 @@
     "stato": "chiuso",
     "scadenza": "2026-10-01",
     "scadenza_testo": "1 ott 2026",
-    "giorni": -15,
+    "giorni": -18,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2044,7 +2044,7 @@
     "stato": "chiuso",
     "scadenza": "2026-10-01",
     "scadenza_testo": "1 ott 2026",
-    "giorni": -15,
+    "giorni": -18,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2075,7 +2075,7 @@
     "stato": "chiuso",
     "scadenza": "2026-10-01",
     "scadenza_testo": "1 ott 2026",
-    "giorni": -15,
+    "giorni": -18,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2107,7 +2107,7 @@
     "stato": "chiuso",
     "scadenza": "2026-10-01",
     "scadenza_testo": "1 ott 2026",
-    "giorni": -15,
+    "giorni": -18,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2139,7 +2139,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-22",
     "scadenza_testo": "22 ott 2026",
-    "giorni": 6,
+    "giorni": 3,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2171,7 +2171,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-31",
     "scadenza_testo": "31 ott 2026",
-    "giorni": 15,
+    "giorni": 12,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2203,7 +2203,7 @@
     "stato": "aperto",
     "scadenza": "2027-09-22",
     "scadenza_testo": "22 set 2027",
-    "giorni": 341,
+    "giorni": 338,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2235,7 +2235,7 @@
     "stato": "aperto",
     "scadenza": "2027-10-14",
     "scadenza_testo": "14 ott 2027",
-    "giorni": 363,
+    "giorni": 360,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2267,7 +2267,7 @@
     "stato": "aperto",
     "scadenza": "2027-12-31",
     "scadenza_testo": "31 dic 2027",
-    "giorni": 441,
+    "giorni": 438,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2425,7 +2425,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-30",
     "scadenza_testo": "30 set 2026",
-    "giorni": -16,
+    "giorni": -19,
     "checklist": [
       "Delibera dell'ente",
       "Progetto di intervento sul bene culturale",
@@ -2458,7 +2458,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-05",
     "scadenza_testo": "5 dic 2026",
-    "giorni": 50,
+    "giorni": 47,
     "checklist": [
       "Delibera dell'ente",
       "Progetto tecnico dell'impianto sportivo",
@@ -2491,7 +2491,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-30",
     "scadenza_testo": "30 nov 2026",
-    "giorni": 45,
+    "giorni": 42,
     "checklist": [
       "Individuazione dell'immobile pubblico inutilizzato",
       "Progetto di riuso/riqualificazione",
@@ -2525,7 +2525,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-30",
     "scadenza_testo": "30 ott 2026",
-    "giorni": 14,
+    "giorni": 11,
     "checklist": [
       "Delibera dell'ente",
       "Proposta progettuale Casa dell'Architettura/Urban Center",
@@ -2558,7 +2558,7 @@
     "stato": "chiuso",
     "scadenza": "2026-10-12",
     "scadenza_testo": "12 ott 2026",
-    "giorni": -4,
+    "giorni": -7,
     "checklist": [
       "Individuazione interventi di accessibilità",
       "Progetto tecnico",
@@ -2591,7 +2591,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-24",
     "scadenza_testo": "24 set 2026",
-    "giorni": -22,
+    "giorni": -25,
     "checklist": [
       "Iscrizione RUNTS",
       "Progetto di rilevanza comunale/sovracomunale",
@@ -2621,10 +2621,10 @@
     ],
     "beneficiari": "Comuni/Enti proprietari di edifici scolastici iscritti in ARES.",
     "importo": "Non specificato nella comunicazione consultata — verificare l'avviso ufficiale.",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-16",
     "scadenza_testo": "16 ott 2026",
-    "giorni": 0,
+    "giorni": -3,
     "checklist": [
       "Iscrizione edificio scolastico in ARES",
       "Progetto di riqualificazione/efficientamento",
@@ -2723,7 +2723,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-04",
     "scadenza_testo": "4 nov 2026",
-    "giorni": 19,
+    "giorni": 16,
     "checklist": [
       "Individuazione del sito di valore simbolico europeo",
       "Dossier di candidatura",
@@ -2756,7 +2756,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-29",
     "scadenza_testo": "29 ott 2026",
-    "giorni": 13,
+    "giorni": 10,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2794,7 +2794,7 @@
     "stato": "chiuso",
     "scadenza": "2026-05-28",
     "scadenza_testo": "28 mag 2026",
-    "giorni": -141,
+    "giorni": -144,
     "checklist": [
       "Titolo di disponibilità dell'immobile",
       "Progetto sperimentale di housing sociale"
@@ -2833,7 +2833,7 @@
     "stato": "chiuso",
     "scadenza": "2026-03-18",
     "scadenza_testo": "18 mar 2026",
-    "giorni": -212,
+    "giorni": -215,
     "checklist": [
       "Titolo di disponibilità del bene storico-artistico",
       "Piano di valorizzazione culturale"
@@ -2872,7 +2872,7 @@
     "stato": "chiuso",
     "scadenza": "2025-11-03",
     "scadenza_testo": "3 nov 2025",
-    "giorni": -347,
+    "giorni": -350,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando"
     ],
@@ -2909,7 +2909,7 @@
     "stato": "chiuso",
     "scadenza": "2025-10-30",
     "scadenza_testo": "30 ott 2025",
-    "giorni": -351,
+    "giorni": -354,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando"
     ],
@@ -2947,7 +2947,7 @@
     "stato": "chiuso",
     "scadenza": "2025-07-16",
     "scadenza_testo": "16 lug 2025",
-    "giorni": -457,
+    "giorni": -460,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Partenariato con Comuni delle aree interne"
@@ -2986,7 +2986,7 @@
     "stato": "chiuso",
     "scadenza": "2024-11-29",
     "scadenza_testo": "29 nov 2024",
-    "giorni": -686,
+    "giorni": -689,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando"
     ],
@@ -3023,7 +3023,7 @@
     "stato": "chiuso",
     "scadenza": "2024-09-25",
     "scadenza_testo": "25 set 2024",
-    "giorni": -751,
+    "giorni": -754,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando"
     ],
@@ -3053,7 +3053,7 @@
     "stato": "chiuso",
     "scadenza": "2026-03-31",
     "scadenza_testo": "31 mar 2026",
-    "giorni": -199,
+    "giorni": -202,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando"
     ],
@@ -3084,7 +3084,7 @@
     "stato": "chiuso",
     "scadenza": "2025-04-30",
     "scadenza_testo": "30 apr 2025",
-    "giorni": -534,
+    "giorni": -537,
     "checklist": [
       "Requisiti dimensionali molto selettivi (30+ dipendenti)",
       "Verificare requisiti di ammissibilità sulla pagina del bando"
@@ -3116,7 +3116,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-29",
     "scadenza_testo": "29 set (anno non specificato dalla fonte, presumibilmente edizione passata)",
-    "giorni": -17,
+    "giorni": -20,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando"
     ],
@@ -3146,7 +3146,7 @@
     "stato": "aperto",
     "scadenza": "2027-04-23",
     "scadenza_testo": "23 apr 2027",
-    "giorni": 189,
+    "giorni": 186,
     "checklist": [
       "Iscrizione RUNTS con sede in Lombardia",
       "Verifica soglia ricavi (piccole realtà)",
@@ -3179,7 +3179,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-30",
     "scadenza_testo": "30 set 2026",
-    "giorni": -16,
+    "giorni": -19,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Progetto educativo/laboratoriale di prevenzione dispersione"
@@ -3211,7 +3211,7 @@
     "stato": "chiuso",
     "scadenza": "2026-03-18",
     "scadenza_testo": "18 mar 2026 (data prorogata)",
-    "giorni": -212,
+    "giorni": -215,
     "checklist": [
       "Iscrizione RUNTS",
       "Partenariato minimo 3 enti (fascia B)"
@@ -3242,7 +3242,7 @@
     "stato": "chiuso",
     "scadenza": "2026-07-07",
     "scadenza_testo": "7 lug 2026",
-    "giorni": -101,
+    "giorni": -104,
     "checklist": [
       "Iscrizione RUNTS Piemonte"
     ],
@@ -3272,7 +3272,7 @@
     "stato": "chiuso",
     "scadenza": "2026-07-15",
     "scadenza_testo": "15 lug 2026",
-    "giorni": -93,
+    "giorni": -96,
     "checklist": [
       "Iscrizione RUNTS",
       "Partenariato minimo 3 soggetti"
@@ -3368,7 +3368,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-20",
     "scadenza_testo": "20 set 2026",
-    "giorni": -26,
+    "giorni": -29,
     "checklist": [
       "Titolo di disponibilità del bene confiscato",
       "Progetto di ristrutturazione per uso collettivo"
@@ -3400,7 +3400,7 @@
     "stato": "chiuso",
     "scadenza": "2026-08-12",
     "scadenza_testo": "12 ago 2026",
-    "giorni": -65,
+    "giorni": -68,
     "checklist": [
       "Progetto tecnico di digitalizzazione/dotazione strumentale"
     ],
@@ -3461,7 +3461,7 @@
     "stato": "chiuso",
     "scadenza": "2026-10-07",
     "scadenza_testo": "07 ott 2026 ore 12:00",
-    "giorni": -9,
+    "giorni": -12,
     "checklist": [
       "Candidatura tramite form Google entro le 12:00 del 30/09/2026",
       "1 solo collaboratore candidabile per organizzazione",
@@ -3494,7 +3494,7 @@
     "stato": "chiuso",
     "scadenza": "2026-10-15",
     "scadenza_testo": "15 ottobre 2026",
-    "giorni": -1,
+    "giorni": -4,
     "checklist": [],
     "note": "Lo studio può supportare l'ente nella redazione della documentazione di candidatura e nel rafforzamento organizzativo richiesto dal bando. [Ciclo 2026-10-16: scadenza superata, bando chiuso d'ufficio sulla base della data.]",
     "fonte": "Infobandi CSVnet",
@@ -3522,7 +3522,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-22",
     "scadenza_testo": "22 ottobre 2026",
-    "giorni": 6,
+    "giorni": 3,
     "checklist": [],
     "note": "",
     "fonte": "Infobandi CSVnet",
@@ -3551,7 +3551,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-29",
     "scadenza_testo": "29 ottobre 2026",
-    "giorni": 13,
+    "giorni": 10,
     "checklist": [],
     "note": "",
     "fonte": "Infobandi CSVnet",
@@ -3579,7 +3579,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-29",
     "scadenza_testo": "29 ottobre 2026",
-    "giorni": 13,
+    "giorni": 10,
     "checklist": [],
     "note": "",
     "fonte": "Infobandi CSVnet",
@@ -3608,7 +3608,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-29",
     "scadenza_testo": "29 ottobre 2026",
-    "giorni": 13,
+    "giorni": 10,
     "checklist": [],
     "note": "",
     "fonte": "Infobandi CSVnet",
@@ -3636,7 +3636,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-31",
     "scadenza_testo": "31 ottobre 2026",
-    "giorni": 15,
+    "giorni": 12,
     "checklist": [],
     "note": "",
     "fonte": "Infobandi CSVnet",
@@ -3664,7 +3664,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-31",
     "scadenza_testo": "31 ottobre 2026",
-    "giorni": 15,
+    "giorni": 12,
     "checklist": [],
     "note": "",
     "fonte": "Infobandi CSVnet",
@@ -3693,7 +3693,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-31",
     "scadenza_testo": "31 ottobre 2026",
-    "giorni": 15,
+    "giorni": 12,
     "checklist": [],
     "note": "",
     "fonte": "Infobandi CSVnet",
@@ -3721,7 +3721,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-20",
     "scadenza_testo": "20 novembre 2026",
-    "giorni": 35,
+    "giorni": 32,
     "checklist": [],
     "note": "",
     "fonte": "Infobandi CSVnet",
@@ -3750,7 +3750,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-30",
     "scadenza_testo": "30 novembre 2026",
-    "giorni": 45,
+    "giorni": 42,
     "checklist": [],
     "note": "",
     "fonte": "Infobandi CSVnet",
@@ -3834,7 +3834,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-30",
     "scadenza_testo": "30 nov 2026",
-    "giorni": 45,
+    "giorni": 42,
     "checklist": [
       "Verifica proprietà/disponibilità dell'immobile",
       "Progetto di recupero/ristrutturazione",
@@ -3868,7 +3868,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-31",
     "scadenza_testo": "31 dic 2026",
-    "giorni": 76,
+    "giorni": 73,
     "checklist": [
       "Verifica iscrizione RUNTS",
       "DURC regolare",
@@ -3902,7 +3902,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-30",
     "scadenza_testo": "30 nov 2026",
-    "giorni": 45,
+    "giorni": 42,
     "checklist": [
       "Verifica requisiti soggetto proponente",
       "Progetto di leva civica",
@@ -3934,7 +3934,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-15",
     "scadenza_testo": "15 dic 2026",
-    "giorni": 60,
+    "giorni": 57,
     "checklist": [
       "Verifica requisiti Pro Loco",
       "Progetto di attività sociale/culturale/comunitaria"
@@ -3966,7 +3966,7 @@
     "stato": "aperto",
     "scadenza": "2027-10-31",
     "scadenza_testo": "31 ott 2027",
-    "giorni": 380,
+    "giorni": 377,
     "checklist": [
       "Verifica requisiti soggetto proponente",
       "Progetto di leva civica volontaria"
@@ -3998,7 +3998,7 @@
     "stato": "aperto",
     "scadenza": "2027-01-21",
     "scadenza_testo": "21 gen 2027",
-    "giorni": 97,
+    "giorni": 94,
     "checklist": [
       "Verifica requisiti soggetto proponente",
       "Progetto formativo/orientamento STEM"
@@ -4030,7 +4030,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-30",
     "scadenza_testo": "30 set 2026",
-    "giorni": -16,
+    "giorni": -19,
     "checklist": [
       "Manifestazione di interesse",
       "Progetto di gestione biblioteca sociale"
@@ -4090,12 +4090,12 @@
     ],
     "beneficiari": "Persone fisiche (donne in condizione di malattia oncologica).",
     "importo": "Non specificato",
-    "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Sportello permanente",
-    "giorni": null,
+    "stato": "chiuso",
+    "scadenza": "2026-09-25",
+    "scadenza_testo": "Termine breve indicato da BURC n.187/2026 (circa 24-25/09/2026, data esatta non confermata)",
+    "giorni": -24,
     "checklist": [],
-    "note": "Sovvenzione a persone fisiche, non a enti/associazioni.",
+    "note": "Manifestazione di interesse per enti (OdV, fondazioni, ETS e amministrazioni comunali) che ospitano attività di peer support; le sovvenzioni economiche vanno poi alle singole beneficiarie. Verificare se ci sono nuove finestre; la nostra nota precedente (\"persona fisica\") va integrata con questo secondo livello (enti selezionati tramite manifestazione d'interesse).",
     "fonte": "CSV Cosenza",
     "link": "https://csvcosenza.it/bandi/un-passo-in-piu-sovvenzione-a-donne-in-condizione-di-malattia-oncologica/",
     "tag": [
@@ -4104,8 +4104,8 @@
     "punteggio": 1,
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
-    "nota_pertinenza": "Sovvenzione a persone fisiche: nessun bisogno di assistenza tecnica alla documentazione progettuale per lo studio.",
-    "aggiornato_il": "2026-10-07"
+    "nota_pertinenza": "Doppio livello: enti (anche Comuni) selezionati per ospitare l'attività + sovvenzioni a persone fisiche. Termine già passato; verificare prossima edizione.",
+    "aggiornato_il": "2026-10-19"
   },
   {
     "id": "basilicata-sostegno-socioassistenziale",
@@ -4121,7 +4121,7 @@
     "stato": "chiuso",
     "scadenza": "2026-10-15",
     "scadenza_testo": "15 ott 2026",
-    "giorni": -1,
+    "giorni": -4,
     "checklist": [
       "Verifica forma giuridica ammessa (Allegato A)",
       "Business plan/progetto",
@@ -4155,7 +4155,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-30",
     "scadenza_testo": "30 nov 2026",
-    "giorni": 45,
+    "giorni": 42,
     "checklist": [
       "Richiesta di patrocinio oneroso",
       "Programma dell'iniziativa"
@@ -4186,7 +4186,7 @@
     "stato": "chiuso",
     "scadenza": "2026-10-15",
     "scadenza_testo": "15 ott 2026",
-    "giorni": -1,
+    "giorni": -4,
     "checklist": [],
     "note": "Avviso di rinnovo organi associativi, non bando di finanziamento. SCADENZA IMMINENTE (15/10/2026). [Ciclo 2026-10-16: scadenza superata, bando chiuso d'ufficio sulla base della data.]",
     "fonte": "Portale Bandi Regione Basilicata (CeBas)",
@@ -4214,7 +4214,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-29",
     "scadenza_testo": "29 ott 2026",
-    "giorni": 13,
+    "giorni": 10,
     "checklist": [
       "Costituzione rete/partenariato territoriale",
       "Progetto in due fasi",
@@ -4247,7 +4247,7 @@
     "stato": "aperto",
     "scadenza": "2027-02-18",
     "scadenza_testo": "18 feb 2027",
-    "giorni": 125,
+    "giorni": 122,
     "checklist": [
       "Costituzione rete/partenariato",
       "Progetto territoriale 0-3 anni"
@@ -4279,7 +4279,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-09",
     "scadenza_testo": "09 dic 2026",
-    "giorni": 54,
+    "giorni": 51,
     "checklist": [
       "Progetto di accessibilità museale",
       "Piano di cofinanziamento 20%"
@@ -4372,7 +4372,7 @@
     "stato": "chiuso",
     "scadenza": "2026-09-30",
     "scadenza_testo": "30 set 2026",
-    "giorni": -16,
+    "giorni": -19,
     "checklist": [],
     "note": "",
     "fonte": "Fondazione Cariplo",
@@ -4400,7 +4400,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-31",
     "scadenza_testo": "31 ott 2026",
-    "giorni": 15,
+    "giorni": 12,
     "checklist": [
       "Verifica iscrizione come circolo/associazione di cultura cinematografica",
       "Rendiconto attività di diffusione"
@@ -4431,7 +4431,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-30",
     "scadenza_testo": "30 ott 2026",
-    "giorni": 14,
+    "giorni": 11,
     "checklist": [],
     "note": "",
     "fonte": "Ricerca mirata PNRR/statale",
@@ -4459,7 +4459,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-02",
     "scadenza_testo": "02 nov 2026",
-    "giorni": 17,
+    "giorni": 14,
     "checklist": [],
     "note": "",
     "fonte": "Ricerca mirata PNRR/statale",
@@ -4487,7 +4487,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-16",
     "scadenza_testo": "16 dic 2026",
-    "giorni": 61,
+    "giorni": 58,
     "checklist": [],
     "note": "",
     "fonte": "Ricerca mirata PNRR/statale",
@@ -4516,7 +4516,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-18",
     "scadenza_testo": "18 nov 2026",
-    "giorni": 33,
+    "giorni": 30,
     "checklist": [],
     "note": "",
     "fonte": "Ricerca mirata PNRR/statale",
@@ -4545,7 +4545,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-30",
     "scadenza_testo": "30 nov 2026, ore 23:59",
-    "giorni": 45,
+    "giorni": 42,
     "checklist": [
       "Candidatura online su piattaforma WIIN (inglese o francese)",
       "Documentazione costitutiva ente (almeno 2 anni di attività)",
@@ -4612,7 +4612,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-30",
     "scadenza_testo": "30 ott 2026, ore 23:59 (prorogata)",
-    "giorni": 14,
+    "giorni": 11,
     "checklist": [
       "Manifestazione di interesse (Allegato 1)",
       "Disciplinare (Allegato 2)",
@@ -4646,10 +4646,10 @@
     ],
     "beneficiari": "Non esplicitati nella pagina pubblica (verosimilmente enti pubblici/comuni proprietari di edifici strategici); verificare Allegato A.",
     "importo": "5.907.165,66 € (importo totale)",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-16",
     "scadenza_testo": "16 ott 2026, ore 23:59",
-    "giorni": 0,
+    "giorni": -3,
     "checklist": [
       "Allegato A - Avviso Pubblico",
       "Allegato B - Modello domanda di contributo",
@@ -4684,7 +4684,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-30",
     "scadenza_testo": "30 ott 2026",
-    "giorni": 14,
+    "giorni": 11,
     "checklist": [
       "Manifestazione d'interesse",
       "Documentazione sulla filiera/prodotto promosso"
@@ -4997,7 +4997,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-30",
     "scadenza_testo": "Sportello dalle 10:00 del 30/07/2026 alle 12:00 del 30/10/2026, salvo chiusura anticipata per esaurimento fondi",
-    "giorni": 14,
+    "giorni": 11,
     "checklist": [
       "Verifica appartenenza alle zone di qualità dell'aria IT0118/IT0119/IT0120",
       "Domanda telematica via sistema FINDOM",
@@ -5030,7 +5030,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-18",
     "scadenza_testo": "Domande dalle 12:00 del 19/10/2026 alle 18:00 del 18/11/2026 (le domande non sono ancora aperte alla data odierna)",
-    "giorni": 33,
+    "giorni": 30,
     "checklist": [
       "Domanda tramite piattaforma informatica di Sport e Salute S.p.A.",
       "Progetto tensostruttura polifunzionale"
@@ -5062,7 +5062,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-31",
     "scadenza_testo": "31 ott 2026",
-    "giorni": 15,
+    "giorni": 12,
     "checklist": [
       "Domanda online",
       "Preventivo del nuovo veicolo",
@@ -5095,7 +5095,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-06",
     "scadenza_testo": "6 nov 2026",
-    "giorni": 21,
+    "giorni": 18,
     "checklist": [
       "Domanda firmata digitalmente da legale rappresentante e responsabile del servizio finanziario",
       "Convenzione di gestione associata",
@@ -5127,7 +5127,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-18",
     "scadenza_testo": "18 dic 2026",
-    "giorni": 63,
+    "giorni": 60,
     "checklist": [
       "Proposta progettuale",
       "Biografia della figura proposta",
@@ -5162,7 +5162,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-05",
     "scadenza_testo": "5 nov 2026",
-    "giorni": 20,
+    "giorni": 17,
     "checklist": [
       "Domanda online",
       "Programma della manifestazione",
@@ -5191,10 +5191,10 @@
     ],
     "beneficiari": "Associazioni, fondazioni ed enti del Terzo settore regolarmente costituiti, iscritti al Registro delle persone giuridiche e/o al RUNTS.",
     "importo": "Non specificato (capitolo U0000B41901, esercizio 2026)",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-17",
     "scadenza_testo": "17 ott 2026 (ore 13:00)",
-    "giorni": 1,
+    "giorni": -2,
     "checklist": [
       "Verificare iscrizione RUNTS / Registro persone giuridiche",
       "Leggere Det. G12184 del 09/09/2026 (specificazione art. 13 e proroga)",
@@ -5228,7 +5228,7 @@
     "stato": "aperto",
     "scadenza": "2027-01-21",
     "scadenza_testo": "21 gen 2027, ore 13:00",
-    "giorni": 97,
+    "giorni": 94,
     "checklist": [
       "Verifica forma giuridica del soggetto responsabile (privato no-profit, non associazione di categoria/sindacato)",
       "Costituzione partenariato con 3-8 soggetti incluse almeno 3 scuole",
@@ -5263,7 +5263,7 @@
     "stato": "aperto",
     "scadenza": "2026-10-22",
     "scadenza_testo": "22 ott 2026, ore 16:00",
-    "giorni": 6,
+    "giorni": 3,
     "checklist": [
       "Verifica forma giuridica richiedente (ETS, associazione, ente pubblico non economico)",
       "Progetto educativo su ambiente/sostenibilità",
@@ -5295,15 +5295,15 @@
     "beneficiari": "Organizzazioni private senza scopo di lucro, costituite da almeno due anni, con sede legale in Italia (RUNTS, o atto costitutivo/statuto che attesti l'assenza di scopo di lucro per enti non iscritti).",
     "importo": "870.000 € complessivi; quota per partner definita in fase di coprogettazione",
     "stato": "aperto",
-    "scadenza": "2026-11-12",
-    "scadenza_testo": "12 nov 2026, ore 14:00",
-    "giorni": 27,
+    "scadenza": "2027-01-21",
+    "scadenza_testo": "21/01/2027",
+    "giorni": 94,
     "checklist": [
       "Verifica forma giuridica non profit costituita da almeno 2 anni",
       "Candidatura online su piattaforma Re@dy",
       "Esperienza documentata in formazione digitale e gestione progetti complessi"
     ],
-    "note": "Selezione competitiva di partner operativi (non erogazione a sportello): coprogettazione indicativa gen-apr 2027, avvio attività entro maggio 2027.",
+    "note": "Selezione competitiva di partner operativi (non erogazione a sportello): coprogettazione indicativa gen-apr 2027, avvio attività entro maggio 2027. [Nota 2026-10-19: scadenza aggiornata da 2026-11-12 a 2027-01-21 secondo la nuova scansione di Infobandi CSVnet; verificare sulla fonte primaria in caso di discrepanza.]",
     "fonte": "Infobandi CSVnet",
     "link": "https://www.fondorepubblicadigitale.it/bandi/call-for-partnerships-idea/",
     "tag": [
@@ -5314,6 +5314,288 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Selezione competitiva per soli 2-4 partner operativi in settori molto specifici (cinema, musica, giornalismo): pertinenza moderata per un profilo ETS generalista.",
-    "aggiornato_il": "2026-10-16"
+    "aggiornato_il": "2026-10-19"
+  },
+  {
+    "id": "cn-internationaltransfund",
+    "titolo": "International Trans Fund – contributi 2026",
+    "ente": "International Trans Fund",
+    "oggetto": "Sostegno a organizzazioni che promuovono l'auto-organizzazione del movimento trans, i diritti e l'autodeterminazione delle persone trans.",
+    "area_testo": "Non indicata",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Organizzazioni guidate da persone trans (non confermato se corrispondano ad associazioni in senso tecnico).",
+    "importo": "Non indicato",
+    "stato": "aperto",
+    "scadenza": "2026-12-01",
+    "scadenza_testo": "01/12/2026",
+    "giorni": 43,
+    "checklist": [],
+    "note": "",
+    "fonte": "Infobandi CSVnet",
+    "link": "https://infobandi.csvnet.it/international-trans-fund-contributi-2026/",
+    "tag": [
+      "diritti-umani-pace",
+      "parita-di-genere"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiari non del tutto chiari: organizzazioni guidate da persone trans, verosimilmente associazioni ma non confermato nella pagina elenco.",
+    "aggiornato_il": "2026-10-19"
+  },
+  {
+    "id": "cn-naveitalia-preselezione",
+    "titolo": "Nave Italia — Preselezione dei progetti da realizzarsi nel 2027",
+    "ente": "Nave Italia",
+    "oggetto": "Preselezione di progetti di riabilitazione e inclusione sociale a bordo del veliero Nave Italia, da realizzarsi nella primavera-estate 2027.",
+    "area_testo": "Non indicata",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Non indicati; progetti rivolti a persone con disabilità/disagio, verosimilmente proposti da associazioni.",
+    "importo": "Non indicato",
+    "stato": "aperto",
+    "scadenza": "2026-12-07",
+    "scadenza_testo": "07/12/2026",
+    "giorni": 49,
+    "checklist": [],
+    "note": "",
+    "fonte": "Infobandi CSVnet",
+    "link": "https://infobandi.csvnet.it/nave-italia-preselezione-dei-progetti-da-realizzarsi-nel-2027/",
+    "tag": [
+      "disabilita"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiari non indicati esplicitamente nella pagina elenco; verosimilmente associazioni che operano su disabilità/disagio sociale — da verificare sulla scheda di dettaglio.",
+    "aggiornato_il": "2026-10-19"
+  },
+  {
+    "id": "cariplo-luoghiplurali",
+    "titolo": "Luoghi plurali",
+    "ente": "Fondazione Cariplo",
+    "oggetto": "Sostegno a progetti di rigenerazione e gestione condivisa di spazi/luoghi pubblici per comunità plurali.",
+    "area_testo": "Lombardia e province ex-Cariplo",
+    "regioni": [
+      "Lombardia"
+    ],
+    "beneficiari": "Enti pubblici e soggetti privati non profit, anche in partenariato.",
+    "importo": "100.000–750.000 € (dotazione complessiva 5.000.000 €)",
+    "stato": "chiuso",
+    "scadenza": "2026-06-30",
+    "scadenza_testo": "Fase 1 scaduta il 30/06/2026",
+    "giorni": -111,
+    "checklist": [],
+    "note": "Bando già scaduto in questo ciclo; incluso per monitorare la probabile prossima edizione/fase, essendo un tipico caso di partenariato enti pubblici/ETS.",
+    "fonte": "Fondazione Cariplo",
+    "link": "https://www.fondazionecariplo.it/bando/luoghi-plurali/",
+    "tag": [
+      "rigenerazione-urbana",
+      "immobili-pubblici"
+    ],
+    "punteggio": 2,
+    "ruolo": "assistenza_rup",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Alta pertinenza potenziale (partenariati enti pubblici/ETS su spazi pubblici) ma bando già scaduto in questo ciclo: monitorare riapertura.",
+    "aggiornato_il": "2026-10-19"
+  },
+  {
+    "id": "duemari-associazioniculturali-rc",
+    "titolo": "Avviso pubblico Associazioni Culturali — contributi per l'anno 2026",
+    "ente": "Città Metropolitana di Reggio Calabria",
+    "oggetto": "Contributi ad associazioni culturali e altre organizzazioni private per attività e iniziative culturali nell'anno 2026.",
+    "area_testo": "Città Metropolitana di Reggio Calabria",
+    "regioni": [
+      "Calabria"
+    ],
+    "beneficiari": "Associazioni culturali e altre organizzazioni private.",
+    "importo": "Non indicato",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Da verificare (non indicata nell'estratto)",
+    "giorni": null,
+    "checklist": [],
+    "note": "",
+    "fonte": "CSV dei Due Mari (Reggio Calabria)",
+    "link": "https://www.csvrc.it/2026/04/avviso-pubblico-associazioni-culturali-per-contributi-per-lanno-2026/",
+    "tag": [
+      "musica-cultura"
+    ],
+    "punteggio": 3,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Ente erogatore pubblico locale (Città Metropolitana); scadenza non indicata nell'estratto, verificare pagina di dettaglio.",
+    "aggiornato_il": "2026-10-19"
+  },
+  {
+    "id": "lazio-spazioargento",
+    "titolo": "Misura \"Spazio Argento\"",
+    "ente": "Regione Lazio",
+    "oggetto": "Contributi per l'adeguamento dei locali destinati ai centri anziani nei piccoli Comuni.",
+    "area_testo": "Lazio — Comuni fino a 5.000 abitanti",
+    "regioni": [
+      "Lazio"
+    ],
+    "beneficiari": "Comuni fino a 5.000 abitanti.",
+    "importo": "Fino a 30.000 € per Comune (dotazione complessiva 1.500.000 €)",
+    "stato": "aperto",
+    "scadenza": "2026-11-13",
+    "scadenza_testo": "13/11/2026",
+    "giorni": 25,
+    "checklist": [],
+    "note": "",
+    "fonte": "Regione Lazio — Avvisi e Bandi",
+    "link": "https://bandiavvisi.regione.lazio.it/bandiavvisi/",
+    "tag": [
+      "famiglia"
+    ],
+    "punteggio": 4,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-10-19"
+  },
+  {
+    "id": "lazio-polizialocaleplus2026",
+    "titolo": "Polizia Locale PLUS 2026 — parte corrente",
+    "ente": "Regione Lazio",
+    "oggetto": "Finanziamento ai Comuni per il potenziamento delle attività di polizia locale (parte corrente).",
+    "area_testo": "Lazio",
+    "regioni": [
+      "Lazio"
+    ],
+    "beneficiari": "Comuni.",
+    "importo": "Non indicato",
+    "stato": "aperto",
+    "scadenza": "2026-10-29",
+    "scadenza_testo": "29/10/2026",
+    "giorni": 10,
+    "checklist": [],
+    "note": "",
+    "fonte": "Regione Lazio — Avvisi e Bandi",
+    "link": "https://bandiavvisi.regione.lazio.it/bandiavvisi/",
+    "tag": [
+      "sicurezza-urbana"
+    ],
+    "punteggio": 4,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-10-19"
+  },
+  {
+    "id": "basilicata-efficientamentoenergetico",
+    "titolo": "Avviso pubblico per il finanziamento di interventi di efficientamento energetico e miglioramento degli impianti di illuminazione pubblica",
+    "ente": "Regione Basilicata",
+    "oggetto": "Finanziamento di interventi di efficientamento energetico e miglioramento degli impianti di illuminazione pubblica.",
+    "area_testo": "Basilicata",
+    "regioni": [
+      "Basilicata"
+    ],
+    "beneficiari": "Probabilmente Comuni (da verificare sulla scheda di dettaglio).",
+    "importo": "15.982.142,82 €",
+    "stato": "aperto",
+    "scadenza": "2027-02-15",
+    "scadenza_testo": "15/02/2027",
+    "giorni": 119,
+    "checklist": [],
+    "note": "",
+    "fonte": "Portale Bandi Regione Basilicata (CeBas)",
+    "link": "https://portalebandi.regione.basilicata.it/avvisi-e-bandi/avviso-pubblico-per-il-finanziamento-di-interventi-di-efficientamento-energetico-e-miglioramento-degli-impianti-di-illuminazione-pubblica/",
+    "tag": [
+      "ambiente-sostenibilita"
+    ],
+    "punteggio": 3,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Beneficiari non confermati esplicitamente come Comuni nell'estratto; importo rilevante, verificare la scheda di dettaglio.",
+    "aggiornato_il": "2026-10-19"
+  },
+  {
+    "id": "lazio-natale2026-turismo",
+    "titolo": "Progetti di promozione turistica S.S. Natale 2026",
+    "ente": "Regione Lazio",
+    "oggetto": "Progetti di promozione turistica a tema natalizio sul territorio regionale.",
+    "area_testo": "Lazio",
+    "regioni": [
+      "Lazio"
+    ],
+    "beneficiari": "Non confermati nell'estratto; probabili Comuni/Pro Loco.",
+    "importo": "Non indicato",
+    "stato": "aperto",
+    "scadenza": "2026-10-29",
+    "scadenza_testo": "29/10/2026",
+    "giorni": 10,
+    "checklist": [],
+    "note": "",
+    "fonte": "Regione Lazio — Avvisi e Bandi",
+    "link": "https://bandiavvisi.regione.lazio.it/bandiavvisi/",
+    "tag": [
+      "famiglia"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiari non confermati nell'estratto della piattaforma (SPA senza link diretto); probabile ma non certo il coinvolgimento di Comuni/Pro Loco.",
+    "aggiornato_il": "2026-10-19"
+  },
+  {
+    "id": "lazio-costruirefuturo3",
+    "titolo": "Costruire Futuro — III edizione",
+    "ente": "Regione Lazio",
+    "oggetto": "Interventi ai sensi della L.R. 7/2007 per il reinserimento socio-lavorativo di persone detenute negli istituti penitenziari.",
+    "area_testo": "Lazio",
+    "regioni": [
+      "Lazio"
+    ],
+    "beneficiari": "Non confermati nell'estratto; possibile coinvolgimento di ETS/cooperative sociali attive in ambito penitenziario.",
+    "importo": "Non indicato",
+    "stato": "aperto",
+    "scadenza": "2026-10-29",
+    "scadenza_testo": "29/10/2026",
+    "giorni": 10,
+    "checklist": [],
+    "note": "",
+    "fonte": "Regione Lazio — Avvisi e Bandi",
+    "link": "https://bandiavvisi.regione.lazio.it/bandiavvisi/",
+    "tag": [
+      "poverta-marginalita"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiari non confermati nell'estratto; edizioni precedenti hanno coinvolto ETS/cooperative operanti in carcere.",
+    "aggiornato_il": "2026-10-19"
+  },
+  {
+    "id": "christmascities-capitalenatale2027",
+    "titolo": "Capitale/Città/Villaggio europeo del Natale 2027",
+    "ente": "Christmas Cities Network (sotto l'alto patronato del Parlamento Europeo)",
+    "oggetto": "Assegnazione di un titolo onorifico a Comuni che promuovono iniziative natalizie di inclusione e sostenibilità, per fascia di popolazione.",
+    "area_testo": "Europa/Italia",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Comuni italiani (ed europei) di ogni dimensione.",
+    "importo": "Nessun contributo economico — riconoscimento/visibilità",
+    "stato": "aperto",
+    "scadenza": "2026-10-31",
+    "scadenza_testo": "31/10/2026",
+    "giorni": 12,
+    "checklist": [],
+    "note": "",
+    "fonte": "Ricerca mirata PNRR/statale",
+    "link": "https://lentepubblica.it/bandi-e-finanziamenti/aperto-il-bando-per-la-capitale-europea-del-natale-2027/",
+    "tag": [
+      "famiglia"
+    ],
+    "punteggio": 1,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Non è un bando di finanziamento in senso stretto: assegna un titolo onorifico senza contributo economico. Incluso per completezza, nel caso un Comune richieda assistenza nella stesura della candidatura.",
+    "aggiornato_il": "2026-10-19"
   }
 ]

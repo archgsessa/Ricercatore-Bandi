@@ -1,40 +1,34 @@
 {
-  "ultima_verifica": "2026-10-16T06:06:44+00:00",
+  "ultima_verifica": "2026-10-19T06:16:51+00:00",
   "fonti_saltate": [
-    "Europaconcorsi: saltata (Chrome non connesso in questa sessione — browser extension non raggiungibile).",
-    "professionearchitetto.it/concorsi: controllate pagine 1-2 di 8 (nessun bando di redazione documentazione/assistenza tecnica pertinente; tutti concorsi di idee/progettazione/design o call for papers; la query ?page=2 ha restituito il medesimo contenuto della pagina 1, probabile paginazione non indicizzabile via fetch — pagine 3-8 non verificate in questo ciclo).",
-    "Fondazione Cariplo: verificata solo pagina 1 di 6 (6 bandi attivi mostrati: Carcere e comunità in rete, Anita Reti Mille, Musei e accessibilità universale, Cofinanziamento Progetti Europei, Nuovi ponti culturali, vEIColo — quest'ultimo per enti di ricerca/università, scaduto il 30/09/2026 e fuori profilo, non incluso; pagine 2-6 non controllate in questo ciclo).",
-    "Regione Lombardia — Bandi Terzo Settore e Volontariato: verificata solo pagina 1 di 14 (6 bandi, tutti già in archivio; pagine 2-14 non controllate in questo ciclo).",
-    "CSV Cosenza: verificata solo pagina 1 (10 bandi, già in archivio o fuori profilo; pagine successive — 13 totali — non controllate in questo ciclo).",
-    "Fondazione CDP: nessuna pagina bandi attiva stabile; ricerca web mirata non ha individuato bandi nuovi pertinenti al profilo oltre a \"A scuola per il futuro\" (già in archivio, chiuso dal 30/09/2026).",
-    "CSV dei Due Mari (Reggio Calabria): bandi in corso verificati, nessuna novità rispetto all'archivio; sezione \"scaduti\" non ulteriormente approfondita."
+    "Europaconcorsi: saltata (estensione Chrome non connessa in questa sessione — browser extension non raggiungibile).",
+    "CSV Lombardia: controllata solo la sezione propria 'Per le organizzazioni' (poco popolata, 2 voci); la banca dati esterna collegata infobandi.csvnet.it è la stessa Infobandi CSVnet già scansionata per intero come fonte principale, quindi non duplicata.",
+    "Fondazione Cariplo: paginazione gestita via JavaScript lato client, non superabile con fetch statico (?page=/?pagina= non hanno effetto). Letta la pagina 1 (6 bandi 'Attivo') e verificati singolarmente 20 dei 36 URL noti dalla sitemap dedicata; i 16 bandi non controllati individualmente sono a prevalente tema ricerca scientifica/universitaria, bassa pertinenza stimata.",
+    "Fondazione CDP: nessuna pagina bandi con elenco server-side renderizzato (la pagina ufficiale usa filtri JS); dati ricostruiti tramite ricerca web e comunicati stampa — nessun bando risulta attualmente attivo al 19/10/2026.",
+    "professionearchitetto.it/concorsi: verificata con certezza solo la pagina 1 di 8; tutti i pattern di paginazione testati (?page=, ?paged=, /page/N/, /concorsi/N) restituiscono il contenuto della pagina 1 — probabile paginazione gestita via JS lato client, non superabile senza browser con rendering JS. Nessun bando pertinente trovato sulla pagina 1.",
+    "Regione Lombardia — Bandi Terzo Settore e Volontariato: verificate 8 pagine di 14 (1,2,3,4,5,6,10,14); la paginazione è gestita via JS puro senza parametri URL. Pattern osservato: tutti i bandi 'Aperto' sono concentrati nelle pagine 1-2, dalla pagina 3 in poi (a campione fino alla 14) risultano tutti 'Chiuso' — copertura stimata del 100% dei bandi effettivamente aperti.",
+    "Portale Bandi Regione Basilicata (CeBas): 9.705 record totali in archivio, nessuna paginazione individuabile per una scansione esaustiva; controllati i primi risultati della sezione 'In scadenza' (97 risultati) e una ricerca interna per 'terzo settore' (10 risultati, 3 verificati singolarmente — tutti scaduti). Copertura parziale.",
+    "CSV Lombardia, CSV Cosenza, CSV dei Due Mari (RC): CSV Cosenza coperta per intero (13/13 pagine); CSV dei Due Mari coperta per intero (9/9 bandi, pagina unica)."
   ],
   "nuovi": [
-    {
-      "id": "frd-idea-callforpartnerships",
-      "dal": "2026-10-16"
-    }
+    {"id": "cn-internationaltransfund", "dal": "2026-10-19"},
+    {"id": "cn-naveitalia-preselezione", "dal": "2026-10-19"},
+    {"id": "cariplo-luoghiplurali", "dal": "2026-10-19"},
+    {"id": "duemari-associazioniculturali-rc", "dal": "2026-10-19"},
+    {"id": "lazio-spazioargento", "dal": "2026-10-19"},
+    {"id": "lazio-polizialocaleplus2026", "dal": "2026-10-19"},
+    {"id": "basilicata-efficientamentoenergetico", "dal": "2026-10-19"},
+    {"id": "lazio-natale2026-turismo", "dal": "2026-10-19"},
+    {"id": "lazio-costruirefuturo3", "dal": "2026-10-19"},
+    {"id": "christmascities-capitalenatale2027", "dal": "2026-10-19"}
   ],
   "chiusi": [
-    {
-      "id": "cn-sprechialimentari",
-      "dal": "2026-10-16"
-    },
-    {
-      "id": "cn-festivalcori",
-      "dal": "2026-10-16"
-    },
-    {
-      "id": "cn-pop2026",
-      "dal": "2026-10-16"
-    },
-    {
-      "id": "basilicata-sostegno-socioassistenziale",
-      "dal": "2026-10-16"
-    },
-    {
-      "id": "basilicata-forum-giovani",
-      "dal": "2026-10-16"
-    }
+    {"id": "cn-oratori", "dal": "2026-10-19"},
+    {"id": "lom-terzosettore2628", "dal": "2026-10-19"},
+    {"id": "cn-notecomunita", "dal": "2026-10-19"},
+    {"id": "campania-scuola-viva-cantiere2", "dal": "2026-10-19"},
+    {"id": "basilicata-piano-antisismico", "dal": "2026-10-19"},
+    {"id": "lazio-promozione-turistica-ets-2026", "dal": "2026-10-19"},
+    {"id": "cosenza-donnemalattiaoncologica", "dal": "2026-10-19"}
   ]
 }
