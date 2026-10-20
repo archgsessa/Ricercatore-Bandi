@@ -118,6 +118,15 @@
       "regione": "Lazio",
       "note": "Sezione ufficiale avvisi regionali (documenti con data di scadenza e proroghe). Integrata dopo segnale concreto: avviso promozione turistica per ETS (Det. G11427/2026, scad. 17/10/2026).",
       "data_integrazione": "2026-10-12"
+    },
+    {
+      "id": "regione-campania-notizie-avvisi",
+      "nome": "Regione Campania — Notizie e Avvisi",
+      "url": "https://www.regione.campania.it/regione-informa/notizie",
+      "categoria": "ente-regionale",
+      "regione": "Campania",
+      "note": "Portale istituzionale unico per notizie/avvisi/bandi della Regione Campania (centinaia di pagine). Filtrabile per 'Tematica News' (es. Cultura e turismo) e per 'Persone News' (es. Pubbliche amministrazioni ed enti pubblici, Associazioni e terzo settore) — usare questi filtri per restringere la ricerca invece di scorrere tutto l'elenco. Qui è stato pubblicato l'avviso sul fondo illuminazione architettonica dei monumenti (L.R. 27/2019 art.1 c.11, agg. L.R. 2/2026) segnalato dall'utente il 20/10/2026, non ancora intercettato dal monitoraggio.",
+      "data_integrazione": "2026-10-20"
     }
   ],
   "rotazione_regioni": {
