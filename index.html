@@ -326,11 +326,39 @@ function scoreByActiveTags(bando, activeTagsSet){
   return score;
 }
 
-function computeScoredList(activeTagsSet){
-  if (activeTagsSet.size === 0) return [];
+// ricerca testuale diretta: confronta le parole della richiesta con il testo
+// stesso del bando (titolo, oggetto, beneficiari), per intercettare corrispondenze
+// che il solo dizionario di sinonimi/temi potrebbe non coprire.
+function queryStems(text){
+  return normalizeTxt(text).split(' ')
+    .filter(w => w.length >= 3 && !STOPWORDS.has(w))
+    .map(stemWord)
+    .filter(st => st && !GENERIC_STEMS.has(st));
+}
+
+function textScore(bando, stems){
+  if (!stems || !stems.length) return 0;
+  const haystack = normalizeTxt([bando.titolo, bando.oggetto, bando.beneficiari].filter(Boolean).join(' '));
+  let hits = 0;
+  const seen = new Set();
+  stems.forEach(st => {
+    if (seen.has(st)) return; // ogni parola distinta della richiesta conta una sola volta
+    seen.add(st);
+    if (haystack.indexOf(st) !== -1) hits++;
+  });
+  return hits;
+}
+
+function combinedScore(bando, activeTagsSet, stems){
+  return scoreByActiveTags(bando, activeTagsSet) + textScore(bando, stems) * 0.4;
+}
+
+function computeScoredList(activeTagsSet, stems){
+  stems = stems || [];
+  if (activeTagsSet.size === 0 && stems.length === 0) return [];
   const scored = DATA
     .filter(b => b.stato === 'aperto')
-    .map(b => ({ b, score: scoreByActiveTags(b, activeTagsSet) }))
+    .map(b => ({ b, score: combinedScore(b, activeTagsSet, stems) }))
     .filter(x => x.score > 0);
   scored.sort((x,y) => {
     if (y.score !== x.score) return y.score - x.score;
@@ -343,6 +371,7 @@ function computeScoredList(activeTagsSet){
 }
 
 let needActiveTags = new Set();
+let needQueryStems = [];
 
 function renderThemeChips(){
   const el = document.getElementById('needThemes');
@@ -381,7 +410,7 @@ function renderThemeChips(){
 function renderResultsList(scoredList){
   const el = document.getElementById('needResults');
   el.innerHTML = '';
-  if (needActiveTags.size === 0){
+  if (needActiveTags.size === 0 && needQueryStems.length === 0){
     return;
   }
   if (scoredList.length === 0){
@@ -397,19 +426,22 @@ function renderResultsList(scoredList){
 
 function renderNeedResults(){
   renderThemeChips();
-  const scored = computeScoredList(needActiveTags);
+  const scored = computeScoredList(needActiveTags, needQueryStems);
   renderResultsList(scored);
+  renderNuovi();
 }
 
 document.getElementById('needBtn').addEventListener('click', () => {
   const text = document.getElementById('need').value;
   const counts = activatedTags(text);
   needActiveTags = new Set(Object.keys(counts));
+  needQueryStems = queryStems(text);
   renderNeedResults();
 });
 document.getElementById('needClear').addEventListener('click', () => {
   document.getElementById('need').value = '';
   needActiveTags = new Set();
+  needQueryStems = [];
   renderNeedResults();
 });
 
@@ -600,12 +632,26 @@ function renderNuovi(){
   const voci = (VERIFICA && Array.isArray(VERIFICA.nuovi)) ? VERIFICA.nuovi : [];
   const dalPerId = {};
   voci.forEach(v => { if (v && v.id && v.dal && new Date(v.dal+'T00:00:00') >= limite) dalPerId[v.id] = v.dal; });
-  const nuovi = DATA.filter(b => dalPerId[b.id] && b.stato === 'aperto');
+  let nuovi = DATA.filter(b => dalPerId[b.id] && b.stato === 'aperto');
+
+  // se è attiva una ricerca per esigenza, i nuovi bandi non pertinenti scompaiono
+  const ricercaAttiva = needActiveTags.size > 0 || needQueryStems.length > 0;
+  if (ricercaAttiva){
+    nuovi = nuovi.filter(b => combinedScore(b, needActiveTags, needQueryStems) > 0);
+  }
+
   nuovi.sort((a,b) => (dalPerId[b.id] > dalPerId[a.id] ? 1 : dalPerId[b.id] < dalPerId[a.id] ? -1 : (b.punteggio||0)-(a.punteggio||0)));
+
   el.innerHTML = '';
+  if (ricercaAttiva && nuovi.length === 0){
+    return; // nessun nuovo bando pertinente alla ricerca in corso: il box scompare del tutto
+  }
   const box = document.createElement('section');
   box.className = 'nuovi-box';
-  box.innerHTML = '<p class="nuovi-t">NUOVI BANDI</p><p class="nuovi-sub">Bandi aperti aggiunti negli ultimi ' + GIORNI_NUOVO + ' giorni</p>';
+  const sottotitolo = ricercaAttiva
+    ? ('Bandi aperti aggiunti negli ultimi ' + GIORNI_NUOVO + ' giorni, pertinenti alla tua ricerca')
+    : ('Bandi aperti aggiunti negli ultimi ' + GIORNI_NUOVO + ' giorni');
+  box.innerHTML = '<p class="nuovi-t">NUOVI BANDI</p><p class="nuovi-sub">' + sottotitolo + '</p>';
   if (nuovi.length === 0){
     box.insertAdjacentHTML('beforeend', '<div class="nuovi-empty">Nessun nuovo bando negli ultimi ' + GIORNI_NUOVO + ' giorni.</div>');
   } else {
