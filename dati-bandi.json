@@ -5029,13 +5029,13 @@
     "importo": "Dotazione complessiva 5.150.000 €; contributo a fondo perduto fino a 100.000 € per Comune, copertura fino al 100% dell'investimento",
     "stato": "aperto",
     "scadenza": "2026-11-18",
-    "scadenza_testo": "Domande dalle 12:00 del 19/10/2026 alle 18:00 del 18/11/2026 (le domande non sono ancora aperte alla data odierna)",
+    "scadenza_testo": "Domande dalle 12:00 del 19/10/2026 alle 18:00 del 18/11/2026",
     "giorni": 28,
     "checklist": [
       "Domanda tramite piattaforma informatica di Sport e Salute S.p.A.",
       "Progetto tensostruttura polifunzionale"
     ],
-    "note": "Nessun cofinanziamento obbligatorio richiesto. Buon target per piccoli comuni laziali.",
+    "note": "Nessun cofinanziamento obbligatorio richiesto. Buon target per piccoli comuni laziali. Confermato il 21/10/2026 che le domande sono effettivamente aperte dal 19/10/2026 (dato ri-verificato anche come canale alternativo per il monitoraggio della Regione Lazio, il cui portale ufficiale e' bloccato da robots.txt).",
     "fonte": "Regione Lazio / Sport e Salute S.p.A.",
     "link": "https://www.sportesalute.eu/spaziosport2026.html",
     "tag": [
@@ -5046,7 +5046,7 @@
     "ruolo": "assistenza_rup",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-09"
+    "aggiornato_il": "2026-10-21"
   },
   {
     "id": "lombardia-rinnovaveicoli-enti",
@@ -5778,6 +5778,35 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Altissima pertinenza: beneficiari enti locali, richiede un Progetto di Fattibilità Tecnico-Economica (PFTE) firmato digitalmente — tipico incarico di supporto tecnico-amministrativo per lo studio. Scadenza imminente (26/10/2026, sportello a esaurimento fondi).",
+    "aggiornato_il": "2026-10-21"
+  },
+  {
+    "id": "fabbrica-spazicivici-gioventu2026",
+    "titolo": "Fabbrica – Spazi Civici per la Gioventù",
+    "ente": "Dipartimento per le Politiche Giovanili e il Servizio Civile Universale / Sport e Salute S.p.A.",
+    "oggetto": "Creazione e attivazione di spazi civici dedicati ai giovani (14-35 anni) per benessere, inclusione, partecipazione e formazione.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Capofila ASD/SSD (RASD) o ETS (associazione/fondazione RUNTS), in partenariato di almeno 3 soggetti, anche enti pubblici.",
+    "importo": "Da 150.000 a 250.000 € per progetto.",
+    "stato": "aperto",
+    "scadenza": "2026-12-18",
+    "scadenza_testo": "Candidature dalle ore 12:00 del 04/11/2026 alle ore 12:00 del 18/12/2026",
+    "giorni": 58,
+    "checklist": [],
+    "note": "Individuato tramite ricerca mirata sui siti ministeriali il 21/10/2026. Partenariato minimo di 3 soggetti, anche enti pubblici: possibile ruolo di assistenza tecnica sia per il capofila ETS/ASD sia per un Comune partner.",
+    "fonte": "Dipartimento Politiche Giovanili — Avvisi pubblici",
+    "link": "https://www.politichegiovanili.gov.it/media/e1epw1mw/fabbrica_avviso-pubblico.pdf",
+    "tag": [
+      "giovani",
+      "terzo-settore-generico"
+    ],
+    "punteggio": 4,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Alta pertinenza: importo significativo (150.000-250.000 €), partenariato che può includere enti pubblici, tipico caso di supporto alla redazione della documentazione progettuale.",
     "aggiornato_il": "2026-10-21"
   }
 ]

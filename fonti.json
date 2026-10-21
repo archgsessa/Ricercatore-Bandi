@@ -127,6 +127,69 @@
       "regione": "Campania",
       "note": "Portale istituzionale unico per notizie/avvisi/bandi della Regione Campania (centinaia di pagine). Filtrabile per 'Tematica News' (es. Cultura e turismo) e per 'Persone News' (es. Pubbliche amministrazioni ed enti pubblici, Associazioni e terzo settore) — usare questi filtri per restringere la ricerca invece di scorrere tutto l'elenco. Qui è stato pubblicato l'avviso sul fondo illuminazione architettonica dei monumenti (L.R. 27/2019 art.1 c.11, agg. L.R. 2/2026) segnalato dall'utente il 20/10/2026, non ancora intercettato dal monitoraggio.",
       "data_integrazione": "2026-10-20"
+    },
+    {
+      "id": "mic-bandi-concorsi",
+      "nome": "Ministero della Cultura — Bandi e concorsi",
+      "url": "https://cultura.gov.it/comunicati/bandi-e-concorsi",
+      "categoria": "ministero",
+      "regione": "Nazionale",
+      "note": "Elenco ufficiale bandi/concorsi del MiC (22 pagine). Contiene anche gare d'appalto e concorsi di progettazione/architettura da ESCLUDERE sempre dal nostro perimetro (lo studio non li monitora come opportunità da segnalare a clienti, essendo concorsi che lo studio presenterebbe in prima persona). Filtrare per avvisi di contributo a Comuni/ETS/associazioni. Individuato qui il bando 'Cultura nei piccoli Comuni' (DG Creatività Contemporanea), scaduto il 31/08/2026: monitorare un'eventuale seconda edizione.",
+      "data_integrazione": "2026-10-21"
+    },
+    {
+      "id": "mic-avvisi",
+      "nome": "Ministero della Cultura — Avvisi",
+      "url": "https://cultura.gov.it/comunicati/avvisi",
+      "categoria": "ministero",
+      "regione": "Nazionale",
+      "note": "Sezione avvisi pubblici del MiC, complementare alla pagina bandi e concorsi.",
+      "data_integrazione": "2026-10-21"
+    },
+    {
+      "id": "mic-portalebandidgcc",
+      "nome": "Portale Bandi DGCC (Direzione Generale Creatività Contemporanea, MiC)",
+      "url": "https://portalebandidgcc.cultura.gov.it",
+      "categoria": "ministero",
+      "regione": "Nazionale",
+      "note": "Portale dedicato ai bandi della Direzione Generale Creatività Contemporanea; ha pubblicato 'Cultura nei piccoli Comuni' (Comuni <25.000 ab. in partenariato con ETS/associazioni, 1.445.100 €, scaduto 31/08/2026) — probabile canale per future edizioni.",
+      "data_integrazione": "2026-10-21"
+    },
+    {
+      "id": "lavoro-terzosettore",
+      "nome": "Ministero del Lavoro e delle Politiche Sociali — Terzo Settore",
+      "url": "https://lavoro.gov.it/temi-e-priorita/Terzo-settore-e-responsabilita-sociale-imprese/Pagine/default",
+      "categoria": "ministero",
+      "regione": "Nazionale",
+      "note": "Sezione tematica Terzo Settore del Ministero: gli avvisi vengono pubblicati come notizie in questa pagina (non esiste una sotto-sezione 'bandi' separata). Verificato: l'Avviso 2/2026 qui pubblicato è lo stesso già tracciato come cn-avviso2terzosettore via Infobandi CSVnet, nessuna duplicazione.",
+      "data_integrazione": "2026-10-21"
+    },
+    {
+      "id": "mase-comuni-efficientamento",
+      "nome": "MASE — Comuni: progetti di efficientamento energetico e sviluppo territoriale",
+      "url": "https://www.mase.gov.it/portale/comuni-progetti-di-efficientamento-energetico-e-sviluppo-territoriale",
+      "categoria": "ministero",
+      "regione": "Nazionale",
+      "note": "Pagina del Ministero dell'Ambiente e della Sicurezza Energetica dedicata ai Comuni; qui vengono pubblicati gli avvisi 'C.S.E. — Comuni per la Sostenibilità e l'Efficienza energetica' (efficientamento energetico edifici pubblici comunali), verosimilmente con cadenza annuale. L'edizione 2025 risulta chiusa (in fase di rendicontazione nel 2026): monitorare la prossima apertura.",
+      "data_integrazione": "2026-10-21"
+    },
+    {
+      "id": "politichegiovanili-avvisi",
+      "nome": "Dipartimento Politiche Giovanili e Servizio Civile Universale — Avvisi pubblici e progetti",
+      "url": "https://www.politichegiovanili.gov.it/politiche-giovanili/avvisi-pubblici-e-progetti-di-politiche-giovanili/",
+      "categoria": "ministero",
+      "regione": "Nazionale",
+      "note": "Elenco ufficiale degli avvisi pubblici aperti del Dipartimento (più affidabile della pagina generica 'avvisi-e-bandi'). Qui individuato 'Fabbrica – Spazi Civici per la Gioventù'.",
+      "data_integrazione": "2026-10-21"
+    },
+    {
+      "id": "sportesalute-bandi",
+      "nome": "Sport e Salute S.p.A. — Bandi e Avvisi",
+      "url": "https://www.sportesalute.eu/bandi-e-avvisi/",
+      "categoria": "ministero",
+      "regione": "Nazionale",
+      "note": "Sezione principale dei bandi di finanziamento di Sport e Salute (società in house della Presidenza del Consiglio/Dipartimento Sport). NON usare la sotto-pagina 'bandi-altri-enti', che è un aggregatore di gare comunali di concessione impianti, non bandi di finanziamento. Confermato qui il bando 'Spazio Sport 2026' (Lazio, già tracciato come lazio-spaziosport2026): utile anche come canale alternativo per il monitoraggio della Regione Lazio, il cui portale ufficiale risulta bloccato da robots.txt.",
+      "data_integrazione": "2026-10-21"
     }
   ],
   "rotazione_regioni": {
@@ -156,6 +219,6 @@
     "ultima_regione_controllata": "Lazio",
     "ultima_esecuzione": "2026-10-12"
   },
-  "ultima_ricerca_fonti": "2026-10-12",
+  "ultima_ricerca_fonti": "2026-10-21",
   "ultima_manutenzione_vocabolario": "2026-10-13"
 }

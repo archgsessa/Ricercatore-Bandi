@@ -7,7 +7,8 @@
     "professionearchitetto.it/concorsi: confermata ancora una volta (terza verifica) l'impossibilità di superare la paginazione JS lato client con fetch statico; verificata solo la pagina 1 (8 bandi), nessun elemento pertinente.",
     "Regione Campania — Notizie e Avvisi (nuova fonte integrata il 20/10/2026): prima scansione completa, filtrata per 'Pubbliche amministrazioni ed enti pubblici' e 'Associazioni e terzo settore'. Individuati 4 avvisi potenzialmente pertinenti, 2 a pertinenza dubbia/informazioni incomplete (SmartLand@Pompei, aree archeologiche vesuviane) da verificare sul testo integrale al prossimo ciclo.",
     "Aggiunta fuori ciclo (21/10/2026): individuato e inserito il bando 'Illuminazione architettonica esterna dei beni monumentali 2026' della Regione Campania (segnalato dall'utente il 20/10 con foto dell'avviso), tramite ricerca mirata sulla fonte 'Regione Campania — Notizie e Avvisi' appena integrata. Scadenza 26/10/2026.",
-    "Approfondimento mirato (21/10/2026) sui 4 avvisi incompleti della fonte 'Regione Campania — Notizie e Avvisi': confermati beneficiari ETS/RUNTS per l'avviso disabilità sensoriale; confermato che la ricognizione ciclovie NON comporta finanziamento (punteggio abbassato); rimosso dal monitoraggio l'avviso SmartLand@Pompei (sollecitazione di sponsorizzazioni da privati verso la piattaforma, non un bando per enti pubblici/ETS); corretto l'avviso aree archeologiche vesuviane: ente reale Ministero della Cultura/Unità Grande Pompei, coinvolge i Comuni della Buffer Zone con una scheda progettuale ma senza importo di finanziamento confermato."
+    "Approfondimento mirato (21/10/2026) sui 4 avvisi incompleti della fonte 'Regione Campania — Notizie e Avvisi': confermati beneficiari ETS/RUNTS per l'avviso disabilità sensoriale; confermato che la ricognizione ciclovie NON comporta finanziamento (punteggio abbassato); rimosso dal monitoraggio l'avviso SmartLand@Pompei (sollecitazione di sponsorizzazioni da privati verso la piattaforma, non un bando per enti pubblici/ETS); corretto l'avviso aree archeologiche vesuviane: ente reale Ministero della Cultura/Unità Grande Pompei, coinvolge i Comuni della Buffer Zone con una scheda progettuale ma senza importo di finanziamento confermato.",
+    "Ricerca mirata sui siti ministeriali (21/10/2026), su richiesta dell'utente: aggiunte 7 nuove fonti ministeriali permanenti a fonti.json (Ministero della Cultura x3, Ministero del Lavoro/Terzo Settore, MASE, Politiche Giovanili, Sport e Salute). Trovato e inserito 1 nuovo bando ('Fabbrica – Spazi Civici per la Gioventù', Politiche Giovanili). Il bando 'Spazio Sport 2026' trovato su Sport e Salute era già tracciato (lazio-spaziosport2026): aggiornata la nota (le domande risultano ora effettivamente aperte dal 19/10). Nessun bando aperto trovato su Ministero dell'Interno/Finanza Locale (le due misure ricorrenti verificate hanno finestre annuali già chiuse) né su MASE (avviso C.S.E. 2025 in fase di rendicontazione) né su Ministero della Cultura (il bando 'Cultura nei piccoli Comuni' individuato è già scaduto il 31/08/2026)."
   ],
   "nuovi": [
     {
@@ -32,6 +33,10 @@
     },
     {
       "id": "campania-illuminazione-monumenti2026",
+      "dal": "2026-10-21"
+    },
+    {
+      "id": "fabbrica-spazicivici-gioventu2026",
       "dal": "2026-10-21"
     }
   ],
