@@ -5600,23 +5600,23 @@
   },
   {
     "id": "campania-inclusione-disabilita-sensoriale",
-    "titolo": "Interventi di inclusione sociale per persone con disabilità sensoriale",
+    "titolo": "Interventi di inclusione sociale in favore delle persone con disabilità sensoriale",
     "ente": "Regione Campania",
-    "oggetto": "Avviso pubblico per il finanziamento di interventi e progetti di inclusione sociale rivolti a persone con disabilità sensoriale (sordità, cecità, ipovisione).",
+    "oggetto": "Avviso pubblico (Decreto dirigenziale n. 403 del 16/10/2026) articolato in due linee di intervento: Linea I (disabilità visive) e Linea II (disabilità uditive), per il superamento di barriere comunicative/informative e il rafforzamento di competenze e autonomia dei destinatari.",
     "area_testo": "Campania",
     "regioni": [
       "Campania"
     ],
-    "beneficiari": "Enti del Terzo Settore ed enti gestori di servizi sociali/ambiti territoriali (da verificare il perimetro esatto dei soggetti ammessi).",
-    "importo": "Non specificato nella notizia; da verificare testo integrale dell'avviso.",
+    "beneficiari": "Enti del Terzo Settore iscritti al RUNTS (confermato: non Comuni né Ambiti territoriali).",
+    "importo": "Non indicato nel decreto/avviso 2026. Un'edizione precedente analoga (DGR 607/2023, chiusa gennaio 2024) prevedeva 450.000 € complessivi, max 75.000 € per progetto — dato storico, non confermato per il 2026.",
     "stato": "aperto",
     "scadenza": "2026-11-06",
-    "scadenza_testo": "06/11/2026",
+    "scadenza_testo": "Entro le ore 23:59 del 06/11/2026, a mezzo PEC a politiche.sociali@pec.regione.campania.it — fa fede la data di ricezione, non di invio",
     "giorni": 16,
     "checklist": [],
-    "note": "Individuato tramite la nuova fonte 'Regione Campania — Notizie e Avvisi' (integrata il 20/10/2026 su richiesta dell'utente). Testo integrale e beneficiari esatti da verificare al prossimo ciclo.",
+    "note": "Verificato il testo integrale il 21/10/2026 (Decreto dirigenziale n. 403 del 16/10/2026): beneficiari confermati ETS/RUNTS, non Comuni. Importo non indicato per il 2026; edizione storica precedente (2023) max 75.000 €/progetto, dato non confermato per l'anno corrente.",
     "fonte": "Regione Campania — Notizie e Avvisi",
-    "link": "https://www.regione.campania.it/regione-informa/notizie",
+    "link": "https://www.regione.campania.it/regione-informa/notizie/interventi-inclusione-sociale-favore-persone-disabilita-sensoriale-avviso-pubblico",
     "tag": [
       "disabilita",
       "terzo-settore-generico"
@@ -5624,93 +5624,70 @@
     "punteggio": 4,
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
-    "nota_pertinenza": "Alta pertinenza potenziale: tema inclusione disabilità con probabile coinvolgimento ETS/enti gestori, tipico ambito di supporto tecnico-amministrativo.",
-    "aggiornato_il": "2026-10-20"
+    "nota_pertinenza": "Alta pertinenza confermata: beneficiari Enti del Terzo Settore (RUNTS), rientrano pienamente nel profilo di assistenza tecnico-amministrativa dello studio. Importo non confermato per il 2026.",
+    "aggiornato_il": "2026-10-21"
   },
   {
     "id": "campania-ciclovie-manifestazione-interesse",
     "titolo": "Ricognizione percorsi cicloturistici — manifestazione d'interesse per le ciclovie campane",
     "ente": "Regione Campania",
-    "oggetto": "Manifestazione d'interesse per la ricognizione di percorsi cicloturistici esistenti o potenziali ai fini della rete regionale delle ciclovie.",
+    "oggetto": "Ricognizione/censimento dei percorsi cicloturistici esistenti o potenziali in Campania (Decreto dirigenziale n. 26 del 19/10/2026, L.R. 2/2025). La pagina dichiara esplicitamente che la presentazione dell'istanza non comporta il riconoscimento automatico del percorso né l'accesso a misure di finanziamento.",
     "area_testo": "Campania",
     "regioni": [
       "Campania"
     ],
-    "beneficiari": "Probabilmente enti locali/Comuni; da verificare il perimetro esatto dei soggetti ammessi.",
-    "importo": "Non specificato nella notizia; manifestazione d'interesse, non necessariamente un finanziamento diretto.",
+    "beneficiari": "Soggetti pubblici e privati, singoli o associati, che propongono/gestiscono/coordinano un percorso cicloturistico: Comuni, Province, Enti Parco, gestori di aree protette, GAL, Pro Loco, associazioni cicloturistiche, consorzi, imprese.",
+    "importo": "Nessun finanziamento diretto: la pagina ufficiale dichiara esplicitamente che l'istanza non comporta accesso a misure di finanziamento.",
     "stato": "aperto",
     "scadenza": "2026-11-27",
-    "scadenza_testo": "Presentazioni dal 26/10 al 27/11/2026",
+    "scadenza_testo": "Presentazione telematica dalle 00:00 del 26/10/2026 alle 23:59 del 27/11/2026, tramite Catalogo Servizi Digitali regionale (SPID/CIE/CNS)",
     "giorni": 37,
     "checklist": [],
-    "note": "Individuato tramite la nuova fonte 'Regione Campania — Notizie e Avvisi'. Pertinenza dubbia: potrebbe essere una semplice ricognizione informativa più che un bando di finanziamento; beneficiari e natura esatta da verificare.",
+    "note": "Verificato il testo integrale il 21/10/2026 (Decreto dirigenziale n. 26 del 19/10/2026): confermato che NON è un bando di finanziamento, ma una ricognizione/censimento tecnico senza stanziamento economico diretto. Mantenuto in monitoraggio solo per l'eventuale supporto alla compilazione della Scheda Tecnica di Ricognizione per un Comune/Pro Loco cliente.",
     "fonte": "Regione Campania — Notizie e Avvisi",
-    "link": "https://www.regione.campania.it/regione-informa/notizie",
+    "link": "https://servizi-digitali.regione.campania.it/Cicloturismo",
     "tag": [
       "ambiente-sostenibilita"
     ],
-    "punteggio": 2,
+    "punteggio": 1,
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
-    "nota_pertinenza": "Pertinenza dubbia: natura di manifestazione d'interesse/ricognizione, non chiaro se comporti finanziamento o supporto tecnico-amministrativo richiedibile dallo studio.",
-    "aggiornato_il": "2026-10-20"
-  },
-  {
-    "id": "campania-smartland-pompei",
-    "titolo": "Avviso esplorativo — piattaforma SmartLand@Pompei (riapertura termini)",
-    "ente": "Regione Campania",
-    "oggetto": "Riapertura termini per un avviso esplorativo relativo alla piattaforma SmartLand@Pompei, nell'ambito della valorizzazione dell'area vesuviana.",
-    "area_testo": "Campania (area vesuviana)",
-    "regioni": [
-      "Campania"
-    ],
-    "beneficiari": "Non chiari dalla notizia; probabilmente enti locali dell'area vesuviana. Da verificare.",
-    "importo": "Non specificato nella notizia.",
-    "stato": "aperto",
-    "scadenza": "2026-11-03",
-    "scadenza_testo": "03/11/2026 (termini riaperti)",
-    "giorni": 13,
-    "checklist": [],
-    "note": "Individuato tramite la nuova fonte 'Regione Campania — Notizie e Avvisi'. Pertinenza dubbia e informazioni incomplete (beneficiari, oggetto esatto, importo non chiari): da verificare sul testo integrale al prossimo ciclo prima di un eventuale approfondimento.",
-    "fonte": "Regione Campania — Notizie e Avvisi",
-    "link": "https://www.regione.campania.it/regione-informa/notizie",
-    "tag": [
-      "rigenerazione-urbana",
-      "pa-digitale"
-    ],
-    "punteggio": 2,
-    "ruolo": "da_verificare",
-    "pertinenza_bassa": true,
-    "nota_pertinenza": "Informazioni incomplete raccolte dalla sola notizia; natura e beneficiari esatti da verificare prima di assegnare un punteggio più alto.",
-    "aggiornato_il": "2026-10-20"
+    "nota_pertinenza": "Pertinenza bassa confermata: nessun finanziamento associato, è una ricognizione tecnica. Punteggio abbassato di conseguenza.",
+    "aggiornato_il": "2026-10-21"
   },
   {
     "id": "campania-aree-archeologiche-vesuviane",
     "titolo": "Aree archeologiche Pompei, Ercolano, Torre Annunziata — avviso pubblico esplorativo",
-    "ente": "Regione Campania",
-    "oggetto": "Avviso pubblico esplorativo relativo alla valorizzazione delle aree archeologiche di Pompei, Ercolano e Torre Annunziata, con candidature prorogate.",
-    "area_testo": "Campania (area vesuviana)",
+    "ente": "Ministero della Cultura — Unità Grande Pompei (UGP)",
+    "oggetto": "Manifestazione d'interesse/proposte progettuali coerenti con la tutela e valorizzazione del sito UNESCO \"Aree archeologiche di Pompei, Ercolano e Torre Annunziata\", rivolta agli 11 Comuni della Buffer Zone del sito (Pompei, Ercolano, Torre Annunziata, Portici, Torre del Greco, Trecase, Boscotrecase, Boscoreale, Castellammare di Stabia, Terzigno, Scafati). Procedimento distinto da SmartLand@Pompei (quest'ultimo rivolto a sponsorizzazioni private, non pertinente, rimosso dal monitoraggio), pur condividendo lo stesso termine perentorio finale.",
+    "area_testo": "Campania (11 Comuni della Buffer Zone del sito UNESCO Pompei/Ercolano/Torre Annunziata)",
     "regioni": [
       "Campania"
     ],
-    "beneficiari": "Non chiari dalla notizia; probabilmente enti locali dell'area vesuviana. Da verificare.",
-    "importo": "Non specificato nella notizia.",
+    "beneficiari": "Comuni dei 11 della Buffer Zone del sito UNESCO (vincolo territoriale/tematico, non di categoria di soggetto).",
+    "importo": "Non indicato in nessuna fonte consultata; non risulta un bando a fondo perduto con importo predefinito.",
     "stato": "aperto",
     "scadenza": "2026-11-03",
-    "scadenza_testo": "Candidature prorogate al 03/11/2026",
+    "scadenza_testo": "Termine perentorio 03/11/2026 (decreto n. 90 del 15/10/2026; termine originario 31/08/2026, prima proroga 30/09/2026 con decreto n. 89/2026)",
     "giorni": 13,
-    "checklist": [],
-    "note": "Individuato tramite la nuova fonte 'Regione Campania — Notizie e Avvisi'. Possibile sovrapposizione tematica con l'avviso SmartLand@Pompei; pertinenza dubbia e informazioni incomplete, da verificare sul testo integrale.",
-    "fonte": "Regione Campania — Notizie e Avvisi",
-    "link": "https://www.regione.campania.it/regione-informa/notizie",
+    "checklist": [
+      "Allegato 1 — Domanda",
+      "Allegato 2 — Scheda proposta progettuale",
+      "Allegato 3 — Dichiarazione dati personali",
+      "Invio via PEC a gpp@pec.cultura.gov.it, a pena di esclusione"
+    ],
+    "note": "Verificato il 21/10/2026: ente emittente reale è il Ministero della Cultura tramite l'Unità Grande Pompei (UGP), non la Regione Campania (che si limita a ripubblicare la notizia). Richiede una \"Scheda proposta progettuale\" (Allegato 2): tipico documento tecnico che lo studio può aiutare a redigere per un Comune della Buffer Zone. Nessun importo di finanziamento confermato in alcuna fonte: trattare come opportunità di posizionamento/programmazione più che come bando a fondo perduto.",
+    "fonte": "Regione Campania — Notizie e Avvisi (procedimento Ministero della Cultura / Unità Grande Pompei)",
+    "link": "https://www.grandepompei.beniculturali.it/index.php/avvisi-pubblici/293-avviso-esplorativo-pubblico-manifestazioni-d-interesse-per-la-sollecitazione-di-erogazioni-liberali-sponsorizzazioni-e-forme-di-partenariato-pubblico-privato-a-sostegno-della-valorizzazione-di-smartland-pompei-e-dell-attuazione-delle-azioni-immateriali-del-piano-strategico-dell-unita-grande-pompei",
     "tag": [
+      "musica-cultura",
       "rigenerazione-urbana"
     ],
-    "punteggio": 2,
-    "ruolo": "da_verificare",
-    "pertinenza_bassa": true,
-    "nota_pertinenza": "Informazioni incomplete raccolte dalla sola notizia; natura e beneficiari esatti da verificare prima di assegnare un punteggio più alto.",
-    "aggiornato_il": "2026-10-20"
+    "punteggio": 3,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Pertinenza moderata: coinvolge direttamente i Comuni (redazione di una scheda progettuale), ma senza importo di finanziamento confermato. Distinto e non sovrapposto a SmartLand@Pompei (quello sì non pertinente, rimosso).",
+    "aggiornato_il": "2026-10-21"
   },
   {
     "id": "crt-legami-in-comune",
