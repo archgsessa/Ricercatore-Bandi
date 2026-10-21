@@ -5,15 +5,38 @@
     "Regione Lazio (bandiavvisi.regione.lazio.it): oggi il sito ha restituito ROBOTS_DISALLOWED per tutte le pagine tentate (anche /robots.txt stesso), mentre ieri (19/10) era stato scansionato con successo con un approccio diverso; nessuna verifica possibile oggi, nessun aggiornamento sui bandi Lazio già tracciati (restano invariati i record lazio-spazioargento, lazio-polizialocaleplus2026, lazio-natale2026-turismo, lazio-costruirefuturo3, lazio-serviziinrete2026).",
     "Fondazione Cariplo: controllati singolarmente 20/36 bandi noti più la pagina 'Attivo' (8 risultati). Riscontrata un'incoerenza nelle etichette 'Attivo'/'Scaduto' del sito rispetto alle date di scadenza reali: alcuni bandi con scadenza futura (es. Luoghi plurali Fase2 25/02/2027) sono segnalati 'Scaduto', mentre altri con scadenza già passata (es. Veicolo, 30/09/2026) risultano ancora 'Attivo'. Aggiunta una nota sul record cariplo-luoghiplurali; le altre occorrenze (Progetti Emblematici 2026, Inequalities Research 2026, Nature Calling) hanno comunque scadenze di Fase 1 già passate rispetto a oggi e non sono quindi azionabili indipendentemente dall'etichetta del sito.",
     "professionearchitetto.it/concorsi: confermata ancora una volta (terza verifica) l'impossibilità di superare la paginazione JS lato client con fetch statico; verificata solo la pagina 1 (8 bandi), nessun elemento pertinente.",
-    "Regione Campania — Notizie e Avvisi (nuova fonte integrata il 20/10/2026): prima scansione completa, filtrata per 'Pubbliche amministrazioni ed enti pubblici' e 'Associazioni e terzo settore'. Individuati 4 avvisi potenzialmente pertinenti, 2 a pertinenza dubbia/informazioni incomplete (SmartLand@Pompei, aree archeologiche vesuviane) da verificare sul testo integrale al prossimo ciclo."
+    "Regione Campania — Notizie e Avvisi (nuova fonte integrata il 20/10/2026): prima scansione completa, filtrata per 'Pubbliche amministrazioni ed enti pubblici' e 'Associazioni e terzo settore'. Individuati 4 avvisi potenzialmente pertinenti, 2 a pertinenza dubbia/informazioni incomplete (SmartLand@Pompei, aree archeologiche vesuviane) da verificare sul testo integrale al prossimo ciclo.",
+    "Aggiunta fuori ciclo (21/10/2026): individuato e inserito il bando 'Illuminazione architettonica esterna dei beni monumentali 2026' della Regione Campania (segnalato dall'utente il 20/10 con foto dell'avviso), tramite ricerca mirata sulla fonte 'Regione Campania — Notizie e Avvisi' appena integrata. Scadenza 26/10/2026."
   ],
   "nuovi": [
-    {"id": "campania-inclusione-disabilita-sensoriale", "dal": "2026-10-20"},
-    {"id": "campania-ciclovie-manifestazione-interesse", "dal": "2026-10-20"},
-    {"id": "campania-smartland-pompei", "dal": "2026-10-20"},
-    {"id": "campania-aree-archeologiche-vesuviane", "dal": "2026-10-20"},
-    {"id": "crt-legami-in-comune", "dal": "2026-10-20"},
-    {"id": "carisap-fondo-prossimita-ets2026", "dal": "2026-10-20"}
+    {
+      "id": "campania-inclusione-disabilita-sensoriale",
+      "dal": "2026-10-20"
+    },
+    {
+      "id": "campania-ciclovie-manifestazione-interesse",
+      "dal": "2026-10-20"
+    },
+    {
+      "id": "campania-smartland-pompei",
+      "dal": "2026-10-20"
+    },
+    {
+      "id": "campania-aree-archeologiche-vesuviane",
+      "dal": "2026-10-20"
+    },
+    {
+      "id": "crt-legami-in-comune",
+      "dal": "2026-10-20"
+    },
+    {
+      "id": "carisap-fondo-prossimita-ets2026",
+      "dal": "2026-10-20"
+    },
+    {
+      "id": "campania-illuminazione-monumenti2026",
+      "dal": "2026-10-21"
+    }
   ],
   "chiusi": []
 }

@@ -55,11 +55,16 @@
   .alert-critici .item { font-size:12.5px; color:var(--ink); line-height:1.6; }
   .alert-critici .item b { color: var(--urgente); }
 
-  .nuovi-box { border:2px solid var(--accent); background:var(--accent-soft); border-radius:var(--radius-lg); padding:16px; margin-bottom:22px; }
-  .nuovi-box .nuovi-t { font-family:var(--font-display); font-weight:800; font-size:20px; letter-spacing:0.06em; color:var(--accent-ink); margin:0 0 4px; }
-  .nuovi-box .nuovi-sub { font-size:12px; color:var(--ink-soft); margin:0 0 12px; }
-  .nuovi-box .nuovi-empty { font-size:13px; color:var(--ink-soft); }
-  .nuovi-box .list { margin-top:0; }
+  .nuovi-box { border:1px solid var(--accent); background:var(--accent-soft); border-radius:var(--radius-md); padding:10px 14px; margin-bottom:16px; }
+  .nuovi-box .nuovi-t { font-family:var(--font-display); font-weight:800; font-size:13px; letter-spacing:0.06em; color:var(--accent-ink); margin:0; }
+  .nuovi-box .nuovi-sub { font-size:11px; color:var(--ink-soft); margin:0 0 8px; }
+  .nuovi-box .nuovi-empty { font-size:12px; color:var(--ink-soft); }
+  .nuovi-list-compact { display:flex; flex-direction:column; gap:5px; max-height:160px; overflow-y:auto; }
+  .nuovi-item { display:flex; flex-direction:column; gap:1px; padding:6px 9px; border-radius:var(--radius-sm); background:#fff; text-decoration:none; border:1px solid rgba(43,108,176,0.18); }
+  .nuovi-item .ni-titolo { font-size:12.5px; font-weight:700; color:var(--ink); line-height:1.3; }
+  .nuovi-item .ni-meta { font-size:11px; color:var(--ink-soft); }
+  .nuovi-item.urgente .ni-meta { color:var(--urgente); font-weight:600; }
+  .nuovi-item:hover { background:var(--accent-soft); }
 
   .stats-row { display:grid; grid-template-columns:repeat(4,1fr); gap:8px; margin-bottom:20px; }
   .stat { background:var(--surface); border-radius:var(--radius-md); padding:12px 10px; box-shadow:var(--shadow-card); text-align:center; }
@@ -467,6 +472,16 @@ function popolaFiltriArea(){
   if ([...sel.options].some(o => o.value === current)) sel.value = current;
 }
 
+function renderNuovoCompatto(b){
+  const urgente = b.stato === 'aperto' && b.giorni !== null && b.giorni !== undefined && b.giorni >= 0 && b.giorni <= 10;
+  const meta = (b.ente || '') + ' · ' + b.scadenza_testo + (urgente ? ' · tra ' + b.giorni + ' giorni' : '');
+  const tag = b.link ? 'a' : 'div';
+  const el = document.createElement(tag);
+  el.className = 'nuovi-item' + (urgente ? ' urgente' : '');
+  if (b.link){ el.href = b.link; el.target = '_blank'; el.rel = 'noopener'; }
+  el.innerHTML = '<span class="ni-titolo">' + b.titolo + '</span><span class="ni-meta">' + meta + '</span>';
+  return el;
+}
 function renderBandoCard(b){
   const urgente = b.stato === 'aperto' && b.giorni !== null && b.giorni !== undefined && b.giorni >= 0 && b.giorni <= 10;
   const el = document.createElement('div');
@@ -655,8 +670,8 @@ function renderNuovi(){
   if (nuovi.length === 0){
     box.insertAdjacentHTML('beforeend', '<div class="nuovi-empty">Nessun nuovo bando negli ultimi ' + GIORNI_NUOVO + ' giorni.</div>');
   } else {
-    const l = document.createElement('div'); l.className = 'list';
-    nuovi.forEach(b => l.appendChild(renderBandoCard(b)));
+    const l = document.createElement('div'); l.className = 'nuovi-list-compact';
+    nuovi.forEach(b => l.appendChild(renderNuovoCompatto(b)));
     box.appendChild(l);
   }
   el.appendChild(box);
