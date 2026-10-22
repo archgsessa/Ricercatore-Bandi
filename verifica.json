@@ -1,43 +1,21 @@
 {
-  "ultima_verifica": "2026-10-20T20:31:33+00:00",
+  "ultima_verifica": "2026-10-22T06:04:25+00:00",
   "fonti_saltate": [
-    "Europaconcorsi: saltata anche oggi (estensione Chrome non connessa in questa sessione).",
-    "Regione Lazio (bandiavvisi.regione.lazio.it): oggi il sito ha restituito ROBOTS_DISALLOWED per tutte le pagine tentate (anche /robots.txt stesso), mentre ieri (19/10) era stato scansionato con successo con un approccio diverso; nessuna verifica possibile oggi, nessun aggiornamento sui bandi Lazio già tracciati (restano invariati i record lazio-spazioargento, lazio-polizialocaleplus2026, lazio-natale2026-turismo, lazio-costruirefuturo3, lazio-serviziinrete2026).",
-    "Fondazione Cariplo: controllati singolarmente 20/36 bandi noti più la pagina 'Attivo' (8 risultati). Riscontrata un'incoerenza nelle etichette 'Attivo'/'Scaduto' del sito rispetto alle date di scadenza reali: alcuni bandi con scadenza futura (es. Luoghi plurali Fase2 25/02/2027) sono segnalati 'Scaduto', mentre altri con scadenza già passata (es. Veicolo, 30/09/2026) risultano ancora 'Attivo'. Aggiunta una nota sul record cariplo-luoghiplurali; le altre occorrenze (Progetti Emblematici 2026, Inequalities Research 2026, Nature Calling) hanno comunque scadenze di Fase 1 già passate rispetto a oggi e non sono quindi azionabili indipendentemente dall'etichetta del sito.",
-    "professionearchitetto.it/concorsi: confermata ancora una volta (terza verifica) l'impossibilità di superare la paginazione JS lato client con fetch statico; verificata solo la pagina 1 (8 bandi), nessun elemento pertinente.",
-    "Regione Campania — Notizie e Avvisi (nuova fonte integrata il 20/10/2026): prima scansione completa, filtrata per 'Pubbliche amministrazioni ed enti pubblici' e 'Associazioni e terzo settore'. Individuati 4 avvisi potenzialmente pertinenti, 2 a pertinenza dubbia/informazioni incomplete (SmartLand@Pompei, aree archeologiche vesuviane) da verificare sul testo integrale al prossimo ciclo.",
-    "Aggiunta fuori ciclo (21/10/2026): individuato e inserito il bando 'Illuminazione architettonica esterna dei beni monumentali 2026' della Regione Campania (segnalato dall'utente il 20/10 con foto dell'avviso), tramite ricerca mirata sulla fonte 'Regione Campania — Notizie e Avvisi' appena integrata. Scadenza 26/10/2026.",
-    "Approfondimento mirato (21/10/2026) sui 4 avvisi incompleti della fonte 'Regione Campania — Notizie e Avvisi': confermati beneficiari ETS/RUNTS per l'avviso disabilità sensoriale; confermato che la ricognizione ciclovie NON comporta finanziamento (punteggio abbassato); rimosso dal monitoraggio l'avviso SmartLand@Pompei (sollecitazione di sponsorizzazioni da privati verso la piattaforma, non un bando per enti pubblici/ETS); corretto l'avviso aree archeologiche vesuviane: ente reale Ministero della Cultura/Unità Grande Pompei, coinvolge i Comuni della Buffer Zone con una scheda progettuale ma senza importo di finanziamento confermato.",
-    "Ricerca mirata sui siti ministeriali (21/10/2026), su richiesta dell'utente: aggiunte 7 nuove fonti ministeriali permanenti a fonti.json (Ministero della Cultura x3, Ministero del Lavoro/Terzo Settore, MASE, Politiche Giovanili, Sport e Salute). Trovato e inserito 1 nuovo bando ('Fabbrica – Spazi Civici per la Gioventù', Politiche Giovanili). Il bando 'Spazio Sport 2026' trovato su Sport e Salute era già tracciato (lazio-spaziosport2026): aggiornata la nota (le domande risultano ora effettivamente aperte dal 19/10). Nessun bando aperto trovato su Ministero dell'Interno/Finanza Locale (le due misure ricorrenti verificate hanno finestre annuali già chiuse) né su MASE (avviso C.S.E. 2025 in fase di rendicontazione) né su Ministero della Cultura (il bando 'Cultura nei piccoli Comuni' individuato è già scaduto il 31/08/2026)."
+    "Europaconcorsi: saltata (estensione Chrome non connessa in questa sessione, come nei cicli precedenti).",
+    "Regione Lazio (regione.lazio.it/avvisi-e-bandi): oggi la pagina e' risultata accessibile (nessun blocco robots.txt, a differenza del 20/10), ma elenca solo avvisi di alienazione/concessione patrimoniale, nessun nuovo bando di finanziamento; i bandi lazio- già tracciati restano invariati.",
+    "Fondazione Cariplo: verificata la pagina 'Attivo' (6 bandi mostrati, pagina 1 di piu'): tutti già tracciati. Confermata la persistente incoerenza di etichettatura gia' segnalata (vEIColo appare 'Attivo' nel sito pur avendo scadenza 30/09/2026 gia' passata) — nessuna nuova verifica approfondita in questo ciclo per ragioni di tempo.",
+    "professionearchitetto.it/concorsi: confermata ancora l'impossibilita' di superare la paginazione JS; verificata la pagina 1 (8 concorsi), nessuno di redazione documentazione/assistenza tecnica per un ente (tutti concorsi di progettazione/idee/premi a cui lo studio parteciperebbe direttamente, quindi esclusi per perimetro).",
+    "CSV Lombardia: individuati 2 avvisi in homepage. Il primo ('10,5 milioni di euro al Terzo settore con l'Avviso 2/2026') e' lo stesso avviso ministeriale gia' tracciato come cn-avviso2terzosettore (nessun duplicato). Il secondo ('Avviso pubblico per l'individuazione di enti, associazioni e enti del Terzo settore', USR Lombardia) e' una selezione di enti ospitanti per studenti sospesi, non un bando di finanziamento: escluso per perimetro.",
+    "Sviluppo Campania: 2 bandi attivi verificati, entrambi rivolti a imprese/liberi professionisti, nessuno pertinente al profilo comuni/ETS/associazioni.",
+    "Fondazione CDP: nessuna pagina bandi stabile; ricerca web mirata senza risultati di bandi aperti pertinenti al profilo in questo ciclo (solo competizioni universitarie 'Valore per il Territorio' e iniziativa scolastica 'A scuola per il Futuro', entrambe non riconducibili al nostro perimetro beneficiari).",
+    "Ricerca web PNRR/statale: nessun nuovo bando di rilievo nazionale/regionale individuato in questo ciclo (risultati pertinenti solo a livello di singoli Comuni con propri avvisi locali, fuori perimetro di questo monitoraggio).",
+    "Regione Campania — Notizie e Avvisi: nessuna novita' pertinente oltre a quanto gia' tracciato (la manifestazione d'interesse ciclovie, gia' nel dataset con punteggio abbassato, resta l'unica voce vicina al profilo).",
+    "Fonti ministeriali (MiC x3, Ministero Lavoro/Terzo Settore, MASE, Politiche Giovanili, Sport e Salute): verificate ieri (21/10/2026) in un ciclo precedente; non ri-controllate oggi per limiti di tempo, nessun segnale di aggiornamento imminente."
   ],
   "nuovi": [
     {
-      "id": "campania-inclusione-disabilita-sensoriale",
-      "dal": "2026-10-20"
-    },
-    {
-      "id": "campania-ciclovie-manifestazione-interesse",
-      "dal": "2026-10-20"
-    },
-    {
-      "id": "campania-aree-archeologiche-vesuviane",
-      "dal": "2026-10-20"
-    },
-    {
-      "id": "crt-legami-in-comune",
-      "dal": "2026-10-20"
-    },
-    {
-      "id": "carisap-fondo-prossimita-ets2026",
-      "dal": "2026-10-20"
-    },
-    {
-      "id": "campania-illuminazione-monumenti2026",
-      "dal": "2026-10-21"
-    },
-    {
-      "id": "fabbrica-spazicivici-gioventu2026",
-      "dal": "2026-10-21"
+      "id": "cn-sanzeno-educazionelavoro",
+      "dal": "2026-10-22"
     }
   ],
   "chiusi": []

@@ -5808,5 +5808,38 @@
     "pertinenza_bassa": false,
     "nota_pertinenza": "Alta pertinenza: importo significativo (150.000-250.000 €), partenariato che può includere enti pubblici, tipico caso di supporto alla redazione della documentazione progettuale.",
     "aggiornato_il": "2026-10-21"
+  },
+  {
+    "id": "cn-sanzeno-educazionelavoro",
+    "titolo": "Contributi negli ambiti educazione e lavoro — Fondazione San Zeno",
+    "ente": "Fondazione San Zeno",
+    "oggetto": "Sostegno a progetti in ambito educativo (alfabetizzazione, inclusione, prevenzione della dispersione scolastica) e lavorativo (tirocini, inserimenti lavorativi, formazione professionale), con preferenza per iniziative pluriennali realizzate dove la Fondazione è già presente.",
+    "area_testo": "Nazionale/internazionale (sportello permanente)",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Enti non profit di qualsiasi natura e provenienza geografica (associazioni, ETS); anche istituti scolastici, con preferenza per istituti comprensivi e reti territoriali. I comuni non sono espressamente citati come beneficiari.",
+    "importo": "Variabile, nessun minimo/massimo previsto; proporzionato alla complessità del progetto e al numero di enti coinvolti",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Sportello permanente — invio in qualsiasi momento dell'anno, previa registrazione online",
+    "giorni": null,
+    "checklist": [
+      "Registrarsi sul portale referenti della Fondazione prima dell'invio",
+      "Verificare l'esperienza pregressa richiesta (almeno due anni) e la presenza della Fondazione sul territorio di intervento",
+      "Predisporre una proposta progettuale con ricerca fondi già avviata (cofinanziamento preferito)"
+    ],
+    "note": "Individuato su Infobandi CSVnet (pagina 5/5). Beneficiario tipico ETS/associazione o istituto scolastico; i comuni non sono menzionati esplicitamente, quindi ruolo da verificare caso per caso.",
+    "fonte": "Infobandi CSVnet",
+    "link": "https://infobandi.csvnet.it/contributi-negli-ambiti-educazione-e-lavoro/",
+    "tag": [
+      "istruzione-formazione",
+      "poverta-educativa"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiari limitati a ETS/associazioni e istituti scolastici (comuni non citati); sportello sempre aperto, bassa urgenza.",
+    "aggiornato_il": "2026-10-22"
   }
 ]
