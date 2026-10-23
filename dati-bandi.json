@@ -684,7 +684,7 @@
     ],
     "beneficiari": "ODV/APS/Fondazioni RUNTS, reti associative ex art. 41 CTS.",
     "importo": "250.000–500.000 € a progetto, copertura 80% (ODV/APS) o 50% (fondazioni), dotazione 10.533.994,88 €",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-22",
     "scadenza_testo": "22 ott 2026",
     "giorni": 1,
@@ -703,7 +703,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-10-23"
   },
   {
     "id": "cn-utilitasociale-direttrici",
@@ -2136,7 +2136,7 @@
     ],
     "beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
     "importo": "Non specificato — verificare sulla pagina del bando",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-22",
     "scadenza_testo": "22 ott 2026",
     "giorni": 1,
@@ -2155,7 +2155,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Rivolto a compagnie/organizzazioni artistiche per tournée internazionali: fuori dal profilo comuni/ETS generalista.",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-10-23"
   },
   {
     "id": "cn-premiomattei",
@@ -3519,7 +3519,7 @@
     ],
     "beneficiari": "Enti del terzo settore, associazioni ed enti locali per progetti sociali/ambientali",
     "importo": "Dotazione complessiva 1,2 milioni di euro",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-22",
     "scadenza_testo": "22 ottobre 2026",
     "giorni": 1,
@@ -3535,7 +3535,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-10-23"
   },
   {
     "id": "cn-perchicrea-nuoveopere",
@@ -5260,7 +5260,7 @@
     ],
     "beneficiari": "Istituti scolastici, enti del Terzo settore, associazioni, fondazioni ed enti di ricerca senza scopo di lucro, enti pubblici non economici.",
     "importo": "Contributo a fondo perduto fino a 8.000 € per progetto, fino al 100% dei costi ammissibili",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-22",
     "scadenza_testo": "22 ott 2026, ore 16:00",
     "giorni": 1,
@@ -5281,7 +5281,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-13"
+    "aggiornato_il": "2026-10-23"
   },
   {
     "id": "frd-idea-callforpartnerships",
@@ -5841,5 +5841,288 @@
     "pertinenza_bassa": true,
     "nota_pertinenza": "Beneficiari limitati a ETS/associazioni e istituti scolastici (comuni non citati); sportello sempre aperto, bassa urgenza.",
     "aggiornato_il": "2026-10-22"
+  },
+  {
+    "id": "mic-cittachelegge-10ed",
+    "titolo": "Città che legge — 10ª edizione",
+    "ente": "Ministero della Cultura — Centro per il libro e la lettura",
+    "oggetto": "Finanziamento di progetti integrati per la promozione del libro e della lettura, volti a creare un ecosistema locale favorevole alla lettura (circuiti culturali integrati a livello territoriale).",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Comuni che hanno ottenuto la qualifica 'Città che legge' per il triennio 2024-2025-2026 (elenco in Allegato B al bando).",
+    "importo": "1.236.062,50 € complessivi",
+    "stato": "aperto",
+    "scadenza": "2026-10-30",
+    "scadenza_testo": "30 ottobre 2026, ore 13:00",
+    "giorni": 7,
+    "checklist": [
+      "Verificare che il Comune sia nell'Allegato B (elenco qualifica 'Città che legge' 2024-2025-2026)",
+      "Predisporre il progetto integrato secondo i criteri dell'Allegato A",
+      "Invio esclusivamente online tramite piattaforma bandi.cepell.it"
+    ],
+    "note": "Individuato su Ministero della Cultura — Bandi e concorsi. Beneficiario comunale diretto, buon fit per redazione documentazione/assistenza tecnica.",
+    "fonte": "Ministero della Cultura",
+    "link": "https://centroperillibro.cultura.gov.it/wp-content/uploads/2026/09/Bando_Citta_che_legge_10ed.pdf",
+    "tag": [
+      "musica-cultura",
+      "famiglia"
+    ],
+    "punteggio": 4,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-10-23"
+  },
+  {
+    "id": "mic-leggimi06-9ed",
+    "titolo": "Leggimi 0-6 — 9ª edizione",
+    "ente": "Ministero della Cultura — Centro per il libro e la lettura",
+    "oggetto": "Finanziamento di progetti di promozione della lettura nella prima infanzia (0-6 anni), nell'ambito del Piano nazionale d'azione per la promozione della lettura 2024-2026.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Organizzazioni senza scopo di lucro attive nella promozione della lettura 0-6, in partenariato con istituzioni (Regioni, Comuni, biblioteche, ASL), associazioni, fondazioni ed ETS.",
+    "importo": "857.375 € totali — max 34.000 € (progetti locali consolidati), 17.500 € (progetti locali nuovi), 85.000 € (progetti regionali/interregionali/nazionali)",
+    "stato": "aperto",
+    "scadenza": "2026-11-10",
+    "scadenza_testo": "10 novembre 2026, ore 13:00",
+    "giorni": 18,
+    "checklist": [
+      "Individuare la sezione di finanziamento pertinente (locale consolidato/nuovo/regionale)",
+      "Costituire il partenariato con l'ente pubblico (Comune/Regione/biblioteca)",
+      "Invio online tramite piattaforma bandi.cepell.it"
+    ],
+    "note": "Individuato su Ministero della Cultura — Bandi e concorsi. ETS capofila con Comune in partenariato: ruolo tipico di assistenza alla redazione del progetto.",
+    "fonte": "Ministero della Cultura",
+    "link": "https://centroperillibro.cultura.gov.it/wp-content/uploads/2026/10/Bando_Leggimi-0-6_9a-edizione.pdf",
+    "tag": [
+      "musica-cultura",
+      "poverta-educativa"
+    ],
+    "punteggio": 3,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-10-23"
+  },
+  {
+    "id": "mic-altavoce-7ed",
+    "titolo": "Ad Alta Voce — 7ª edizione",
+    "ente": "Ministero della Cultura — Centro per il libro e la lettura",
+    "oggetto": "Sostegno a progetti che promuovono l'educazione e l'abitudine alla lettura espressiva ad alta voce (D.I. 301/2024).",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Fondazioni, associazioni culturali e altri organismi senza scopo di lucro.",
+    "importo": "428.687,50 € totali — max 65.000 € (progetti nazionali), 35.000 € (progetti locali)",
+    "stato": "aperto",
+    "scadenza": "2026-11-04",
+    "scadenza_testo": "4 novembre 2026, ore 13:00",
+    "giorni": 12,
+    "checklist": [
+      "Verificare requisiti completi sul bando integrale (PDF)",
+      "Invio online tramite piattaforma bandi.cepell.it"
+    ],
+    "note": "Individuato su Ministero della Cultura — Bandi e concorsi.",
+    "fonte": "Ministero della Cultura",
+    "link": "https://centroperillibro.cultura.gov.it/wp-content/uploads/2026/10/Bando-Ad-Alta-Voce-7a-edizione.pdf",
+    "tag": [
+      "musica-cultura"
+    ],
+    "punteggio": 3,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-10-23"
+  },
+  {
+    "id": "mic-educarelettura-9ed",
+    "titolo": "Educare alla lettura — 9ª edizione",
+    "ente": "Ministero della Cultura — Centro per il libro e la lettura",
+    "oggetto": "Sostegno a didattiche sulla lettura per scuole primarie e secondarie, con formazione degli insegnanti su Reading Literacy e letteratura giovanile (Piano nazionale lettura 2024-2026).",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Fondazioni, associazioni culturali e altri organismi senza scopo di lucro.",
+    "importo": "454.408,75 € totali — max 30.000 € per progetto, fino a esaurimento fondi",
+    "stato": "aperto",
+    "scadenza": "2026-11-13",
+    "scadenza_testo": "13 novembre 2026, ore 13:00",
+    "giorni": 21,
+    "checklist": [
+      "Verificare i criteri di valutazione in Allegato A",
+      "Invio online tramite piattaforma bandi.cepell.it"
+    ],
+    "note": "Individuato su Ministero della Cultura — Bandi e concorsi.",
+    "fonte": "Ministero della Cultura",
+    "link": "https://centroperillibro.cultura.gov.it/wp-content/uploads/2026/10/Bando-Educare-alla-lettura_9a-edizione.pdf",
+    "tag": [
+      "musica-cultura",
+      "dispersione-scolastica"
+    ],
+    "punteggio": 3,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-10-23"
+  },
+  {
+    "id": "mic-fondolettura-biblioteche2026",
+    "titolo": "Fondo promozione lettura — ulteriori contributi a sistemi bibliotecari e biblioteche scolastiche 2026",
+    "ente": "Ministero della Cultura — Direzione generale Biblioteche e istituti culturali",
+    "oggetto": "Finanziamento di progetti bibliotecari su tre linee: promozione della lettura, tutela e valorizzazione delle collezioni, riorganizzazione per maggiore efficienza (art. 22 c.7-quater D.Lgs. 50/2017).",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Sistemi bibliotecari e biblioteche scolastiche (spesso di titolarità comunale).",
+    "importo": "Dotazione annuale 1.000.000 €, nessun massimo per progetto indicato nella pagina",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Nessuna scadenza esatta indicata; bando pubblicato solitamente in aprile, round integrativo annunciato il 23/10/2026",
+    "giorni": null,
+    "checklist": [
+      "Verificare il testo integrale del bando sul sito MiC/Direzione Generale Biblioteche",
+      "Chiarire se il Comune titolare della biblioteca può presentare direttamente o solo tramite il sistema bibliotecario"
+    ],
+    "note": "Individuato su Ministero della Cultura — Avvisi (23/10/2026). Link al bando integrale non trovato nella pagina del comunicato: approfondire al prossimo ciclo.",
+    "fonte": "Ministero della Cultura",
+    "link": "https://cultura.gov.it/comunicato/29434",
+    "tag": [
+      "musica-cultura"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiario esatto (comune vs sistema bibliotecario) e scadenza non confermati nella pagina; approfondire.",
+    "aggiornato_il": "2026-10-23"
+  },
+  {
+    "id": "csvrc-beni-storicoartistici",
+    "titolo": "Bando per la valorizzazione di Beni storico-artistici e culturali",
+    "ente": "Fondazione con il Sud",
+    "oggetto": "Valorizzazione di beni immobili pubblici di valenza storico-artistica e culturale non o sotto-utilizzati, con progetti che uniscono cultura, inclusione e sviluppo e partnership pubblico-private.",
+    "area_testo": "Comuni ≥50.000 abitanti in Basilicata, Calabria, Campania, Puglia, Sardegna, Sicilia",
+    "regioni": [
+      "Basilicata",
+      "Calabria",
+      "Campania",
+      "Puglia",
+      "Sardegna",
+      "Sicilia"
+    ],
+    "beneficiari": "Partenariato con soggetto responsabile ETS, almeno altre 3 organizzazioni (2+ ETS) e il Comune sede del bene pubblico.",
+    "importo": "4.000.000 € complessivi",
+    "stato": "chiuso",
+    "scadenza": "2026-03-18",
+    "scadenza_testo": "18 marzo 2026 (scaduto)",
+    "giorni": null,
+    "checklist": [
+      "Monitorare eventuale nuova edizione negli stessi termini (partenariato ETS + Comune)"
+    ],
+    "note": "Individuato tramite CSV dei Due Mari (Reggio Calabria) in questo ciclo di scansione approfondita; già scaduto ma profilo beneficiari molto pertinente (partenariato ETS+Comune) — da monitorare per una nuova edizione.",
+    "fonte": "Fondazione con il Sud",
+    "link": "https://www.fondazioneconilsud.it/wp-content/uploads/2025/11/Bando-storico-artistico-e-culturale.pdf",
+    "tag": [
+      "musica-cultura",
+      "immobili-pubblici"
+    ],
+    "punteggio": 1,
+    "ruolo": "assistenza_rup",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Bando già scaduto il 18/03/2026; tracciato solo per monitorare una possibile nuova edizione, data l'elevata pertinenza del profilo beneficiari.",
+    "aggiornato_il": "2026-10-23"
+  },
+  {
+    "id": "cosenza-opportunitapermefuturo2026",
+    "titolo": "Opportunità per me, un futuro migliore — Percorsi di seconda occasione",
+    "ente": "Con i Bambini Impresa Sociale",
+    "oggetto": "Percorsi individualizzati di 'seconda occasione' per ragazze e ragazzi di 14-21 anni a rischio di abbandono scolastico o già usciti dai percorsi di istruzione e formazione.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "ETS iscritto al RUNTS da almeno due anni come soggetto responsabile, in partenariato con almeno un altro ETS (anche scuole, università, imprese).",
+    "importo": "15.000.000 € totali — ogni proposta tra 250.000 e 800.000 €",
+    "stato": "chiuso",
+    "scadenza": "2026-09-30",
+    "scadenza_testo": "30 settembre 2026, ore 13:00 (scaduto)",
+    "giorni": null,
+    "checklist": [],
+    "note": "Individuato tramite CSV Cosenza in questo ciclo; già scaduto. Buon profilo (ETS capofila) per future edizioni di Con i Bambini.",
+    "fonte": "CSV Cosenza",
+    "link": "https://csvcosenza.it/bandi/bando-opportunita-per-me-un-futuro-migliore-2026/",
+    "tag": [
+      "dispersione-scolastica",
+      "poverta-educativa"
+    ],
+    "punteggio": 1,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Bando già scaduto; tracciato solo per riferimento futuro.",
+    "aggiornato_il": "2026-10-23"
+  },
+  {
+    "id": "cosenza-notedicomunita-musicale",
+    "titolo": "Note di comunità — Esperienze musicali di quartiere",
+    "ente": "Con i Bambini Impresa Sociale",
+    "oggetto": "Sostegno a orchestre, ensemble, bande e cori giovanili per minori 6-18 anni in territori con esclusione sociale, con attività educative e di animazione territoriale.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "ETS iscritto al RUNTS da almeno due anni, con sede legale nel capoluogo di provincia dell'intervento.",
+    "importo": "5.000.000 € totali — ogni proposta tra 250.000 e 400.000 €",
+    "stato": "chiuso",
+    "scadenza": "2026-10-16",
+    "scadenza_testo": "16 ottobre 2026, ore 13:00 (scaduto)",
+    "giorni": null,
+    "checklist": [],
+    "note": "Individuato tramite CSV Cosenza in questo ciclo; scaduto da pochi giorni. Monitorare eventuale nuova edizione.",
+    "fonte": "CSV Cosenza",
+    "link": "https://csvcosenza.it/bandi/note-di-comunita-esperienze-musicali-di-quartiere/",
+    "tag": [
+      "musica-cultura",
+      "poverta-educativa"
+    ],
+    "punteggio": 1,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Bando già scaduto; tracciato per riferimento futuro.",
+    "aggiornato_il": "2026-10-23"
+  },
+  {
+    "id": "lazio-sportincomune2026",
+    "titolo": "Sport in Comune — Regione Lazio",
+    "ente": "Regione Lazio / Sport e Salute S.p.A.",
+    "oggetto": "Finanziamento di interventi su impianti sportivi esistenti: efficientamento energetico, messa in sicurezza, riqualificazione, adeguamento tecnologico, eliminazione barriere architettoniche.",
+    "area_testo": "Lazio — Comuni fino a 20.000 abitanti",
+    "regioni": [
+      "Lazio"
+    ],
+    "beneficiari": "Comuni della Regione Lazio con popolazione residente fino a 20.000 abitanti.",
+    "importo": "Non specificato nella pagina — verificare allegati PDF",
+    "stato": "chiuso",
+    "scadenza": "2026-04-30",
+    "scadenza_testo": "30 aprile 2026, ore 18:00 (scaduto)",
+    "giorni": null,
+    "checklist": [],
+    "note": "Individuato tramite Sport e Salute S.p.A. in questo ciclo di scansione approfondita; già scaduto. Beneficiario comunale diretto (comuni piccoli) — da monitorare per una nuova edizione.",
+    "fonte": "Regione Lazio / Sport e Salute S.p.A.",
+    "link": "https://www.sportesalute.eu/sportincomune.html",
+    "tag": [
+      "sport",
+      "immobili-pubblici"
+    ],
+    "punteggio": 1,
+    "ruolo": "assistenza_rup",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Bando già scaduto; tracciato per riferimento futuro data l'elevata pertinenza (comuni piccoli, impianti pubblici).",
+    "aggiornato_il": "2026-10-23"
   }
 ]

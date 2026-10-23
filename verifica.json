@@ -1,22 +1,68 @@
 {
-  "ultima_verifica": "2026-10-22T06:04:25+00:00",
+  "ultima_verifica": "2026-10-23T15:41:40+00:00",
   "fonti_saltate": [
-    "Europaconcorsi: saltata (estensione Chrome non connessa in questa sessione, come nei cicli precedenti).",
-    "Regione Lazio (regione.lazio.it/avvisi-e-bandi): oggi la pagina e' risultata accessibile (nessun blocco robots.txt, a differenza del 20/10), ma elenca solo avvisi di alienazione/concessione patrimoniale, nessun nuovo bando di finanziamento; i bandi lazio- già tracciati restano invariati.",
-    "Fondazione Cariplo: verificata la pagina 'Attivo' (6 bandi mostrati, pagina 1 di piu'): tutti già tracciati. Confermata la persistente incoerenza di etichettatura gia' segnalata (vEIColo appare 'Attivo' nel sito pur avendo scadenza 30/09/2026 gia' passata) — nessuna nuova verifica approfondita in questo ciclo per ragioni di tempo.",
-    "professionearchitetto.it/concorsi: confermata ancora l'impossibilita' di superare la paginazione JS; verificata la pagina 1 (8 concorsi), nessuno di redazione documentazione/assistenza tecnica per un ente (tutti concorsi di progettazione/idee/premi a cui lo studio parteciperebbe direttamente, quindi esclusi per perimetro).",
-    "CSV Lombardia: individuati 2 avvisi in homepage. Il primo ('10,5 milioni di euro al Terzo settore con l'Avviso 2/2026') e' lo stesso avviso ministeriale gia' tracciato come cn-avviso2terzosettore (nessun duplicato). Il secondo ('Avviso pubblico per l'individuazione di enti, associazioni e enti del Terzo settore', USR Lombardia) e' una selezione di enti ospitanti per studenti sospesi, non un bando di finanziamento: escluso per perimetro.",
-    "Sviluppo Campania: 2 bandi attivi verificati, entrambi rivolti a imprese/liberi professionisti, nessuno pertinente al profilo comuni/ETS/associazioni.",
-    "Fondazione CDP: nessuna pagina bandi stabile; ricerca web mirata senza risultati di bandi aperti pertinenti al profilo in questo ciclo (solo competizioni universitarie 'Valore per il Territorio' e iniziativa scolastica 'A scuola per il Futuro', entrambe non riconducibili al nostro perimetro beneficiari).",
-    "Ricerca web PNRR/statale: nessun nuovo bando di rilievo nazionale/regionale individuato in questo ciclo (risultati pertinenti solo a livello di singoli Comuni con propri avvisi locali, fuori perimetro di questo monitoraggio).",
-    "Regione Campania — Notizie e Avvisi: nessuna novita' pertinente oltre a quanto gia' tracciato (la manifestazione d'interesse ciclovie, gia' nel dataset con punteggio abbassato, resta l'unica voce vicina al profilo).",
-    "Fonti ministeriali (MiC x3, Ministero Lavoro/Terzo Settore, MASE, Politiche Giovanili, Sport e Salute): verificate ieri (21/10/2026) in un ciclo precedente; non ri-controllate oggi per limiti di tempo, nessun segnale di aggiornamento imminente."
+    "Europaconcorsi: saltata (estensione Chrome non connessa anche in questa sessione interattiva).",
+    "Regione Lazio (regione.lazio.it/avvisi-e-bandi): confermato che la pagina non contiene bandi di finanziamento, solo aste/concessioni patrimoniali; i bandi lazio- tracciati provengono da altri canali (Sport e Salute, CSV).",
+    "Regione Basilicata (portalebandi.regione.basilicata.it): bloccata da robots.txt sia in fetch diretto che tramite ricerca web mirata; non verificabile in questo ciclo.",
+    "MASE (pagina Comuni efficientamento energetico): errore del server al fetch; nessuna novità rilevabile, edizione CSE 2026 non risulta ancora aperta da ricerca web.",
+    "Regione Lombardia — Bandi Terzo Settore (14 pagine): la paginazione tramite parametro ?page=N non ha funzionato (restituisce sempre la pagina 1); verificata quindi solo la prima pagina (6 bandi, tutti già tracciati). Limite tecnico da risolvere in un prossimo ciclo.",
+    "Fondazione Cariplo (bandi 'Attivo', più pagine indicate): il parametro ?page=2 non ha funzionato (contenuto identico alla pagina 1); i 6 bandi 'Attivo' mostrati sono già tutti tracciati.",
+    "Sezione B (ricerca nuove fonti), anticipata su richiesta: verificate Liguria, Lombardia, Marche (rotazione) più tentativi su Piemonte e Puglia; nessuna fonte ha superato tutti i 5 criteri di validazione (portali JS non leggibili via fetch, risultati solo PDF/articoli sparsi, nessun portale dedicato aggiornato individuato). Rotazione avanzata comunque a oggi."
   ],
   "nuovi": [
     {
-      "id": "cn-sanzeno-educazionelavoro",
-      "dal": "2026-10-22"
+      "id": "mic-cittachelegge-10ed",
+      "dal": "2026-10-23"
+    },
+    {
+      "id": "mic-leggimi06-9ed",
+      "dal": "2026-10-23"
+    },
+    {
+      "id": "mic-altavoce-7ed",
+      "dal": "2026-10-23"
+    },
+    {
+      "id": "mic-educarelettura-9ed",
+      "dal": "2026-10-23"
+    },
+    {
+      "id": "mic-fondolettura-biblioteche2026",
+      "dal": "2026-10-23"
+    },
+    {
+      "id": "csvrc-beni-storicoartistici",
+      "dal": "2026-10-23"
+    },
+    {
+      "id": "cosenza-opportunitapermefuturo2026",
+      "dal": "2026-10-23"
+    },
+    {
+      "id": "cosenza-notedicomunita-musicale",
+      "dal": "2026-10-23"
+    },
+    {
+      "id": "lazio-sportincomune2026",
+      "dal": "2026-10-23"
     }
   ],
-  "chiusi": []
+  "chiusi": [
+    {
+      "id": "cn-avviso2terzosettore",
+      "dal": "2026-10-23"
+    },
+    {
+      "id": "cn-performeurope",
+      "dal": "2026-10-23"
+    },
+    {
+      "id": "cn-8x1000buddhisti",
+      "dal": "2026-10-23"
+    },
+    {
+      "id": "lombardia-educazione-ambientale2026",
+      "dal": "2026-10-23"
+    }
+  ]
 }
