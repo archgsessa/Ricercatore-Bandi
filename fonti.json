@@ -53,15 +53,6 @@
       "regione": "Nazionale",
       "note": "Includere solo bandi di redazione documentazione/assistenza tecnica per un ente (non concorsi di progettazione diretti a cui lo studio parteciperebbe in prima persona).",
       "data_integrazione": "2025-01-01"
-    },
-    {
-      "id": "europaconcorsi",
-      "nome": "Europaconcorsi",
-      "url": "https://europaconcorsi.com",
-      "categoria": "portale-concorsi",
-      "regione": "Nazionale",
-      "note": "Richiede sessione autenticata via Claude in Chrome. Se i tool Chrome non sono disponibili in questa sessione, saltare e segnalare in fonti_saltate (verifica.json).",
-      "data_integrazione": "2025-01-01"
     }
   ],
   "fonti_aggiuntive": [
