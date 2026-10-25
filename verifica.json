@@ -1,68 +1,16 @@
 {
-  "ultima_verifica": "2026-10-23T15:41:40+00:00",
+  "ultima_verifica": "2026-10-25T07:11:21+00:00",
   "fonti_saltate": [
-    "Europaconcorsi: saltata (estensione Chrome non connessa anche in questa sessione interattiva).",
-    "Regione Lazio (regione.lazio.it/avvisi-e-bandi): confermato che la pagina non contiene bandi di finanziamento, solo aste/concessioni patrimoniali; i bandi lazio- tracciati provengono da altri canali (Sport e Salute, CSV).",
-    "Regione Basilicata (portalebandi.regione.basilicata.it): bloccata da robots.txt sia in fetch diretto che tramite ricerca web mirata; non verificabile in questo ciclo.",
-    "MASE (pagina Comuni efficientamento energetico): errore del server al fetch; nessuna novità rilevabile, edizione CSE 2026 non risulta ancora aperta da ricerca web.",
-    "Regione Lombardia — Bandi Terzo Settore (14 pagine): la paginazione tramite parametro ?page=N non ha funzionato (restituisce sempre la pagina 1); verificata quindi solo la prima pagina (6 bandi, tutti già tracciati). Limite tecnico da risolvere in un prossimo ciclo.",
-    "Fondazione Cariplo (bandi 'Attivo', più pagine indicate): il parametro ?page=2 non ha funzionato (contenuto identico alla pagina 1); i 6 bandi 'Attivo' mostrati sono già tutti tracciati.",
-    "Sezione B (ricerca nuove fonti), anticipata su richiesta: verificate Liguria, Lombardia, Marche (rotazione) più tentativi su Piemonte e Puglia; nessuna fonte ha superato tutti i 5 criteri di validazione (portali JS non leggibili via fetch, risultati solo PDF/articoli sparsi, nessun portale dedicato aggiornato individuato). Rotazione avanzata comunque a oggi."
+    "Portale Bandi DGCC (portalebandidgcc.cultura.gov.it): bloccato da robots.txt, non verificabile in questo ciclo.",
+    "MASE (pagina Comuni efficientamento energetico): errore client (403) sia al primo tentativo che al retry; stesso problema del ciclo precedente.",
+    "CSV Lombardia (csvlombardia.it): la sezione Bandi non e stata estraibile per intero (probabile rendering JavaScript); verificato solo tramite ricerca web mirata, nessuna novita reale oltre a quanto gia tracciato (il presunto nuovo Avviso 2/2026 da 10,5 mln e lo stesso bando gia tracciato come chiuso cn-avviso2terzosettore, confermato scaduto il 22/10/2026).",
+    "Regione Lombardia - Bandi Terzo Settore e Volontariato: paginazione/filtro non funzionante anche con parametri diversi, contenuto non estraibile in questo ciclo; nessuna conferma o smentita possibile sui 3 bandi tracciati.",
+    "Portale Bandi Regione Basilicata (CeBas): bloccato da robots.txt sia in fetch diretto che tramite ricerca web, confermato come nei cicli precedenti.",
+    "professionearchitetto.it/concorsi: verificata solo la prima pagina (su 8); nessun elemento pertinente trovato (solo concorsi di progettazione diretti, esclusi per perimetro); pagine 2-8 non controllate per limiti di tempo.",
+    "CSV dei Due Mari (Reggio Calabria): il bando duemari-fondazionecattolica tracciato non e stato ritrovato in questo ciclo ne sulla pagina bandi ne via ricerca web dedicata; possibile rimozione o rinomina dal sito, da verificare manualmente al prossimo ciclo.",
+    "Sviluppo Campania: il bando sc-albo-competenze non e stato ritrovato nella vista sintetica \"in corso\" ne via ricerca web; probabile spostamento in archivio, da verificare manualmente."
   ],
-  "nuovi": [
-    {
-      "id": "mic-cittachelegge-10ed",
-      "dal": "2026-10-23"
-    },
-    {
-      "id": "mic-leggimi06-9ed",
-      "dal": "2026-10-23"
-    },
-    {
-      "id": "mic-altavoce-7ed",
-      "dal": "2026-10-23"
-    },
-    {
-      "id": "mic-educarelettura-9ed",
-      "dal": "2026-10-23"
-    },
-    {
-      "id": "mic-fondolettura-biblioteche2026",
-      "dal": "2026-10-23"
-    },
-    {
-      "id": "csvrc-beni-storicoartistici",
-      "dal": "2026-10-23"
-    },
-    {
-      "id": "cosenza-opportunitapermefuturo2026",
-      "dal": "2026-10-23"
-    },
-    {
-      "id": "cosenza-notedicomunita-musicale",
-      "dal": "2026-10-23"
-    },
-    {
-      "id": "lazio-sportincomune2026",
-      "dal": "2026-10-23"
-    }
-  ],
-  "chiusi": [
-    {
-      "id": "cn-avviso2terzosettore",
-      "dal": "2026-10-23"
-    },
-    {
-      "id": "cn-performeurope",
-      "dal": "2026-10-23"
-    },
-    {
-      "id": "cn-8x1000buddhisti",
-      "dal": "2026-10-23"
-    },
-    {
-      "id": "lombardia-educazione-ambientale2026",
-      "dal": "2026-10-23"
-    }
-  ]
+  "nuovi": [],
+  "chiusi": [],
+  "note_ciclo": "Nessun bando nuovo o chiuso rilevato in questo ciclo (controllo a 2 giorni dall'ultimo, 23/10/2026). Consolidati i due id duplicati della Fondazione San Zeno (cn-sanzeno rimosso, mantenuto cn-sanzeno-educazionelavoro con dati piu completi, stesso link). Candidati scartati perche duplicati di bandi gia tracciati: \"Fabbrica Spazi Civici per la Gioventu\" (via CSV Cosenza, duplicato di fabbrica-spazicivici-gioventu2026), \"Iniziativa 2026 valorizzazione beni confiscati\" (via Fondazione con il Sud, duplicato di cn-beniconfiscati26), \"Fondo beneficenza Intesa Sanpaolo\" (via CSV Due Mari, duplicato di cn-fondobeneficenza-isp), \"Avviso 2/2026 10,5 mln\" (via CSV Lombardia, duplicato di cn-avviso2terzosettore, gia chiuso). Due bandi di interesse concettuale ma non azionabili perche con candidatura gia chiusa: \"Capitale Italiana della Cultura 2029\" (Comuni, prossima edizione prevista 2030/2031) e \"Capitale Italiana del Libro 2027\" (Comuni, prossima edizione prevista 2028) — da monitorare in futuro, non aggiunti al tracciamento."
 }

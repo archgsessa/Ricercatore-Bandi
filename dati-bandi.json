@@ -1533,38 +1533,6 @@
     "aggiornato_il": "2026-10-12"
   },
   {
-    "id": "cn-sanzeno",
-    "titolo": "Contributi negli ambiti educazione e lavoro",
-    "ente": "Fondazione San Zeno",
-    "oggetto": "Contributi a sportello per progetti su educazione e inserimento lavorativo.",
-    "area_testo": "Nazionale",
-    "regioni": [
-      "Nazionale"
-    ],
-    "beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
-    "importo": "Non specificato — verificare sulla pagina del bando",
-    "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Nessuna scadenza (sportello)",
-    "giorni": null,
-    "checklist": [
-      "Verificare requisiti di ammissibilità sulla pagina del bando",
-      "Verificare modalità e piattaforma di invio della domanda"
-    ],
-    "note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
-    "fonte": "Infobandi CSVnet",
-    "link": "https://infobandi.csvnet.it/contributi-negli-ambiti-educazione-e-lavoro/",
-    "tag": [
-      "poverta-educativa",
-      "istruzione-formazione"
-    ],
-    "punteggio": 2,
-    "ruolo": "da_verificare",
-    "pertinenza_bassa": false,
-    "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-12"
-  },
-  {
     "id": "cn-enelcuore",
     "titolo": "Progetti a Enel Cuore (nuova piattaforma)",
     "ente": "Enel Cuore",
