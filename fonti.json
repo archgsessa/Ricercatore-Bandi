@@ -181,6 +181,105 @@
       "regione": "Nazionale",
       "note": "Sezione principale dei bandi di finanziamento di Sport e Salute (società in house della Presidenza del Consiglio/Dipartimento Sport). NON usare la sotto-pagina 'bandi-altri-enti', che è un aggregatore di gare comunali di concessione impianti, non bandi di finanziamento. Confermato qui il bando 'Spazio Sport 2026' (Lazio, già tracciato come lazio-spaziosport2026): utile anche come canale alternativo per il monitoraggio della Regione Lazio, il cui portale ufficiale risulta bloccato da robots.txt.",
       "data_integrazione": "2026-10-21"
+    },
+    {
+      "id": "pnrr-istruzione-avvisi",
+      "nome": "PNRR Istruzione — Avvisi",
+      "url": "https://pnrr.istruzione.it/avvisi/",
+      "categoria": "ministeriale",
+      "regione": "Nazionale",
+      "note": "Portale dedicato agli avvisi PNRR del Ministero dell'Istruzione: finanzia direttamente i Comuni per edifici scolastici, asili nido, mense, sicurezza antincendio — ambiti tipici di assistenza tecnica/RUP. Verificato con accesso diretto (pagina paginata, piu' di 10 avvisi). Esempi: avviso piano antincendio edifici scolastici (26/11/2025), piano mense scolastiche, piano asili nido 2025 (DM 17/03/2025), Agenda Nord/Sud. Non emersi partenariati ETS in questa pagina.",
+      "data_integrazione": "2026-10-26"
+    },
+    {
+      "id": "scelgoilserviziocivile-bando",
+      "nome": "Scelgo il Servizio Civile — Il Bando",
+      "url": "https://www.scelgoilserviziocivile.gov.it/leggi-il-bando/",
+      "categoria": "ministeriale",
+      "regione": "Nazionale",
+      "note": "Sito ufficiale Dipartimento Politiche Giovanili/Servizio Civile Universale, distinto dalla pagina lavoro.gov.it gia' nota. Verificato con accesso diretto: bando attivo 3.767 posti operatori volontari, scadenza 06/11/2026, piu' filoni (ordinario, tematici, autofinanziati). Rilevante per ETS/comuni che ospitano volontari e necessitano assistenza nella presentazione progetti.",
+      "data_integrazione": "2026-10-26"
+    },
+    {
+      "id": "interno-finanza-locale",
+      "nome": "Ministero dell'Interno — Finanza Locale (Decreti FL)",
+      "url": "https://dait.interno.gov.it/finanza-locale/documentazione",
+      "categoria": "ministeriale",
+      "regione": "Nazionale",
+      "note": "Decreti periodici del Viminale con contributi a Comuni per messa in sicurezza edifici/territorio, sicurezza urbana, polizia locale, fondo periferie. Cadenza quasi annuale (decreti verificati dal 2018 al 2026). Esempio: contributo 2026-2028 messa in sicurezza, plafond 1,38 mld€. Accesso diretto bloccato (errori client); esistenza/struttura confermate da fonti terze multiple e PDF ufficiali.",
+      "data_integrazione": "2026-10-26"
+    },
+    {
+      "id": "ministeroturismo-enti-territoriali",
+      "nome": "Ministero del Turismo — Enti Territoriali",
+      "url": "https://www.ministeroturismo.gov.it/enti-territoriali/",
+      "categoria": "ministeriale",
+      "regione": "Nazionale",
+      "note": "Fondi dedicati ai Comuni: Fondo piccoli comuni e aree di sosta, Fondo piccoli comuni a vocazione turistica, Fondo Unico Nazionale Turismo, avviso valorizzazione comuni UNESCO/citta' creative. Esempio: Fondo piccoli comuni 32,87 mln€, beneficiari comuni <20.000 ab. Pagina aggiornata (28/01/2026).",
+      "data_integrazione": "2026-10-26"
+    },
+    {
+      "id": "mit-fondo-piccoli-comuni",
+      "nome": "MIT — Fondo investimenti piccoli comuni",
+      "url": "https://mit.gov.it/taxonomy/term/132",
+      "categoria": "ministeriale",
+      "regione": "Nazionale",
+      "note": "Raccolta notizie sul Fondo investimenti piccoli comuni (manutenzione/sicurezza stradale: strade, ponti, viadotti), bando annuale ricorrente. Esempio: avviso 2025 scadenza 15/12/2025, rifinanziamento 2026. Pertinente per assistenza tecnica a piccoli comuni.",
+      "data_integrazione": "2026-10-26"
+    },
+    {
+      "id": "invitalia-per-le-pa",
+      "nome": "Invitalia — Per le PA: incentivi e strumenti",
+      "url": "https://www.invitalia.it/per-le-pa/incentivi-e-strumenti",
+      "categoria": "altro",
+      "regione": "Nazionale",
+      "note": "Catalogo di misure/strumenti Invitalia per la PA (oltre Resto al Sud e Smart&Start gia' tracciati), filtrabile per tipo amministrazione (42 risultati). Include strumenti di assistenza tecnica e fondi a bando (es. Fondo idrico SFNIISSI, Fondo Nazionale Connettivita'). Nessuna misura specifica per il terzo settore; verificare periodicamente le voci con scadenza reale.",
+      "data_integrazione": "2026-10-26"
+    },
+    {
+      "id": "mase-bandi-avvisi",
+      "nome": "MASE — Bandi e Avvisi",
+      "url": "https://www.mase.gov.it/portale/bandi-e-avvisi",
+      "categoria": "ministeriale",
+      "regione": "Nazionale",
+      "note": "Sezione bandi/avvisi del Ministero Ambiente e Sicurezza Energetica, distinta dalla pagina comuni-efficientamento gia' nota; copre anche economia circolare, bonifiche, mobilita' sostenibile. Fetch diretto bloccato da anti-bot: verificare via ricerca web periodica o browser diretto. Esempio: Avviso C.S.E. 2025 Comuni (232 mln€), bando economia circolare 2025 (~3,15 mln€). Vedi anche archivio-bandi-pnrr nello stesso dominio.",
+      "data_integrazione": "2026-10-26"
+    },
+    {
+      "id": "gse-servizi-pa",
+      "nome": "GSE — Servizi per la PA",
+      "url": "https://www.gse.it/servizi-per-te/pa",
+      "categoria": "altro",
+      "regione": "Nazionale",
+      "note": "Hub GSE per la PA: Conto Termico, Comunita' Energetiche Rinnovabili nei piccoli comuni (PNRR M2C2 1.2), Parco Agrisolare, sviluppo sostenibile territori. Molto pertinente per assistenza tecnica a comuni su efficientamento/CER. Scadenze spesso in allegati PDF: verificare sottopagine periodicamente.",
+      "data_integrazione": "2026-10-26"
+    },
+    {
+      "id": "fondazionedisardegna-bandi",
+      "nome": "Fondazione di Sardegna — Bandi ROL",
+      "url": "https://www.fondazionedisardegna.it/bandi",
+      "categoria": "fondazione-bancaria-terzo-settore",
+      "regione": "Sardegna",
+      "note": "Fondazione bancaria regionale (stesso modello di Fondazione Cariplo gia' nota). Bandi annuali 2026 su piattaforma ROL per categoria: Arte, Sviluppo locale, Volontariato, Salute e Medicina.",
+      "data_integrazione": "2026-10-26"
+    },
+    {
+      "id": "regione-sicilia-bandi",
+      "nome": "Regione Siciliana — Portale Bandi",
+      "url": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
+      "categoria": "ente-regionale",
+      "regione": "Sicilia",
+      "note": "Portale generalista filtrabile per tipologia/dipartimento/scadenza (985 risultati). Contiene avvisi ricorrenti dedicati al Terzo Settore (es. \"Sicilia che piace\" Associazioni/ETS, \"Avviso Associazioni\" DDG 2008/2026). Diversi avvisi attivi con scadenze ott-nov 2026 al momento della verifica.",
+      "data_integrazione": "2026-10-26"
+    },
+    {
+      "id": "regione-emiliaromagna-sociale-bandi",
+      "nome": "Regione Emilia-Romagna — Bandi Welfare/Terzo Settore",
+      "url": "https://sociale.regione.emilia-romagna.it/leggi-atti-bandi/bandi",
+      "categoria": "ente-regionale",
+      "regione": "Emilia-Romagna",
+      "note": "Sezione bandi sociali/terzo settore, aggiornata al 14/10/2026. Esempi: Bando progetti di rilevanza locale 2026-2027 per ODV/APS/fondazioni, avviso cittadinanza europea 2026, bando cooperazione internazionale 2026. Contatto: terzosettore@regione.emilia-romagna.it.",
+      "data_integrazione": "2026-10-26"
     }
   ],
   "rotazione_regioni": {
@@ -210,6 +309,135 @@
     "ultima_regione_controllata": "Marche",
     "ultima_esecuzione": "2026-10-23"
   },
-  "ultima_ricerca_fonti": "2026-10-23",
-  "ultima_manutenzione_vocabolario": "2026-10-23"
+  "ultima_ricerca_fonti": "2026-10-26",
+  "ultima_manutenzione_vocabolario": "2026-10-23",
+  "fonti_da_verificare_manualmente": [
+    {
+      "nome": "Ministero per le Disabilita'",
+      "url": "https://disabilita.governo.it",
+      "motivo": "Bloccato da robots.txt per fetch automatico. Evidenza indiretta solida: bando nazionale \"Vita & Opportunita'\" da 386 mln€ aperto anche a ETS e scuole (decreti criteri 03/03/2026 e 19/05/2026). Verificare sezione Amministrazione Trasparente > Sovvenzioni con browser diretto."
+    },
+    {
+      "nome": "Dipartimento Politiche della Famiglia",
+      "url": "https://www.famiglia.governo.it",
+      "motivo": "Bloccato da robots.txt. Evidenza: PDF 2025 su Centri per la Famiglia e avviso \"Insieme si vince\", programma ricorrente annuale. Verificare sezione trasferimenti enti territoriali/bandi-avvisi-contributi."
+    },
+    {
+      "nome": "Dipartimento Pari Opportunita'",
+      "url": "https://www.pariopportunita.gov.it",
+      "motivo": "Bloccato da robots.txt. Evidenza: bandi numerati ricorrenti (bando 5/2022, 6, 7/2025), programma annuale attivo."
+    },
+    {
+      "nome": "Dipartimento della Protezione Civile",
+      "url": "https://www.protezionecivile.gov.it",
+      "motivo": "Sito SPA (JavaScript), non renderizzabile da fetch automatico. Evidenza: decreti CD 2520/2521/2589 (ago 2026) su contributi a organizzazioni di volontariato. Verificare sezione Volontariato organizzato > Contributi con browser diretto."
+    },
+    {
+      "nome": "Dipartimento della Funzione Pubblica",
+      "url": "https://www.funzionepubblica.gov.it",
+      "motivo": "Bloccato da robots.txt. Evidenza: programmi \"Risorse in Comune\" (100 mln€ PNRR rafforzamento capacita' amministrativa Comuni) e \"Innovazione sociale nella PA\" (10 mln€ Comuni capoluogo/Citta' Metropolitane), gestiti via piattaforma Capacity Italy."
+    },
+    {
+      "nome": "ANCI nazionale",
+      "url": "https://www.anci.it",
+      "motivo": "Bloccato da robots.txt. Evidenza: Fondo ANCI Turismo (bando 2026 attivo), bando \"immobili inutilizzati ai giovani\" (12,3 mln€ under 35)."
+    },
+    {
+      "nome": "Regione Piemonte — Portale Bandi",
+      "url": "https://bandi.regione.piemonte.it/",
+      "motivo": "Contenuto non estraibile via fetch automatico. Evidenza indiretta: notizia regionale \"6 milioni a sostegno del Terzo Settore\" (2026)."
+    },
+    {
+      "nome": "Regione Marche — Portale Bandi",
+      "url": "https://bandi.regione.marche.it/",
+      "motivo": "Contenuto non estraibile via fetch automatico. Evidenza: documento 13/03/2026, storico bandi Terzo Settore, \"Bando istituzioni\" per enti locali."
+    },
+    {
+      "nome": "Regione Veneto — Bandi, Avvisi e Concorsi",
+      "url": "https://www.regione.veneto.it/web/bandi-avvisi-concorsi/bandi2",
+      "motivo": "Portale navigabile con filtri (Enti Locali, Sociale) ma contenuto singoli bandi non estraibile via fetch automatico (42 risultati rilevati)."
+    },
+    {
+      "nome": "Regione Abruzzo — Contributi e finanziamenti/sociale",
+      "url": "https://www.regione.abruzzo.it/contributi-finanziamenti/sociale",
+      "motivo": "Bloccato da robots.txt. Evidenza: avviso L.R. 95/99 per ODV sociale, determina liquidazione 11/08/2026."
+    }
+  ],
+  "fonti_scartate_non_riproporre": [
+    {
+      "nome": "MASAF",
+      "url": "masaf.gov.it",
+      "motivo": "Nessuna pagina bandi/contributi per comuni o ETS; bandi pubblicati rivolti a imprese agricole/agroalimentari."
+    },
+    {
+      "nome": "Ministero della Salute",
+      "url": "salute.gov.it",
+      "motivo": "Blocco anti-bot; bandi reperiti sono prevalentemente ricerca biomedica per ospedali/universita', fuori profilo."
+    },
+    {
+      "nome": "ENEA",
+      "url": "enea.it",
+      "motivo": "Pagine bandi bloccate da robots.txt; contenuti relativi a personale/fornitori/partner di ricerca, non a contributi per comuni/ETS."
+    },
+    {
+      "nome": "ISPRA/SNPA",
+      "url": "isprambiente.gov.it",
+      "motivo": "Solo appalti/gare e bandi di concorso per personale, nessuna sezione sovvenzioni per comuni/ETS."
+    },
+    {
+      "nome": "MIMIT (incentivi.gov.it)",
+      "url": "incentivi.gov.it",
+      "motivo": "Portale aggregatore orientato a imprese/cittadini, non a Comuni o enti del terzo settore."
+    },
+    {
+      "nome": "Agenzia per la Coesione Territoriale",
+      "url": "agenziacoesione.gov.it",
+      "motivo": "Sezione bandi bloccata da robots.txt; contenuti prevalenti di capacity building interno (assegnazione specialisti), non bandi aperti a terzi."
+    },
+    {
+      "nome": "Dipartimento Politiche di Coesione",
+      "url": "politichecoesione.governo.it",
+      "motivo": "Decreti di trasferimento risorse tra amministrazioni, non bandi a cui comuni/ETS possano candidarsi direttamente."
+    },
+    {
+      "nome": "Dipartimento Trasformazione Digitale",
+      "url": "innovazione.gov.it",
+      "motivo": "Avvisi pubblici orientati a operatori telecom/enti di ricerca, non a Comuni per digitalizzazione PA locale (quella resta su padigitale2026.gov.it, gia' tracciato come segnale generico)."
+    },
+    {
+      "nome": "UPI",
+      "url": "upinet.it / provinceditalia.it",
+      "motivo": "upinet.it bloccato da robots; provinceditalia.it senza sezione bandi aggiornata."
+    },
+    {
+      "nome": "UNCEM",
+      "url": "uncem.it",
+      "motivo": "Categoria 'Bandi e Finanziamenti' contiene solo delibere/webinar/premi per tesi, nessun bando di finanziamento per comuni montani."
+    },
+    {
+      "nome": "Forum Nazionale del Terzo Settore",
+      "url": "forumterzosettore.it",
+      "motivo": "Nessuna sezione bandi aggregata."
+    },
+    {
+      "nome": "CSVnet nazionale",
+      "url": "csvnet.it",
+      "motivo": "Non ha sezione bandi propria, rimanda a infobandi.csvnet.it gia' tracciata (ridondante)."
+    },
+    {
+      "nome": "Puglia",
+      "url": null,
+      "motivo": "Nessun portale bandi terzo settore/enti locali centralizzato individuato dopo piu' ricerche."
+    },
+    {
+      "nome": "Toscana",
+      "url": null,
+      "motivo": "Nessun hub centralizzato; Cesvot.it (CSV Toscana) non ha sezione bandi dedicata."
+    },
+    {
+      "nome": "Umbria",
+      "url": null,
+      "motivo": "Fetch del portale bandi non riuscito, nessun hub consolidato individuato in tempi ragionevoli."
+    }
+  ]
 }
