@@ -1,14 +1,67 @@
 {
-  "ultima_verifica": "2026-10-26T13:36:20+00:00",
+  "ultima_verifica": "2026-10-26T16:12:45+00:00",
   "fonti_saltate": [
-    "Ciclo di aggiornamento rapido su richiesta dell'utente (\"Aggiorna la ricerca\"): riverificata solo Infobandi CSVnet (fonte principale, tutte le 4 pagine). Le altre fonti principali/aggiuntive non sono state riverificate in questo ciclo intermedio perche gia scansionate per intero il giorno precedente (25/10/2026); prossima scansione completa di tutte le fonti al prossimo ciclo programmato."
+    "Verifica puntuale richiesta dall'utente (26/10/2026): controllati singolarmente, tramite link diretto, tutti i 95 bandi aperti del catalogo (esclusi quelli Infobandi CSVnet, riverificati separatamente in giornata). Risultato: 14 bandi erano in realta' gia' scaduti (vedi chiusi sotto), gli altri 81 risultano confermati aperti.",
+    "Rimasti INCERTI (sito bloccato/contenuto non verificabile, da controllare manualmente in futuro): duemari-fondazionecattolica (non piu' presente sulla pagina bandi attuale di csvrc.it, possibile rimozione/archiviazione), fabbrica-spazicivici-gioventu2026 (PDF con dati contrastanti sulla finestra di candidatura), basilicata-patrocinio-oneroso/basilicata-piru-ambientale/basilicata-efficientamentoenergetico (portale bloccato da robots.txt), padigitale-2026 (portale con contenuto dinamico, piu' avvisi distinti), pnrr-m5c2-disabilita (portale generale lavoro.gov.it, avvisi locali non riconducibili a scadenza unica), liguria-altrisegnali (pagina bloccata da robots.txt)."
   ],
   "nuovi": [],
   "chiusi": [
     {
-      "id": "cn-stereotipi",
+      "id": "campania-illuminazione-monumenti2026",
+      "dal": "2026-10-26"
+    },
+    {
+      "id": "mic-fondolettura-biblioteche2026",
+      "dal": "2026-10-26"
+    },
+    {
+      "id": "cosenza-moduli-idrogeologico",
+      "dal": "2026-10-26"
+    },
+    {
+      "id": "cosenza-interventi-disabilita",
+      "dal": "2026-10-26"
+    },
+    {
+      "id": "cosenza-agora-calabria-turismo",
+      "dal": "2026-10-26"
+    },
+    {
+      "id": "cosenza-laboratorio-creativita-contemporanea",
+      "dal": "2026-10-26"
+    },
+    {
+      "id": "cosenza-conibambini-legami-liberta",
+      "dal": "2026-10-26"
+    },
+    {
+      "id": "cosenza-prospettive-repubblicadigitale",
+      "dal": "2026-10-26"
+    },
+    {
+      "id": "cosenza-carical-2025",
+      "dal": "2026-10-26"
+    },
+    {
+      "id": "duemari-associazioniculturali-rc",
+      "dal": "2026-10-26"
+    },
+    {
+      "id": "campania-autoimprenditorialita",
+      "dal": "2026-10-26"
+    },
+    {
+      "id": "campania-frc2",
+      "dal": "2026-10-26"
+    },
+    {
+      "id": "liguria-welfarecomunita",
+      "dal": "2026-10-26"
+    },
+    {
+      "id": "calabria-cittametro-segnale",
       "dal": "2026-10-26"
     }
   ],
-  "note_ciclo": "Infobandi CSVnet: 39 bandi su 4 pagine (ieri erano 40). Unica variazione: \"Progetti oltre gli stereotipi\" (cn-stereotipi, scadenza 25/10/2026) non e piu presente nell'elenco attivi -> segnato come chiuso. Tutti gli altri 39 bandi coincidono con quelli gia tracciati, nessuna novita."
+  "note_ciclo": "Aggiornamento straordinario richiesto dall'utente dopo aver notato che il bando illuminazione monumenti Campania (scaduto oggi alle 14:00) non era stato chiuso. Effettuata verifica puntuale di TUTTI i bandi aperti del catalogo (link diretto per ciascuno). Risultato: 14 bandi erano gia' scaduti, in alcuni casi perche' erroneamente catalogati come \"sportello permanente\" quando in realta' avevano una scadenza fissa gia' passata (cosenza-moduli-idrogeologico, cosenza-interventi-disabilita, campania-autoimprenditorialita, campania-frc2). Corrette anche le scadenze nel dettaglio dei bandi interessati."
 }

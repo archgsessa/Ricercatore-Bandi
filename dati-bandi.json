@@ -3270,9 +3270,9 @@
     ],
     "beneficiari": "ODV, APS e Fondazioni del Terzo Settore iscritte al RUNTS.",
     "importo": "Oltre € 650.000 (prima annualità di un accordo 2025-2027 cofinanziato dal Ministero del Lavoro)",
-    "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Non determinata con precisione — verificare avviso ufficiale su regione.liguria.it",
+    "stato": "chiuso",
+    "scadenza": "2026-07-19",
+    "scadenza_testo": "19/07/2026 ore 23:59",
     "giorni": null,
     "checklist": [
       "Verificare avviso ufficiale e scadenza esatta su regione.liguria.it",
@@ -3289,7 +3289,7 @@
     "ruolo": "assistenza_rup",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-09-23"
+    "aggiornato_il": "2026-10-26"
   },
   {
     "id": "liguria-altrisegnali",
@@ -3396,9 +3396,9 @@
     ],
     "beneficiari": "Comuni ed enti del Terzo Settore del territorio metropolitano (da confermare).",
     "importo": "Non determinato",
-    "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Non determinata — fonte di stampa non completamente verificabile",
+    "stato": "chiuso",
+    "scadenza": "2026-05-04",
+    "scadenza_testo": "Avvisi consultabili fino al 04/05/2026 (fonte: pianainforma.it)",
     "giorni": null,
     "checklist": [
       "Verificare direttamente presso la Città Metropolitana competente in Calabria"
@@ -3413,7 +3413,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Pertinenza da verificare: dettagli insufficienti per valutazione puntuale.",
-    "aggiornato_il": "2026-09-23"
+    "aggiornato_il": "2026-10-26"
   },
   {
     "id": "cn-percorsi-innovazione-sociale",
@@ -3743,12 +3743,12 @@
     ],
     "beneficiari": "Persone fisiche (disoccupati, occupati a rischio, giovani, donne) che avviano un'attività autonoma",
     "importo": "Non specificato",
-    "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Sportello permanente / scadenza non specificata",
+    "stato": "chiuso",
+    "scadenza": "2025-06-30",
+    "scadenza_testo": "Finestra presentazione domande chiusa il 30/06/2025 ore 23:59; ora in fase di gestione beneficiari/liste ammessi (DD n.42 del 17/10/2025)",
     "giorni": null,
     "checklist": [],
-    "note": "",
+    "note": "[Verifica 26/10/2026] Non e' a sportello permanente come indicato in precedenza.",
     "fonte": "Sviluppo Campania",
     "link": "https://bandi.sviluppocampania.it/bandi/061124AMP/Pagine/Home.aspx",
     "tag": [
@@ -3758,7 +3758,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Beneficiari sono persone fisiche che avviano un'attività autonoma, non enti comunali, ETS o associazioni: bassa pertinenza per il profilo dello studio.",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-10-26"
   },
   {
     "id": "campania-frc2",
@@ -3771,12 +3771,12 @@
     ],
     "beneficiari": "PMI, microimprese, liberi professionisti",
     "importo": "Non specificato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": null,
-    "scadenza_testo": "Sportello permanente / scadenza non specificata",
+    "scadenza_testo": "In fase di verifica ammissibilita' dopo pubblicazione graduatoria provvisoria; non risulta accettare nuove domande",
     "giorni": null,
     "checklist": [],
-    "note": "",
+    "note": "[Verifica 26/10/2026] Non e' a sportello permanente come indicato in precedenza.",
     "fonte": "Sviluppo Campania",
     "link": "https://bandi.sviluppocampania.it/bandi/240924FRC/Pagine/Home.aspx",
     "tag": [
@@ -3786,7 +3786,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Rivolto a PMI, microimprese e liberi professionisti: forma giuridica non compatibile con il profilo beneficiario (comuni/ETS/associazioni).",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-10-26"
   },
   {
     "id": "cn-8x1000straordinario-culturascienza",
@@ -4027,14 +4027,14 @@
     ],
     "beneficiari": "Organizzazioni di volontariato/protezione civile.",
     "importo": "Non specificato",
-    "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Sportello permanente",
+    "stato": "chiuso",
+    "scadenza": "2026-10-02",
+    "scadenza_testo": "Avviso pubblicato 21/09/2026, scadenza 10 giorni dopo (~02/10/2026)",
     "giorni": null,
     "checklist": [
       "Verifica requisiti organizzazione di volontariato"
     ],
-    "note": "Assegnazione di attrezzature, non un classico bando di finanziamento progettuale.",
+    "note": "Assegnazione di attrezzature, non un classico bando di finanziamento progettuale. [Verifica 26/10/2026] Non e' a sportello permanente come indicato in precedenza: e' un avviso regionale a scadenza fissa, gia' chiuso.",
     "fonte": "CSV Cosenza",
     "link": "https://csvcosenza.it/bandi/assegnazione-moduli-e-carrelli-attrezzati-per-il-rischio-idrogeologico/",
     "tag": [
@@ -4045,7 +4045,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Assegnazione di attrezzature e non un bando di finanziamento progettuale tipico: bisogno di assistenza tecnica alla documentazione probabilmente minimo.",
-    "aggiornato_il": "2026-10-07"
+    "aggiornato_il": "2026-10-26"
   },
   {
     "id": "cosenza-donnemalattiaoncologica",
@@ -4681,15 +4681,15 @@
     ],
     "beneficiari": "ETS attivi su disabilità.",
     "importo": "Non specificato",
-    "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Sportello permanente",
+    "stato": "chiuso",
+    "scadenza": "2026-05-31",
+    "scadenza_testo": "31/05/2026 ore 14:00 (apertura 20/04/2026 ore 14:00)",
     "giorni": null,
     "checklist": [
       "Progetto su interventi integrati per la disabilità",
       "Documentazione ente ETS"
     ],
-    "note": "",
+    "note": "[Verifica 26/10/2026] Non e' a sportello permanente: finestra fissa 8x1000 Soka Gakkai, gia' chiusa.",
     "fonte": "CSV Cosenza",
     "link": "https://csvcosenza.it/bandi/interventi-integrati-per-la-disabilita/",
     "tag": [
@@ -4700,7 +4700,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-09"
+    "aggiornato_il": "2026-10-26"
   },
   {
     "id": "cosenza-agora-calabria-turismo",
@@ -4713,9 +4713,9 @@
     ],
     "beneficiari": "Enti locali, associazioni culturali e turistiche.",
     "importo": "Non specificato",
-    "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Non indicata",
+    "stato": "chiuso",
+    "scadenza": "2026-05-18",
+    "scadenza_testo": "18/05/2026 ore 12:00",
     "giorni": null,
     "checklist": [
       "Progetto evento/iniziativa turistica",
@@ -4731,7 +4731,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-09"
+    "aggiornato_il": "2026-10-26"
   },
   {
     "id": "cosenza-laboratorio-creativita-contemporanea",
@@ -4744,9 +4744,9 @@
     ],
     "beneficiari": "ETS, associazioni culturali.",
     "importo": "Non specificato",
-    "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Non indicata",
+    "stato": "chiuso",
+    "scadenza": "2026-04-29",
+    "scadenza_testo": "29/04/2026 ore 15:00 (Portale Bandi DG Creativita' Contemporanea)",
     "giorni": null,
     "checklist": [
       "Progetto di rigenerazione urbana/culturale partecipata"
@@ -4762,7 +4762,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-09"
+    "aggiornato_il": "2026-10-26"
   },
   {
     "id": "cosenza-conibambini-legami-liberta",
@@ -4775,9 +4775,9 @@
     ],
     "beneficiari": "ETS attivi su minori.",
     "importo": "Non specificato",
-    "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Non indicata (testo troncato nella fonte)",
+    "stato": "chiuso",
+    "scadenza": "2026-05-21",
+    "scadenza_testo": "21/05/2026 ore 13:00 (piattaforma Chairos)",
     "giorni": null,
     "checklist": [
       "Progetto socio-educativo per minori 11-18 anni"
@@ -4792,7 +4792,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-09"
+    "aggiornato_il": "2026-10-26"
   },
   {
     "id": "cosenza-prospettive-repubblicadigitale",
@@ -4805,9 +4805,9 @@
     ],
     "beneficiari": "ETS attivi su inclusione lavorativa; destinatari finali disoccupati/inoccupati.",
     "importo": "Non specificato",
-    "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Non indicata (testo troncato nella fonte)",
+    "stato": "chiuso",
+    "scadenza": "2026-05-15",
+    "scadenza_testo": "15/05/2026 ore 11:00",
     "giorni": null,
     "checklist": [
       "Progetto di formazione digitale per persone disoccupate/inoccupate"
@@ -4823,7 +4823,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-09"
+    "aggiornato_il": "2026-10-26"
   },
   {
     "id": "cosenza-protezionecivile-2025",
@@ -4867,14 +4867,14 @@
     ],
     "beneficiari": "ETS.",
     "importo": "Non specificato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": null,
-    "scadenza_testo": "Finestre temporali annuali fissate dal Consiglio (non bando a scadenza unica)",
+    "scadenza_testo": "Finestre annuali 15 maggio e 15 settembre (bando 2025); entrambe trascorse",
     "giorni": null,
     "checklist": [
       "Verificare finestra temporale corrente sul sito della Fondazione"
     ],
-    "note": "Pagina datata 'Contributi 2025': verificare se risulta già pubblicata una versione 2026 equivalente.",
+    "note": "Pagina datata 'Contributi 2025': verificare se risulta già pubblicata una versione 2026 equivalente. [Verifica 26/10/2026] Bando dell'annualita' 2025, verificare se la Fondazione Carical pubblica un'edizione 2026.",
     "fonte": "CSV Cosenza",
     "link": "https://csvcosenza.it/bandi/contributi-2025-fondazione-carical/",
     "tag": [
@@ -4884,7 +4884,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-09"
+    "aggiornato_il": "2026-10-26"
   },
   {
     "id": "duemari-fondazionecattolica",
@@ -5381,9 +5381,9 @@
     ],
     "beneficiari": "Associazioni culturali e altre organizzazioni private.",
     "importo": "Non indicato",
-    "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Da verificare (non indicata nell'estratto)",
+    "stato": "chiuso",
+    "scadenza": "2026-05-04",
+    "scadenza_testo": "04/05/2026 — la pagina stessa lo classifica tra i \"Bandi scaduti\"",
     "giorni": null,
     "checklist": [],
     "note": "",
@@ -5396,7 +5396,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Ente erogatore pubblico locale (Città Metropolitana); scadenza non indicata nell'estratto, verificare pagina di dettaglio.",
-    "aggiornato_il": "2026-10-19"
+    "aggiornato_il": "2026-10-26"
   },
   {
     "id": "lazio-spazioargento",
@@ -5727,7 +5727,7 @@
     ],
     "beneficiari": "Enti Locali ed Enti Gestori di beni monumentali di proprietà pubblica destinati a pubblica fruizione (una domanda per ente).",
     "importo": "Contributo a fondo perduto fino al 70% del costo ammissibile, massimo 49.000 € per intervento; procedura a sportello fino a esaurimento fondi.",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-26",
     "scadenza_testo": "Dalle ore 08:00 del 16/10/2026 alle ore 14:00 del 26/10/2026 (sportello, salvo esaurimento anticipato dei fondi)",
     "giorni": 5,
@@ -5735,7 +5735,7 @@
       "Progetto di Fattibilità Tecnico-Economica (PFTE) firmato digitalmente in formato PAdES",
       "Domanda presentata esclusivamente online tramite il Catalogo Servizi Digitali della Regione Campania (accesso SPID/CIE/CNS)"
     ],
-    "note": "Bando segnalato direttamente dall'utente il 20/10/2026 (foto dell'avviso); non era stato intercettato automaticamente dal monitoraggio per mancanza di una fonte dedicata. Aggiunta la fonte 'Regione Campania — Notizie e Avvisi' il 20/10/2026 e individuato il testo integrale (Decreto dirigenziale n. 149/2026) il 21/10/2026. Scadenza molto ravvicinata (procedura a sportello): priorità immediata.",
+    "note": "Bando segnalato direttamente dall'utente il 20/10/2026 (foto dell'avviso); non era stato intercettato automaticamente dal monitoraggio per mancanza di una fonte dedicata. Aggiunta la fonte 'Regione Campania — Notizie e Avvisi' il 20/10/2026 e individuato il testo integrale (Decreto dirigenziale n. 149/2026) il 21/10/2026. Scadenza molto ravvicinata (procedura a sportello): priorità immediata. [Verifica 26/10/2026] Confermato scaduto: finestra 08:00 16/10/2026 - 14:00 26/10/2026.",
     "fonte": "Regione Campania — Notizie e Avvisi",
     "link": "https://www.regione.campania.it/regione-informa/notizie/domanda-contributo-l-illuminazione-architettonica-monumenti-online-nuovo-servizio-digitale",
     "tag": [
@@ -5746,7 +5746,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Altissima pertinenza: beneficiari enti locali, richiede un Progetto di Fattibilità Tecnico-Economica (PFTE) firmato digitalmente — tipico incarico di supporto tecnico-amministrativo per lo studio. Scadenza imminente (26/10/2026, sportello a esaurimento fondi).",
-    "aggiornato_il": "2026-10-21"
+    "aggiornato_il": "2026-10-26"
   },
   {
     "id": "fabbrica-spazicivici-gioventu2026",
@@ -5950,15 +5950,15 @@
     ],
     "beneficiari": "Sistemi bibliotecari e biblioteche scolastiche (spesso di titolarità comunale).",
     "importo": "Dotazione annuale 1.000.000 €, nessun massimo per progetto indicato nella pagina",
-    "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Nessuna scadenza esatta indicata; bando pubblicato solitamente in aprile, round integrativo annunciato il 23/10/2026",
+    "stato": "chiuso",
+    "scadenza": "2026-04-30",
+    "scadenza_testo": "Finestra di domanda 1-30 aprile 2026 (gia' conclusa; esiti pubblicati: 107/1114 biblioteche scolastiche e 83/163 sistemi bibliotecari ammessi)",
     "giorni": null,
     "checklist": [
       "Verificare il testo integrale del bando sul sito MiC/Direzione Generale Biblioteche",
       "Chiarire se il Comune titolare della biblioteca può presentare direttamente o solo tramite il sistema bibliotecario"
     ],
-    "note": "Individuato su Ministero della Cultura — Avvisi (23/10/2026). Link al bando integrale non trovato nella pagina del comunicato: approfondire al prossimo ciclo.",
+    "note": "Individuato su Ministero della Cultura — Avvisi (23/10/2026). Link al bando integrale non trovato nella pagina del comunicato: approfondire al prossimo ciclo. [Verifica 26/10/2026] Dato 'nessuna scadenza esatta' del catalogo era impreciso: il bando FPL 2026 ha finestra fissa gia' chiusa da mesi.",
     "fonte": "Ministero della Cultura",
     "link": "https://cultura.gov.it/comunicato/29434",
     "tag": [
@@ -5968,7 +5968,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Beneficiario esatto (comune vs sistema bibliotecario) e scadenza non confermati nella pagina; approfondire.",
-    "aggiornato_il": "2026-10-23"
+    "aggiornato_il": "2026-10-26"
   },
   {
     "id": "csvrc-beni-storicoartistici",
