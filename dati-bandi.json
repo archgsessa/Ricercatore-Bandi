@@ -1257,7 +1257,7 @@
     ],
     "beneficiari": "Associazioni/ETS senza scopo di lucro attive in Italia.",
     "importo": "Tipo A: 20.000–30.000 € (bilancio 25-200mila €); Tipo B: 5.000 € (bilancio <25mila €), copertura 100%",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-25",
     "scadenza_testo": "25 ott 2026",
     "giorni": 4,
@@ -1276,7 +1276,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-10-26"
   },
   {
     "id": "cn-agricolturasociale",

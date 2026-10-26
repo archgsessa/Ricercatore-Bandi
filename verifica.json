@@ -1,16 +1,14 @@
 {
-  "ultima_verifica": "2026-10-25T07:11:21+00:00",
+  "ultima_verifica": "2026-10-26T13:36:20+00:00",
   "fonti_saltate": [
-    "Portale Bandi DGCC (portalebandidgcc.cultura.gov.it): bloccato da robots.txt, non verificabile in questo ciclo.",
-    "MASE (pagina Comuni efficientamento energetico): errore client (403) sia al primo tentativo che al retry; stesso problema del ciclo precedente.",
-    "CSV Lombardia (csvlombardia.it): la sezione Bandi non e stata estraibile per intero (probabile rendering JavaScript); verificato solo tramite ricerca web mirata, nessuna novita reale oltre a quanto gia tracciato (il presunto nuovo Avviso 2/2026 da 10,5 mln e lo stesso bando gia tracciato come chiuso cn-avviso2terzosettore, confermato scaduto il 22/10/2026).",
-    "Regione Lombardia - Bandi Terzo Settore e Volontariato: paginazione/filtro non funzionante anche con parametri diversi, contenuto non estraibile in questo ciclo; nessuna conferma o smentita possibile sui 3 bandi tracciati.",
-    "Portale Bandi Regione Basilicata (CeBas): bloccato da robots.txt sia in fetch diretto che tramite ricerca web, confermato come nei cicli precedenti.",
-    "professionearchitetto.it/concorsi: verificata solo la prima pagina (su 8); nessun elemento pertinente trovato (solo concorsi di progettazione diretti, esclusi per perimetro); pagine 2-8 non controllate per limiti di tempo.",
-    "CSV dei Due Mari (Reggio Calabria): il bando duemari-fondazionecattolica tracciato non e stato ritrovato in questo ciclo ne sulla pagina bandi ne via ricerca web dedicata; possibile rimozione o rinomina dal sito, da verificare manualmente al prossimo ciclo.",
-    "Sviluppo Campania: il bando sc-albo-competenze non e stato ritrovato nella vista sintetica \"in corso\" ne via ricerca web; probabile spostamento in archivio, da verificare manualmente."
+    "Ciclo di aggiornamento rapido su richiesta dell'utente (\"Aggiorna la ricerca\"): riverificata solo Infobandi CSVnet (fonte principale, tutte le 4 pagine). Le altre fonti principali/aggiuntive non sono state riverificate in questo ciclo intermedio perche gia scansionate per intero il giorno precedente (25/10/2026); prossima scansione completa di tutte le fonti al prossimo ciclo programmato."
   ],
   "nuovi": [],
-  "chiusi": [],
-  "note_ciclo": "Nessun bando nuovo o chiuso rilevato in questo ciclo (controllo a 2 giorni dall'ultimo, 23/10/2026). Consolidati i due id duplicati della Fondazione San Zeno (cn-sanzeno rimosso, mantenuto cn-sanzeno-educazionelavoro con dati piu completi, stesso link). Candidati scartati perche duplicati di bandi gia tracciati: \"Fabbrica Spazi Civici per la Gioventu\" (via CSV Cosenza, duplicato di fabbrica-spazicivici-gioventu2026), \"Iniziativa 2026 valorizzazione beni confiscati\" (via Fondazione con il Sud, duplicato di cn-beniconfiscati26), \"Fondo beneficenza Intesa Sanpaolo\" (via CSV Due Mari, duplicato di cn-fondobeneficenza-isp), \"Avviso 2/2026 10,5 mln\" (via CSV Lombardia, duplicato di cn-avviso2terzosettore, gia chiuso). Due bandi di interesse concettuale ma non azionabili perche con candidatura gia chiusa: \"Capitale Italiana della Cultura 2029\" (Comuni, prossima edizione prevista 2030/2031) e \"Capitale Italiana del Libro 2027\" (Comuni, prossima edizione prevista 2028) — da monitorare in futuro, non aggiunti al tracciamento."
+  "chiusi": [
+    {
+      "id": "cn-stereotipi",
+      "dal": "2026-10-26"
+    }
+  ],
+  "note_ciclo": "Infobandi CSVnet: 39 bandi su 4 pagine (ieri erano 40). Unica variazione: \"Progetti oltre gli stereotipi\" (cn-stereotipi, scadenza 25/10/2026) non e piu presente nell'elenco attivi -> segnato come chiuso. Tutti gli altri 39 bandi coincidono con quelli gia tracciati, nessuna novita."
 }
