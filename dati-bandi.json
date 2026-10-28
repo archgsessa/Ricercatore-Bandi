@@ -1289,10 +1289,10 @@
     ],
     "beneficiari": "Sezione ordinaria: imprenditori agricoli/cooperative sociali; sezione speciale: anche ETS non agricoli (rilevante per verde pubblico comunale).",
     "importo": "3 premi da 40.000 € (ordinaria) + 1 premio da 20.000 € (speciale)",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-26",
     "scadenza_testo": "26 ott 2026",
-    "giorni": 5,
+    "giorni": -2,
     "checklist": [
       "Doppio invio obbligatorio (email + raccomandata cartacea)",
       "Progetto di realizzazione entro 31/10/2027"
@@ -1308,7 +1308,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-10-28"
   },
   {
     "id": "cn-daphne",
@@ -6092,5 +6092,259 @@
     "pertinenza_bassa": true,
     "nota_pertinenza": "Bando già scaduto; tracciato per riferimento futuro data l'elevata pertinenza (comuni piccoli, impianti pubblici).",
     "aggiornato_il": "2026-10-23"
+  },
+  {
+    "id": "fondazionesardegna-arte",
+    "titolo": "Bando Arte — Fondazione di Sardegna",
+    "ente": "Fondazione di Sardegna",
+    "oggetto": "Contributi per attività artistiche, culturali e di valorizzazione dei beni culturali in Sardegna, presentabili a sportello tramite il portale ROL (Richieste On Line).",
+    "area_testo": "Sardegna",
+    "regioni": [
+      "Sardegna"
+    ],
+    "beneficiari": "Enti del terzo settore, associazioni culturali e fondazioni operanti in Sardegna (da confermare nel PDF del bando).",
+    "importo": "Non indicato nella pagina elenco; verificare il PDF del bando.",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Bando annuale 2026, a sportello tramite portale ROL — nessuna scadenza fissa indicata",
+    "giorni": null,
+    "checklist": [
+      "Verifica requisiti nel PDF del bando (sede/operatività in Sardegna)",
+      "Registrazione e presentazione tramite portale ROL",
+      "Progetto e piano economico dell'iniziativa"
+    ],
+    "note": "Fonte già presente nel catalogo fonti (dal 2026-10-26) ma non aveva ancora prodotto bandi tracciati. Lo slug degli URL riporta ancora anni precedenti (2018/2019) per template non aggiornato della fondazione: verificare importi e scadenze esatte nel PDF scaricabile, non leggibili dalla sola pagina HTML.",
+    "fonte": "Fondazione di Sardegna — Bandi ROL",
+    "link": "https://www.fondazionedisardegna.it/contributi/aree-di-intervento/arte-attivita-beni-culturali/sacrica-bando-arte-2019",
+    "tag": [
+      "musica-cultura"
+    ],
+    "punteggio": 3,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-10-28"
+  },
+  {
+    "id": "fondazionesardegna-svilupplocale",
+    "titolo": "Bando Sviluppo Locale — Fondazione di Sardegna",
+    "ente": "Fondazione di Sardegna",
+    "oggetto": "Contributi per progetti di sviluppo locale ed economico dei territori sardi, presentabili a sportello tramite il portale ROL.",
+    "area_testo": "Sardegna",
+    "regioni": [
+      "Sardegna"
+    ],
+    "beneficiari": "Enti pubblici locali, associazioni ed enti del terzo settore operanti in Sardegna (da confermare nel PDF del bando).",
+    "importo": "Non indicato nella pagina elenco; verificare il PDF del bando.",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Bando annuale 2026, a sportello tramite portale ROL — nessuna scadenza fissa indicata",
+    "giorni": null,
+    "checklist": [
+      "Verifica ambiti finanziabili e requisiti nel PDF del bando",
+      "Presentazione tramite portale ROL",
+      "Progetto di sviluppo locale/territoriale"
+    ],
+    "note": "Stessa fonte e stesse cautele del bando Arte (template con slug anni precedenti).",
+    "fonte": "Fondazione di Sardegna — Bandi ROL",
+    "link": "https://www.fondazionedisardegna.it/contributi/aree-di-intervento/sviluppo-locale/scarica-bando-sviluppo-2018",
+    "tag": [
+      "terzo-settore-generico"
+    ],
+    "punteggio": 4,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-10-28"
+  },
+  {
+    "id": "fondazionesardegna-volontariato",
+    "titolo": "Bando Volontariato — Fondazione di Sardegna (Annuale 2026)",
+    "ente": "Fondazione di Sardegna",
+    "oggetto": "Sostegno ad attività di organizzazioni di volontariato, filantropia e beneficenza in Sardegna; bando annuale 2026 a sportello tramite portale ROL.",
+    "area_testo": "Sardegna",
+    "regioni": [
+      "Sardegna"
+    ],
+    "beneficiari": "Organizzazioni di volontariato, ODV/APS ed enti di beneficenza operanti in Sardegna.",
+    "importo": "Non indicato nella pagina elenco; verificare il PDF del bando.",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Bando Annuale 2026, a sportello tramite portale ROL — nessuna scadenza fissa indicata",
+    "giorni": null,
+    "checklist": [
+      "Verifica requisiti ODV/APS nel PDF del bando",
+      "Presentazione tramite portale ROL",
+      "Progetto e relazione delle attività di volontariato"
+    ],
+    "note": "Confermato dal PDF allegato alla pagina, denominato esplicitamente 'Bando Annuale 2026'.",
+    "fonte": "Fondazione di Sardegna — Bandi ROL",
+    "link": "https://www.fondazionedisardegna.it/contributi/aree-di-intervento/volontariato/scarica-bando-volontariato-2018",
+    "tag": [
+      "volontariato"
+    ],
+    "punteggio": 4,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-10-28"
+  },
+  {
+    "id": "fondazionesardegna-salute",
+    "titolo": "Bando Salute e Medicina — Fondazione di Sardegna",
+    "ente": "Fondazione di Sardegna",
+    "oggetto": "Contributi per iniziative di salute pubblica e medicina preventiva in Sardegna, bando annuale a sportello tramite portale ROL.",
+    "area_testo": "Sardegna",
+    "regioni": [
+      "Sardegna"
+    ],
+    "beneficiari": "Enti del terzo settore/associazioni sanitarie o socio-sanitarie operanti in Sardegna.",
+    "importo": "Non indicato nella pagina elenco; verificare il PDF del bando.",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Bando annuale 2026, a sportello tramite portale ROL — nessuna scadenza fissa indicata",
+    "giorni": null,
+    "checklist": [
+      "Verifica requisiti nel PDF del bando",
+      "Presentazione tramite portale ROL",
+      "Progetto di salute pubblica/medicina preventiva"
+    ],
+    "note": "Stessa fonte e stesse cautele dei bandi Arte/Sviluppo Locale/Volontariato della Fondazione.",
+    "fonte": "Fondazione di Sardegna — Bandi ROL",
+    "link": "https://www.fondazionedisardegna.it/contributi/aree-di-intervento/salute-pubblica-medicina-preventiva/scarica-bando-salute-2018",
+    "tag": [
+      "salute-pubblica"
+    ],
+    "punteggio": 3,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-10-28"
+  },
+  {
+    "id": "mic-capitaleculturacomuni2029",
+    "titolo": "Capitale italiana della cultura 2029",
+    "ente": "Ministero della Cultura — Dipartimento per le attività culturali",
+    "oggetto": "Selezione del Comune (o Città metropolitana/Unione di Comuni) che riceverà il titolo e un contributo per l'anno 2029; candidatura in due fasi, manifestazione d'interesse e dossier progettuale.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Comuni, Città metropolitane, Unioni di Comuni (esclusi i partecipanti alle edizioni 2027/2028).",
+    "importo": "Non indicato nella pagina; verificare il decreto.",
+    "stato": "chiuso",
+    "scadenza": "2026-09-23",
+    "scadenza_testo": "1 luglio 2026 (manifestazione d'interesse) — 23 settembre 2026 (dossier progetto candidatura)",
+    "giorni": -35,
+    "checklist": [
+      "Delibera di giunta/consiglio comunale di candidatura",
+      "Dossier progettuale di candidatura",
+      "Piano di gestione e valorizzazione culturale"
+    ],
+    "note": "Ciclo di candidatura 2029 già chiuso al momento del rilevamento; monitorare l'apertura della prossima edizione (2030/2031) nei cicli successivi.",
+    "fonte": "Ministero della Cultura — bandi e concorsi",
+    "link": "https://cultura.gov.it/comunicato/bando-per-il-conferimento-del-titolo-di-capitale-italiana-della-cultura-per-lanno-2029",
+    "tag": [
+      "musica-cultura"
+    ],
+    "punteggio": 2,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-10-28"
+  },
+  {
+    "id": "mic-capitalelibro2027",
+    "titolo": "Capitale italiana del libro 2027",
+    "ente": "Ministero della Cultura",
+    "oggetto": "Selezione del Comune che riceverà il titolo di Capitale italiana del libro 2027, con relative linee guida tecniche.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Comuni.",
+    "importo": "Non indicato.",
+    "stato": "chiuso",
+    "scadenza": "2026-04-18",
+    "scadenza_testo": "entro 60 giorni dalla pubblicazione (17/02/2026) — stimata al 18/04/2026, da confermare",
+    "giorni": -192,
+    "checklist": [
+      "Delibera comunale di candidatura",
+      "Dossier di candidatura secondo linee guida tecniche"
+    ],
+    "note": "Scadenza passata da molti mesi al momento del rilevamento; incluso per completezza e per monitorare la prossima edizione.",
+    "fonte": "Ministero della Cultura — bandi e concorsi",
+    "link": "https://media.cultura.gov.it/mibac/files/boards/388a5474724a15af0ace7a40ab3301de/file_pdf/2026/Bando%20e%20linee%20guida%20Capitale%20italiana%20del%20libro%202027.pdf",
+    "tag": [
+      "musica-cultura"
+    ],
+    "punteggio": 1,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Scadenza già passata da molti mesi al momento del rilevamento; incluso solo per completezza/monitoraggio della prossima edizione.",
+    "aggiornato_il": "2026-10-28"
+  },
+  {
+    "id": "mic-festivalfumetto2026",
+    "titolo": "Festival del fumetto 2026 — bando nazionale manifestazioni fumettistiche",
+    "ente": "Ministero della Cultura — DG Biblioteche e istituti culturali",
+    "oggetto": "Contributo per l'organizzazione di manifestazioni/festival dedicati al patrimonio fumettistico.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Non specificati chiaramente sulla pagina; presumibilmente organizzatori di festival, enti e associazioni culturali.",
+    "importo": "Non indicato.",
+    "stato": "chiuso",
+    "scadenza": "2026-06-04",
+    "scadenza_testo": "entro 30 giorni dalla pubblicazione del 05/05/2026 — stimata al 04/06/2026, da confermare",
+    "giorni": -146,
+    "checklist": [
+      "Verifica requisiti soggettivi nel testo integrale del bando",
+      "Progetto e programma della manifestazione"
+    ],
+    "note": "",
+    "fonte": "Ministero della Cultura — bandi e concorsi",
+    "link": "https://biblioteche.cultura.gov.it/it/documenti/2025-26/Bando-nazionale_Festival-del-fumetto_2026_signed.pdf",
+    "tag": [
+      "musica-cultura"
+    ],
+    "punteggio": 1,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiari non chiaramente specificati nella pagina e bando già scaduto; incluso per completezza e monitoraggio di eventuali edizioni future.",
+    "aggiornato_il": "2026-10-28"
+  },
+  {
+    "id": "lavoro-fondogaranzia-ets",
+    "titolo": "Fondo di garanzia — Sezione speciale Enti del Terzo Settore",
+    "ente": "Ministero del Lavoro e delle Politiche Sociali",
+    "oggetto": "Strumento permanente di garanzia pubblica sui finanziamenti bancari, per facilitare l'accesso al credito di Enti del Terzo Settore ed enti religiosi civilmente riconosciuti.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "ODV, APS, Fondazioni RUNTS, enti religiosi civilmente riconosciuti.",
+    "importo": "Garanzia pubblica sul credito bancario (non è un contributo a fondo perduto).",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Strumento permanente, nessuna scadenza",
+    "giorni": null,
+    "checklist": [
+      "Verifica requisiti ETS/RUNTS",
+      "Richiesta di garanzia tramite istituto bancario convenzionato",
+      "Piano finanziario dell'iniziativa da garantire"
+    ],
+    "note": "",
+    "fonte": "Ministero del Lavoro — Terzo Settore",
+    "link": "https://lavoro.gov.it/notizie/pagine/fondo-di-garanzia-sezione-speciale-enti-del-terzo-settore",
+    "tag": [
+      "terzo-settore-generico"
+    ],
+    "punteggio": 2,
+    "ruolo": "assistenza_rup",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "È uno strumento di garanzia sul credito bancario, non un bando a contributo con documentazione progettuale in senso classico; segnalato per completezza come possibile servizio di supporto amministrativo agli ETS clienti dello studio.",
+    "aggiornato_il": "2026-10-28"
   }
 ]

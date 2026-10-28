@@ -1,67 +1,54 @@
 {
-  "ultima_verifica": "2026-10-26T16:12:45+00:00",
+  "ultima_verifica": "2026-10-28T07:13:02+00:00",
   "fonti_saltate": [
-    "Verifica puntuale richiesta dall'utente (26/10/2026): controllati singolarmente, tramite link diretto, tutti i 95 bandi aperti del catalogo (esclusi quelli Infobandi CSVnet, riverificati separatamente in giornata). Risultato: 14 bandi erano in realta' gia' scaduti (vedi chiusi sotto), gli altri 81 risultano confermati aperti.",
-    "Rimasti INCERTI (sito bloccato/contenuto non verificabile, da controllare manualmente in futuro): duemari-fondazionecattolica (non piu' presente sulla pagina bandi attuale di csvrc.it, possibile rimozione/archiviazione), fabbrica-spazicivici-gioventu2026 (PDF con dati contrastanti sulla finestra di candidatura), basilicata-patrocinio-oneroso/basilicata-piru-ambientale/basilicata-efficientamentoenergetico (portale bloccato da robots.txt), padigitale-2026 (portale con contenuto dinamico, piu' avvisi distinti), pnrr-m5c2-disabilita (portale generale lavoro.gov.it, avvisi locali non riconducibili a scadenza unica), liguria-altrisegnali (pagina bloccata da robots.txt)."
+    "Europaconcorsi: richiede sessione autenticata via browser; non disponibile in questa esecuzione automatica (nessuna sessione Claude in Chrome con login attivo), saltata.",
+    "Portale Bandi Regione Basilicata (CeBas): fetch bloccato da robots.txt, nessuna novità individuabile rispetto al tracciato esistente.",
+    "Regione Siciliana — Portale Bandi: portale generalista con 985 risultati non filtrabile via fetch automatico; sostituito con ricerca web mirata (nessuna novità oltre a quanto già tracciato).",
+    "Regione Emilia-Romagna — Bandi Welfare/Terzo Settore: pagina a motore di ricerca dinamico (JavaScript), fetch statico senza risultati; sostituito con ricerca web (nessuna novità attuale).",
+    "Portale Bandi DGCC (MiC): bloccato da robots.txt; verificato via ricerca web che non è stata ancora pubblicata una nuova edizione di 'Cultura nei piccoli Comuni'.",
+    "MASE — Comuni efficientamento energetico e MASE — Bandi e avvisi: fetch diretto respinto con errore client (probabile protezione anti-bot); nessuna nuova edizione individuata via ricerca web di supporto.",
+    "Scelgo il Servizio Civile (scelgoilserviziocivile.gov.it): bloccato da robots.txt; dato (scadenza 06/11/2026, 3767 posti) confermato tramite fonti terze, nessuna modifica.",
+    "Ministero dell'Interno — Finanza Locale: fetch diretto con errore client; nessun nuovo bando competitivo individuato via ricerca web di supporto (solo riparti/certificazioni con scadenze già passate)."
   ],
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "fondazionesardegna-arte",
+      "dal": "2026-10-28"
+    },
+    {
+      "id": "fondazionesardegna-svilupplocale",
+      "dal": "2026-10-28"
+    },
+    {
+      "id": "fondazionesardegna-volontariato",
+      "dal": "2026-10-28"
+    },
+    {
+      "id": "fondazionesardegna-salute",
+      "dal": "2026-10-28"
+    },
+    {
+      "id": "mic-capitaleculturacomuni2029",
+      "dal": "2026-10-28"
+    },
+    {
+      "id": "mic-capitalelibro2027",
+      "dal": "2026-10-28"
+    },
+    {
+      "id": "mic-festivalfumetto2026",
+      "dal": "2026-10-28"
+    },
+    {
+      "id": "lavoro-fondogaranzia-ets",
+      "dal": "2026-10-28"
+    }
+  ],
   "chiusi": [
     {
-      "id": "campania-illuminazione-monumenti2026",
-      "dal": "2026-10-26"
-    },
-    {
-      "id": "mic-fondolettura-biblioteche2026",
-      "dal": "2026-10-26"
-    },
-    {
-      "id": "cosenza-moduli-idrogeologico",
-      "dal": "2026-10-26"
-    },
-    {
-      "id": "cosenza-interventi-disabilita",
-      "dal": "2026-10-26"
-    },
-    {
-      "id": "cosenza-agora-calabria-turismo",
-      "dal": "2026-10-26"
-    },
-    {
-      "id": "cosenza-laboratorio-creativita-contemporanea",
-      "dal": "2026-10-26"
-    },
-    {
-      "id": "cosenza-conibambini-legami-liberta",
-      "dal": "2026-10-26"
-    },
-    {
-      "id": "cosenza-prospettive-repubblicadigitale",
-      "dal": "2026-10-26"
-    },
-    {
-      "id": "cosenza-carical-2025",
-      "dal": "2026-10-26"
-    },
-    {
-      "id": "duemari-associazioniculturali-rc",
-      "dal": "2026-10-26"
-    },
-    {
-      "id": "campania-autoimprenditorialita",
-      "dal": "2026-10-26"
-    },
-    {
-      "id": "campania-frc2",
-      "dal": "2026-10-26"
-    },
-    {
-      "id": "liguria-welfarecomunita",
-      "dal": "2026-10-26"
-    },
-    {
-      "id": "calabria-cittametro-segnale",
+      "id": "cn-agricolturasociale",
       "dal": "2026-10-26"
     }
   ],
-  "note_ciclo": "Aggiornamento straordinario richiesto dall'utente dopo aver notato che il bando illuminazione monumenti Campania (scaduto oggi alle 14:00) non era stato chiuso. Effettuata verifica puntuale di TUTTI i bandi aperti del catalogo (link diretto per ciascuno). Risultato: 14 bandi erano gia' scaduti, in alcuni casi perche' erroneamente catalogati come \"sportello permanente\" quando in realta' avevano una scadenza fissa gia' passata (cosenza-moduli-idrogeologico, cosenza-interventi-disabilita, campania-autoimprenditorialita, campania-frc2). Corrette anche le scadenze nel dettaglio dei bandi interessati."
+  "note_ciclo": "Scansione ordinaria SEZIONE A (ciclo unificato da 3 ex-task separati). Infobandi CSVnet scansionato per intero (38 bandi su 4 pagine): nessuna novità, tutti già tracciati. Scansionate anche le altre fonti principali e tutte le fonti aggiuntive di fonti.json (vedi fonti_saltate per quelle bloccate/non raggiungibili). Individuate 8 nuove schede (4 dalla Fondazione di Sardegna, mai tracciata prima nonostante presente nel catalogo fonti da ottobre; 3 bandi MiC di nicchia/già scaduti inclusi per completezza; 1 strumento di garanzia creditizia ETS a bassa pertinenza). Chiuso un bando (cn-agricolturasociale) la cui scadenza (26/10/2026) era già passata pur essendo ancora segnato aperto. Aggiunta in modo additivo una nuova voce di vocabolario 'salute-pubblica' in index.html, introdotta da un bando della Fondazione di Sardegna su salute pubblica/medicina preventiva, tema non ancora coperto dal vocabolario esistente. SEZIONE B (ricerca nuove fonti) e SEZIONE C (manutenzione vocabolario) non eseguite in questo ciclo: soglia dei 14 giorni non raggiunta (ultima_ricerca_fonti 2026-10-26, ultima_manutenzione_vocabolario 2026-10-23)."
 }
