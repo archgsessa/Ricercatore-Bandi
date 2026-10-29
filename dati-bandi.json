@@ -6346,5 +6346,134 @@
     "pertinenza_bassa": true,
     "nota_pertinenza": "È uno strumento di garanzia sul credito bancario, non un bando a contributo con documentazione progettuale in senso classico; segnalato per completezza come possibile servizio di supporto amministrativo agli ETS clienti dello studio.",
     "aggiornato_il": "2026-10-28"
+  },
+  {
+    "id": "lombardia-comunicasenzabarriere2628",
+    "titolo": "Comunicare senza barriere — azioni e strumenti per l'inclusione delle persone sorde e ipoacusiche (2026/2028)",
+    "ente": "Regione Lombardia (DGR XII/6574 del 27/07/2026), cofinanziato dalla Presidenza del Consiglio — Dipartimento politiche per le persone con disabilità",
+    "oggetto": "Avviso pubblico per individuare enti del terzo settore da coinvolgere in un procedimento di coprogettazione (art. 55 d.lgs. 117/2017) per la promozione della LIS/LIST, servizi di interpretariato, tecnologie di abbattimento delle barriere comunicative e formazione/informazione.",
+    "area_testo": "Lombardia",
+    "regioni": [
+      "Lombardia"
+    ],
+    "beneficiari": "Enti del terzo settore iscritti al RUNTS, tra i più rappresentativi di persone sorde/ipoacusiche/sordocieche in Lombardia, con sede in Lombardia ed esperienza comprovata nel settore.",
+    "importo": "Valore complessivo progetto 1.343.526,00 €; contributo a fondo perduto, quota definita a fine coprogettazione.",
+    "stato": "aperto",
+    "scadenza": "2026-11-13",
+    "scadenza_testo": "Domande online dalle 10:00 del 27/10/2026 alle 12:00 del 13/11/2026",
+    "giorni": 15,
+    "checklist": [
+      "Verifica iscrizione RUNTS e rappresentatività nel settore sordità/LIS",
+      "Partecipazione al procedimento di coprogettazione ex art. 55 d.lgs. 117/2017",
+      "Proposta progettuale e piano economico"
+    ],
+    "note": "Platea di beneficiari molto ristretta (ETS più rappresentativi dei sordi in Lombardia, verosimilmente riconducibile a enti come ENS); utile solo se lo studio ha già un rapporto con un ETS del settore disabilità/sordità.",
+    "fonte": "Regione Lombardia — Bandi Terzo Settore/Volontariato",
+    "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/politiche-sociali/disabilita/comunicare-senza-barriere-2026-2028-RLD12026057543",
+    "tag": [
+      "disabilita"
+    ],
+    "punteggio": 3,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Platea di beneficiari molto ristretta (enti rappresentativi dei sordi in Lombardia); difficile un committente generico per lo studio.",
+    "aggiornato_il": "2026-10-29"
+  },
+  {
+    "id": "lombardia-coprogettazione-pft-disabilita",
+    "titolo": "Coprogettazione del Piano Formativo Territoriale — disabilità",
+    "ente": "Regione Lombardia (DGR XII/6572/2026, in attuazione d.lgs. 62/2024)",
+    "oggetto": "Avviso pubblico per individuare i partner per la coprogettazione di un Piano Formativo Territoriale volto a rafforzare le competenze di operatori, persone con disabilità e famiglie, dalla valutazione di base ai progetti di vita individuali.",
+    "area_testo": "Lombardia",
+    "regioni": [
+      "Lombardia"
+    ],
+    "beneficiari": "Federazioni/associazioni del terzo settore partecipanti o invitate permanenti all'Osservatorio nazionale sulla condizione delle persone con disabilità con sede operativa in Lombardia; Università lombarde con esperienza sui temi.",
+    "importo": "Valore complessivo progetto 2.972.699,11 €; contributo a fondo perduto, ripartizione definita in coprogettazione.",
+    "stato": "aperto",
+    "scadenza": "2026-11-13",
+    "scadenza_testo": "Domande online dalle 10:00 del 27/10/2026 alle 12:00 del 13/11/2026 (BURL Serie Ordinaria n. 43 del 21/10/2026)",
+    "giorni": 15,
+    "checklist": [
+      "Verifica appartenenza all'Osservatorio nazionale disabilità o status universitario",
+      "Partecipazione al procedimento di coprogettazione",
+      "Proposta progettuale del Piano Formativo Territoriale"
+    ],
+    "note": "Platea di beneficiari estremamente ristretta (federazioni nazionali disabilità iscritte all'Osservatorio nazionale, o università); profilo non compatibile con un tipico committente dello studio.",
+    "fonte": "Regione Lombardia — Bandi Terzo Settore/Volontariato",
+    "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/politiche-sociali/disabilita/coprogettazione-piano-formativo-territoriale-RLD12026057544",
+    "tag": [
+      "disabilita",
+      "istruzione-formazione"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiari sono federazioni nazionali disabilità o università, non un comune/ODV/APS locale tipico.",
+    "aggiornato_il": "2026-10-29"
+  },
+  {
+    "id": "sicilia-reimar-borghimarinari2026",
+    "titolo": "Avviso pubblico REIMAR — Borghi Marinari (anno 2026)",
+    "ente": "Regione Siciliana — Dipartimento della Pesca Mediterranea",
+    "oggetto": "Selezione di proposte progettuali per il recupero, la fruizione e la valorizzazione dei borghi marinari siciliani iscritti al registro REIMAR: restauro, ristrutturazione, adeguamento e riparazione funzionale di immobili, strutture portuali e spazi pubblici legati alla pesca, musei, spazi espositivi/didattici, arredi, segnaletica e percorsi di accesso e visita.",
+    "area_testo": "Sicilia (comuni iscritti al registro REIMAR)",
+    "regioni": [
+      "Sicilia"
+    ],
+    "beneficiari": "Comuni e loro forme associative, liberi consorzi comunali, città metropolitane, autorità di sistema portuale, camere di commercio, Co.Ge.P.A. e GAL della pesca, associazioni/fondazioni/enti privati senza scopo di lucro con finalità statutarie pertinenti. Sede in Sicilia, iscrizione al registro REIMAR, un solo progetto per soggetto.",
+    "importo": "Fino a 250.000 € per progetto, copertura 100% dei costi ammissibili (incluso IVA e altri oneri); dotazione complessiva 1.000.000 € per il 2026.",
+    "stato": "aperto",
+    "scadenza": "2026-10-31",
+    "scadenza_testo": "fino alle ore 23:59 del 31/10/2026 (avviso pubblicato il 12/10/2026, Decreto n. 549)",
+    "giorni": 2,
+    "checklist": [
+      "Verifica iscrizione al registro REIMAR entro la scadenza",
+      "Progetto di recupero/valorizzazione del borgo marinaro",
+      "Un solo progetto candidabile per soggetto"
+    ],
+    "note": "SCADENZA MOLTO IMMINENTE (2 giorni dal rilevamento). Utile solo se esiste già un cliente/comune idoneo con progetto pronto o già iscritto al registro REIMAR.",
+    "fonte": "Regione Siciliana — Avvisi e bandi",
+    "link": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-pubblico-reimar-selezione-proposte-progettuali-finalizzate-alla-realizzazione-interventi-recupero-fruizione-valorizzazione-borghi-marinari-anno-2026",
+    "tag": [
+      "immobili-pubblici"
+    ],
+    "punteggio": 4,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-10-29"
+  },
+  {
+    "id": "mic-icbsa-volontariatoaps",
+    "titolo": "Manifestazione di interesse — associazioni di volontariato e APS a supporto dell'ICBSA",
+    "ente": "Ministero della Cultura — Istituto Centrale per i Beni Sonori e Audiovisivi (ICBSA), Roma",
+    "oggetto": "Manifestazione di interesse per individuare associazioni di volontariato/APS disponibili a supportare le attività dell'istituto tramite una convenzione (schema incluso come Allegato B); attività di supporto generico, non opere edilizie né contributo economico diretto esplicito.",
+    "area_testo": "Roma (sede ICBSA)",
+    "regioni": [
+      "Lazio"
+    ],
+    "beneficiari": "Associazioni di volontariato e APS.",
+    "importo": "Non indicato nel comunicato (collaborazione convenzionata, non risulta un contributo economico esplicito).",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non indicata nel comunicato — avviso firmato il 26/10/2026, pubblicato il 28/10/2026; verificare allegati PDF per il termine esatto.",
+    "giorni": null,
+    "checklist": [
+      "Verifica requisiti ODV/APS",
+      "Consultazione schema di convenzione (Allegato B)"
+    ],
+    "note": "Ambito iper-specifico (singolo istituto a Roma, volontariato per beni sonori/audiovisivi); nessuna componente edilizia/territoriale né importo economico chiaro.",
+    "fonte": "Ministero della Cultura — Avvisi",
+    "link": "https://cultura.gov.it/comunicato/avviso-di-manifestazione-di-interesse-per-associazioni-di-volontariato-e-aps-a-supporto-dellistituto-centrale-per-i-beni-sonori-e-audiovisivi-icbsa-a-roma",
+    "tag": [
+      "volontariato",
+      "musica-cultura"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Valore marginale per un profilo architettura/ingegneria; utile solo se un cliente ODV/APS già attivo a Roma in questo settore chiede assistenza.",
+    "aggiornato_il": "2026-10-29"
   }
 ]

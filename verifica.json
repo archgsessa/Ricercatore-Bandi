@@ -1,54 +1,30 @@
 {
-  "ultima_verifica": "2026-10-28T07:13:02+00:00",
+  "ultima_verifica": "2026-10-29T10:12:34+00:00",
   "fonti_saltate": [
-    "Europaconcorsi: richiede sessione autenticata via browser; non disponibile in questa esecuzione automatica (nessuna sessione Claude in Chrome con login attivo), saltata.",
-    "Portale Bandi Regione Basilicata (CeBas): fetch bloccato da robots.txt, nessuna novità individuabile rispetto al tracciato esistente.",
-    "Regione Siciliana — Portale Bandi: portale generalista con 985 risultati non filtrabile via fetch automatico; sostituito con ricerca web mirata (nessuna novità oltre a quanto già tracciato).",
-    "Regione Emilia-Romagna — Bandi Welfare/Terzo Settore: pagina a motore di ricerca dinamico (JavaScript), fetch statico senza risultati; sostituito con ricerca web (nessuna novità attuale).",
-    "Portale Bandi DGCC (MiC): bloccato da robots.txt; verificato via ricerca web che non è stata ancora pubblicata una nuova edizione di 'Cultura nei piccoli Comuni'.",
-    "MASE — Comuni efficientamento energetico e MASE — Bandi e avvisi: fetch diretto respinto con errore client (probabile protezione anti-bot); nessuna nuova edizione individuata via ricerca web di supporto.",
-    "Scelgo il Servizio Civile (scelgoilserviziocivile.gov.it): bloccato da robots.txt; dato (scadenza 06/11/2026, 3767 posti) confermato tramite fonti terze, nessuna modifica.",
-    "Ministero dell'Interno — Finanza Locale: fetch diretto con errore client; nessun nuovo bando competitivo individuato via ricerca web di supporto (solo riparti/certificazioni con scadenze già passate)."
+    "Europaconcorsi: richiede sessione autenticata via browser; non disponibile in questa esecuzione, saltata.",
+    "Portale Bandi Regione Basilicata (CeBas): bloccato da robots.txt anche oggi.",
+    "Regione Emilia-Romagna — Bandi Welfare/Terzo Settore: motore di ricerca dinamico via JavaScript, fetch statico senza risultati; sostituito con ricerca web (nessuna novità).",
+    "Fondazione Cariplo: fetch diretto alla pagina bandi (e a un URL alternativo) in errore client-side; verificata solo la home page, nessuna novità pertinente identificabile con certezza — fonte da riverificare in un prossimo ciclo, eventualmente via browser.",
+    "GSE — servizi per la PA: pagina raggiunta ma generica, senza elenco bandi con titoli/scadenze; non individuata la sezione 'incentivi e bandi' dedicata."
   ],
   "nuovi": [
     {
-      "id": "fondazionesardegna-arte",
-      "dal": "2026-10-28"
+      "id": "lombardia-comunicasenzabarriere2628",
+      "dal": "2026-10-29"
     },
     {
-      "id": "fondazionesardegna-svilupplocale",
-      "dal": "2026-10-28"
+      "id": "lombardia-coprogettazione-pft-disabilita",
+      "dal": "2026-10-29"
     },
     {
-      "id": "fondazionesardegna-volontariato",
-      "dal": "2026-10-28"
+      "id": "sicilia-reimar-borghimarinari2026",
+      "dal": "2026-10-29"
     },
     {
-      "id": "fondazionesardegna-salute",
-      "dal": "2026-10-28"
-    },
-    {
-      "id": "mic-capitaleculturacomuni2029",
-      "dal": "2026-10-28"
-    },
-    {
-      "id": "mic-capitalelibro2027",
-      "dal": "2026-10-28"
-    },
-    {
-      "id": "mic-festivalfumetto2026",
-      "dal": "2026-10-28"
-    },
-    {
-      "id": "lavoro-fondogaranzia-ets",
-      "dal": "2026-10-28"
+      "id": "mic-icbsa-volontariatoaps",
+      "dal": "2026-10-29"
     }
   ],
-  "chiusi": [
-    {
-      "id": "cn-agricolturasociale",
-      "dal": "2026-10-26"
-    }
-  ],
-  "note_ciclo": "Scansione ordinaria SEZIONE A (ciclo unificato da 3 ex-task separati). Infobandi CSVnet scansionato per intero (38 bandi su 4 pagine): nessuna novità, tutti già tracciati. Scansionate anche le altre fonti principali e tutte le fonti aggiuntive di fonti.json (vedi fonti_saltate per quelle bloccate/non raggiungibili). Individuate 8 nuove schede (4 dalla Fondazione di Sardegna, mai tracciata prima nonostante presente nel catalogo fonti da ottobre; 3 bandi MiC di nicchia/già scaduti inclusi per completezza; 1 strumento di garanzia creditizia ETS a bassa pertinenza). Chiuso un bando (cn-agricolturasociale) la cui scadenza (26/10/2026) era già passata pur essendo ancora segnato aperto. Aggiunta in modo additivo una nuova voce di vocabolario 'salute-pubblica' in index.html, introdotta da un bando della Fondazione di Sardegna su salute pubblica/medicina preventiva, tema non ancora coperto dal vocabolario esistente. SEZIONE B (ricerca nuove fonti) e SEZIONE C (manutenzione vocabolario) non eseguite in questo ciclo: soglia dei 14 giorni non raggiunta (ultima_ricerca_fonti 2026-10-26, ultima_manutenzione_vocabolario 2026-10-23)."
+  "chiusi": [],
+  "note_ciclo": "Scansione SEZIONE A richiesta dall'utente il giorno dopo il ciclo ordinario del 28/10 (nuova ricerca ad hoc). Infobandi CSVnet riverificato (stesso totale di 38 bandi/4 pagine di ieri, nessuna novità). Scansionate tutte le altre fonti principali e aggiuntive. Trovate 4 novità: 2 bandi Regione Lombardia su disabilità/coprogettazione (platea di beneficiari molto ristretta, bassa pertinenza), 1 avviso REIMAR Regione Siciliana sui borghi marinari (alta pertinenza, SCADENZA IMMINENTE 31/10/2026) e 1 manifestazione di interesse ICBSA/MiC per volontariato (bassa pertinenza). Nessun bando da chiudere in questo ciclo (nessuna scadenza già passata trovata tra i bandi segnati aperti). Verificato nuovamente che i 2 bandi Sviluppo Campania (Autoimprenditorialità, FRC II) mostrati 'in corso' sul portale restano correttamente chiusi nel DB (scadenze reali già passate, confermato il 28/10). SEZIONE B e SEZIONE C non eseguite (non in scadenza)."
 }
