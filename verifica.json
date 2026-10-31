@@ -1,18 +1,178 @@
 {
-  "ultima_verifica": "2026-10-31T10:53:24+00:00",
+  "ultima_verifica": "2026-10-31T21:45:00+00:00",
   "fonti_saltate": [
-    {"id": "regione-basilicata-portale-bandi", "motivo": "Bloccata da robots.txt, non raggiunta nemmeno con fetch alternativo."},
-    {"id": "fondazione-cariplo-bandi", "motivo": "Errore client (4xx) su più URL tentati, non raggiunta."},
-    {"id": "regione-lombardia-bandi-terzo-settore", "motivo": "Raggiunta solo la pagina 1 di 14 (paginazione gestita via JS/POST, non superabile con fetch statico)."},
-    {"id": "regione-lazio-avvisi-bandi", "motivo": "Raggiunta ma contenuto bandi caricato dinamicamente via JS, nessun bando estraibile dal fetch statico."},
-    {"id": "regione-campania-notizie-avvisi", "motivo": "Raggiunta ma i filtri per tematica/persone non sono applicabili via fetch statico (controlli JS)."},
-    {"id": "regione-emiliaromagna-sociale-bandi", "motivo": "Pagina indice vuota nel fetch statico (caricamento JS); integrata con ricerca web, nessun bando aperto individuato."},
-    {"id": "csv-lombardia", "motivo": "Sezione bandi dedicata non caricata (probabile rendering via JS)."},
-    {"id": "mic-portalebandidgcc", "motivo": "Bloccata da robots.txt."},
-    {"id": "mase-comuni-efficientamento", "motivo": "Errore client/anti-bot sul fetch diretto; via ricerca web confermato nessuna nuova edizione C.S.E. 2026."},
-    {"id": "scelgoilserviziocivile-bando", "motivo": "Bloccata da robots.txt, supplita con ricerca web (bando filone autofinanziato individuato)."},
-    {"id": "interno-finanza-locale", "motivo": "Errore client sul fetch diretto, supplita con ricerca web."},
-    {"id": "mase-bandi-avvisi", "motivo": "Bloccata da anti-bot/errore client, supplita con ricerca web su economia circolare/bonifiche/mobilità sostenibile."},
-    {"id": "europaconcorsi", "motivo": "Richiede sessione autenticata (Claude in Chrome); non disponibile in questo ciclo, saltata come da istruzioni."}
-  ]
+    {
+      "id": "regione-basilicata-portale-bandi",
+      "motivo": "Bloccata da robots.txt, non raggiunta nemmeno con fetch alternativo."
+    },
+    {
+      "id": "fondazione-cariplo-bandi",
+      "motivo": "Errore client (4xx) su più URL tentati, non raggiunta."
+    },
+    {
+      "id": "regione-lombardia-bandi-terzo-settore",
+      "motivo": "Raggiunta solo la pagina 1 di 14 (paginazione gestita via JS/POST, non superabile con fetch statico)."
+    },
+    {
+      "id": "regione-lazio-avvisi-bandi",
+      "motivo": "Raggiunta ma contenuto bandi caricato dinamicamente via JS, nessun bando estraibile dal fetch statico."
+    },
+    {
+      "id": "regione-campania-notizie-avvisi",
+      "motivo": "Raggiunta ma i filtri per tematica/persone non sono applicabili via fetch statico (controlli JS)."
+    },
+    {
+      "id": "regione-emiliaromagna-sociale-bandi",
+      "motivo": "Pagina indice vuota nel fetch statico (caricamento JS); integrata con ricerca web, nessun bando aperto individuato."
+    },
+    {
+      "id": "csv-lombardia",
+      "motivo": "Sezione bandi dedicata non caricata (probabile rendering via JS)."
+    },
+    {
+      "id": "mic-portalebandidgcc",
+      "motivo": "Bloccata da robots.txt."
+    },
+    {
+      "id": "mase-comuni-efficientamento",
+      "motivo": "Errore client/anti-bot sul fetch diretto; via ricerca web confermato nessuna nuova edizione C.S.E. 2026."
+    },
+    {
+      "id": "scelgoilserviziocivile-bando",
+      "motivo": "Bloccata da robots.txt, supplita con ricerca web (bando filone autofinanziato individuato)."
+    },
+    {
+      "id": "interno-finanza-locale",
+      "motivo": "Errore client sul fetch diretto, supplita con ricerca web."
+    },
+    {
+      "id": "mase-bandi-avvisi",
+      "motivo": "Bloccata da anti-bot/errore client, supplita con ricerca web su economia circolare/bonifiche/mobilità sostenibile."
+    },
+    {
+      "id": "europaconcorsi",
+      "motivo": "Richiede sessione autenticata (Claude in Chrome); non disponibile in questo ciclo, saltata come da istruzioni."
+    }
+  ],
+  "nuovi": [
+    {
+      "id": "sicilia-millennium2027-normanni",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "scu-filoneautofinanziato-3767posti",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "eu-libertamedia-rapidresponse",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "eu-partenariati-giornalismo",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "eu-memoria-europea2026",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "sportsalute-rete-hub",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "sportsalute-losportevita",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "interno-messasicurezza2026-28",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "gse-contotermico3-pa",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "gse-cer-pnrr-piccolicomuni",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "mindisabilita-vitaeopportunita",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "dipfamiglia-insiemesivince",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "anci-fondoturismo2026",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "campania-spettro-autistico2026",
+      "dal": "2026-10-31"
+    }
+  ],
+  "chiusi": [
+    {
+      "id": "campania-qualita-architettura-qa26",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "cn-easi",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "cn-perchicrea-nuoveopere",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "cn-perchicrea-scuole",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "cn-perchicrea-professionalizzazione",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "cariplo-carcere-comunita-rete",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "mimit-compliance-digitale",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "basilicata-piru-ambientale",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "cosenza-arsac-calabria",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "piemonte-citta-rigenerative",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "lazio-polizialocaleplus2026",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "lazio-natale2026-turismo",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "lazio-costruirefuturo3",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "crt-legami-in-comune",
+      "dal": "2026-10-31"
+    },
+    {
+      "id": "mic-cittachelegge-10ed",
+      "dal": "2026-10-31"
+    }
+  ],
+  "note_ciclo": "Ciclo 31/10/2026 in due fasi. (1) Scansione automatica SEZIONE A ordinaria: 13 nuovi bandi (incl. proroga scadenza Premio Mattei 10->15gg), 15 chiusure per scadenza passata, 4 nuovi sinonimi/tag (liberta-di-stampa, giornalismo-media, memoria-storica, efficientamento-energetico). (2) Ricerca live ad hoc richiesta dall'utente dopo segnalazione che nessun bando nuovo sembrava emergere: adottato approccio di scansione via browser diretto (non solo fetch statico) su Regione Campania — prima fonte 'cieca' per filtri JS — trovato e verificato il bando aperto 'Interventi a favore di persone con disturbi dello spettro autistico' (ETS/RUNTS, scad. prorogata 02/12/2026). Verificate anche le fonti locali provincia di Salerno: Fondazione Carisal confermata (dominio corretto fondazionecarisal.it, nessun bando aperto ora), Provincia di Salerno confermata priva di bandi di finanziamento (solo gare/concorsi, spostata tra le fonti scartate), GAL Casacastra e Fondazione della Comunita' Salernitana lasciate in verifica periodica."
 }
