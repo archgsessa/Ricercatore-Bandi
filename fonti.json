@@ -289,6 +289,15 @@
       "regione": "Campania",
       "note": "Fonte locale aggiunta dopo verifica diretta (31/10/2026): sezione dedicata a bandi/finanziamenti per ETS, aggiornata a ottobre 2026 (es. Fabbrica — Spazi Civici per la Gioventù 22/10/2026, Polaris+ 13/10/2026). Pagina con bottone 'Carica altre notizie': verificare se paginata. Rilevante per lo studio data la sede a Castel San Giorgio (SA).",
       "data_integrazione": "2026-10-31"
+    },
+    {
+      "id": "fondazione-carisal",
+      "nome": "Fondazione Carisal — Bandi tematici",
+      "url": "https://www.fondazionecarisal.it/bandi-tematici/",
+      "categoria": "fondazione-bancaria",
+      "regione": "Campania",
+      "note": "Confermata via browser diretto (31/10/2026): dominio corretto e distinto da 'Fondazione della Comunita' Salernitana'. Cadenza annuale tipica maggio-luglio; nessun bando aperto al momento della verifica.",
+      "data_integrazione": "2026-10-31"
     }
   ],
   "rotazione_regioni": {
@@ -372,19 +381,14 @@
       "motivo": "Bloccato da robots.txt. Evidenza: avviso L.R. 95/99 per ODV sociale, determina liquidazione 11/08/2026."
     },
     {
-      "nome": "Fondazione Carisal (Fondazione della Comunità Salernitana)",
-      "url": "https://www.carisal.it",
-      "motivo": "Bloccata da robots.txt per fetch automatico (31/10/2026). Evidenza indiretta di bandi terzo settore tramite piattaforma OpenCarisal/Kindora ('Avviso 1 FdC Salernitana 2024'). Fonte locale potenzialmente molto rilevante (provincia di Salerno): verificare con browser diretto."
-    },
-    {
       "nome": "GAL Casacastra (entroterra salernitano — Colline Salernitane)",
       "url": "https://www.galcasacastra.it/bandi/",
       "motivo": "Verificata (31/10/2026): pagina bandi raggiungibile ma zero bandi attivi al momento ('Nessun bando trovato'); ultimo avviso pubblicato 23/04/2026 (progetto Casematte, 'in fase di aggiornamento'). Non soddisfa i criteri di attività/aggiornamento per l'integrazione ora; da riverificare periodicamente, copre l'entroterra salernitano."
     },
     {
-      "nome": "Provincia di Salerno",
-      "url": "https://www.provincia.salerno.it",
-      "motivo": "Bloccata da robots.txt per fetch automatico (31/10/2026); nessuna sezione bandi per comuni/ETS individuata via ricerca web (solo concorsi per personale interno). Verificare con browser diretto prima di escludere definitivamente."
+      "nome": "Fondazione della Comunità Salernitana",
+      "url": "https://www.fondazionecomunitasalernitana.it",
+      "motivo": "Entita' distinta da Fondazione Carisal (in precedenza erroneamente confusa con essa): verificare con browser diretto se pubblica bandi propri per ETS/comuni della provincia di Salerno."
     }
   ],
   "fonti_scartate_non_riproporre": [
@@ -462,6 +466,11 @@
       "nome": "Umbria",
       "url": null,
       "motivo": "Fetch del portale bandi non riuscito, nessun hub consolidato individuato in tempi ragionevoli."
+    },
+    {
+      "nome": "Provincia di Salerno",
+      "url": "https://www.provincia.salerno.it",
+      "motivo": "Verificata con browser diretto (31/10/2026): nessuna sezione bandi/contributi per comuni o ETS; solo bandi di gara e concorsi per personale interno."
     }
   ]
 }

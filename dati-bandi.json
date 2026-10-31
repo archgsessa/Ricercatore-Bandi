@@ -6872,5 +6872,39 @@
     "pertinenza_bassa": true,
     "nota_pertinenza": "Edizione 2026 già conclusa per nuove domande; valore informativo per monitoraggio futuro.",
     "aggiornato_il": "2026-10-31"
+  },
+  {
+    "id": "campania-spettro-autistico2026",
+    "titolo": "Interventi a favore di persone con disturbi dello spettro autistico — manifestazione di interesse ETS (proroga al 02/12/2026)",
+    "ente": "Regione Campania",
+    "oggetto": "Avviso pubblico (Decreto dirigenziale n. 281 del 24/07/2026) per l'acquisizione di manifestazioni di interesse degli Enti del Terzo Settore per l'attivazione di servizi di presa in carico, accompagnamento e interventi educativi per soggetti in eta' di transizione e adulti con disturbi dello spettro autistico. Finanziato da PR Campania FSE+ 2021-2027 (Priorita' 3 Inclusione Sociale) e dal Fondo Unico per l'inclusione delle persone con disabilita'.",
+    "area_testo": "Campania",
+    "regioni": [
+      "Campania"
+    ],
+    "beneficiari": "Enti del Terzo Settore (ETS) iscritti al RUNTS, in qualita' di capofila di una rete (ATS) obbligatoriamente composta anche da: Ambito territoriale, ASL/distretto sanitario di riferimento, soggetti autorizzati ai servizi per il lavoro.",
+    "importo": "Non indicato nel testo consultato; verificare Allegato 2 (Quadro economico di progetto) per i dettagli.",
+    "stato": "aperto",
+    "scadenza": "2026-12-02",
+    "scadenza_testo": "Prorogato alle ore 23:59 del 02/12/2026 (Decreto dirigenziale n. 427 del 30/10/2026); termine originario 02/11/2026",
+    "giorni": 32,
+    "checklist": [
+      "Iscrizione RUNTS",
+      "Costituzione rete ATS (ETS capofila + Ambito territoriale + ASL/distretto sanitario + soggetti autorizzati ai servizi per il lavoro)",
+      "Candidatura esclusivamente online sul Catalogo dei Servizi Digitali regionali (SPID/CIE/CNS) — servizio 'SpettroAutisticoV2'",
+      "Allegato 3 — Dichiarazione partecipanti partenariato (rettificato, vedi FAQ aggiornate al 28/10/2026)"
+    ],
+    "note": "Scoperto tramite scansione via browser diretto del portale Regione Campania (fonte prima inaccessibile a fetch statico). Scadenza prorogata due volte: originaria 02/11/2026 -> ora 02/12/2026 (DD n.427 del 30/10/2026). Candidatura solo tramite identita' digitale, non PEC.",
+    "fonte": "Regione Campania — Notizie e Avvisi (scansione browser 31/10/2026)",
+    "link": "https://www.regione.campania.it/regione-informa/notizie/interventi-favore-persone-disturbi-spettro-autistico-servizio-digitale-dedicato",
+    "tag": [
+      "disabilita",
+      "terzo-settore-generico"
+    ],
+    "punteggio": 4,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Alta pertinenza: ETS RUNTS capofila di rete complessa (ATS multi-ente), profilo tipico di assistenza tecnico-documentale (formulario di progetto, quadro economico, cronoprogramma) per lo studio.",
+    "aggiornato_il": "2026-10-31"
   }
 ]
