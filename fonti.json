@@ -280,6 +280,15 @@
       "regione": "Emilia-Romagna",
       "note": "Sezione bandi sociali/terzo settore, aggiornata al 14/10/2026. Esempi: Bando progetti di rilevanza locale 2026-2027 per ODV/APS/fondazioni, avviso cittadinanza europea 2026, bando cooperazione internazionale 2026. Contatto: terzosettore@regione.emilia-romagna.it.",
       "data_integrazione": "2026-10-26"
+    },
+    {
+      "id": "csv-salerno",
+      "nome": "CSV Salerno — Opportunità (bandi e finanziamenti per ETS)",
+      "url": "https://www.csvsalerno.it/opportunita/",
+      "categoria": "csv-regionale",
+      "regione": "Campania",
+      "note": "Fonte locale aggiunta dopo verifica diretta (31/10/2026): sezione dedicata a bandi/finanziamenti per ETS, aggiornata a ottobre 2026 (es. Fabbrica — Spazi Civici per la Gioventù 22/10/2026, Polaris+ 13/10/2026). Pagina con bottone 'Carica altre notizie': verificare se paginata. Rilevante per lo studio data la sede a Castel San Giorgio (SA).",
+      "data_integrazione": "2026-10-31"
     }
   ],
   "rotazione_regioni": {
@@ -361,6 +370,21 @@
       "nome": "Regione Abruzzo — Contributi e finanziamenti/sociale",
       "url": "https://www.regione.abruzzo.it/contributi-finanziamenti/sociale",
       "motivo": "Bloccato da robots.txt. Evidenza: avviso L.R. 95/99 per ODV sociale, determina liquidazione 11/08/2026."
+    },
+    {
+      "nome": "Fondazione Carisal (Fondazione della Comunità Salernitana)",
+      "url": "https://www.carisal.it",
+      "motivo": "Bloccata da robots.txt per fetch automatico (31/10/2026). Evidenza indiretta di bandi terzo settore tramite piattaforma OpenCarisal/Kindora ('Avviso 1 FdC Salernitana 2024'). Fonte locale potenzialmente molto rilevante (provincia di Salerno): verificare con browser diretto."
+    },
+    {
+      "nome": "GAL Casacastra (entroterra salernitano — Colline Salernitane)",
+      "url": "https://www.galcasacastra.it/bandi/",
+      "motivo": "Verificata (31/10/2026): pagina bandi raggiungibile ma zero bandi attivi al momento ('Nessun bando trovato'); ultimo avviso pubblicato 23/04/2026 (progetto Casematte, 'in fase di aggiornamento'). Non soddisfa i criteri di attività/aggiornamento per l'integrazione ora; da riverificare periodicamente, copre l'entroterra salernitano."
+    },
+    {
+      "nome": "Provincia di Salerno",
+      "url": "https://www.provincia.salerno.it",
+      "motivo": "Bloccata da robots.txt per fetch automatico (31/10/2026); nessuna sezione bandi per comuni/ETS individuata via ricerca web (solo concorsi per personale interno). Verificare con browser diretto prima di escludere definitivamente."
     }
   ],
   "fonti_scartate_non_riproporre": [
