@@ -2137,14 +2137,14 @@
     "beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
     "importo": "Non specificato — verificare sulla pagina del bando",
     "stato": "aperto",
-    "scadenza": "2026-10-31",
-    "scadenza_testo": "31 ott 2026",
-    "giorni": 10,
+    "scadenza": "2026-11-15",
+    "scadenza_testo": "15 novembre 2026 (termine prorogato dal 31/10/2026)",
+    "giorni": 15,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
     ],
-    "note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi.",
+    "note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi. [Aggiornamento 31/10/2026: termine prorogato dalle ore 12:00 del 31/10/2026 alle ore 23:59 del 15/11/2026, confermato da Ministero della Cultura.]",
     "fonte": "Infobandi CSVnet",
     "link": "https://infobandi.csvnet.it/premio-mattei-per-la-cooperazione-culturale-italia-africa/",
     "tag": [
@@ -2155,7 +2155,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Premio a consuntivo per iniziative già realizzate, ambito di nicchia (cooperazione Italia-Africa).",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-10-31"
   },
   {
     "id": "cn-marchioqualita-umanitari",
@@ -2490,7 +2490,7 @@
     ],
     "beneficiari": "Enti Locali, anche in collaborazione con Università, Fondazioni, associazioni culturali, Ordini professionali.",
     "importo": "144.000 € complessivi, contributo fino al 70% delle spese ammissibili.",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-30",
     "scadenza_testo": "30 ott 2026",
     "giorni": 9,
@@ -2510,7 +2510,7 @@
     "ruolo": "partner_tecnico",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-05"
+    "aggiornato_il": "2026-10-31"
   },
   {
     "id": "campania-barriere-architettoniche2026",
@@ -2721,7 +2721,7 @@
     ],
     "beneficiari": "Enti pubblici ed enti del terzo settore attivi nel contrasto alla povertà (verificare requisiti specifici sul bando).",
     "importo": "Non specificato — verificare sulla pagina del bando",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-29",
     "scadenza_testo": "29 ott 2026",
     "giorni": 8,
@@ -2739,7 +2739,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-10-31"
   },
   {
     "id": "cds-benvenutiacasa",
@@ -3516,7 +3516,7 @@
     ],
     "beneficiari": "Giovani autori/artisti under 35 (soggetti individuali)",
     "importo": "Non specificato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-29",
     "scadenza_testo": "29 ottobre 2026",
     "giorni": 8,
@@ -3531,7 +3531,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Bando rivolto a singoli artisti/autori under 35, non a enti comunali, ETS o associazioni: bassa pertinenza per il supporto tecnico-amministrativo dello studio.",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-10-31"
   },
   {
     "id": "cn-perchicrea-scuole",
@@ -3544,7 +3544,7 @@
     ],
     "beneficiari": "Istituti scolastici, con possibile partenariato di associazioni culturali",
     "importo": "Non specificato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-29",
     "scadenza_testo": "29 ottobre 2026",
     "giorni": 8,
@@ -3560,7 +3560,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Beneficiari primari sono istituti scolastici; pertinenza solo indiretta per eventuali associazioni culturali partner.",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-10-31"
   },
   {
     "id": "cn-perchicrea-professionalizzazione",
@@ -3573,7 +3573,7 @@
     ],
     "beneficiari": "Giovani artisti under 35 (soggetti individuali)",
     "importo": "Non specificato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-29",
     "scadenza_testo": "29 ottobre 2026",
     "giorni": 8,
@@ -3588,7 +3588,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Bando rivolto a singoli artisti, non a enti: bassa pertinenza per lo studio.",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-10-31"
   },
   {
     "id": "cn-raipersociale2",
@@ -4179,7 +4179,7 @@
     ],
     "beneficiari": "Enti senza scopo di lucro pubblici o privati.",
     "importo": "Dotazione complessiva 12.000.000 €; contributo minimo 300.000 €, cofinanziamento 30%",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-29",
     "scadenza_testo": "29 ott 2026",
     "giorni": 8,
@@ -4199,7 +4199,7 @@
     "ruolo": "assistenza_rup",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-07"
+    "aggiornato_il": "2026-10-31"
   },
   {
     "id": "cariplo-anita-retimille",
@@ -4396,7 +4396,7 @@
     ],
     "beneficiari": "Da verificare (probabilmente imprese/enti di ricerca; non tipicamente enti comunali o ETS).",
     "importo": "Non specificato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-30",
     "scadenza_testo": "30 ott 2026",
     "giorni": 9,
@@ -4411,7 +4411,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Bando orientato a soluzioni digitali/compliance, beneficiari non chiaramente enti comunali o ETS: bassa pertinenza, incluso per completezza.",
-    "aggiornato_il": "2026-10-07"
+    "aggiornato_il": "2026-10-31"
   },
   {
     "id": "aics-siria-emergenza",
@@ -4577,7 +4577,7 @@
     ],
     "beneficiari": "Comuni, anche in forma intercomunale.",
     "importo": "47.420.379,61 € (dotazione complessiva)",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-30",
     "scadenza_testo": "30 ott 2026, ore 23:59 (prorogata)",
     "giorni": 9,
@@ -4601,7 +4601,7 @@
     "ruolo": "assistenza_rup",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-16"
+    "aggiornato_il": "2026-10-31"
   },
   {
     "id": "basilicata-piano-antisismico",
@@ -4649,7 +4649,7 @@
     ],
     "beneficiari": "Associazioni ed enti operanti nella filiera agricola e nella promozione territoriale.",
     "importo": "Non specificato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-30",
     "scadenza_testo": "30 ott 2026",
     "giorni": 9,
@@ -4668,7 +4668,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Tema agricolo/promozione prodotti, marginale rispetto a terzo settore sociale tipico, ma potenzialmente utile per associazioni di produttori/territoriali.",
-    "aggiornato_il": "2026-10-09"
+    "aggiornato_il": "2026-10-31"
   },
   {
     "id": "cosenza-interventi-disabilita",
@@ -4962,7 +4962,7 @@
     ],
     "beneficiari": "Comuni piemontesi ricadenti nelle zone di qualità dell'aria indicate (DGR 31-2068 del 22/12/2025); una sola domanda per Comune.",
     "importo": "Dotazione totale 30.000.000 €; contributo 90% a fondo perduto, massimo 630.000 € (Comuni <10.000 ab.) o 1.800.000 € (capoluoghi/Comuni >10.000 ab.)",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-30",
     "scadenza_testo": "Sportello dalle 10:00 del 30/07/2026 alle 12:00 del 30/10/2026, salvo chiusura anticipata per esaurimento fondi",
     "giorni": 9,
@@ -4982,7 +4982,7 @@
     "ruolo": "assistenza_rup",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-09"
+    "aggiornato_il": "2026-10-31"
   },
   {
     "id": "lazio-spaziosport2026",
@@ -5437,7 +5437,7 @@
     ],
     "beneficiari": "Comuni.",
     "importo": "Non indicato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-29",
     "scadenza_testo": "29/10/2026",
     "giorni": 8,
@@ -5452,7 +5452,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-19"
+    "aggiornato_il": "2026-10-31"
   },
   {
     "id": "basilicata-efficientamentoenergetico",
@@ -5493,7 +5493,7 @@
     ],
     "beneficiari": "Non confermati nell'estratto; probabili Comuni/Pro Loco.",
     "importo": "Non indicato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-29",
     "scadenza_testo": "29/10/2026",
     "giorni": 8,
@@ -5508,7 +5508,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Beneficiari non confermati nell'estratto della piattaforma (SPA senza link diretto); probabile ma non certo il coinvolgimento di Comuni/Pro Loco.",
-    "aggiornato_il": "2026-10-19"
+    "aggiornato_il": "2026-10-31"
   },
   {
     "id": "lazio-costruirefuturo3",
@@ -5521,7 +5521,7 @@
     ],
     "beneficiari": "Non confermati nell'estratto; possibile coinvolgimento di ETS/cooperative sociali attive in ambito penitenziario.",
     "importo": "Non indicato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-29",
     "scadenza_testo": "29/10/2026",
     "giorni": 8,
@@ -5536,7 +5536,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Beneficiari non confermati nell'estratto; edizioni precedenti hanno coinvolto ETS/cooperative operanti in carcere.",
-    "aggiornato_il": "2026-10-19"
+    "aggiornato_il": "2026-10-31"
   },
   {
     "id": "christmascities-capitalenatale2027",
@@ -5669,7 +5669,7 @@
     ],
     "beneficiari": "Comuni con popolazione inferiore a 5.000 abitanti, in partenariato obbligatorio con un ente non profit.",
     "importo": "Fino a 60.000 € per progetto",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-30",
     "scadenza_testo": "30/10/2026",
     "giorni": 9,
@@ -5685,7 +5685,7 @@
     "ruolo": "assistenza_rup",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Alta pertinenza: Comuni piccoli in partenariato con ETS, profilo ideale per supporto alla redazione della documentazione tecnico-amministrativa. Scadenza molto vicina (30/10/2026): segnalare priorità.",
-    "aggiornato_il": "2026-10-20"
+    "aggiornato_il": "2026-10-31"
   },
   {
     "id": "carisap-fondo-prossimita-ets2026",
@@ -5821,7 +5821,7 @@
     ],
     "beneficiari": "Comuni che hanno ottenuto la qualifica 'Città che legge' per il triennio 2024-2025-2026 (elenco in Allegato B al bando).",
     "importo": "1.236.062,50 € complessivi",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-30",
     "scadenza_testo": "30 ottobre 2026, ore 13:00",
     "giorni": 7,
@@ -5841,7 +5841,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-23"
+    "aggiornato_il": "2026-10-31"
   },
   {
     "id": "mic-leggimi06-9ed",
@@ -6475,5 +6475,402 @@
     "pertinenza_bassa": true,
     "nota_pertinenza": "Valore marginale per un profilo architettura/ingegneria; utile solo se un cliente ODV/APS già attivo a Roma in questo settore chiede assistenza.",
     "aggiornato_il": "2026-10-29"
+  },
+  {
+    "id": "sicilia-millennium2027-normanni",
+    "titolo": "Avviso per la valorizzazione delle eccellenze del territorio siciliano — MILLENIUM 2027, Anno europeo dei Normanni",
+    "ente": "Regione Siciliana",
+    "oggetto": "Selezione di proposte per la valorizzazione delle eccellenze del territorio siciliano nell'ambito delle celebrazioni del MILLENIUM 2027, Anno europeo dei Normanni.",
+    "area_testo": "Sicilia",
+    "regioni": [
+      "Sicilia"
+    ],
+    "beneficiari": "Non specificati nel testo accessibile (probabili enti pubblici/associazioni culturali, da verificare sull'avviso integrale)",
+    "importo": "Non specificato",
+    "stato": "aperto",
+    "scadenza": "2026-11-10",
+    "scadenza_testo": "10 novembre 2026, ore 23:59",
+    "giorni": 10,
+    "checklist": [
+      "Verificare requisiti di ammissibilità e beneficiari ammessi sull'avviso integrale"
+    ],
+    "note": "Individuato il 31/10/2026 tramite scansione di Regione Siciliana — Portale Bandi. SCADENZA ENTRO 10 GIORNI: verificare con urgenza i beneficiari ammessi.",
+    "fonte": "Regione Siciliana — Portale Bandi",
+    "link": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-valorizzazione-eccellenze-territorio-siciliano-occasione-millenium-2027-anno-europeo-normanni",
+    "tag": [
+      "musica-cultura",
+      "rigenerazione-urbana"
+    ],
+    "punteggio": 3,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiari ammessi non specificati nel testo accessibile; verificare se aperto a comuni/associazioni culturali.",
+    "aggiornato_il": "2026-10-31"
+  },
+  {
+    "id": "scu-filoneautofinanziato-3767posti",
+    "titolo": "Servizio Civile Universale — Bando filoni ambientale/agricolo/digitale (progetti autofinanziati, 3.767 posti)",
+    "ente": "Dipartimento per le Politiche Giovanili e il Servizio Civile Universale",
+    "oggetto": "Selezione di operatori volontari di servizio civile su progetti a tema ambientale, agricolo e digitale finanziati dagli stessi enti proponenti (progetti autofinanziati); riserva 15% dei posti per concorsi pubblici/scuola.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Enti di servizio civile accreditati: enti pubblici (inclusi i Comuni), enti del terzo settore, associazioni che ospitano operatori volontari",
+    "importo": "Non indicato (progetti autofinanziati dagli enti proponenti)",
+    "stato": "aperto",
+    "scadenza": "2026-11-06",
+    "scadenza_testo": "6 novembre 2026",
+    "giorni": 6,
+    "checklist": [
+      "Accreditamento SCU dell'ente",
+      "Progetto autofinanziato di servizio civile",
+      "Verifica requisiti su piattaforma scelgoilserviziocivile.gov.it"
+    ],
+    "note": "Distinto dal bando SCU principale 2026 (scu-2026, già chiuso il 30/09/2026): questo è un filone aggiuntivo a progetti autofinanziati. SCADENZA ENTRO 10 GIORNI.",
+    "fonte": "Scelgo il Servizio Civile — Il Bando",
+    "link": "https://www.scelgoilserviziocivile.gov.it/leggi-il-bando/",
+    "tag": [
+      "servizio-civile",
+      "giovani",
+      "ambiente-sostenibilita",
+      "inclusione-digitale"
+    ],
+    "punteggio": 4,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-10-31"
+  },
+  {
+    "id": "eu-libertamedia-rapidresponse",
+    "titolo": "Meccanismo di risposta rapida per la libertà dei media",
+    "ente": "Commissione Europea — DG CONNECT (Europa Creativa)",
+    "oggetto": "Istituzione di un meccanismo indipendente a livello europeo per monitorare le violazioni della libertà di stampa e dei media in UE e paesi candidati.",
+    "area_testo": "UE e paesi candidati",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Non specificati (tipicamente organizzazioni di monitoraggio media/giornalismo)",
+    "importo": "Non specificato",
+    "stato": "aperto",
+    "scadenza": "2027-01-27",
+    "scadenza_testo": "27 gennaio 2027",
+    "giorni": 88,
+    "checklist": [],
+    "note": "Individuato su Infobandi CSVnet. Tema molto specifico, poco compatibile col profilo tipico comuni/ETS generalisti.",
+    "fonte": "Infobandi CSVnet",
+    "link": "https://infobandi.csvnet.it/meccanismo-di-risposta-rapida-per-la-liberta-dei-media/",
+    "tag": [
+      "diritti-umani-pace",
+      "europa-creativa",
+      "liberta-di-stampa"
+    ],
+    "punteggio": 1,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Riservato a organizzazioni di monitoraggio della libertà di stampa/media, non compatibile col profilo comuni/ETS/associazioni generaliste.",
+    "aggiornato_il": "2026-10-31"
+  },
+  {
+    "id": "eu-partenariati-giornalismo",
+    "titolo": "Partenariati per il giornalismo",
+    "ente": "Commissione Europea — DG CONNECT (Europa Creativa)",
+    "oggetto": "Finanzia collaborazioni transnazionali per innovare il giornalismo, migliorarne la qualità e rafforzarne la sostenibilità economica.",
+    "area_testo": "Transnazionale (Paesi europei)",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Organizzazioni del settore dei media",
+    "importo": "Non specificato",
+    "stato": "aperto",
+    "scadenza": "2027-02-04",
+    "scadenza_testo": "4 febbraio 2027",
+    "giorni": 96,
+    "checklist": [],
+    "note": "Individuato su Infobandi CSVnet.",
+    "fonte": "Infobandi CSVnet",
+    "link": "https://infobandi.csvnet.it/partenariati-per-il-giornalismo/",
+    "tag": [
+      "europa-creativa",
+      "giornalismo-media"
+    ],
+    "punteggio": 1,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Riservato a organizzazioni del settore media, non al profilo comuni/ETS/associazioni generaliste.",
+    "aggiornato_il": "2026-10-31"
+  },
+  {
+    "id": "eu-memoria-europea2026",
+    "titolo": "Bando 2026 sulla Memoria europea",
+    "ente": "Commissione Europea — DG Giustizia e Consumatori (programma CERV)",
+    "oggetto": "Sostiene progetti che ricordano eventi del Novecento europeo (regimi autoritari, schiavitù, colonialismo) per promuovere la cittadinanza europea.",
+    "area_testo": "Europea",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Non specificati (tipicamente enti pubblici, ONG, siti memoriali)",
+    "importo": "Non specificato",
+    "stato": "aperto",
+    "scadenza": "2027-02-24",
+    "scadenza_testo": "24 febbraio 2027",
+    "giorni": 116,
+    "checklist": [],
+    "note": "Individuato su Infobandi CSVnet.",
+    "fonte": "Infobandi CSVnet",
+    "link": "https://infobandi.csvnet.it/bando-2026-sulla-memoria-europea/",
+    "tag": [
+      "diritti-umani-pace",
+      "musica-cultura",
+      "memoria-storica"
+    ],
+    "punteggio": 3,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-10-31"
+  },
+  {
+    "id": "sportsalute-rete-hub",
+    "titolo": "Progetto RETE — Hub territoriali pilota",
+    "ente": "Dipartimento Politiche Giovanili / Invitalia",
+    "oggetto": "Apertura e gestione di 15 Hub territoriali pilota aperti al territorio, anche accessibili da remoto, in collaborazione con Invitalia.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Non specificati chiaramente (modalità di adesione per enti locali/ETS non chiarite)",
+    "importo": "Non specificato",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non indicata",
+    "giorni": null,
+    "checklist": [],
+    "note": "Beneficiari e modalità di partecipazione non chiari dalla pagina; richiede verifica diretta prima di investire tempo.",
+    "fonte": "Dipartimento Politiche Giovanili — Avvisi pubblici",
+    "link": "https://www.politichegiovanili.gov.it/politiche-giovanili/avvisi-pubblici-e-progetti-di-politiche-giovanili/rete/",
+    "tag": [
+      "giovani",
+      "pa-digitale",
+      "inclusione-digitale"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiari e modalità di partecipazione non chiari dalla pagina; verificare prima di proporsi.",
+    "aggiornato_il": "2026-10-31"
+  },
+  {
+    "id": "sportsalute-losportevita",
+    "titolo": "Lo Sport è Vita",
+    "ente": "Sport e Salute S.p.A.",
+    "oggetto": "Due linee di contributo: progetti di promozione sportiva per prevenzione/salute/benessere psicologico anche per pazienti cronici/oncologici/in riabilitazione, e progetti di ricerca sull'uso terapeutico-riabilitativo dell'attività fisica.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Organismi Sportivi CONI, anche in raggruppamento con ETS/ASD/SSD/fondazioni/università/enti sanitari (ETS solo come partner, non capofila)",
+    "importo": "Circa 2 milioni di euro (dato di stampa)",
+    "stato": "aperto",
+    "scadenza": "2026-11-28",
+    "scadenza_testo": "dalle 15:00 del 28/10/2026 alle 12:00 del 28/11/2026",
+    "giorni": 28,
+    "checklist": [],
+    "note": "ETS/associazioni possono partecipare solo come partner; il capofila deve essere un Organismo Sportivo riconosciuto CONI.",
+    "fonte": "Sport e Salute S.p.A. — Bandi e Avvisi",
+    "link": "https://www.sportesalute.eu/lo-sport-e-vita.html",
+    "tag": [
+      "sport",
+      "salute-pubblica",
+      "disabilita"
+    ],
+    "punteggio": 3,
+    "ruolo": "partner_tecnico",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "ETS/associazioni partecipano solo come partner, il capofila deve essere un Organismo Sportivo CONI.",
+    "aggiornato_il": "2026-10-31"
+  },
+  {
+    "id": "interno-messasicurezza2026-28",
+    "titolo": "Messa in sicurezza di edifici e territorio — Comuni 2026-2028 (fase attuativa)",
+    "ente": "Ministero dell'Interno (Finanza Locale) / MEF",
+    "oggetto": "Contributi già assegnati (DM 01/04/2026) a Comuni per la messa in sicurezza di edifici e territorio nel triennio 2026-2028, su istanze presentate entro il 15/09/2025. Fase attuale: aggiudicazione lavori, caricamento dati su ReGiS, rendicontazione.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Comuni individuati negli allegati del decreto di assegnazione",
+    "importo": "1.384.417.191,06 € assegnati complessivamente (+144.944.646,44 € da scorrimento)",
+    "stato": "chiuso",
+    "scadenza": null,
+    "scadenza_testo": "Finestra di domanda chiusa (15/09/2025); ora in fase attuativa (aggiudicazione, ReGiS, rendicontazione)",
+    "giorni": null,
+    "checklist": [],
+    "note": "Nessuna finestra di domanda aperta ora, ma alto valore per assistenza tecnica in fase attuativa ai Comuni già beneficiari (gestione gara/aggiudicazione, rendicontazione). Monitorare prossimo ciclo di domande.",
+    "fonte": "Ministero dell'Interno — Finanza Locale",
+    "link": "https://dait.interno.gov.it/finanza-locale/documentazione",
+    "tag": [
+      "protezione-civile-rischio-sismico",
+      "immobili-pubblici",
+      "sicurezza-urbana"
+    ],
+    "punteggio": 4,
+    "ruolo": "assistenza_rup",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-10-31"
+  },
+  {
+    "id": "gse-contotermico3-pa",
+    "titolo": "Conto Termico 3.0 — quota Pubblica Amministrazione",
+    "ente": "GSE — Gestore dei Servizi Energetici / MASE",
+    "oggetto": "Incentivo a sportello continuo per interventi di efficienza energetica e produzione di energia termica da rinnovabili su edifici pubblici; riapertura portale 2026 con incremento di 50 milioni della quota riservata alle amministrazioni pubbliche.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Amministrazioni pubbliche, inclusi i Comuni",
+    "importo": "Quota PA incrementata di 50.000.000 € nel 2026; incentivo calcolato per intervento",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Sportello a prenotazione continuo, nessuna scadenza fissa",
+    "giorni": null,
+    "checklist": [
+      "Diagnosi energetica preliminare",
+      "Progetto dell'intervento di efficientamento"
+    ],
+    "note": "Strumento continuativo di alto valore per assistenza tecnica a Comuni su efficientamento energetico.",
+    "fonte": "GSE — Servizi per la PA",
+    "link": "https://www.gse.it/servizi-per-te/pa",
+    "tag": [
+      "ambiente-sostenibilita",
+      "immobili-pubblici",
+      "efficientamento-energetico"
+    ],
+    "punteggio": 4,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-10-31"
+  },
+  {
+    "id": "gse-cer-pnrr-piccolicomuni",
+    "titolo": "Comunità Energetiche Rinnovabili (CER) — incentivo PNRR per Comuni fino a 5.000 abitanti",
+    "ente": "GSE / MASE (PNRR Missione 2 Componente 2)",
+    "oggetto": "Contributo a fondo perduto (40%) più tariffa incentivante per la costituzione di Comunità Energetiche Rinnovabili nei Comuni sotto i 5.000 abitanti.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Comuni <5.000 abitanti, aggregati in CER con cittadini/imprese/enti locali",
+    "importo": "Contributo 40% + tariffa incentivante (misura PNRR)",
+    "stato": "da verificare",
+    "scadenza": null,
+    "scadenza_testo": "Stato esatto dello sportello 2026 non confermato con certezza (ultime notizie certe risalgono a proroghe 2025)",
+    "giorni": null,
+    "checklist": [],
+    "note": "Verificare direttamente su gse.it lo stato effettivo dello sportello 2026 prima di proporsi al cliente.",
+    "fonte": "GSE — Servizi per la PA",
+    "link": "https://www.gse.it/servizi-per-te/pa",
+    "tag": [
+      "ambiente-sostenibilita",
+      "efficientamento-energetico"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Stato dello sportello 2026 non confermato con certezza; necessaria verifica diretta su gse.it.",
+    "aggiornato_il": "2026-10-31"
+  },
+  {
+    "id": "mindisabilita-vitaeopportunita",
+    "titolo": "Vita & Opportunità",
+    "ente": "Presidenza del Consiglio dei Ministri — Dipartimento per le Disabilità",
+    "oggetto": "Misura nazionale da 386 milioni di euro per l'autonomia abitativa e lavorativa, l'inclusione e la piena realizzazione delle persone con disabilità.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Da verificare nel testo integrale (probabile coinvolgimento di enti gestori, Comuni/ATS, scuole, enti del terzo settore)",
+    "importo": "386 milioni di euro (misura complessiva)",
+    "stato": "chiuso",
+    "scadenza": "2026-08-29",
+    "scadenza_testo": "domande dal 2 marzo al 29 agosto 2026 (finestra chiusa)",
+    "giorni": null,
+    "checklist": [],
+    "note": "Finestra di domanda chiusa. La Manovra 2026 prevede ulteriori 627 milioni per disabilità/caregiver: probabile nuovo avviso attuativo nei prossimi mesi, da monitorare manualmente (sito bloccato da robots.txt).",
+    "fonte": "Ricerca web — disabilita.governo.it",
+    "link": "https://disabilita.governo.it/media/k4wlwg2y/decreto_vita-e-opportunita-signed.pdf",
+    "tag": [
+      "disabilita",
+      "terzo-settore-generico"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Finestra di domanda chiusa; beneficiari finali e ruolo per lo studio non chiari. Monitorare probabile nuovo avviso 2027.",
+    "aggiornato_il": "2026-10-31"
+  },
+  {
+    "id": "dipfamiglia-insiemesivince",
+    "titolo": "Insieme si vince — finanziamento Centri per la Famiglia",
+    "ente": "Dipartimento per le Politiche della Famiglia — Presidenza del Consiglio dei Ministri",
+    "oggetto": "Finanziamento dei Centri per la Famiglia a titolarità pubblica (istituiti e controllati da un ente pubblico). Contributo di 40.000 € per Centro, fino a un massimo di 3 Centri per Comune.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Comuni, singolarmente o in forma associata (Unione di Comuni, Consorzio, Azienda speciale)",
+    "importo": "Fino a 120.000 € per Comune (40.000 € x massimo 3 Centri)",
+    "stato": "da verificare",
+    "scadenza": null,
+    "scadenza_testo": "Non reperita nelle fonti pubbliche indicizzate (solo FAQ disponibili); verificare avviso integrale su famiglia.governo.it",
+    "giorni": null,
+    "checklist": [
+      "Verificare titolarità pubblica del Centro per la Famiglia",
+      "Reperire testo integrale dell'avviso e scadenza su famiglia.governo.it"
+    ],
+    "note": "Interessante per il profilo Comuni: contributo diretto fino a 120.000€, ma manca la scadenza ufficiale (sito bloccato da robots.txt per fetch automatico). Verificare manualmente prima di proporsi.",
+    "fonte": "Ricerca web — famiglia.governo.it",
+    "link": "https://famiglia.governo.it/media/5qff3jyz/faq-avviso-insieme-si-vince.pdf",
+    "tag": [
+      "famiglia",
+      "terzo-settore-generico"
+    ],
+    "punteggio": 4,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-10-31"
+  },
+  {
+    "id": "anci-fondoturismo2026",
+    "titolo": "Fondo ANCI Turismo 2026",
+    "ente": "ANCI",
+    "oggetto": "Contributi per lo sviluppo di progetti turistici comunali, articolati in più fasi selettive.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Comuni",
+    "importo": "Non specificato nelle fonti reperite",
+    "stato": "chiuso",
+    "scadenza": null,
+    "scadenza_testo": "Seconda fase già in corso con 50 Comuni ammessi; nessuna finestra aperta per nuove domande al 31/10/2026",
+    "giorni": null,
+    "checklist": [],
+    "note": "Edizione 2026 già conclusa per le nuove domande (fase 1 chiusa, fase 2 in corso con i 50 Comuni selezionati). Monitorare un'eventuale edizione 2027.",
+    "fonte": "Ricerca web — ANCI",
+    "link": "https://www.qualitytravel.it/fondo-anci-turismo-pubblicato-lelenco-dei-50-comuni-ammessi-alla-seconda-fase-del-bando-2026/191497",
+    "tag": [
+      "rigenerazione-urbana",
+      "terzo-settore-generico"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Edizione 2026 già conclusa per nuove domande; valore informativo per monitoraggio futuro.",
+    "aggiornato_il": "2026-10-31"
   }
 ]

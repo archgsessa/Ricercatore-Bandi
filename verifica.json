@@ -1,30 +1,18 @@
 {
-  "ultima_verifica": "2026-10-29T10:12:34+00:00",
+  "ultima_verifica": "2026-10-31T10:53:24+00:00",
   "fonti_saltate": [
-    "Europaconcorsi: richiede sessione autenticata via browser; non disponibile in questa esecuzione, saltata.",
-    "Portale Bandi Regione Basilicata (CeBas): bloccato da robots.txt anche oggi.",
-    "Regione Emilia-Romagna — Bandi Welfare/Terzo Settore: motore di ricerca dinamico via JavaScript, fetch statico senza risultati; sostituito con ricerca web (nessuna novità).",
-    "Fondazione Cariplo: fetch diretto alla pagina bandi (e a un URL alternativo) in errore client-side; verificata solo la home page, nessuna novità pertinente identificabile con certezza — fonte da riverificare in un prossimo ciclo, eventualmente via browser.",
-    "GSE — servizi per la PA: pagina raggiunta ma generica, senza elenco bandi con titoli/scadenze; non individuata la sezione 'incentivi e bandi' dedicata."
-  ],
-  "nuovi": [
-    {
-      "id": "lombardia-comunicasenzabarriere2628",
-      "dal": "2026-10-29"
-    },
-    {
-      "id": "lombardia-coprogettazione-pft-disabilita",
-      "dal": "2026-10-29"
-    },
-    {
-      "id": "sicilia-reimar-borghimarinari2026",
-      "dal": "2026-10-29"
-    },
-    {
-      "id": "mic-icbsa-volontariatoaps",
-      "dal": "2026-10-29"
-    }
-  ],
-  "chiusi": [],
-  "note_ciclo": "Scansione SEZIONE A richiesta dall'utente il giorno dopo il ciclo ordinario del 28/10 (nuova ricerca ad hoc). Infobandi CSVnet riverificato (stesso totale di 38 bandi/4 pagine di ieri, nessuna novità). Scansionate tutte le altre fonti principali e aggiuntive. Trovate 4 novità: 2 bandi Regione Lombardia su disabilità/coprogettazione (platea di beneficiari molto ristretta, bassa pertinenza), 1 avviso REIMAR Regione Siciliana sui borghi marinari (alta pertinenza, SCADENZA IMMINENTE 31/10/2026) e 1 manifestazione di interesse ICBSA/MiC per volontariato (bassa pertinenza). Nessun bando da chiudere in questo ciclo (nessuna scadenza già passata trovata tra i bandi segnati aperti). Verificato nuovamente che i 2 bandi Sviluppo Campania (Autoimprenditorialità, FRC II) mostrati 'in corso' sul portale restano correttamente chiusi nel DB (scadenze reali già passate, confermato il 28/10). SEZIONE B e SEZIONE C non eseguite (non in scadenza)."
+    {"id": "regione-basilicata-portale-bandi", "motivo": "Bloccata da robots.txt, non raggiunta nemmeno con fetch alternativo."},
+    {"id": "fondazione-cariplo-bandi", "motivo": "Errore client (4xx) su più URL tentati, non raggiunta."},
+    {"id": "regione-lombardia-bandi-terzo-settore", "motivo": "Raggiunta solo la pagina 1 di 14 (paginazione gestita via JS/POST, non superabile con fetch statico)."},
+    {"id": "regione-lazio-avvisi-bandi", "motivo": "Raggiunta ma contenuto bandi caricato dinamicamente via JS, nessun bando estraibile dal fetch statico."},
+    {"id": "regione-campania-notizie-avvisi", "motivo": "Raggiunta ma i filtri per tematica/persone non sono applicabili via fetch statico (controlli JS)."},
+    {"id": "regione-emiliaromagna-sociale-bandi", "motivo": "Pagina indice vuota nel fetch statico (caricamento JS); integrata con ricerca web, nessun bando aperto individuato."},
+    {"id": "csv-lombardia", "motivo": "Sezione bandi dedicata non caricata (probabile rendering via JS)."},
+    {"id": "mic-portalebandidgcc", "motivo": "Bloccata da robots.txt."},
+    {"id": "mase-comuni-efficientamento", "motivo": "Errore client/anti-bot sul fetch diretto; via ricerca web confermato nessuna nuova edizione C.S.E. 2026."},
+    {"id": "scelgoilserviziocivile-bando", "motivo": "Bloccata da robots.txt, supplita con ricerca web (bando filone autofinanziato individuato)."},
+    {"id": "interno-finanza-locale", "motivo": "Errore client sul fetch diretto, supplita con ricerca web."},
+    {"id": "mase-bandi-avvisi", "motivo": "Bloccata da anti-bot/errore client, supplita con ricerca web su economia circolare/bonifiche/mobilità sostenibile."},
+    {"id": "europaconcorsi", "motivo": "Richiede sessione autenticata (Claude in Chrome); non disponibile in questo ciclo, saltata come da istruzioni."}
+  ]
 }
