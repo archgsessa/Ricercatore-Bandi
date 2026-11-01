@@ -3601,7 +3601,7 @@
     ],
     "beneficiari": "Enti del terzo settore (ODV, APS, fondazioni)",
     "importo": "Non specificato (spazi comunicativi, non contributo economico)",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-31",
     "scadenza_testo": "31 ottobre 2026",
     "giorni": 10,
@@ -3616,7 +3616,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Non è un contributo economico ma spazio comunicativo gratuito: minore necessità di assistenza tecnico-amministrativa strutturata.",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-11-01"
   },
   {
     "id": "cn-artemisia-rompisilenzio",
@@ -3629,7 +3629,7 @@
     ],
     "beneficiari": "Cooperative sociali",
     "importo": "Non specificato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-31",
     "scadenza_testo": "31 ottobre 2026",
     "giorni": 10,
@@ -3645,7 +3645,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Beneficiari sono cooperative sociali, forma giuridica diversa dal profilo di riferimento (comuni/ETS/associazioni).",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-11-01"
   },
   {
     "id": "cn-justitalia-sociosanitario",
@@ -3658,7 +3658,7 @@
     ],
     "beneficiari": "Enti non profit, ospedali, centri di ricerca",
     "importo": "Non specificato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-31",
     "scadenza_testo": "31 ottobre 2026",
     "giorni": 10,
@@ -3673,7 +3673,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-11-01"
   },
   {
     "id": "cn-ganassini-maisoli",
@@ -4365,7 +4365,7 @@
     ],
     "beneficiari": "Circoli di cultura cinematografica, associazioni nazionali di cultura cinematografica, sale della comunità.",
     "importo": "Non specificato (verificare bando integrale su cinema.cultura.gov.it)",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-31",
     "scadenza_testo": "31 ott 2026",
     "giorni": 10,
@@ -4383,7 +4383,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-07"
+    "aggiornato_il": "2026-11-01"
   },
   {
     "id": "mimit-compliance-digitale",
@@ -5027,7 +5027,7 @@
     ],
     "beneficiari": "Enti pubblici lombardi ed Enti del Terzo Settore iscritti al RUNTS come enti non commerciali, con sede legale o operativa in Lombardia.",
     "importo": "Contributo per veicolo da 1.500 € a 30.000 € secondo categoria/alimentazione; procedura a sportello fino a esaurimento risorse",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-31",
     "scadenza_testo": "31 ott 2026",
     "giorni": 10,
@@ -5047,7 +5047,7 @@
     "ruolo": "assistenza_rup",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Acquisto veicoli: supporto solo amministrativo.",
-    "aggiornato_il": "2026-10-09"
+    "aggiornato_il": "2026-11-01"
   },
   {
     "id": "lazio-serviziinrete2026",
@@ -5549,7 +5549,7 @@
     ],
     "beneficiari": "Comuni italiani (ed europei) di ogni dimensione.",
     "importo": "Nessun contributo economico — riconoscimento/visibilità",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-31",
     "scadenza_testo": "31/10/2026",
     "giorni": 10,
@@ -5564,7 +5564,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Non è un bando di finanziamento in senso stretto: assegna un titolo onorifico senza contributo economico. Incluso per completezza, nel caso un Comune richieda assistenza nella stesura della candidatura.",
-    "aggiornato_il": "2026-10-19"
+    "aggiornato_il": "2026-11-01"
   },
   {
     "id": "campania-inclusione-disabilita-sensoriale",
@@ -6423,7 +6423,7 @@
     ],
     "beneficiari": "Comuni e loro forme associative, liberi consorzi comunali, città metropolitane, autorità di sistema portuale, camere di commercio, Co.Ge.P.A. e GAL della pesca, associazioni/fondazioni/enti privati senza scopo di lucro con finalità statutarie pertinenti. Sede in Sicilia, iscrizione al registro REIMAR, un solo progetto per soggetto.",
     "importo": "Fino a 250.000 € per progetto, copertura 100% dei costi ammissibili (incluso IVA e altri oneri); dotazione complessiva 1.000.000 € per il 2026.",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-10-31",
     "scadenza_testo": "fino alle ore 23:59 del 31/10/2026 (avviso pubblicato il 12/10/2026, Decreto n. 549)",
     "giorni": 2,
@@ -6442,7 +6442,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-29"
+    "aggiornato_il": "2026-11-01"
   },
   {
     "id": "mic-icbsa-volontariatoaps",
@@ -6906,5 +6906,37 @@
     "pertinenza_bassa": false,
     "nota_pertinenza": "Alta pertinenza: ETS RUNTS capofila di rete complessa (ATS multi-ente), profilo tipico di assistenza tecnico-documentale (formulario di progetto, quadro economico, cronoprogramma) per lo studio.",
     "aggiornato_il": "2026-10-31"
+  },
+  {
+    "id": "campania-contributi-progetti-ets-artt72-73",
+    "titolo": "Contributi per iniziative e progetti del Terzo Settore (artt. 72-73 Codice del Terzo Settore)",
+    "ente": "Regione Campania",
+    "oggetto": "Contributi regionali per progetti locali promossi da partenariati di enti del Terzo Settore ai sensi degli artt. 72-73 del d.lgs. 117/2017. Due fasce: progetti a valenza comunale/sovracomunale (costo progetto 25.000-49.999 €, capofila + almeno 1 partner) e progetti a valenza interprovinciale/regionale (costo progetto 50.000-170.000 €, capofila + almeno 2 partner). Contributo pubblico fino all'80% del costo, cofinanziamento del proponente almeno il 20%, durata 12-18 mesi.",
+    "area_testo": "Campania",
+    "regioni": [
+      "Campania"
+    ],
+    "beneficiari": "Partenariati di Enti del Terzo Settore (ODV/APS/fondazioni ETS) con capofila e partner, ai sensi artt. 72-73 CTS. Non risulta esplicitamente ammessa la partecipazione diretta dei Comuni come capofila nella fonte consultata.",
+    "importo": "25.000–170.000 € a progetto secondo la fascia; contributo pubblico max 80%, cofinanziamento proponente min 20%",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non specificata nella fonte consultata — verificare avviso ufficiale sul portale Regione Campania",
+    "giorni": null,
+    "checklist": [
+      "Reperire e verificare l'avviso ufficiale Regione Campania (scadenza, modulistica, piattaforma di invio)",
+      "Costituzione del partenariato con capofila e partner (1 o 2 secondo la fascia)",
+      "Piano economico con cofinanziamento ≥20%"
+    ],
+    "note": "Segnalato da CSV Salerno (post del 30/07/2026), che rinvia genericamente a \"l'avviso della Regione\" senza fornire link diretto né scadenza. Dato distinto dall'Avviso 2026 nazionale di rilevanza nazionale (id cn-avviso2terzosettore): qui si tratta di progetti locali/regionali con importi più contenuti. Richiede verifica diretta sul portale Regione Campania per confermare scadenza, link ufficiale e ammissibilità dei Comuni.",
+    "fonte": "CSV Salerno — Opportunità",
+    "link": "https://www.csvsalerno.it/all/servizi-per-ets/opportunita/2026/07/30/richiesta-di-contributi-per-iniziative-e-progetti-terzo-settore/",
+    "tag": [
+      "terzo-settore-generico"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Dettagli su scadenza e link ufficiale non reperiti nella fonte; beneficiari sono ETS in partenariato, non risulta esplicita ammissibilità diretta dei Comuni.",
+    "aggiornato_il": "2026-11-01"
   }
 ]

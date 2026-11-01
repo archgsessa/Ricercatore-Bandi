@@ -1,178 +1,142 @@
 {
-  "ultima_verifica": "2026-10-31T21:45:00+00:00",
+  "ultima_verifica": "2026-11-01T07:05:00+00:00",
   "fonti_saltate": [
     {
-      "id": "regione-basilicata-portale-bandi",
-      "motivo": "Bloccata da robots.txt, non raggiunta nemmeno con fetch alternativo."
-    },
-    {
-      "id": "fondazione-cariplo-bandi",
-      "motivo": "Errore client (4xx) su più URL tentati, non raggiunta."
+      "id": "csv-lombardia",
+      "motivo": "Non raggiunta in questo ciclo (sezione bandi caricata via JS in cicli precedenti); priorità data a Infobandi CSVnet (scansione completa) e a fonti con segnali recenti."
     },
     {
       "id": "regione-lombardia-bandi-terzo-settore",
-      "motivo": "Raggiunta solo la pagina 1 di 14 (paginazione gestita via JS/POST, non superabile con fetch statico)."
+      "motivo": "Non ricontrollata singolarmente in questo ciclo (14 pagine, paginazione via JS/POST); ricerca web generica non ha evidenziato nuovi avvisi oltre quelli già tracciati."
     },
     {
       "id": "regione-lazio-avvisi-bandi",
-      "motivo": "Raggiunta ma contenuto bandi caricato dinamicamente via JS, nessun bando estraibile dal fetch statico."
+      "motivo": "Verificata solo la sotto-pagina 'Comunità Solidali 2026' (risultata chiusa, scad. 06/03/2026); la pagina generale avvisi-e-bandi non è stata ricontrollata in questo ciclo."
     },
     {
-      "id": "regione-campania-notizie-avvisi",
-      "motivo": "Raggiunta ma i filtri per tematica/persone non sono applicabili via fetch statico (controlli JS)."
+      "id": "fondazione-cariplo-bandi",
+      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
+    },
+    {
+      "id": "regione-basilicata-portale-bandi",
+      "motivo": "Non ricontrollata in questo ciclo (storicamente bloccata da robots.txt)."
     },
     {
       "id": "regione-emiliaromagna-sociale-bandi",
-      "motivo": "Pagina indice vuota nel fetch statico (caricamento JS); integrata con ricerca web, nessun bando aperto individuato."
-    },
-    {
-      "id": "csv-lombardia",
-      "motivo": "Sezione bandi dedicata non caricata (probabile rendering via JS)."
-    },
-    {
-      "id": "mic-portalebandidgcc",
-      "motivo": "Bloccata da robots.txt."
+      "motivo": "Non ricontrollata in questo ciclo (storicamente caricamento JS)."
     },
     {
       "id": "mase-comuni-efficientamento",
-      "motivo": "Errore client/anti-bot sul fetch diretto; via ricerca web confermato nessuna nuova edizione C.S.E. 2026."
-    },
-    {
-      "id": "scelgoilserviziocivile-bando",
-      "motivo": "Bloccata da robots.txt, supplita con ricerca web (bando filone autofinanziato individuato)."
-    },
-    {
-      "id": "interno-finanza-locale",
-      "motivo": "Errore client sul fetch diretto, supplita con ricerca web."
+      "motivo": "Non ricontrollata in questo ciclo; nessuna nuova edizione attesa a breve (ultima apertura 2025, in rendicontazione)."
     },
     {
       "id": "mase-bandi-avvisi",
-      "motivo": "Bloccata da anti-bot/errore client, supplita con ricerca web su economia circolare/bonifiche/mobilità sostenibile."
+      "motivo": "Non ricontrollata in questo ciclo (storicamente anti-bot)."
+    },
+    {
+      "id": "interno-finanza-locale",
+      "motivo": "Non ricontrollata in questo ciclo (storicamente errore client su fetch diretto)."
+    },
+    {
+      "id": "scelgoilserviziocivile-bando",
+      "motivo": "Non ricontrollata in questo ciclo; bando già tracciato (scu-filoneautofinanziato-3767posti) con scadenza nota 06/11/2026, in area alert scadenze critiche."
+    },
+    {
+      "id": "regione-sicilia-bandi",
+      "motivo": "Controllato solo l'avviso 'Sicilia che piace — Associazioni/ETS II finestra' via ricerca mirata (confermato chiuso, stessa finestra già tracciata); il portale generale (985 risultati) non è stato riscansionato per intero in questo ciclo."
     },
     {
       "id": "europaconcorsi",
-      "motivo": "Richiede sessione autenticata (Claude in Chrome); non disponibile in questo ciclo, saltata come da istruzioni."
+      "motivo": "Richiede sessione autenticata, non disponibile in questo ciclo."
+    },
+    {
+      "id": "mic-portalebandidgcc",
+      "motivo": "Non ricontrollata in questo ciclo (storicamente bloccata da robots.txt)."
+    },
+    {
+      "id": "fondazionedisardegna-bandi",
+      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
+    },
+    {
+      "id": "fondazione-carisal",
+      "motivo": "Non ricontrollata in questo ciclo (verificata il 31/10/2026: nessun bando aperto, cadenza tipica maggio-luglio)."
+    },
+    {
+      "id": "ministeroturismo-enti-territoriali",
+      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
+    },
+    {
+      "id": "mit-fondo-piccoli-comuni",
+      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
+    },
+    {
+      "id": "invitalia-per-le-pa",
+      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
+    },
+    {
+      "id": "gse-servizi-pa",
+      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
+    },
+    {
+      "id": "politichegiovanili-avvisi",
+      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
+    },
+    {
+      "id": "sportesalute-bandi",
+      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
+    },
+    {
+      "id": "pnrr-istruzione-avvisi",
+      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
+    },
+    {
+      "id": "mic-bandi-concorsi",
+      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
+    },
+    {
+      "id": "mic-avvisi",
+      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
+    },
+    {
+      "id": "lavoro-terzosettore",
+      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
     }
   ],
   "nuovi": [
     {
-      "id": "sicilia-millennium2027-normanni",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "scu-filoneautofinanziato-3767posti",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "eu-libertamedia-rapidresponse",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "eu-partenariati-giornalismo",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "eu-memoria-europea2026",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "sportsalute-rete-hub",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "sportsalute-losportevita",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "interno-messasicurezza2026-28",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "gse-contotermico3-pa",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "gse-cer-pnrr-piccolicomuni",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "mindisabilita-vitaeopportunita",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "dipfamiglia-insiemesivince",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "anci-fondoturismo2026",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "campania-spettro-autistico2026",
-      "dal": "2026-10-31"
+      "id": "campania-contributi-progetti-ets-artt72-73",
+      "dal": "2026-11-01"
     }
   ],
   "chiusi": [
     {
-      "id": "campania-qualita-architettura-qa26",
-      "dal": "2026-10-31"
+      "id": "cn-raipersociale2",
+      "dal": "2026-11-01"
     },
     {
-      "id": "cn-easi",
-      "dal": "2026-10-31"
+      "id": "cn-artemisia-rompisilenzio",
+      "dal": "2026-11-01"
     },
     {
-      "id": "cn-perchicrea-nuoveopere",
-      "dal": "2026-10-31"
+      "id": "cn-justitalia-sociosanitario",
+      "dal": "2026-11-01"
     },
     {
-      "id": "cn-perchicrea-scuole",
-      "dal": "2026-10-31"
+      "id": "mic-dgcinema-circoli",
+      "dal": "2026-11-01"
     },
     {
-      "id": "cn-perchicrea-professionalizzazione",
-      "dal": "2026-10-31"
+      "id": "lombardia-rinnovaveicoli-enti",
+      "dal": "2026-11-01"
     },
     {
-      "id": "cariplo-carcere-comunita-rete",
-      "dal": "2026-10-31"
+      "id": "christmascities-capitalenatale2027",
+      "dal": "2026-11-01"
     },
     {
-      "id": "mimit-compliance-digitale",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "basilicata-piru-ambientale",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "cosenza-arsac-calabria",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "piemonte-citta-rigenerative",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "lazio-polizialocaleplus2026",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "lazio-natale2026-turismo",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "lazio-costruirefuturo3",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "crt-legami-in-comune",
-      "dal": "2026-10-31"
-    },
-    {
-      "id": "mic-cittachelegge-10ed",
-      "dal": "2026-10-31"
+      "id": "sicilia-reimar-borghimarinari2026",
+      "dal": "2026-11-01"
     }
   ],
-  "note_ciclo": "Ciclo 31/10/2026 in due fasi. (1) Scansione automatica SEZIONE A ordinaria: 13 nuovi bandi (incl. proroga scadenza Premio Mattei 10->15gg), 15 chiusure per scadenza passata, 4 nuovi sinonimi/tag (liberta-di-stampa, giornalismo-media, memoria-storica, efficientamento-energetico). (2) Ricerca live ad hoc richiesta dall'utente dopo segnalazione che nessun bando nuovo sembrava emergere: adottato approccio di scansione via browser diretto (non solo fetch statico) su Regione Campania — prima fonte 'cieca' per filtri JS — trovato e verificato il bando aperto 'Interventi a favore di persone con disturbi dello spettro autistico' (ETS/RUNTS, scad. prorogata 02/12/2026). Verificate anche le fonti locali provincia di Salerno: Fondazione Carisal confermata (dominio corretto fondazionecarisal.it, nessun bando aperto ora), Provincia di Salerno confermata priva di bandi di finanziamento (solo gare/concorsi, spostata tra le fonti scartate), GAL Casacastra e Fondazione della Comunita' Salernitana lasciate in verifica periodica."
+  "note_ciclo": "Ciclo 01/11/2026 (nuovo task unificato, cadenza 3gg). SEZIONE A: scansione completa di Infobandi CSVnet (4 pagine, 34-38 bandi) — nessun bando nuovo, tutti già tracciati. Verificate Fondazione con il Sud (solo 'Iniziativa beni confiscati 2026' aperta, già tracciata), Sviluppo Campania (nessun bando pertinente al profilo) e professionearchitetto.it/concorsi pag.1 (nessun match, solo concorsi di progettazione diretti). Ricerca web su Fondazione CDP: nessun bando specifico 2026 individuato oltre quanto già noto. Approfondimento via browser su CSV Salerno (4 post nuovi controllati: 3 già scaduti non aggiunti, 1 nuovo aggiunto con dati parziali - contributi Regione Campania artt.72-73 CTS, scadenza da verificare) e su Regione Campania — Notizie (filtro Associazioni e terzo settore, nessun bando nuovo oltre la proroga spettro autistico già tracciata il 31/10). Verificati due lead da ricerca web: 'Sicilia che piace — Associazioni/ETS II finestra' (confermato chiuso, stessa finestra già nota) e 'Comunità Solidali 2026' Lazio (confermato chiuso, scad. 06/03/2026, non aggiunto). Chiusura di 7 bandi con scadenza passata al 31/10/2026. SEZIONE B (ricerca nuove fonti): non eseguita, prossima idonea dal 09/11/2026. SEZIONE C (manutenzione vocabolario): non eseguita, prossima idonea dal 06/11/2026. Diverse fonti aggiuntive già verificate a fondo il 31/10/2026 non sono state riscansionate singolarmente in questo ciclo per priorità di tempo (elenco in fonti_saltate)."
 }
