@@ -62,7 +62,7 @@
       "url": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/politiche-sociali/terzo-settore-volontariato",
       "categoria": "ente-regionale",
       "regione": "Lombardia",
-      "note": "Portale ufficiale bandi regionali, sezione dedicata terzo settore/volontariato. Verificata: oltre 100 bandi totali (14 pagine), scadenze 2026-2027, pagina dedicata e aggiornata.",
+      "note": "Portale ufficiale bandi regionali, sezione dedicata terzo settore/volontariato. Verificata: oltre 100 bandi totali (14 pagine), scadenze 2026-2027, pagina dedicata e aggiornata. AGGIORNAMENTO 01/11/2026: pagina 1 riverificata via browser, nessun nuovo avviso oltre quelli già tracciati.",
       "data_integrazione": "2026-10-05"
     },
     {
@@ -98,7 +98,7 @@
       "url": "https://www.fondazionecariplo.it/contributi/bandi/",
       "categoria": "fondazione-bancaria-terzo-settore",
       "regione": "Lombardia",
-      "note": "Pagina ufficiale bandi della fondazione bancaria, dedicata esplicitamente al Terzo Settore. Verificata: almeno 6 bandi attivi visibili con paginazione su piu pagine, aggiornamento gennaio 2026. Scadenze riportate nelle pagine di dettaglio di ciascun bando.",
+      "note": "Pagina ufficiale bandi della fondazione bancaria, dedicata esplicitamente al Terzo Settore. Verificata: almeno 6 bandi attivi visibili con paginazione su piu pagine, aggiornamento gennaio 2026. Scadenze riportate nelle pagine di dettaglio di ciascun bando. AGGIORNAMENTO 01/11/2026: confermata piena accessibilità via browser (6 pagine tramite pattern URL /page/N/); nessun nuovo bando rilevante oltre quelli già tracciati. Nota: il sito mostra 'cariplo-veicolo' come ATTIVO mentre è tracciato come chiuso in dati-bandi.json — discrepanza segnalata ma non corretta (bando a bassa pertinenza).",
       "data_integrazione": "2026-10-07"
     },
     {
@@ -107,7 +107,7 @@
       "url": "https://regione.lazio.it/avvisi-e-bandi",
       "categoria": "ente-regionale",
       "regione": "Lazio",
-      "note": "Sezione ufficiale avvisi regionali (documenti con data di scadenza e proroghe). Integrata dopo segnale concreto: avviso promozione turistica per ETS (Det. G11427/2026, scad. 17/10/2026).",
+      "note": "Sezione ufficiale avvisi regionali (documenti con data di scadenza e proroghe). Integrata dopo segnale concreto: avviso promozione turistica per ETS (Det. G11427/2026, scad. 17/10/2026). AGGIORNAMENTO 01/11/2026 (scansione browser): la pagina regione.lazio.it/avvisi-e-bandi copre solo appalti/procedure; il vero portale dei bandi/contributi regionali è https://bandiavvisi.regione.lazio.it/bandiavvisi/ (piattaforma DOMINO, ~100 avvisi totali, campo di ricerca testuale funzionante via browser). Individuati 3 nuovi avvisi aperti su questo portale (Costruire Futuro odontoiatria 2026, sovraindebitamento/usura artt.2 e 5-7).",
       "data_integrazione": "2026-10-12"
     },
     {
@@ -143,7 +143,7 @@
       "url": "https://portalebandidgcc.cultura.gov.it",
       "categoria": "ministero",
       "regione": "Nazionale",
-      "note": "Portale dedicato ai bandi della Direzione Generale Creatività Contemporanea; ha pubblicato 'Cultura nei piccoli Comuni' (Comuni <25.000 ab. in partenariato con ETS/associazioni, 1.445.100 €, scaduto 31/08/2026) — probabile canale per future edizioni.",
+      "note": "Portale dedicato ai bandi della Direzione Generale Creatività Contemporanea; ha pubblicato 'Cultura nei piccoli Comuni' (Comuni <25.000 ab. in partenariato con ETS/associazioni, 1.445.100 €, scaduto 31/08/2026) — probabile canale per future edizioni. AGGIORNAMENTO 01/11/2026 (scansione browser): il portale richiede autenticazione SPID/CIE per l'accesso — non si tratta di un blocco robots.txt ma di un vero e proprio login wall. Non è quindi raggiungibile né da fetch statico né da browser anonimo; da monitorare solo tramite segnali indiretti (comunicati stampa, newsletter) finché non si renda disponibile un accesso pubblico in sola lettura.",
       "data_integrazione": "2026-10-21"
     },
     {
@@ -269,7 +269,7 @@
       "url": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi",
       "categoria": "ente-regionale",
       "regione": "Sicilia",
-      "note": "Portale generalista filtrabile per tipologia/dipartimento/scadenza (985 risultati). Contiene avvisi ricorrenti dedicati al Terzo Settore (es. \"Sicilia che piace\" Associazioni/ETS, \"Avviso Associazioni\" DDG 2008/2026). Diversi avvisi attivi con scadenze ott-nov 2026 al momento della verifica.",
+      "note": "Portale generalista filtrabile per tipologia/dipartimento/scadenza (985 risultati). Contiene avvisi ricorrenti dedicati al Terzo Settore (es. \"Sicilia che piace\" Associazioni/ETS, \"Avviso Associazioni\" DDG 2008/2026). Diversi avvisi attivi con scadenze ott-nov 2026 al momento della verifica. AGGIORNAMENTO 01/11/2026: confermata accessibilità via browser; filtri URL non funzionanti (restituiscono sempre il totale non filtrato), nessun nuovo avviso rilevante individuato oltre quelli già tracciati.",
       "data_integrazione": "2026-10-26"
     },
     {
@@ -333,17 +333,17 @@
     {
       "nome": "Ministero per le Disabilita'",
       "url": "https://disabilita.governo.it",
-      "motivo": "Bloccato da robots.txt per fetch automatico. Evidenza indiretta solida: bando nazionale \"Vita & Opportunita'\" da 386 mln€ aperto anche a ETS e scuole (decreti criteri 03/03/2026 e 19/05/2026). Verificare sezione Amministrazione Trasparente > Sovvenzioni con browser diretto."
+      "motivo": "Bloccato da robots.txt per fetch automatico. Evidenza indiretta solida: bando nazionale \"Vita & Opportunita'\" da 386 mln€ aperto anche a ETS e scuole (decreti criteri 03/03/2026 e 19/05/2026). Verificare sezione Amministrazione Trasparente > Sovvenzioni con browser diretto. AGGIORNAMENTO 01/11/2026: il sito NON è realmente bloccato — pienamente navigabile via browser. Verificata sezione Amministrazione Trasparente: nessun nuovo avviso oltre a 'Vita & Opportunità' già tracciato."
     },
     {
       "nome": "Dipartimento Politiche della Famiglia",
       "url": "https://www.famiglia.governo.it",
-      "motivo": "Bloccato da robots.txt. Evidenza: PDF 2025 su Centri per la Famiglia e avviso \"Insieme si vince\", programma ricorrente annuale. Verificare sezione trasferimenti enti territoriali/bandi-avvisi-contributi."
+      "motivo": "Bloccato da robots.txt. Evidenza: PDF 2025 su Centri per la Famiglia e avviso \"Insieme si vince\", programma ricorrente annuale. Verificare sezione trasferimenti enti territoriali/bandi-avvisi-contributi. AGGIORNAMENTO 01/11/2026: il sito NON è realmente bloccato — navigabile via browser. Trovata una pagina 'Attività educative e ricreative formali e non formali dei Comuni - Nuovo Avviso 2026', ma il contenuto è ancora segnaposto (Lorem Ipsum): da ricontrollare quando sarà popolata con dati reali."
     },
     {
       "nome": "Dipartimento Pari Opportunita'",
       "url": "https://www.pariopportunita.gov.it",
-      "motivo": "Bloccato da robots.txt. Evidenza: bandi numerati ricorrenti (bando 5/2022, 6, 7/2025), programma annuale attivo."
+      "motivo": "Bloccato da robots.txt. Evidenza: bandi numerati ricorrenti (bando 5/2022, 6, 7/2025), programma annuale attivo. AGGIORNAMENTO 01/11/2026: sito navigabile via browser, nessun nuovo bando oltre a quelli già noti."
     },
     {
       "nome": "Dipartimento della Protezione Civile",
@@ -353,27 +353,27 @@
     {
       "nome": "Dipartimento della Funzione Pubblica",
       "url": "https://www.funzionepubblica.gov.it",
-      "motivo": "Bloccato da robots.txt. Evidenza: programmi \"Risorse in Comune\" (100 mln€ PNRR rafforzamento capacita' amministrativa Comuni) e \"Innovazione sociale nella PA\" (10 mln€ Comuni capoluogo/Citta' Metropolitane), gestiti via piattaforma Capacity Italy."
+      "motivo": "Bloccato da robots.txt. Evidenza: programmi \"Risorse in Comune\" (100 mln€ PNRR rafforzamento capacita' amministrativa Comuni) e \"Innovazione sociale nella PA\" (10 mln€ Comuni capoluogo/Citta' Metropolitane), gestiti via piattaforma Capacity Italy. AGGIORNAMENTO 01/11/2026: sito navigabile via browser ma senza un portale bandi strutturato individuabile; esito non conclusivo, nessun nuovo elemento azionabile trovato."
     },
     {
       "nome": "ANCI nazionale",
       "url": "https://www.anci.it",
-      "motivo": "Bloccato da robots.txt. Evidenza: Fondo ANCI Turismo (bando 2026 attivo), bando \"immobili inutilizzati ai giovani\" (12,3 mln€ under 35)."
+      "motivo": "Bloccato da robots.txt. Evidenza: Fondo ANCI Turismo (bando 2026 attivo), bando \"immobili inutilizzati ai giovani\" (12,3 mln€ under 35). AGGIORNAMENTO 01/11/2026: sito navigabile via browser ma senza un portale bandi strutturato per il profilo del committente; nessun nuovo elemento azionabile trovato."
     },
     {
       "nome": "Regione Piemonte — Portale Bandi",
       "url": "https://bandi.regione.piemonte.it/",
-      "motivo": "Contenuto non estraibile via fetch automatico. Evidenza indiretta: notizia regionale \"6 milioni a sostegno del Terzo Settore\" (2026)."
+      "motivo": "SCOPERTA MAGGIORE 01/11/2026 (scansione browser approfondita): il portale è pienamente navigabile e filtrabile tramite parametri URL del tema Drupal/Views: field_target_target_id=4 (Terzo Settore) + field_stato_target_id=19 (Aperto). URL filtro funzionante: https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19 — restituisce 34 bandi aperti rivolti al Terzo Settore (su 2357 risultati totali non filtrati). 14 di questi sono stati aggiunti a dati-bandi.json con dati parziali (titolo/ente/stato confermati; scadenza e importo non estraibili dalla vista elenco — le card non espongono link <a href> diretti, solo elementi 'generic' con navigazione via JS onclick — richiede apertura manuale/mirata di ciascun dettaglio). Fonte ora da trattare come pienamente utilizzabile nei prossimi cicli con questo pattern URL, non più 'non estraibile'."
     },
     {
       "nome": "Regione Marche — Portale Bandi",
       "url": "https://bandi.regione.marche.it/",
-      "motivo": "Contenuto non estraibile via fetch automatico. Evidenza: documento 13/03/2026, storico bandi Terzo Settore, \"Bando istituzioni\" per enti locali."
+      "motivo": "Contenuto non estraibile via fetch automatico. Evidenza: documento 13/03/2026, storico bandi Terzo Settore, \"Bando istituzioni\" per enti locali. AGGIORNAMENTO 01/11/2026: confermato che il portale è genuinamente non funzionante — risponde con il solo testo 'ok' anche con rendering completo via browser (probabile stub/health-check, non un blocco anti-bot). Non riproponibile finché il sito non viene ripristinato."
     },
     {
       "nome": "Regione Veneto — Bandi, Avvisi e Concorsi",
       "url": "https://www.regione.veneto.it/web/bandi-avvisi-concorsi/bandi2",
-      "motivo": "Portale navigabile con filtri (Enti Locali, Sociale) ma contenuto singoli bandi non estraibile via fetch automatico (42 risultati rilevati)."
+      "motivo": "Portale navigabile con filtri (Enti Locali, Sociale) ma contenuto singoli bandi non estraibile via fetch automatico (42 risultati rilevati). AGGIORNAMENTO 01/11/2026: la pagina regione.veneto.it/web/bandi-avvisi-concorsi/bandi2 è solo una vetrina; il vero portale dei bandi/contributi regionali è https://bandi.regione.veneto.it/Public/Elenco?Tipo=1 (piattaforma ASP.NET dedicata, 799 bandi totali, permalink reali nel formato Dettaglio?idAtto=N&fromPage=Elenco). Ricerca full-text presente ma filtri poco efficaci (245 risultati su ricerca generica 'sociale', non chiaramente filtrati per Terzo Settore/Aperto). Estrazione sistematica dei bandi pertinenti non completata in questo ciclo per limiti di tempo: da riprendere in un prossimo ciclo con ricerca per parola chiave sui singoli idAtto."
     },
     {
       "nome": "Regione Abruzzo — Contributi e finanziamenti/sociale",

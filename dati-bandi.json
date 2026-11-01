@@ -6938,5 +6938,545 @@
     "pertinenza_bassa": true,
     "nota_pertinenza": "Dettagli su scadenza e link ufficiale non reperiti nella fonte; beneficiari sono ETS in partenariato, non risulta esplicita ammissibilità diretta dei Comuni.",
     "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "emilia-disabilita-uditiva-2027-29",
+    "titolo": "Bando per il finanziamento di progetti a favore di persone con disabilità uditiva (L.R. 9/2019) — triennio 2027-2029",
+    "ente": "Regione Emilia-Romagna",
+    "oggetto": "Finanziamento di progetti nel triennio 2027-2029 a favore delle persone sorde, sordocieche e con disabilità uditiva, ai sensi della L.R. n. 9 del 2019.",
+    "area_testo": "Emilia-Romagna",
+    "regioni": [
+      "Emilia-Romagna"
+    ],
+    "beneficiari": "Da verificare nel testo integrale del bando (tipicamente enti del Terzo Settore/associazioni operanti nel settore disabilità, in Emilia-Romagna).",
+    "importo": "1.200.000 € per il triennio 2027-2029",
+    "stato": "aperto",
+    "scadenza": "2026-12-11",
+    "scadenza_testo": "11 dic 2026",
+    "giorni": 40,
+    "checklist": [
+      "Verificare testo integrale per beneficiari ammissibili e modulistica"
+    ],
+    "note": "Trovato tramite navigazione browser del portale sociale.regione.emilia-romagna.it (in precedenza inaccessibile via fetch statico per caricamento JS).",
+    "fonte": "Regione Emilia-Romagna — Bandi Welfare/Terzo Settore",
+    "link": "https://sociale.regione.emilia-romagna.it/leggi-atti-bandi/bandi",
+    "tag": [
+      "disabilita"
+    ],
+    "punteggio": 3,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "lazio-costruirefuturo-odontoiatria2026",
+    "titolo": "Avviso pubblico COSTRUIRE FUTURO: Progetto di assistenza odontoiatrica mobile nelle strutture penitenziarie del Lazio — Edizione 2026",
+    "ente": "Regione Lazio",
+    "oggetto": "Progetto di assistenza odontoiatrica mobile nelle strutture penitenziarie del Lazio, nell'ambito del programma regionale Costruire Futuro.",
+    "area_testo": "Lazio",
+    "regioni": [
+      "Lazio"
+    ],
+    "beneficiari": "Da verificare (probabile coinvolgimento di ETS/enti sanitari operanti nel settore penitenziario, sul modello delle precedenti edizioni di Costruire Futuro).",
+    "importo": "Da verificare",
+    "stato": "aperto",
+    "scadenza": "2026-11-13",
+    "scadenza_testo": "13/11/2026 ore 12:00",
+    "giorni": 12,
+    "checklist": [
+      "Verificare beneficiari e modulistica tramite il portale DOMINO bandiavvisi.regione.lazio.it"
+    ],
+    "note": "Trovato sul portale bandiavvisi.regione.lazio.it (piattaforma DOMINO, 100 avvisi totali), in precedenza inaccessibile via fetch statico. Distinto da 'Costruire Futuro — III edizione' già tracciato come chiuso: qui si tratta della componente odontoiatrica dell'Edizione 2026.",
+    "fonte": "Regione Lazio — Bandi e Avvisi (bandiavvisi.regione.lazio.it)",
+    "link": "https://bandiavvisi.regione.lazio.it/bandiavvisi/",
+    "tag": [
+      "disabilita"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiari non confermati; probabile ambito sanitario-penitenziario più che tecnico-edile.",
+    "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "lazio-sovraindebitamento-usura-art2",
+    "titolo": "Contributi regionali per soggetti interessati dal sovraindebitamento o vittime di usura o estorsione — Articolo 2",
+    "ente": "Regione Lazio",
+    "oggetto": "Concessione di contributi regionali in favore dei soggetti interessati dal sovraindebitamento o vittime di usura o di estorsione, ai sensi dell'articolo 2 della relativa legge regionale.",
+    "area_testo": "Lazio",
+    "regioni": [
+      "Lazio"
+    ],
+    "beneficiari": "Da verificare (tipicamente associazioni/fondazioni antiusura e soggetti del Terzo Settore che assistono le vittime, su questo tipo di normativa regionale).",
+    "importo": "Da verificare",
+    "stato": "aperto",
+    "scadenza": "2026-11-18",
+    "scadenza_testo": "18/11/2026 ore 12:00",
+    "giorni": 17,
+    "checklist": [
+      "Verificare beneficiari e requisiti tramite il portale DOMINO bandiavvisi.regione.lazio.it"
+    ],
+    "note": "Trovato sul portale bandiavvisi.regione.lazio.it, in precedenza inaccessibile via fetch statico. Due avvisi paralleli pubblicati lo stesso giorno (art. 2 e artt. 5-7): probabile distinzione tra categorie di beneficiari (vittime dirette vs. enti/associazioni), da verificare.",
+    "fonte": "Regione Lazio — Bandi e Avvisi (bandiavvisi.regione.lazio.it)",
+    "link": "https://bandiavvisi.regione.lazio.it/bandiavvisi/",
+    "tag": [
+      "terzo-settore-generico"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiari non confermati nella fonte consultata.",
+    "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "lazio-sovraindebitamento-usura-art5-7",
+    "titolo": "Contributi regionali per soggetti interessati dal sovraindebitamento o vittime di usura o estorsione — Articoli 5 e 7",
+    "ente": "Regione Lazio",
+    "oggetto": "Concessione di contributi regionali in favore dei soggetti interessati dal sovraindebitamento o vittime di usura o di estorsione, ai sensi degli articoli 5 e 7 della relativa legge regionale.",
+    "area_testo": "Lazio",
+    "regioni": [
+      "Lazio"
+    ],
+    "beneficiari": "Da verificare (probabile riferimento ad associazioni/fondi di garanzia antiusura, distinto dall'art. 2).",
+    "importo": "Da verificare",
+    "stato": "aperto",
+    "scadenza": "2026-11-18",
+    "scadenza_testo": "18/11/2026 ore 12:00",
+    "giorni": 17,
+    "checklist": [
+      "Verificare beneficiari e requisiti tramite il portale DOMINO bandiavvisi.regione.lazio.it"
+    ],
+    "note": "Trovato sul portale bandiavvisi.regione.lazio.it, in precedenza inaccessibile via fetch statico. Vedi anche l'avviso parallelo art. 2 (id lazio-sovraindebitamento-usura-art2).",
+    "fonte": "Regione Lazio — Bandi e Avvisi (bandiavvisi.regione.lazio.it)",
+    "link": "https://bandiavvisi.regione.lazio.it/bandiavvisi/",
+    "tag": [
+      "terzo-settore-generico"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiari non confermati nella fonte consultata.",
+    "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "piemonte-hub-territoriali-detenzione",
+    "titolo": "Realizzazione di hub territoriali per lavori di pubblica utilità rivolti a persone in uscita da luoghi di detenzione",
+    "ente": "Regione Piemonte",
+    "oggetto": "Realizzazione di hub territoriali per lavori di pubblica utilità rivolti a persone in uscita da luoghi di detenzione. Procedura: Selezione di partner e di progetti. Temi: Diritti, Politiche sociali.",
+    "area_testo": "Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
+    "importo": "Da verificare",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
+    "giorni": null,
+    "checklist": [
+      "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
+    ],
+    "note": "Individuato tramite filtro browser 'Rivolto a: Terzo settore' + 'Stato: Aperto' sul portale bandi.regione.piemonte.it (34 risultati totali in questo filtro; in precedenza il portale risultava non estraibile via fetch statico). Dati di scadenza e importo non visibili nella vista elenco: richiede apertura della pagina di dettaglio, non effettuata in questo ciclo per limiti di tempo.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19",
+    "tag": [
+      "inclusione-sociale"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
+    "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "piemonte-bullismo-cyberbullismo-2026-27",
+    "titolo": "Prevenzione e contrasto a bullismo e cyberbullismo - a.s. 2026-2027",
+    "ente": "Regione Piemonte",
+    "oggetto": "Prevenzione e contrasto a bullismo e cyberbullismo - a.s. 2026-2027. Procedura: Bando. Temi: Istruzione.",
+    "area_testo": "Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
+    "importo": "Da verificare",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
+    "giorni": null,
+    "checklist": [
+      "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
+    ],
+    "note": "Individuato tramite filtro browser 'Rivolto a: Terzo settore' + 'Stato: Aperto' sul portale bandi.regione.piemonte.it (34 risultati totali in questo filtro; in precedenza il portale risultava non estraibile via fetch statico). Dati di scadenza e importo non visibili nella vista elenco: richiede apertura della pagina di dettaglio, non effettuata in questo ciclo per limiti di tempo.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19",
+    "tag": [
+      "istruzione-formazione"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
+    "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "piemonte-santuari-animali",
+    "titolo": "Contributi a sostegno dei santuari per animali",
+    "ente": "Regione Piemonte",
+    "oggetto": "Contributi a sostegno dei santuari per animali. Procedura: Avviso. Temi: Politiche sociali.",
+    "area_testo": "Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
+    "importo": "Da verificare",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
+    "giorni": null,
+    "checklist": [
+      "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
+    ],
+    "note": "Individuato tramite filtro browser 'Rivolto a: Terzo settore' + 'Stato: Aperto' sul portale bandi.regione.piemonte.it (34 risultati totali in questo filtro; in precedenza il portale risultava non estraibile via fetch statico). Dati di scadenza e importo non visibili nella vista elenco: richiede apertura della pagina di dettaglio, non effettuata in questo ciclo per limiti di tempo.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19",
+    "tag": [
+      "terzo-settore-generico"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
+    "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "piemonte-violenza-assistita-minori-az5",
+    "titolo": "Sostegno a progetti in favore dei minori vittime di violenza assistita (azione 5)",
+    "ente": "Regione Piemonte",
+    "oggetto": "Sostegno a progetti in favore dei minori vittime di violenza assistita (azione 5). Procedura: Bando. Temi: Diritti, Politiche sociali.",
+    "area_testo": "Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
+    "importo": "Da verificare",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
+    "giorni": null,
+    "checklist": [
+      "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
+    ],
+    "note": "Individuato tramite filtro browser 'Rivolto a: Terzo settore' + 'Stato: Aperto' sul portale bandi.regione.piemonte.it (34 risultati totali in questo filtro; in precedenza il portale risultava non estraibile via fetch statico). Dati di scadenza e importo non visibili nella vista elenco: richiede apertura della pagina di dettaglio, non effettuata in questo ciclo per limiti di tempo.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19",
+    "tag": [
+      "famiglia"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
+    "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "piemonte-violenza-genere-scuole-az3",
+    "titolo": "Azioni di informazione, comunicazione e formazione nelle scuole sul tema della violenza di genere (azione 3)",
+    "ente": "Regione Piemonte",
+    "oggetto": "Azioni di informazione, comunicazione e formazione nelle scuole sul tema della violenza di genere (azione 3). Procedura: Bando. Temi: Diritti, Politiche sociali.",
+    "area_testo": "Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
+    "importo": "Da verificare",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
+    "giorni": null,
+    "checklist": [
+      "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
+    ],
+    "note": "Individuato tramite filtro browser 'Rivolto a: Terzo settore' + 'Stato: Aperto' sul portale bandi.regione.piemonte.it (34 risultati totali in questo filtro; in precedenza il portale risultava non estraibile via fetch statico). Dati di scadenza e importo non visibili nella vista elenco: richiede apertura della pagina di dettaglio, non effettuata in questo ciclo per limiti di tempo.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19",
+    "tag": [
+      "istruzione-formazione"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
+    "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "piemonte-violenza-genere-sensibilizzazione-az4",
+    "titolo": "Promozione di percorsi di sensibilizzazione sul tema della violenza di genere con soggetti significativi della rete (azione 4)",
+    "ente": "Regione Piemonte",
+    "oggetto": "Promozione di percorsi di sensibilizzazione sul tema della violenza di genere con soggetti significativi della rete (azione 4). Procedura: Bando. Temi: Diritti, Politiche sociali.",
+    "area_testo": "Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
+    "importo": "Da verificare",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
+    "giorni": null,
+    "checklist": [
+      "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
+    ],
+    "note": "Individuato tramite filtro browser 'Rivolto a: Terzo settore' + 'Stato: Aperto' sul portale bandi.regione.piemonte.it (34 risultati totali in questo filtro; in precedenza il portale risultava non estraibile via fetch statico). Dati di scadenza e importo non visibili nella vista elenco: richiede apertura della pagina di dettaglio, non effettuata in questo ciclo per limiti di tempo.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19",
+    "tag": [
+      "terzo-settore-generico"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
+    "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "piemonte-donne-vittime-violenza-lavoro-az1",
+    "titolo": "Percorsi di inserimento/reinserimento lavorativo delle donne vittime di violenza, sole e con figli (azione 1)",
+    "ente": "Regione Piemonte",
+    "oggetto": "Percorsi di inserimento/reinserimento lavorativo delle donne vittime di violenza, sole e con figli (azione 1). Procedura: Bando. Temi: Diritti, Politiche sociali.",
+    "area_testo": "Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
+    "importo": "Da verificare",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
+    "giorni": null,
+    "checklist": [
+      "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
+    ],
+    "note": "Individuato tramite filtro browser 'Rivolto a: Terzo settore' + 'Stato: Aperto' sul portale bandi.regione.piemonte.it (34 risultati totali in questo filtro; in precedenza il portale risultava non estraibile via fetch statico). Dati di scadenza e importo non visibili nella vista elenco: richiede apertura della pagina di dettaglio, non effettuata in questo ciclo per limiti di tempo.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19",
+    "tag": [
+      "famiglia"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
+    "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "piemonte-donne-vittime-violenza-orientamento",
+    "titolo": "Orientamento e formazione al lavoro delle donne vittime di violenza",
+    "ente": "Regione Piemonte",
+    "oggetto": "Orientamento e formazione al lavoro delle donne vittime di violenza. Procedura: Avviso. Temi: Diritti, Politiche sociali.",
+    "area_testo": "Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
+    "importo": "Da verificare",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
+    "giorni": null,
+    "checklist": [
+      "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
+    ],
+    "note": "Individuato tramite filtro browser 'Rivolto a: Terzo settore' + 'Stato: Aperto' sul portale bandi.regione.piemonte.it (34 risultati totali in questo filtro; in precedenza il portale risultava non estraibile via fetch statico). Dati di scadenza e importo non visibili nella vista elenco: richiede apertura della pagina di dettaglio, non effettuata in questo ciclo per limiti di tempo.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19",
+    "tag": [
+      "famiglia"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
+    "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "piemonte-servizio-civile-regionale-4ed-2027",
+    "titolo": "Presentazione di progetti di servizio civile regionale volontario - Quarta edizione annualità 2027",
+    "ente": "Regione Piemonte",
+    "oggetto": "Presentazione di progetti di servizio civile regionale volontario - Quarta edizione annualità 2027. Procedura: Bando. Temi: Politiche sociali, Sanità, Turismo.",
+    "area_testo": "Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
+    "importo": "Da verificare",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
+    "giorni": null,
+    "checklist": [
+      "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
+    ],
+    "note": "Individuato tramite filtro browser 'Rivolto a: Terzo settore' + 'Stato: Aperto' sul portale bandi.regione.piemonte.it (34 risultati totali in questo filtro; in precedenza il portale risultava non estraibile via fetch statico). Dati di scadenza e importo non visibili nella vista elenco: richiede apertura della pagina di dettaglio, non effettuata in questo ciclo per limiti di tempo.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19",
+    "tag": [
+      "terzo-settore-generico"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
+    "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "piemonte-sportelli-ascolto-detenzione",
+    "titolo": "Realizzazione di sportelli di ascolto a favore di persone in uscita dai luoghi di detenzione, in esecuzione penale esterna o sottoposte a sanzioni di comunità",
+    "ente": "Regione Piemonte",
+    "oggetto": "Realizzazione di sportelli di ascolto a favore di persone in uscita dai luoghi di detenzione, in esecuzione penale esterna o sottoposte a sanzioni di comunità. Procedura: Selezione di partner e di progetti. Temi: Diritti, Politiche sociali.",
+    "area_testo": "Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
+    "importo": "Da verificare",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
+    "giorni": null,
+    "checklist": [
+      "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
+    ],
+    "note": "Individuato tramite filtro browser 'Rivolto a: Terzo settore' + 'Stato: Aperto' sul portale bandi.regione.piemonte.it (34 risultati totali in questo filtro; in precedenza il portale risultava non estraibile via fetch statico). Dati di scadenza e importo non visibili nella vista elenco: richiede apertura della pagina di dettaglio, non effettuata in questo ciclo per limiti di tempo.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19",
+    "tag": [
+      "inclusione-sociale"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
+    "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "piemonte-residenzialita-detenzione",
+    "titolo": "Realizzazione di misure per residenzialità temporanea e accompagnamento delle persone in uscita e esecuzione penale esterna",
+    "ente": "Regione Piemonte",
+    "oggetto": "Realizzazione di misure per residenzialità temporanea e accompagnamento delle persone in uscita e esecuzione penale esterna. Procedura: Selezione di partner e di progetti. Temi: Diritti, Politiche sociali.",
+    "area_testo": "Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
+    "importo": "Da verificare",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
+    "giorni": null,
+    "checklist": [
+      "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
+    ],
+    "note": "Individuato tramite filtro browser 'Rivolto a: Terzo settore' + 'Stato: Aperto' sul portale bandi.regione.piemonte.it (34 risultati totali in questo filtro; in precedenza il portale risultava non estraibile via fetch statico). Dati di scadenza e importo non visibili nella vista elenco: richiede apertura della pagina di dettaglio, non effettuata in questo ciclo per limiti di tempo.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19",
+    "tag": [
+      "inclusione-sociale"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
+    "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "piemonte-cittadinanza-globale-2026",
+    "titolo": "Bando Educazione alla Cittadinanza Globale per la sostenibilità e la solidarietà internazionale - Anno 2026",
+    "ente": "Regione Piemonte",
+    "oggetto": "Bando Educazione alla Cittadinanza Globale per la sostenibilità e la solidarietà internazionale - Anno 2026. Procedura: Bando. Temi: Cooperazione internazionale.",
+    "area_testo": "Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
+    "importo": "Da verificare",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
+    "giorni": null,
+    "checklist": [
+      "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
+    ],
+    "note": "Individuato tramite filtro browser 'Rivolto a: Terzo settore' + 'Stato: Aperto' sul portale bandi.regione.piemonte.it (34 risultati totali in questo filtro; in precedenza il portale risultava non estraibile via fetch statico). Dati di scadenza e importo non visibili nella vista elenco: richiede apertura della pagina di dettaglio, non effettuata in questo ciclo per limiti di tempo.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19",
+    "tag": [
+      "terzo-settore-generico"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
+    "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "piemonte-cornodafrica-kenya-2026",
+    "titolo": "Bando Corno d'Africa - 2026 Kenya",
+    "ente": "Regione Piemonte",
+    "oggetto": "Bando Corno d'Africa - 2026 Kenya. Procedura: Bando. Temi: Cooperazione internazionale.",
+    "area_testo": "Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
+    "importo": "Da verificare",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
+    "giorni": null,
+    "checklist": [
+      "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
+    ],
+    "note": "Individuato tramite filtro browser 'Rivolto a: Terzo settore' + 'Stato: Aperto' sul portale bandi.regione.piemonte.it (34 risultati totali in questo filtro; in precedenza il portale risultava non estraibile via fetch statico). Dati di scadenza e importo non visibili nella vista elenco: richiede apertura della pagina di dettaglio, non effettuata in questo ciclo per limiti di tempo.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19",
+    "tag": [
+      "terzo-settore-generico"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
+    "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "piemonte-usura-estorsione-sovraindebitamento-2026-27",
+    "titolo": "Fondo regionale per la prevenzione e il contrasto dei fenomeni dell'usura, dell'estorsione e del sovraindebitamento 2026-2027",
+    "ente": "Regione Piemonte",
+    "oggetto": "Fondo regionale per la prevenzione e il contrasto dei fenomeni dell'usura, dell'estorsione e del sovraindebitamento 2026-2027. Procedura: Bando a sportello. Temi: Legalità.",
+    "area_testo": "Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
+    "importo": "Da verificare",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
+    "giorni": null,
+    "checklist": [
+      "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
+    ],
+    "note": "Individuato tramite filtro browser 'Rivolto a: Terzo settore' + 'Stato: Aperto' sul portale bandi.regione.piemonte.it (34 risultati totali in questo filtro; in precedenza il portale risultava non estraibile via fetch statico). Dati di scadenza e importo non visibili nella vista elenco: richiede apertura della pagina di dettaglio, non effettuata in questo ciclo per limiti di tempo.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19",
+    "tag": [
+      "terzo-settore-generico"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
+    "aggiornato_il": "2026-11-01"
   }
 ]

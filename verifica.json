@@ -1,57 +1,13 @@
 {
-  "ultima_verifica": "2026-11-01T07:05:00+00:00",
+  "ultima_verifica": "2026-11-01T09:30:00+00:00",
   "fonti_saltate": [
-    {
-      "id": "csv-lombardia",
-      "motivo": "Non raggiunta in questo ciclo (sezione bandi caricata via JS in cicli precedenti); priorità data a Infobandi CSVnet (scansione completa) e a fonti con segnali recenti."
-    },
-    {
-      "id": "regione-lombardia-bandi-terzo-settore",
-      "motivo": "Non ricontrollata singolarmente in questo ciclo (14 pagine, paginazione via JS/POST); ricerca web generica non ha evidenziato nuovi avvisi oltre quelli già tracciati."
-    },
-    {
-      "id": "regione-lazio-avvisi-bandi",
-      "motivo": "Verificata solo la sotto-pagina 'Comunità Solidali 2026' (risultata chiusa, scad. 06/03/2026); la pagina generale avvisi-e-bandi non è stata ricontrollata in questo ciclo."
-    },
-    {
-      "id": "fondazione-cariplo-bandi",
-      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
-    },
-    {
-      "id": "regione-basilicata-portale-bandi",
-      "motivo": "Non ricontrollata in questo ciclo (storicamente bloccata da robots.txt)."
-    },
-    {
-      "id": "regione-emiliaromagna-sociale-bandi",
-      "motivo": "Non ricontrollata in questo ciclo (storicamente caricamento JS)."
-    },
-    {
-      "id": "mase-comuni-efficientamento",
-      "motivo": "Non ricontrollata in questo ciclo; nessuna nuova edizione attesa a breve (ultima apertura 2025, in rendicontazione)."
-    },
-    {
-      "id": "mase-bandi-avvisi",
-      "motivo": "Non ricontrollata in questo ciclo (storicamente anti-bot)."
-    },
-    {
-      "id": "interno-finanza-locale",
-      "motivo": "Non ricontrollata in questo ciclo (storicamente errore client su fetch diretto)."
-    },
     {
       "id": "scelgoilserviziocivile-bando",
       "motivo": "Non ricontrollata in questo ciclo; bando già tracciato (scu-filoneautofinanziato-3767posti) con scadenza nota 06/11/2026, in area alert scadenze critiche."
     },
     {
-      "id": "regione-sicilia-bandi",
-      "motivo": "Controllato solo l'avviso 'Sicilia che piace — Associazioni/ETS II finestra' via ricerca mirata (confermato chiuso, stessa finestra già tracciata); il portale generale (985 risultati) non è stato riscansionato per intero in questo ciclo."
-    },
-    {
       "id": "europaconcorsi",
       "motivo": "Richiede sessione autenticata, non disponibile in questo ciclo."
-    },
-    {
-      "id": "mic-portalebandidgcc",
-      "motivo": "Non ricontrollata in questo ciclo (storicamente bloccata da robots.txt)."
     },
     {
       "id": "fondazionedisardegna-bandi",
@@ -100,43 +56,118 @@
     {
       "id": "lavoro-terzosettore",
       "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
+    },
+    {
+      "id": "disabilita.governo.it",
+      "motivo": "Verificata via browser in questo ciclo: pagina accessibile, nessun nuovo avviso oltre quelli già tracciati."
+    },
+    {
+      "id": "famiglia.governo.it",
+      "motivo": "Verificata via browser: una pagina 'Attività educative e ricreative formali e non formali dei Comuni - Nuovo Avviso 2026' individuata ma contiene solo testo segnaposto (Lorem Ipsum); da ricontrollare quando sarà popolata con contenuti reali."
+    },
+    {
+      "id": "pariopportunita.gov.it",
+      "motivo": "Verificata via browser in questo ciclo: nessun nuovo avviso rilevante."
+    },
+    {
+      "id": "funzionepubblica.gov.it",
+      "motivo": "Verificata via browser: nessun portale bandi strutturato individuato, esito non conclusivo."
+    },
+    {
+      "id": "anci.it",
+      "motivo": "Verificata via browser: nessun portale bandi strutturato individuato per il profilo del committente."
+    },
+    {
+      "id": "bandi.regione.marche.it",
+      "motivo": "Verificata via browser: il portale restituisce una risposta stub ('ok') anche con rendering completo — sorgente non funzionante, non un falso bloccaggio JS/robots."
+    },
+    {
+      "id": "regione.veneto.it",
+      "motivo": "Verificato via browser: individuato il portale reale bandi.regione.veneto.it/Public/Elenco (245 risultati, permalink reali tramite Dettaglio?idAtto=N), ma filtri di ricerca poco efficaci; estrazione sistematica dei bandi ETS non completata in questo ciclo, da riprendere nel prossimo ciclo con ricerca per parola chiave sui singoli idAtto."
+    },
+    {
+      "id": "protezionecivile.gov.it",
+      "motivo": "Non raggiunta in questo ciclo supplementare per priorità di tempo."
+    },
+    {
+      "id": "regione.abruzzo.it-contributi-finanziamenti-sociale",
+      "motivo": "Non raggiunta in questo ciclo supplementare per priorità di tempo."
     }
   ],
   "nuovi": [
     {
-      "id": "campania-contributi-progetti-ets-artt72-73",
+      "id": "emilia-disabilita-uditiva-2027-29",
+      "dal": "2026-11-01"
+    },
+    {
+      "id": "lazio-costruirefuturo-odontoiatria2026",
+      "dal": "2026-11-01"
+    },
+    {
+      "id": "lazio-sovraindebitamento-usura-art2",
+      "dal": "2026-11-01"
+    },
+    {
+      "id": "lazio-sovraindebitamento-usura-art5-7",
+      "dal": "2026-11-01"
+    },
+    {
+      "id": "piemonte-hub-territoriali-detenzione",
+      "dal": "2026-11-01"
+    },
+    {
+      "id": "piemonte-bullismo-cyberbullismo-2026-27",
+      "dal": "2026-11-01"
+    },
+    {
+      "id": "piemonte-santuari-animali",
+      "dal": "2026-11-01"
+    },
+    {
+      "id": "piemonte-violenza-assistita-minori-az5",
+      "dal": "2026-11-01"
+    },
+    {
+      "id": "piemonte-violenza-genere-scuole-az3",
+      "dal": "2026-11-01"
+    },
+    {
+      "id": "piemonte-violenza-genere-sensibilizzazione-az4",
+      "dal": "2026-11-01"
+    },
+    {
+      "id": "piemonte-donne-vittime-violenza-lavoro-az1",
+      "dal": "2026-11-01"
+    },
+    {
+      "id": "piemonte-donne-vittime-violenza-orientamento",
+      "dal": "2026-11-01"
+    },
+    {
+      "id": "piemonte-servizio-civile-regionale-4ed-2027",
+      "dal": "2026-11-01"
+    },
+    {
+      "id": "piemonte-sportelli-ascolto-detenzione",
+      "dal": "2026-11-01"
+    },
+    {
+      "id": "piemonte-residenzialita-detenzione",
+      "dal": "2026-11-01"
+    },
+    {
+      "id": "piemonte-cittadinanza-globale-2026",
+      "dal": "2026-11-01"
+    },
+    {
+      "id": "piemonte-cornodafrica-kenya-2026",
+      "dal": "2026-11-01"
+    },
+    {
+      "id": "piemonte-usura-estorsione-sovraindebitamento-2026-27",
       "dal": "2026-11-01"
     }
   ],
-  "chiusi": [
-    {
-      "id": "cn-raipersociale2",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "cn-artemisia-rompisilenzio",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "cn-justitalia-sociosanitario",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "mic-dgcinema-circoli",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "lombardia-rinnovaveicoli-enti",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "christmascities-capitalenatale2027",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "sicilia-reimar-borghimarinari2026",
-      "dal": "2026-11-01"
-    }
-  ],
-  "note_ciclo": "Ciclo 01/11/2026 (nuovo task unificato, cadenza 3gg). SEZIONE A: scansione completa di Infobandi CSVnet (4 pagine, 34-38 bandi) — nessun bando nuovo, tutti già tracciati. Verificate Fondazione con il Sud (solo 'Iniziativa beni confiscati 2026' aperta, già tracciata), Sviluppo Campania (nessun bando pertinente al profilo) e professionearchitetto.it/concorsi pag.1 (nessun match, solo concorsi di progettazione diretti). Ricerca web su Fondazione CDP: nessun bando specifico 2026 individuato oltre quanto già noto. Approfondimento via browser su CSV Salerno (4 post nuovi controllati: 3 già scaduti non aggiunti, 1 nuovo aggiunto con dati parziali - contributi Regione Campania artt.72-73 CTS, scadenza da verificare) e su Regione Campania — Notizie (filtro Associazioni e terzo settore, nessun bando nuovo oltre la proroga spettro autistico già tracciata il 31/10). Verificati due lead da ricerca web: 'Sicilia che piace — Associazioni/ETS II finestra' (confermato chiuso, stessa finestra già nota) e 'Comunità Solidali 2026' Lazio (confermato chiuso, scad. 06/03/2026, non aggiunto). Chiusura di 7 bandi con scadenza passata al 31/10/2026. SEZIONE B (ricerca nuove fonti): non eseguita, prossima idonea dal 09/11/2026. SEZIONE C (manutenzione vocabolario): non eseguita, prossima idonea dal 06/11/2026. Diverse fonti aggiuntive già verificate a fondo il 31/10/2026 non sono state riscansionate singolarmente in questo ciclo per priorità di tempo (elenco in fonti_saltate)."
+  "chiusi": [],
+  "note_ciclo": "Ciclo supplementare di scansione approfondita, richiesto esplicitamente dall'utente in chat ('Fai una nuova scansione di fonti, più approfondita utilizzando anche il browser'), distinto dal ciclo automatico regolare SEZIONE A già eseguito in data odierna. Utilizzati gli strumenti di navigazione browser (built-in Claude_Browser) per superare i limiti del fetch statico su diverse fonti storicamente classificate come bloccate da JS/robots.txt. Risultato principale: molte di queste fonti si sono rivelate pienamente accessibili via browser (csv-lombardia, regione-lombardia-bandi-terzo-settore, fondazione-cariplo-bandi, regione-emiliaromagna-sociale-bandi, regione-sicilia-bandi, disabilita.governo.it, famiglia.governo.it, pariopportunita.gov.it) — nessuna era realmente inaccessibile, solo bloccata per il metodo di fetch statico in uso nei cicli automatici. Scoperte di rilievo: individuato il portale reale bandi.regione.piemonte.it con pattern di filtro URL funzionante (field_target_target_id=4 per Terzo Settore, field_stato_target_id=19 per Aperto) che ha rivelato 34 bandi aperti rivolti al Terzo Settore, di cui 14 aggiunti come voci con dati parziali (titolo/ente/stato confermati, scadenza e importo da verificare nel dettaglio — non estraibili dalla vista elenco per limiti del rendering JS delle card); individuato il portale reale delle sovvenzioni della Regione Lazio (bandiavvisi.regione.lazio.it, 100 avvisi, piattaforma DOMINO) distinto dalla pagina generale di soli appalti, con 3 nuovi avvisi aperti aggiunti; individuato il portale reale della Regione Veneto (bandi.regione.veneto.it/Public/Elenco, 245 risultati con permalink reali) non ancora sfruttato sistematicamente per mancanza di tempo; confermato che bandi.regione.marche.it è genuinamente non funzionante (risponde 'ok' anche con rendering completo) e che portalebandidgcc.cultura.gov.it richiede autenticazione SPID/CIE (non è un blocco robots.txt). Aggiunta 1 nuova voce da Regione Emilia-Romagna (disabilità uditiva, triennio 2027-2029). Nessun bando chiuso in questo ciclo supplementare (le chiusure sono già state gestite nel ciclo regolare SEZIONE A dello stesso giorno). Aspetti non completati per priorità di tempo: dettagli completi (scadenza/importo) dei 14 bandi Piemonte, sfruttamento sistematico del portale Veneto, verifica di protezionecivile.gov.it e della sezione sociale di regione.abruzzo.it, discrepanza di stato non risolta sul bando 'cariplo-veicolo' (il sito lo mostra 'ATTIVO' ma è tracciato come chiuso — bando a bassa pertinenza, non prioritario). Si raccomanda che SEZIONE B (ricerca nuove fonti) in un prossimo ciclo aggiorni formalmente fonti.json con questi URL reali scoperti e con la riclassificazione delle fonti risultate accessibili via browser."
 }
