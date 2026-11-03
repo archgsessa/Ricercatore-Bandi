@@ -555,7 +555,10 @@ function render(){
     list.innerHTML = '<div class="empty"><div class="t">Nessun bando corrisponde ai filtri</div><div class="b">Prova ad ampliare area geografica, stato o priorità minima.</div></div>';
     return;
   }
-  filtrati.forEach(b => list.appendChild(renderBandoCard(b)));
+  filtrati.forEach(b => {
+    try { list.appendChild(renderBandoCard(b)); }
+    catch(e){ console.error('Errore rendering bando', b && b.id, e); }
+  });
 }
 
 function csvEscape(v){
@@ -696,11 +699,22 @@ async function initData(){
     const res = await fetch('./dati-bandi.json?v=' + Date.now(), { cache: 'no-store' });
     if (!res.ok) throw new Error('HTTP ' + res.status);
     DATA = await res.json();
+    // Igiene difensiva: alcuni campi devono essere array; un valore scorretto (es. stringa
+    // invece di array) non deve far crashare il rendering dell'intera pagina.
+    DATA.forEach(b => {
+      if (!Array.isArray(b.checklist)) b.checklist = b.checklist ? [String(b.checklist)] : [];
+      if (!Array.isArray(b.tag)) b.tag = b.tag ? [String(b.tag)] : [];
+      if (!Array.isArray(b.regioni)) b.regioni = b.regioni ? [String(b.regioni)] : ['Nazionale'];
+    });
     try {
       const resVer = await fetch('./verifica.json?v=' + Date.now(), { cache: 'no-store' });
       if (resVer.ok) VERIFICA = await resVer.json();
     } catch(e){ VERIFICA = null; }
-    refreshAll();
+    try {
+      refreshAll();
+    } catch(e){
+      console.error('Errore durante il rendering (dati caricati correttamente):', e);
+    }
   } catch(e){
     document.getElementById('list').innerHTML = '<div class=\"empty\"><div class=\"t\">Dati non disponibili</div><div class=\"b\">Impossibile caricare i dati dei bandi (bandi.json). Riprova pi\u00f9 tardi.</div></div>';
     document.getElementById('aggiornamento').textContent = 'Errore di caricamento dei dati';

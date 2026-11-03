@@ -7494,7 +7494,9 @@
     "scadenza": "2026-11-30",
     "scadenza_testo": "30 novembre 2026",
     "giorni": 27,
-    "checklist": "Modulo online 'presenta un progetto' su 8xmille.induismo.it",
+    "checklist": [
+      "Modulo online 'presenta un progetto' su 8xmille.induismo.it"
+    ],
     "note": "",
     "fonte": "Infobandi CSVnet",
     "link": "https://infobandi.csvnet.it/otto-per-mille-dellunione-induista-italiana-anno-2026/",
@@ -7524,7 +7526,9 @@
     "scadenza": "2027-01-20",
     "scadenza_testo": "20 gennaio 2027",
     "giorni": 78,
-    "checklist": "Consorzio di almeno 3 soggetti di 3 Paesi diversi; portale Funding & Tender",
+    "checklist": [
+      "Consorzio di almeno 3 soggetti di 3 Paesi diversi; portale Funding & Tender"
+    ],
     "note": "",
     "fonte": "Infobandi CSVnet",
     "link": "https://infobandi.csvnet.it/progetti-transfrontalieri-di-alfabetizzazione-mediatica/",
@@ -7553,7 +7557,9 @@
     "scadenza": "2026-10-15",
     "scadenza_testo": "15 ottobre 2026",
     "giorni": null,
-    "checklist": "Atto costitutivo comitato (se applicabile) registrato, piano spese ammissibili",
+    "checklist": [
+      "Atto costitutivo comitato (se applicabile) registrato, piano spese ammissibili"
+    ],
     "note": "Beneficiari compatibili con il profilo; monitorare riedizione futura",
     "fonte": "CSV Salerno — Opportunità",
     "link": "https://www.masaf.gov.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/24958",
@@ -7582,7 +7588,9 @@
     "scadenza": "2026-09-15",
     "scadenza_testo": "15 settembre 2026",
     "giorni": null,
-    "checklist": "Consorzio con capofila non-profit, proposta su portale Funding & Tenders",
+    "checklist": [
+      "Consorzio con capofila non-profit, proposta su portale Funding & Tenders"
+    ],
     "note": "",
     "fonte": "CSV Salerno — Opportunità",
     "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=CERV-2026-CHAR-%20LITI",
@@ -7611,7 +7619,9 @@
     "scadenza": "2026-08-26",
     "scadenza_testo": "26 agosto 2026",
     "giorni": null,
-    "checklist": "Consorzio transnazionale, proposta su portale Funding & Tenders",
+    "checklist": [
+      "Consorzio transnazionale, proposta su portale Funding & Tenders"
+    ],
     "note": "",
     "fonte": "CSV Salerno — Opportunità",
     "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/PPPA-2026-SOCIAL-ECONOMY-TOURISM",
@@ -7640,7 +7650,9 @@
     "scadenza": null,
     "scadenza_testo": "manifestazione di interesse per proposta immobili descritta come 'sempre aperta'; le finestre di candidatura principali (10/04/2026 e 11/05/2026) sono già scadute",
     "giorni": null,
-    "checklist": "Allegato A1 firmato dal legale rappresentante, invio via PEC",
+    "checklist": [
+      "Allegato A1 firmato dal legale rappresentante, invio via PEC"
+    ],
     "note": "Ruolo dell'ente limitato alla segnalazione di immobili, non richiede elaborati tecnici complessi; stato non confermato ufficialmente",
     "fonte": "CSV Lombardia",
     "link": "https://www.nonseidasola.regione.lombardia.it/wps/portal/site/nonseidasola/DettaglioRedazionale/cosa-fa-regione/progetto-aler",
@@ -7670,7 +7682,7 @@
     "scadenza": "2026-01-09",
     "scadenza_testo": "9 gennaio 2026 ore 16:00",
     "giorni": null,
-    "checklist": "",
+    "checklist": [],
     "note": "Stesso programma ministeriale di 'Fabbrica'; verificare se è prevista una nuova edizione collegata",
     "fonte": "CSV dei Due Mari (Reggio Calabria)",
     "link": "https://www.csvrc.it/2025/12/rigenerazioni-bando-per-contrastare-il-disagio-giovanile/",
@@ -7699,7 +7711,7 @@
     "scadenza": "2026-01-30",
     "scadenza_testo": "30 gennaio 2026 ore 11:59",
     "giorni": null,
-    "checklist": "",
+    "checklist": [],
     "note": "Bando annuale ricorrente; verificare apertura edizione 2027 (tipicamente autunno/inverno)",
     "fonte": "CSV dei Due Mari (Reggio Calabria)",
     "link": "https://www.csvrc.it/2025/12/bando-2026-otto-per-mille-chiesa-valdese/",
@@ -7728,7 +7740,7 @@
     "scadenza": "2026-09-23",
     "scadenza_testo": "23 settembre 2026 ore 13:00",
     "giorni": null,
-    "checklist": "",
+    "checklist": [],
     "note": "Link ricostruito da articolo di stampa; verificare l'URL esatto sul sito regionale",
     "fonte": "Regione Emilia-Romagna — Bandi Welfare/Terzo Settore",
     "link": "https://sociale.regione.emilia-romagna.it/leggi-atti-bandi/bandi/2026/bando-per-il-finanziamento-di-progetti-a-favore-di-persone-con-disabilita-visiva-fondo-sociale-regionale-annualita-2026-dgr-n-1294-2026",
@@ -7757,7 +7769,9 @@
     "scadenza": null,
     "scadenza_testo": "non verificabile — pagina di dettaglio inaccessibile (robots.txt)",
     "giorni": null,
-    "checklist": "Accedere con browser con rendering completo per completare i dati",
+    "checklist": [
+      "Accedere con browser con rendering completo per completare i dati"
+    ],
     "note": "Da completare in un prossimo ciclo con navigazione browser (il portale Piemonte ha già altri 14 bandi tracciati con dati parziali dallo stesso motivo)",
     "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
     "link": "https://bandi.regione.piemonte.it/contributi-finanziamenti/piani-integrati-welfare-vita-lavoro",
@@ -7785,7 +7799,7 @@
     "scadenza": "2026-03-06",
     "scadenza_testo": "scadenza 6 marzo 2026 ore 12:00, procedura in fase di valutazione/istruttoria",
     "giorni": null,
-    "checklist": "",
+    "checklist": [],
     "note": "Ottimo fit tipologico (OdV/APS/Fondazioni RUNTS Lazio); monitorare l'apertura di 'Comunità Solidali 2027' sulla piattaforma DOMINO (bandiavvisi.regione.lazio.it)",
     "fonte": "Regione Lazio (bandiavvisi.regione.lazio.it)",
     "link": "https://regione.lazio.it/cittadini/sociale-famiglie/comunita-solidali/comunita-solidali-2026",
