@@ -2201,14 +2201,14 @@
     "beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
     "importo": "Non specificato — verificare sulla pagina del bando",
     "stato": "aperto",
-    "scadenza": "2027-10-14",
-    "scadenza_testo": "14 ott 2027",
-    "giorni": 358,
+    "scadenza": "2026-12-14",
+    "scadenza_testo": "Procedura a sportello; prossima finestra 14 dicembre 2026 (altre finestre: 15/03, 14/06, 14/10/2027)",
+    "giorni": 41,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
     ],
-    "note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi. Bando a sportello con più finestre (14 set 2026, 14 dic 2026, 15 mar 2027, 14 giu 2027, 14 ott 2027): la finestra di settembre 2026 e' gia' passata, aggiornata alla prossima finestra utile (14/12/2026). Scadenza aggiornata al 14/10/2027 secondo Infobandi (verifica 12/10/2026).",
+    "note": "Aggiornato il 03/11/2026: bando a sportello con finestre trimestrali; la finestra più vicina è il 14/12/2026 (in precedenza tracciata la finestra del 14/10/2027).",
     "fonte": "Infobandi CSVnet",
     "link": "https://infobandi.csvnet.it/zmina-resilience-progetti-culturali-co-creati-tra-ucraina-e-paesi-europa-creativa/",
     "tag": [
@@ -2219,7 +2219,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Ambito molto specifico (cooperazione culturale con operatori ucraini), poco ricorrente per il profilo comuni/ETS generalista.",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-11-03"
   },
   {
     "id": "cn-marchioqualita-gen",
@@ -2264,9 +2264,9 @@
     "beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
     "importo": "Non specificato — verificare sulla pagina del bando",
     "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Nessuna scadenza (sportello)",
-    "giorni": null,
+    "scadenza": "2027-01-01",
+    "scadenza_testo": "Scadenze bimestrali (1 gen, 1 mar, 1 mag, 1 lug, 1 set, 1 nov); prossima finestra 1 gennaio 2027",
+    "giorni": 59,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2282,7 +2282,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Ambito specialistico (tecnologie anti-censura), poco allineato al profilo comuni/ETS italiani generalisti.",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-11-03"
   },
   {
     "id": "cn-caritas-microprogetti",
@@ -2390,16 +2390,16 @@
     ],
     "beneficiari": "Comuni, Unioni di Comuni, Città Metropolitane, Province, Regioni.",
     "importo": "Plafond 50 milioni di euro; da 2 a 6 milioni di euro per ente secondo tipologia/dimensione.",
-    "stato": "chiuso",
-    "scadenza": "2026-09-30",
-    "scadenza_testo": "30 set 2026",
-    "giorni": -19,
+    "stato": "aperto",
+    "scadenza": "2026-12-05",
+    "scadenza_testo": "Proroga al 5 dicembre 2026, ore 23:59 (scadenza originaria 30 settembre 2026)",
+    "giorni": 32,
     "checklist": [
       "Delibera dell'ente",
       "Progetto di intervento sul bene culturale",
       "Piano di ammortamento del mutuo"
     ],
-    "note": "Bando diffuso anche tramite ANCI. Scadenza molto ravvicinata: verificare subito i requisiti con l'ente interessato.",
+    "note": "Aggiornato il 03/11/2026: l'ICSC ha prorogato la scadenza dal 30/09/2026 al 05/12/2026 (bando precedentemente segnato come chiuso).",
     "fonte": "Ministero della Cultura / ICSC / ANCI",
     "link": "https://cultura.gov.it/comunicato/29093",
     "tag": [
@@ -2410,7 +2410,7 @@
     "ruolo": "assistenza_rup",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-01"
+    "aggiornato_il": "2026-11-03"
   },
   {
     "id": "anci-sport-missione-comune2026",
@@ -7478,5 +7478,326 @@
     "pertinenza_bassa": false,
     "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
     "aggiornato_il": "2026-11-01"
+  },
+  {
+    "id": "otto-per-mille-induista-2026",
+    "titolo": "Otto per mille dell'Unione Induista Italiana – anno 2026",
+    "ente": "Unione Induista Italiana",
+    "oggetto": "Ripartisce la quota 8xmille destinata all'Unione Induista Italiana per progetti sociali, religiosi, culturali, umanitari e assistenziali presentati da enti e associazioni.",
+    "area_testo": "Progetti sociali/culturali/umanitari",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Enti e associazioni (requisiti non specificati in dettaglio sulla pagina)",
+    "importo": "Non definito (riferimento: 2.201.506€ ricevuti nel 2025 dall'ente, non specifico del bando)",
+    "stato": "aperto",
+    "scadenza": "2026-11-30",
+    "scadenza_testo": "30 novembre 2026",
+    "giorni": 27,
+    "checklist": "Modulo online 'presenta un progetto' su 8xmille.induismo.it",
+    "note": "",
+    "fonte": "Infobandi CSVnet",
+    "link": "https://infobandi.csvnet.it/otto-per-mille-dellunione-induista-italiana-anno-2026/",
+    "tag": [
+      "terzo-settore-generico"
+    ],
+    "punteggio": 1,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Bando religioso/generico senza indicazioni su opere o documentazione tecnica specifica.",
+    "aggiornato_il": "2026-11-03"
+  },
+  {
+    "id": "progetti-transfrontalieri-alfabetizzazione-mediatica",
+    "titolo": "Progetti transfrontalieri di alfabetizzazione mediatica (Europa Creativa)",
+    "ente": "Commissione Europea - DG CONNECT",
+    "oggetto": "Finanzia progetti transnazionali di alfabetizzazione mediatica contro la disinformazione online, con priorità ad adulti fuori dai percorsi di istruzione.",
+    "area_testo": "Alfabetizzazione mediatica",
+    "regioni": [
+      "UE-27",
+      "EFTA/SEE",
+      "Paesi candidati"
+    ],
+    "beneficiari": "Organizzazioni profit/non profit, autorità pubbliche locali/regionali/nazionali, università, media",
+    "importo": "Dotazione 3.500.000€; max 500.000€ per progetto, fino al 70%",
+    "stato": "aperto",
+    "scadenza": "2027-01-20",
+    "scadenza_testo": "20 gennaio 2027",
+    "giorni": 78,
+    "checklist": "Consorzio di almeno 3 soggetti di 3 Paesi diversi; portale Funding & Tender",
+    "note": "",
+    "fonte": "Infobandi CSVnet",
+    "link": "https://infobandi.csvnet.it/progetti-transfrontalieri-di-alfabetizzazione-mediatica/",
+    "tag": [
+      "europa-creativa",
+      "giornalismo-media"
+    ],
+    "punteggio": 1,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Bando UE complesso (consorzio di 3 Paesi, candidatura in inglese); autorità pubbliche locali ammesse ma senza componente tecnico-infrastrutturale.",
+    "aggiornato_il": "2026-11-03"
+  },
+  {
+    "id": "masaf-valorizzazione-agroalimentare-2026",
+    "titolo": "Bando per la valorizzazione nel settore agricolo e agroalimentare",
+    "ente": "Ministero dell'agricoltura, della sovranità alimentare e delle foreste (MASAF)",
+    "oggetto": "Finanziamento di attività aperte/dirette al pubblico gratuitamente (fiere, sagre, manifestazioni) a livello locale, regionale o interregionale nei settori agricolo e agroalimentare.",
+    "area_testo": "Eventi/fiere agroalimentari",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Enti pubblici singoli e associati, associazioni riconosciute/non riconosciute, comitati organizzatori, cooperative sociali",
+    "importo": "Non indicato",
+    "stato": "chiuso",
+    "scadenza": "2026-10-15",
+    "scadenza_testo": "15 ottobre 2026",
+    "giorni": null,
+    "checklist": "Atto costitutivo comitato (se applicabile) registrato, piano spese ammissibili",
+    "note": "Beneficiari compatibili con il profilo; monitorare riedizione futura",
+    "fonte": "CSV Salerno — Opportunità",
+    "link": "https://www.masaf.gov.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/24958",
+    "tag": [
+      "agricoltura-sociale",
+      "terzo-settore-generico"
+    ],
+    "punteggio": 3,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-11-03"
+  },
+  {
+    "id": "cerv-2026-char-liti",
+    "titolo": "Bando per promuovere l'attuazione della Carta dei diritti fondamentali dell'UE (CERV-2026-CHAR-LITI)",
+    "ente": "Commissione Europea (programma CERV)",
+    "oggetto": "Sostenere organizzazioni della società civile nella promozione/diffusione dei diritti fondamentali UE; due priorità: sensibilizzazione sulla Carta, oppure rafforzamento dello spazio civico.",
+    "area_testo": "Diritti fondamentali UE",
+    "regioni": [
+      "Europa"
+    ],
+    "beneficiari": "Richiedente principale: ente privato senza scopo di lucro con sede in uno Stato UE; co-richiedenti anche enti pubblici in collaborazione con non-profit",
+    "importo": "Non indicato",
+    "stato": "chiuso",
+    "scadenza": "2026-09-15",
+    "scadenza_testo": "15 settembre 2026",
+    "giorni": null,
+    "checklist": "Consorzio con capofila non-profit, proposta su portale Funding & Tenders",
+    "note": "",
+    "fonte": "CSV Salerno — Opportunità",
+    "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=CERV-2026-CHAR-%20LITI",
+    "tag": [
+      "diritti-umani-pace",
+      "terzo-settore-generico"
+    ],
+    "punteggio": 2,
+    "ruolo": "Partner tecnico ammesso/richiesto",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Capofila deve essere ente privato senza scopo di lucro; i Comuni partecipano solo come co-richiedenti secondari; già scaduto.",
+    "aggiornato_il": "2026-11-03"
+  },
+  {
+    "id": "pppa-2026-social-economy-tourism",
+    "titolo": "Modello di economia sociale intelligente nel turismo (PPPA-2026-SOCIAL-ECONOMY-TOURISM)",
+    "ente": "Commissione Europea",
+    "oggetto": "Integrare i principi dell'economia sociale nel turismo sostenibile e promuovere cooperazione transnazionale lungo itinerari a lunga percorrenza.",
+    "area_testo": "Turismo sostenibile / economia sociale",
+    "regioni": [
+      "Europa"
+    ],
+    "beneficiari": "Consorzio di almeno 2 Paesi UE; capofila: gestore sentiero, rete economia sociale, ente locale o ente turistico ufficiale; co-partner possono includere enti locali",
+    "importo": "Non indicato",
+    "stato": "chiuso",
+    "scadenza": "2026-08-26",
+    "scadenza_testo": "26 agosto 2026",
+    "giorni": null,
+    "checklist": "Consorzio transnazionale, proposta su portale Funding & Tenders",
+    "note": "",
+    "fonte": "CSV Salerno — Opportunità",
+    "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/PPPA-2026-SOCIAL-ECONOMY-TOURISM",
+    "tag": [
+      "impresa-sociale",
+      "ambiente-sostenibilita"
+    ],
+    "punteggio": 2,
+    "ruolo": "Partner tecnico ammesso/richiesto",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Bando UE a consorzio transnazionale complesso; ruolo dell'ente locale è di partner, non capofila; già scaduto.",
+    "aggiornato_il": "2026-11-03"
+  },
+  {
+    "id": "lombardia-una-casa-per-ricominciare",
+    "titolo": "Una casa per ricominciare",
+    "ente": "Regione Lombardia (Direzione Generale Famiglia)",
+    "oggetto": "Percorsi di autonomia abitativa per donne vittime di violenza e figli; include una componente di ricerca immobili idonei proposti da enti.",
+    "area_testo": "Contrasto violenza di genere / housing sociale",
+    "regioni": [
+      "Lombardia"
+    ],
+    "beneficiari": "Per la componente immobili: enti locali, enti religiosi e soggetti del terzo settore che propongono immobili idonei",
+    "importo": "1,5 milioni € complessivi (1,3 mln canoni/spese condominiali, 200.000 € gestori CAV/Case Rifugio)",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "manifestazione di interesse per proposta immobili descritta come 'sempre aperta'; le finestre di candidatura principali (10/04/2026 e 11/05/2026) sono già scadute",
+    "giorni": null,
+    "checklist": "Allegato A1 firmato dal legale rappresentante, invio via PEC",
+    "note": "Ruolo dell'ente limitato alla segnalazione di immobili, non richiede elaborati tecnici complessi; stato non confermato ufficialmente",
+    "fonte": "CSV Lombardia",
+    "link": "https://www.nonseidasola.regione.lombardia.it/wps/portal/site/nonseidasola/DettaglioRedazionale/cosa-fa-regione/progetto-aler",
+    "tag": [
+      "famiglia",
+      "parita-di-genere",
+      "immobili-pubblici"
+    ],
+    "punteggio": 2,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Misura molto specifica (segnalazione immobili per housing sociale), non richiede redazione di elaborati tecnico-amministrativi complessi.",
+    "aggiornato_il": "2026-11-03"
+  },
+  {
+    "id": "rigenerazioni-disagio-giovanile",
+    "titolo": "RiGenerazioni — Bando per contrastare il disagio giovanile",
+    "ente": "Ministero per lo Sport e i Giovani",
+    "oggetto": "Programma strategico di contrasto al disagio giovanile, affine al programma 'Fabbrica — Spazi Civici per la Gioventù'.",
+    "area_testo": "Giovani / disagio sociale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Non specificato nell'estratto",
+    "importo": "Non indicato (l'articolo su Fabbrica cita oltre 50 mln complessivi tra Fabbrica e RiGenerazioni)",
+    "stato": "chiuso",
+    "scadenza": "2026-01-09",
+    "scadenza_testo": "9 gennaio 2026 ore 16:00",
+    "giorni": null,
+    "checklist": "",
+    "note": "Stesso programma ministeriale di 'Fabbrica'; verificare se è prevista una nuova edizione collegata",
+    "fonte": "CSV dei Due Mari (Reggio Calabria)",
+    "link": "https://www.csvrc.it/2025/12/rigenerazioni-bando-per-contrastare-il-disagio-giovanile/",
+    "tag": [
+      "giovani",
+      "poverta-marginalita"
+    ],
+    "punteggio": 2,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-11-03"
+  },
+  {
+    "id": "valdese-8x1000-2026",
+    "titolo": "Bando 2026 Otto per Mille Chiesa Valdese",
+    "ente": "Chiesa Evangelica Valdese (Unione delle Chiese Metodiste e Valdesi)",
+    "oggetto": "Finanziamento progetti sociali/umanitari tramite fondi Otto per Mille della Chiesa Valdese.",
+    "area_testo": "Terzo settore generico",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Non specificato nell'estratto",
+    "importo": "Non indicato",
+    "stato": "chiuso",
+    "scadenza": "2026-01-30",
+    "scadenza_testo": "30 gennaio 2026 ore 11:59",
+    "giorni": null,
+    "checklist": "",
+    "note": "Bando annuale ricorrente; verificare apertura edizione 2027 (tipicamente autunno/inverno)",
+    "fonte": "CSV dei Due Mari (Reggio Calabria)",
+    "link": "https://www.csvrc.it/2025/12/bando-2026-otto-per-mille-chiesa-valdese/",
+    "tag": [
+      "terzo-settore-generico",
+      "poverta-marginalita"
+    ],
+    "punteggio": 2,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-11-03"
+  },
+  {
+    "id": "emilia-disabilita-visiva-2026",
+    "titolo": "Bando per il finanziamento di progetti a favore di persone con disabilità visiva — Fondo sociale regionale, annualità 2026 (DGR n. 1294/2026)",
+    "ente": "Regione Emilia-Romagna",
+    "oggetto": "Finanziamento progetti per autonomia personale e vita indipendente di persone cieche/ipovedenti (orientamento e mobilità, ausili, inclusione scolastica/lavorativa, attività accessibili).",
+    "area_testo": "Disabilità",
+    "regioni": [
+      "Emilia-Romagna"
+    ],
+    "beneficiari": "Organizzazioni di volontariato, associazioni di promozione sociale e altri enti del terzo settore con sede in regione, iscritti al RUNTS",
+    "importo": "380.000 € totali; contributo regionale fino al 90% di progetti di almeno 50.000 €",
+    "stato": "chiuso",
+    "scadenza": "2026-09-23",
+    "scadenza_testo": "23 settembre 2026 ore 13:00",
+    "giorni": null,
+    "checklist": "",
+    "note": "Link ricostruito da articolo di stampa; verificare l'URL esatto sul sito regionale",
+    "fonte": "Regione Emilia-Romagna — Bandi Welfare/Terzo Settore",
+    "link": "https://sociale.regione.emilia-romagna.it/leggi-atti-bandi/bandi/2026/bando-per-il-finanziamento-di-progetti-a-favore-di-persone-con-disabilita-visiva-fondo-sociale-regionale-annualita-2026-dgr-n-1294-2026",
+    "tag": [
+      "disabilita",
+      "istruzione-formazione"
+    ],
+    "punteggio": 3,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-11-03"
+  },
+  {
+    "id": "piemonte-piani-integrati-welfare",
+    "titolo": "Piani integrati di welfare per la vita e il lavoro",
+    "ente": "Regione Piemonte",
+    "oggetto": "Da verificare — pagina di dettaglio bloccata da robots.txt per i tool di fetch statico disponibili in questo ciclo; titolo e presenza nel filtro 'Terzo Settore + Aperto' confermati solo da indicizzazione motore di ricerca.",
+    "area_testo": "Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "non verificabile in questo ciclo",
+    "importo": "non verificabile in questo ciclo",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "non verificabile — pagina di dettaglio inaccessibile (robots.txt)",
+    "giorni": null,
+    "checklist": "Accedere con browser con rendering completo per completare i dati",
+    "note": "Da completare in un prossimo ciclo con navigazione browser (il portale Piemonte ha già altri 14 bandi tracciati con dati parziali dallo stesso motivo)",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/contributi-finanziamenti/piani-integrati-welfare-vita-lavoro",
+    "tag": [
+      "terzo-settore-generico"
+    ],
+    "punteggio": 2,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-11-03"
+  },
+  {
+    "id": "lazio-comunita-solidali-2026",
+    "titolo": "Comunità Solidali 2026",
+    "ente": "Regione Lazio (Accordo di Programma con Min. Lavoro)",
+    "oggetto": "Finanziamento di progetti di rilevanza locale per coesione sociale, inclusione e partecipazione attiva.",
+    "area_testo": "Lazio",
+    "regioni": [
+      "Lazio"
+    ],
+    "beneficiari": "OdV, APS e Fondazioni del Terzo Settore con sede legale nel Lazio, iscritte al RUNTS (Comuni esclusi come beneficiari diretti)",
+    "importo": "Dotazione 1.735.698 euro (poi incrementata con atto successivo)",
+    "stato": "chiuso",
+    "scadenza": "2026-03-06",
+    "scadenza_testo": "scadenza 6 marzo 2026 ore 12:00, procedura in fase di valutazione/istruttoria",
+    "giorni": null,
+    "checklist": "",
+    "note": "Ottimo fit tipologico (OdV/APS/Fondazioni RUNTS Lazio); monitorare l'apertura di 'Comunità Solidali 2027' sulla piattaforma DOMINO (bandiavvisi.regione.lazio.it)",
+    "fonte": "Regione Lazio (bandiavvisi.regione.lazio.it)",
+    "link": "https://regione.lazio.it/cittadini/sociale-famiglie/comunita-solidali/comunita-solidali-2026",
+    "tag": [
+      "terzo-settore-generico",
+      "volontariato",
+      "poverta-marginalita"
+    ],
+    "punteggio": 2,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-11-03"
   }
 ]

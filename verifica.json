@@ -1,173 +1,52 @@
 {
-  "ultima_verifica": "2026-11-01T09:30:00+00:00",
+  "ultima_verifica": "2026-11-03T10:45:00+00:00",
   "fonti_saltate": [
     {
+      "id": "regione-basilicata-portale-bandi",
+      "motivo": "robots_disallowed sia su root che su /portale/; non accessibile con i tool di fetch statico disponibili in questo ciclo. Da riprovare con navigazione browser in un prossimo ciclo."
+    },
+    {
+      "id": "mase-comuni-efficientamento",
+      "motivo": "client_error persistente su più tentativi, pagina irraggiungibile con gli strumenti disponibili."
+    },
+    {
+      "id": "mase-bandi-avvisi",
+      "motivo": "client_error persistente su più tentativi, pagina irraggiungibile con gli strumenti disponibili."
+    },
+    {
+      "id": "mit-fondo-piccoli-comuni",
+      "motivo": "robots_disallowed; nessun accesso via browser disponibile in questo ciclo."
+    },
+    {
+      "id": "mic-portalebandidgcc",
+      "motivo": "Richiede autenticazione SPID/CIE, non accessibile in modo automatizzato."
+    },
+    {
       "id": "scelgoilserviziocivile-bando",
-      "motivo": "Non ricontrollata in questo ciclo; bando già tracciato (scu-filoneautofinanziato-3767posti) con scadenza nota 06/11/2026, in area alert scadenze critiche."
+      "motivo": "Pagina ufficiale bloccata da robots.txt per i tool disponibili; dato sulla scadenza (06/11/2026, bando già tracciato) confermato comunque tramite ricerca web esterna."
     },
     {
       "id": "europaconcorsi",
       "motivo": "Richiede sessione autenticata, non disponibile in questo ciclo."
     },
     {
-      "id": "fondazionedisardegna-bandi",
-      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
-    },
-    {
-      "id": "fondazione-carisal",
-      "motivo": "Non ricontrollata in questo ciclo (verificata il 31/10/2026: nessun bando aperto, cadenza tipica maggio-luglio)."
-    },
-    {
-      "id": "ministeroturismo-enti-territoriali",
-      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
-    },
-    {
-      "id": "mit-fondo-piccoli-comuni",
-      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
-    },
-    {
-      "id": "invitalia-per-le-pa",
-      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
-    },
-    {
-      "id": "gse-servizi-pa",
-      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
-    },
-    {
-      "id": "politichegiovanili-avvisi",
-      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
-    },
-    {
-      "id": "sportesalute-bandi",
-      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
-    },
-    {
-      "id": "pnrr-istruzione-avvisi",
-      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
-    },
-    {
-      "id": "mic-bandi-concorsi",
-      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
-    },
-    {
-      "id": "mic-avvisi",
-      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
-    },
-    {
-      "id": "lavoro-terzosettore",
-      "motivo": "Non ricontrollata in questo ciclo per priorità di tempo."
-    },
-    {
-      "id": "disabilita.governo.it",
-      "motivo": "Verificata via browser in questo ciclo: pagina accessibile, nessun nuovo avviso oltre quelli già tracciati."
-    },
-    {
-      "id": "famiglia.governo.it",
-      "motivo": "Verificata via browser: una pagina 'Attività educative e ricreative formali e non formali dei Comuni - Nuovo Avviso 2026' individuata ma contiene solo testo segnaposto (Lorem Ipsum); da ricontrollare quando sarà popolata con contenuti reali."
-    },
-    {
-      "id": "pariopportunita.gov.it",
-      "motivo": "Verificata via browser in questo ciclo: nessun nuovo avviso rilevante."
-    },
-    {
-      "id": "funzionepubblica.gov.it",
-      "motivo": "Verificata via browser: nessun portale bandi strutturato individuato, esito non conclusivo."
-    },
-    {
       "id": "anci.it",
-      "motivo": "Verificata via browser: nessun portale bandi strutturato individuato per il profilo del committente."
-    },
-    {
-      "id": "bandi.regione.marche.it",
-      "motivo": "Verificata via browser: il portale restituisce una risposta stub ('ok') anche con rendering completo — sorgente non funzionante, non un falso bloccaggio JS/robots."
-    },
-    {
-      "id": "regione.veneto.it",
-      "motivo": "Verificato via browser: individuato il portale reale bandi.regione.veneto.it/Public/Elenco (245 risultati, permalink reali tramite Dettaglio?idAtto=N), ma filtri di ricerca poco efficaci; estrazione sistematica dei bandi ETS non completata in questo ciclo, da riprendere nel prossimo ciclo con ricerca per parola chiave sui singoli idAtto."
-    },
-    {
-      "id": "protezionecivile.gov.it",
-      "motivo": "Non raggiunta in questo ciclo supplementare per priorità di tempo."
-    },
-    {
-      "id": "regione.abruzzo.it-contributi-finanziamenti-sociale",
-      "motivo": "Non raggiunta in questo ciclo supplementare per priorità di tempo."
+      "motivo": "robots_disallowed su root e sottosezioni tentate (fonte non in catalogo ufficiale, tentativo supplementare)."
     }
   ],
   "nuovi": [
-    {
-      "id": "emilia-disabilita-uditiva-2027-29",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "lazio-costruirefuturo-odontoiatria2026",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "lazio-sovraindebitamento-usura-art2",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "lazio-sovraindebitamento-usura-art5-7",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "piemonte-hub-territoriali-detenzione",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "piemonte-bullismo-cyberbullismo-2026-27",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "piemonte-santuari-animali",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "piemonte-violenza-assistita-minori-az5",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "piemonte-violenza-genere-scuole-az3",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "piemonte-violenza-genere-sensibilizzazione-az4",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "piemonte-donne-vittime-violenza-lavoro-az1",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "piemonte-donne-vittime-violenza-orientamento",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "piemonte-servizio-civile-regionale-4ed-2027",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "piemonte-sportelli-ascolto-detenzione",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "piemonte-residenzialita-detenzione",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "piemonte-cittadinanza-globale-2026",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "piemonte-cornodafrica-kenya-2026",
-      "dal": "2026-11-01"
-    },
-    {
-      "id": "piemonte-usura-estorsione-sovraindebitamento-2026-27",
-      "dal": "2026-11-01"
-    }
+    { "id": "otto-per-mille-induista-2026", "dal": "2026-11-03" },
+    { "id": "progetti-transfrontalieri-alfabetizzazione-mediatica", "dal": "2026-11-03" },
+    { "id": "masaf-valorizzazione-agroalimentare-2026", "dal": "2026-11-03" },
+    { "id": "cerv-2026-char-liti", "dal": "2026-11-03" },
+    { "id": "pppa-2026-social-economy-tourism", "dal": "2026-11-03" },
+    { "id": "lombardia-una-casa-per-ricominciare", "dal": "2026-11-03" },
+    { "id": "rigenerazioni-disagio-giovanile", "dal": "2026-11-03" },
+    { "id": "valdese-8x1000-2026", "dal": "2026-11-03" },
+    { "id": "emilia-disabilita-visiva-2026", "dal": "2026-11-03" },
+    { "id": "piemonte-piani-integrati-welfare", "dal": "2026-11-03" },
+    { "id": "lazio-comunita-solidali-2026", "dal": "2026-11-03" }
   ],
   "chiusi": [],
-  "note_ciclo": "Ciclo supplementare di scansione approfondita, richiesto esplicitamente dall'utente in chat ('Fai una nuova scansione di fonti, più approfondita utilizzando anche il browser'), distinto dal ciclo automatico regolare SEZIONE A già eseguito in data odierna. Utilizzati gli strumenti di navigazione browser (built-in Claude_Browser) per superare i limiti del fetch statico su diverse fonti storicamente classificate come bloccate da JS/robots.txt. Risultato principale: molte di queste fonti si sono rivelate pienamente accessibili via browser (csv-lombardia, regione-lombardia-bandi-terzo-settore, fondazione-cariplo-bandi, regione-emiliaromagna-sociale-bandi, regione-sicilia-bandi, disabilita.governo.it, famiglia.governo.it, pariopportunita.gov.it) — nessuna era realmente inaccessibile, solo bloccata per il metodo di fetch statico in uso nei cicli automatici. Scoperte di rilievo: individuato il portale reale bandi.regione.piemonte.it con pattern di filtro URL funzionante (field_target_target_id=4 per Terzo Settore, field_stato_target_id=19 per Aperto) che ha rivelato 34 bandi aperti rivolti al Terzo Settore, di cui 14 aggiunti come voci con dati parziali (titolo/ente/stato confermati, scadenza e importo da verificare nel dettaglio — non estraibili dalla vista elenco per limiti del rendering JS delle card); individuato il portale reale delle sovvenzioni della Regione Lazio (bandiavvisi.regione.lazio.it, 100 avvisi, piattaforma DOMINO) distinto dalla pagina generale di soli appalti, con 3 nuovi avvisi aperti aggiunti; individuato il portale reale della Regione Veneto (bandi.regione.veneto.it/Public/Elenco, 245 risultati con permalink reali) non ancora sfruttato sistematicamente per mancanza di tempo; confermato che bandi.regione.marche.it è genuinamente non funzionante (risponde 'ok' anche con rendering completo) e che portalebandidgcc.cultura.gov.it richiede autenticazione SPID/CIE (non è un blocco robots.txt). Aggiunta 1 nuova voce da Regione Emilia-Romagna (disabilità uditiva, triennio 2027-2029). Nessun bando chiuso in questo ciclo supplementare (le chiusure sono già state gestite nel ciclo regolare SEZIONE A dello stesso giorno). Aspetti non completati per priorità di tempo: dettagli completi (scadenza/importo) dei 14 bandi Piemonte, sfruttamento sistematico del portale Veneto, verifica di protezionecivile.gov.it e della sezione sociale di regione.abruzzo.it, discrepanza di stato non risolta sul bando 'cariplo-veicolo' (il sito lo mostra 'ATTIVO' ma è tracciato come chiuso — bando a bassa pertinenza, non prioritario). Si raccomanda che SEZIONE B (ricerca nuove fonti) in un prossimo ciclo aggiorni formalmente fonti.json con questi URL reali scoperti e con la riclassificazione delle fonti risultate accessibili via browser."
+  "note_ciclo": "Scansione completa di tutte le 6 fonti principali e le 27 fonti aggiuntive di fonti.json, eseguita in parallelo tramite subagent dedicati per gruppi di fonti. Infobandi CSVnet scansionata per intero (4 pagine, 37 bandi attivi totali). Effettuata anche ricerca web mirata PNRR/statale/fondazioni bancarie (oltre 20 query). Sui 90 bandi complessivamente riportati dai subagent, 62 sono risultati duplicati di bandi già tracciati (nessuna modifica necessaria in 59 casi; in 3 casi applicato un aggiornamento: 'Cultura Missione Comune 2026' riaperto per proroga al 05/12/2026, 'ZMINA-Resilience' aggiornato alla finestra sportello più vicina 14/12/2026, 'Internet Freedom Fund' completato con la prossima finestra bimestrale 01/01/2027); 11 bandi sono risultati genuinamente nuovi e sono stati aggiunti al database. Esclusi 2 bandi per incompatibilità di forma giuridica del beneficiario (Incentivo filiera del libro: beneficiari = imprese editoriali; Bando potenziamento ricerca nei Comuni: beneficiario reale = istituti di ricerca, già chiuso). Portale bandi.regione.piemonte.it (filtro Terzo Settore + Aperto) resta parzialmente inesplorato: il filtro segnala bandi aperti ma le pagine di dettaglio sono bloccate da robots.txt per il fetch statico — servirebbe una navigazione con browser reale per completare scadenze/importi dei bandi già tracciati con dati parziali e dei 2 bandi aggiuntivi individuati con dati incompleti in questo ciclo. SEZIONE B (ricerca nuove fonti) e SEZIONE C (manutenzione vocabolario) non eseguite in questo ciclo: soglia dei 14 giorni non raggiunta (ultima_ricerca_fonti 26/10/2026, 8 giorni; ultima_manutenzione_vocabolario 23/10/2026, 11 giorni)."
 }
