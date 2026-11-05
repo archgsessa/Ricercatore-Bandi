@@ -298,6 +298,60 @@
       "regione": "Campania",
       "note": "Confermata via browser diretto (31/10/2026): dominio corretto e distinto da 'Fondazione della Comunita' Salernitana'. Cadenza annuale tipica maggio-luglio; nessun bando aperto al momento della verifica.",
       "data_integrazione": "2026-10-31"
+    },
+    {
+      "id": "fondazione-banco-napoli",
+      "nome": "Fondazione Banco di Napoli",
+      "url": "https://www.fondazionebanconapoli.it/?page_id=11388",
+      "categoria": "fondazione-bancaria-terzo-settore",
+      "regione": "Campania",
+      "note": "Verificata 05/11/2026. Sezione 'Contributi' con più avvisi attivi/recenti in parallelo: Avviso Straordinario 2026 'SUDdiVISIONI' (piattaforma Chàiros), Avviso n.2/2025 (assistenza/beneficenza/volontariato, educazione/istruzione/formazione), Contributi a sportello sempre apribili, Avviso n.1/2024. Fondazione di origine bancaria, sede Napoli, aree di intervento compatibili con ETS/associazioni. Da verificare manualmente nel PDF dei singoli avvisi l'elenco esatto dei soggetti ammissibili prima del primo utilizzo operativo.",
+      "data_integrazione": "2026-11-05"
+    },
+    {
+      "id": "csv-napoli-bandi",
+      "nome": "CSV Napoli - Centro Servizi Volontariato Napoli (sezione Bandi e opportunità)",
+      "url": "https://www.csvnapoli.it/category/progettazione/bandi/",
+      "categoria": "csv-regionale",
+      "regione": "Campania",
+      "note": "Verificata 05/11/2026, pagina aggiornata lo stesso giorno. Oltre 6 bandi/avvisi attivi o recenti con scadenze precise (es. FQTS 2028-2030 scad. 19/11/2026; Polaris+ scad. 21/01/2027; Rai per il sociale; Lo Sport è vita). Beneficiari espliciti: ETS iscritti RUNTS, organizzazioni non profit. CSV provinciale di Napoli, distinto da csvsalerno.it già a catalogo.",
+      "data_integrazione": "2026-11-05"
+    },
+    {
+      "id": "cciaa-napoli-crescita-impresa",
+      "nome": "Camera di Commercio di Napoli - sezione Crescita dell'impresa / Bandi",
+      "url": "https://www.na.camcom.gov.it/crescita-dellimpresa",
+      "categoria": "camera-commercio",
+      "regione": "Campania",
+      "note": "Verificata 05/11/2026. La maggior parte dei bandi elencati è per imprese (da ignorare). Due bandi compatibili col profilo cliente, ricorrenti annualmente: 'Bando a sportello per i Comuni della Provincia di Napoli' (beneficiari: Comuni) e 'Bando Associazionismo' (associazioni di categoria/sindacali, stanziamento 3 milioni euro). Monitorare filtrando solo questi due bandi.",
+      "data_integrazione": "2026-11-05"
+    },
+    {
+      "id": "fondazione-comunita-salernitana",
+      "nome": "Fondazione della Comunità Salernitana ETS",
+      "url": "https://www.fondazionecomunitasalernitana.it/wpnew/avvisi/",
+      "categoria": "fondazione-bancaria-terzo-settore",
+      "regione": "Campania",
+      "note": "Verificata con browser il 05/11/2026 (spostata da fonti_da_verificare_manualmente: integrazione confermata). Pubblica avvisi pubblici annuali di co-progettazione rivolti esplicitamente ad 'associazioni ed enti locali' (comuni): Avviso 1/24 (11 progetti selezionati) e Avviso 1/25 (13 progetti selezionati); beneficiari effettivi includono cooperative sociali, APS, ODV, ASD, ETS. Sito attivo (notizie fino a giugno 2026). Nessun Avviso 1/26 pubblicato al 05/11/2026: monitorare per la prossima edizione (pattern annuale).",
+      "data_integrazione": "2026-11-05"
+    },
+    {
+      "id": "fondazione-crt",
+      "nome": "Fondazione CRT",
+      "url": "https://www.fondazionecrt.it/progetti-e-bandi/",
+      "categoria": "fondazione-bancaria-terzo-settore",
+      "regione": "Piemonte",
+      "note": "Verificata 05/11/2026, aggiornata (ultima modifica 19/12/2025, programmazione 2026 pubblicata). Fondazione bancaria con competenza su Piemonte e Valle d'Aosta. Bandi verificati: 'Bando Piccoli Comuni – cantieri per l'ambiente e il territorio 2026' (comuni <5.000 ab., partner ETS), 'Legàmi in Comune' (comuni capofila + ETS partner obbligatorio, max 60.000€), 'Bando Ordinarie 2026' (enti non profit, due finestre annuali). Scadenze 2026 già chiuse al 05/11/2026 ma programmazione annuale regolare: fonte da monitorare con continuità per le edizioni successive.",
+      "data_integrazione": "2026-11-05"
+    },
+    {
+      "id": "compagnia-san-paolo",
+      "nome": "Compagnia di San Paolo – sezione Contributi/Bandi",
+      "url": "https://www.compagniadisanpaolo.it/it/cosa-facciamo/contributi/",
+      "categoria": "fondazione-bancaria-terzo-settore",
+      "regione": "Piemonte",
+      "note": "Verificata 05/11/2026, pagina aggiornata (modifica 09/03/2026). Fondazione bancaria con sede a Torino, competenza su Piemonte e Liguria. 6 bandi attivi con scadenze fino al 2027-2029 (es. 'Bando IA nell'economia sociale' per ETS, scad. 18/12/2026; 'Festival partecipativi 2027', scad. 05/04/2027; 'Alleanze ad alta intensità educativa', scad. 30/06/2029). Beneficiari compatibili: enti del terzo settore, enti pubblici locali, associazioni secondo i singoli bandi tematici.",
+      "data_integrazione": "2026-11-05"
     }
   ],
   "rotazione_regioni": {
@@ -323,11 +377,11 @@
       "Valle d'Aosta",
       "Veneto"
     ],
-    "prossimo_indice": 10,
-    "ultima_regione_controllata": "Marche",
-    "ultima_esecuzione": "2026-10-23"
+    "prossimo_indice": 13,
+    "ultima_regione_controllata": "Puglia",
+    "ultima_esecuzione": "2026-11-05"
   },
-  "ultima_ricerca_fonti": "2026-10-26",
+  "ultima_ricerca_fonti": "2026-11-05",
   "ultima_manutenzione_vocabolario": "2026-10-23",
   "fonti_da_verificare_manualmente": [
     {
@@ -383,12 +437,22 @@
     {
       "nome": "GAL Casacastra (entroterra salernitano — Colline Salernitane)",
       "url": "https://www.galcasacastra.it/bandi/",
-      "motivo": "Verificata (31/10/2026): pagina bandi raggiungibile ma zero bandi attivi al momento ('Nessun bando trovato'); ultimo avviso pubblicato 23/04/2026 (progetto Casematte, 'in fase di aggiornamento'). Non soddisfa i criteri di attività/aggiornamento per l'integrazione ora; da riverificare periodicamente, copre l'entroterra salernitano."
+      "motivo": "Verificata (31/10/2026): pagina bandi raggiungibile ma zero bandi attivi al momento ('Nessun bando trovato'); ultimo avviso pubblicato 23/04/2026 (progetto Casematte, 'in fase di aggiornamento'). Non soddisfa i criteri di attività/aggiornamento per l'integrazione ora; da riverificare periodicamente, copre l'entroterra salernitano. AGGIORNAMENTO 05/11/2026: riverificato, ancora 'Nessun bando trovato per i filtri selezionati'. Sito mantenuto (copyright 2026) ma sezione bandi resta vuota."
     },
     {
-      "nome": "Fondazione della Comunità Salernitana",
-      "url": "https://www.fondazionecomunitasalernitana.it",
-      "motivo": "Entita' distinta da Fondazione Carisal (in precedenza erroneamente confusa con essa): verificare con browser diretto se pubblica bandi propri per ETS/comuni della provincia di Salerno."
+      "nome": "Camera di Commercio Salerno",
+      "url": "https://www.sa.camcom.it",
+      "motivo": "Verificata 05/11/2026: dai risultati di ricerca emergono solo bandi per imprese (voucher turismo, PID, B2B/B2C). Nessuna sezione con bandi per associazioni/comuni individuata finora, a differenza della omologa di Napoli. Sito navigabile, nessun blocco anti-bot riscontrato: da verificare manualmente con più tempo controllando l'intera sezione bandi."
+    },
+    {
+      "nome": "CSV Caserta / CSV Terra di Lavoro",
+      "url": "",
+      "motivo": "Nessun sito/portale dedicato individuato tramite ricerca web (05/11/2026); potrebbe non esistere come CSV autonomo (rete CSV Campania potrebbe essere organizzata diversamente, es. CSV Napoli che copre anche Caserta). Da verificare manualmente contattando CSVnet Campania."
+    },
+    {
+      "nome": "Fondazione Banca Popolare di Puglia e Basilicata ETS (Fondazione BPPB)",
+      "url": "",
+      "motivo": "Verificato 05/11/2026: neo-fondazione ETS (statuto pubblicato marzo 2025, sede Altamura), potenzialmente erogabile a comuni/associazioni in base allo statuto, ma nessun bando pubblico attivo né attività erogativa documentata al momento. Non integrata per mancanza dei criteri (bandi attivi, scadenze). Riconsiderare in un ciclo futuro di rotazione su Puglia se inizierà a pubblicare bandi."
     }
   ],
   "fonti_scartate_non_riproporre": [
@@ -455,7 +519,7 @@
     {
       "nome": "Puglia",
       "url": null,
-      "motivo": "Nessun portale bandi terzo settore/enti locali centralizzato individuato dopo piu' ricerche."
+      "motivo": "Nessun portale bandi terzo settore/enti locali centralizzato individuato dopo piu' ricerche. RICONFERMATO 05/11/2026 con query diversificate nuove (CCIAA, GAL, fondazioni comunitarie, portale Galattica): nessun portale centralizzato trovato. Vedi fonti_da_verificare_manualmente per Fondazione BPPB ETS come possibile sviluppo futuro."
     },
     {
       "nome": "Toscana",
@@ -471,6 +535,26 @@
       "nome": "Provincia di Salerno",
       "url": "https://www.provincia.salerno.it",
       "motivo": "Verificata con browser diretto (31/10/2026): nessuna sezione bandi/contributi per comuni o ETS; solo bandi di gara e concorsi per personale interno."
+    },
+    {
+      "nome": "Molise",
+      "url": "",
+      "motivo": "Verificato 05/11/2026: nessun portale bandi terzo settore/enti locali centralizzato individuato per il Molise (Regione Molise 'Molise in Europa' solo bandi impresa/COVID chiusi; CCIAA Molise solo bandi MPMI; GAL molisani nessun avviso ETS; nessuna fondazione bancaria locale con bandi attivi; CSV Molise non individuato)."
+    },
+    {
+      "nome": "Camera di Commercio Irpinia-Sannio (Avellino-Benevento)",
+      "url": "https://www.irpiniasannio.camcom.it/bandi",
+      "motivo": "Verificata 05/11/2026: pagina aggiornata con bandi 2026 attivi, ma tutti rivolti a imprese (voucher turismo/fieristico/doppia transizione). Nessun bando per comuni/ETS/associazioni individuato. Riverificare in futuro se compaiono bandi 'comuni'/'associazionismo' analoghi a quelli della CCIAA di Napoli."
+    },
+    {
+      "nome": "GAL Cilento",
+      "url": "https://www.galcilento.it/bandi/",
+      "motivo": "Verificata 05/11/2026: bandi attivi ma rivolti ad attività artigianali/turismo esperienziale (Dieta Mediterranea), beneficiari tipici micro-imprese/artigiani, non comuni/ETS/associazioni."
+    },
+    {
+      "nome": "Diocesi di Salerno-Campagna-Acerno / Caritas diocesana",
+      "url": "https://www.diocesisalerno.it",
+      "motivo": "Verificata 05/11/2026: trovati solo documenti su contributi CEI/8xmille rivolti alle parrocchie interne alla diocesi per restauri/attività pastorali, non bandi aperti a comuni/ETS/associazioni esterne."
     }
   ]
 }
