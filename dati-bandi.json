@@ -7069,11 +7069,11 @@
       "Piemonte"
     ],
     "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
-    "importo": "Da verificare",
+    "importo": "€ 157.537,38 (quota FESR per arredi/beni strumentali dei 4 Hub territoriali; risorse aggiuntive FSE+ non ulteriormente quantificate)",
     "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
-    "giorni": null,
+    "scadenza": "2026-11-16",
+    "scadenza_testo": "16/11/2026 ore 12:00 (domande dal 15/10/2026)",
+    "giorni": 11,
     "checklist": [
       "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
     ],
@@ -7087,7 +7087,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
-    "aggiornato_il": "2026-11-01"
+    "aggiornato_il": "2026-11-05"
   },
   {
     "id": "piemonte-bullismo-cyberbullismo-2026-27",
@@ -7101,9 +7101,9 @@
     "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
     "importo": "Da verificare",
     "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
-    "giorni": null,
+    "scadenza": "2026-11-19",
+    "scadenza_testo": "19/11/2026 ore 12:00 (domande dal 29/10/2026)",
+    "giorni": 14,
     "checklist": [
       "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
     ],
@@ -7117,7 +7117,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
-    "aggiornato_il": "2026-11-01"
+    "aggiornato_il": "2026-11-05"
   },
   {
     "id": "piemonte-santuari-animali",
@@ -7131,13 +7131,13 @@
     "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
     "importo": "Da verificare",
     "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
-    "giorni": null,
+    "scadenza": "2026-12-01",
+    "scadenza_testo": "01/12/2026 ore 12:00 (domande dal 29/10/2026)",
+    "giorni": 26,
     "checklist": [
       "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
     ],
-    "note": "Individuato tramite filtro browser 'Rivolto a: Terzo settore' + 'Stato: Aperto' sul portale bandi.regione.piemonte.it (34 risultati totali in questo filtro; in precedenza il portale risultava non estraibile via fetch statico). Dati di scadenza e importo non visibili nella vista elenco: richiede apertura della pagina di dettaglio, non effettuata in questo ciclo per limiti di tempo.",
+    "note": "Individuato tramite filtro browser 'Rivolto a: Terzo settore' + 'Stato: Aperto' sul portale bandi.regione.piemonte.it (34 risultati totali in questo filtro; in precedenza il portale risultava non estraibile via fetch statico). Dati di scadenza e importo non visibili nella vista elenco: richiede apertura della pagina di dettaglio, non effettuata in questo ciclo per limiti di tempo. Confermato: bando destinato ai Comuni piemontesi in cui hanno sede santuari per animali (L.R. 16/2024 art. 31).",
     "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
     "link": "https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19",
     "tag": [
@@ -7147,7 +7147,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
-    "aggiornato_il": "2026-11-01"
+    "aggiornato_il": "2026-11-05"
   },
   {
     "id": "piemonte-violenza-assistita-minori-az5",
@@ -7309,11 +7309,11 @@
       "Piemonte"
     ],
     "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
-    "importo": "Da verificare",
+    "importo": "€ 222.940,00 complessivi",
     "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
-    "giorni": null,
+    "scadenza": "2026-11-16",
+    "scadenza_testo": "16/11/2026 ore 12:00 (domande dal 19/10/2026)",
+    "giorni": 11,
     "checklist": [
       "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
     ],
@@ -7327,7 +7327,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
-    "aggiornato_il": "2026-11-01"
+    "aggiornato_il": "2026-11-05"
   },
   {
     "id": "piemonte-sportelli-ascolto-detenzione",
@@ -7459,11 +7459,11 @@
       "Piemonte"
     ],
     "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
-    "importo": "Da verificare",
+    "importo": "Misura A: € 1.200,00 a fondo perduto per OCC (in 2 acconti da € 600)",
     "stato": "aperto",
-    "scadenza": null,
-    "scadenza_testo": "Non disponibile nella vista elenco — verificare scadenza sul dettaglio del portale",
-    "giorni": null,
+    "scadenza": "2027-12-31",
+    "scadenza_testo": "Bando a sportello continuativo dal 01/01/2026 al 31/12/2027",
+    "giorni": 421,
     "checklist": [
       "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
     ],
@@ -7477,7 +7477,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
-    "aggiornato_il": "2026-11-01"
+    "aggiornato_il": "2026-11-05"
   },
   {
     "id": "otto-per-mille-induista-2026",
@@ -7765,14 +7765,14 @@
     ],
     "beneficiari": "non verificabile in questo ciclo",
     "importo": "non verificabile in questo ciclo",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": null,
     "scadenza_testo": "non verificabile — pagina di dettaglio inaccessibile (robots.txt)",
     "giorni": null,
     "checklist": [
       "Accedere con browser con rendering completo per completare i dati"
     ],
-    "note": "Da completare in un prossimo ciclo con navigazione browser (il portale Piemonte ha già altri 14 bandi tracciati con dati parziali dallo stesso motivo)",
+    "note": "Da completare in un prossimo ciclo con navigazione browser (il portale Piemonte ha già altri 14 bandi tracciati con dati parziali dallo stesso motivo) Non più presente nell'elenco filtrato Terzo Settore/Aperto del portale Piemonte al 04-05/11/2026: probabilmente scaduto/rimosso. Segnalato invece di rimuovere il record.",
     "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
     "link": "https://bandi.regione.piemonte.it/contributi-finanziamenti/piani-integrati-welfare-vita-lavoro",
     "tag": [
@@ -7782,7 +7782,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-11-03"
+    "aggiornato_il": "2026-11-05"
   },
   {
     "id": "lazio-comunita-solidali-2026",
@@ -7813,5 +7813,1066 @@
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
     "aggiornato_il": "2026-11-03"
+  },
+  {
+    "id": "lavoro-avviso2-2026-terzosettore",
+    "titolo": "Avviso n. 2/2026 — Finanziamento di progetti e iniziative di rilevanza nazionale nel Terzo Settore",
+    "ente": "Ministero del Lavoro e delle Politiche Sociali",
+    "oggetto": "Finanziamento a valere sul fondo ex art. 72 D.Lgs. 117/2017 per progetti e iniziative di rilevanza nazionale promossi da enti del Terzo Settore per l'annualità 2026, tramite piattaforma 'Impact Call'.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "ODV, APS, reti associative, Fondazioni del Terzo Settore",
+    "importo": "€ 10.533.994,88 complessivi",
+    "stato": "chiuso",
+    "scadenza": "2026-10-22",
+    "scadenza_testo": "Scaduto il 22 ottobre 2026",
+    "checklist": [],
+    "note": "Bando già scaduto alla rilevazione; monitorare eventuale Avviso 3/2026 o 1/2027.",
+    "fonte": "Ministero del Lavoro — Terzo Settore",
+    "link": "https://lavoro.gov.it/documenti/avviso-2-2026",
+    "tag": [
+      "terzo-settore-generico",
+      "volontariato"
+    ],
+    "punteggio": 1,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Bando già scaduto; nessuna finestra attiva.",
+    "giorni": null,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "mic-incentivo-filieralibro2026",
+    "titolo": "Incentivo per la filiera del libro",
+    "ente": "Ministero della Cultura — Centro per il libro e la lettura (gestione Invitalia)",
+    "oggetto": "Sostegno a competitività, occupazione e innovazione delle imprese della filiera editoriale/libraria tramite digitalizzazione e qualificazione professionale.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Imprese della filiera editoriale/di produzione libraria",
+    "importo": "Oltre € 7.000.000",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Sportello aperto dal 4 novembre 2026, nessuna data di chiusura indicata",
+    "checklist": [],
+    "note": "Beneficiari sono imprese, non enti comunali/ETS/associazioni.",
+    "fonte": "Ministero della Cultura — Avvisi",
+    "link": "https://centroperillibro.cultura.gov.it/wp-content/uploads/2026/09/90944926Incentivo-per-la-filiera-del-libro_Avviso-pubblico-signed.pdf",
+    "tag": [
+      "musica-cultura",
+      "impresa-sociale"
+    ],
+    "punteggio": 1,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiari imprese editoriali, fuori dal profilo comuni/ETS/associazioni.",
+    "giorni": null,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "cds-beniconfiscati2026",
+    "titolo": "Iniziativa 2026 per la valorizzazione dei beni confiscati alle mafie",
+    "ente": "Fondazione con il Sud",
+    "oggetto": "Sostegno a interventi di valorizzazione di beni confiscati alle mafie (seconda annualità 2025-2027), con partenariati di almeno 3 organizzazioni (almeno 2 ETS) e possibile partner pubblico.",
+    "area_testo": "Basilicata, Calabria, Campania, Puglia, Sardegna, Sicilia",
+    "regioni": [
+      "Basilicata",
+      "Calabria",
+      "Campania",
+      "Puglia",
+      "Sardegna",
+      "Sicilia"
+    ],
+    "beneficiari": "Partenariati di almeno 3 organizzazioni (almeno 2 ETS); possibile partner pubblico/comune",
+    "importo": "€ 2.000.000 totali; max € 400.000 per progetto",
+    "stato": "aperto",
+    "scadenza": "2026-12-10",
+    "scadenza_testo": "10 dicembre 2026 (chiusura anticipata possibile per esaurimento risorse)",
+    "checklist": [
+      "Abstract preliminare (All. 1) a iniziative@fondazioneconilsud.it",
+      "Verifica requisiti ammissibilità",
+      "Progetto esecutivo con piano attività, costi, indicatori e sostenibilità (fase 2)"
+    ],
+    "note": "Procedura in due fasi: idea progettuale poi progetto esecutivo con supporto della Fondazione.",
+    "fonte": "Fondazione con il Sud — Bandi",
+    "link": "https://www.fondazioneconilsud.it/bandi/iniziativa-2026-per-la-valorizzazione-dei-beni-confiscati-alle-mafie/",
+    "tag": [
+      "beni-confiscati",
+      "rigenerazione-urbana",
+      "terzo-settore-generico",
+      "impresa-sociale"
+    ],
+    "punteggio": 5,
+    "ruolo": "Assistenza RUP/supporto tecnico-amministrativo",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Riguarda la Campania, partenariati multi-ente ETS+PA, fase di progettazione esecutiva assistita: ottimo fit.",
+    "giorni": 35,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "cds-volontariato2026",
+    "titolo": "Bando Volontariato 2026",
+    "ente": "Fondazione con il Sud",
+    "oggetto": "Sostegno alle attività ordinarie di organizzazioni di volontariato e associazioni di promozione sociale del Mezzogiorno.",
+    "area_testo": "Basilicata, Calabria, Campania, Molise, Puglia, Sardegna, Sicilia",
+    "regioni": [
+      "Basilicata",
+      "Calabria",
+      "Campania",
+      "Molise",
+      "Puglia",
+      "Sardegna",
+      "Sicilia"
+    ],
+    "beneficiari": "OdV e APS",
+    "importo": "€ 4.000.000 complessivi",
+    "stato": "chiuso",
+    "scadenza": "2026-09-30",
+    "scadenza_testo": "30 settembre 2026",
+    "checklist": [],
+    "note": "Ciclo 2026 chiuso; monitorare edizione 2027.",
+    "fonte": "Fondazione con il Sud — Bandi",
+    "link": "https://www.fondazioneconilsud.it/bandi/bando-volontariato-2026/",
+    "tag": [
+      "volontariato",
+      "terzo-settore-generico"
+    ],
+    "punteggio": 3,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Rilevante per OdV/APS della provincia di Salerno (area ammessa), ciclo attuale già chiuso.",
+    "giorni": null,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "fondcattolica-intrapresasociale2026",
+    "titolo": "Bando Intrapresa Sociale 2026",
+    "ente": "Fondazione Cattolica (Gruppo Cattolica Assicurazioni)",
+    "oggetto": "Sostegno a idee progettuali innovative e sostenibili che rispondono a bisogni sociali di persone/famiglie/comunità in condizioni di svantaggio, con obiettivo di autonomia economica e gestionale.",
+    "area_testo": "Nazionale (verificare ammissibilità per ETS campane)",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "ETS iscritti RUNTS, enti privati senza scopo di lucro, enti religiosi civilmente riconosciuti",
+    "importo": "Max € 30.000 per progetto, cofinanziamento 50% richiesto",
+    "stato": "aperto",
+    "scadenza": "2026-11-13",
+    "scadenza_testo": "13 novembre 2026, ore 12:00",
+    "checklist": [
+      "Colloquio telefonico preliminare obbligatorio con la Fondazione",
+      "Istruttoria completa per i proponenti ammessi"
+    ],
+    "note": "Richiede colloquio preliminare obbligatorio prima della domanda completa.",
+    "fonte": "CSV Lombardia (segnalazione bando Fondazione Cattolica)",
+    "link": "https://www.csvlombardia.it/milano/post/bando-intrapresa-sociale-2026/",
+    "tag": [
+      "impresa-sociale",
+      "poverta-marginalita",
+      "terzo-settore-generico"
+    ],
+    "punteggio": 4,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Verificare se ammesse ETS campane prima di proporsi ai clienti; scadenza ravvicinata.",
+    "giorni": 8,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "lom-fuoriclasse2026",
+    "titolo": "Bando Fuoriclasse — Percorsi di contrasto alla povertà educativa di minori e giovani",
+    "ente": "Regione Lombardia",
+    "oggetto": "Contrasto alla povertà educativa e all'esclusione sociale di minori/giovani di famiglie a basso reddito, tramite programmi educativi residenziali e culturali.",
+    "area_testo": "Regione Lombardia",
+    "regioni": [
+      "Lombardia"
+    ],
+    "beneficiari": "Ambiti territoriali sociali capofila, minori 9-21 anni ISEE max 20.000€",
+    "importo": "Max € 80.000 per progetto",
+    "stato": "aperto",
+    "scadenza": "2026-12-10",
+    "scadenza_testo": "10 dicembre 2026, ore 12:00",
+    "checklist": [],
+    "note": "Bando regionale lombardo, non direttamente operativo per enti di Salerno.",
+    "fonte": "CSV Lombardia",
+    "link": "https://www.csvlombardia.it/milano/post/bando-fuoriclasse-percorsi-di-contrasto-alla-poverta-educativa-di-minori-e-giovani/",
+    "tag": [
+      "poverta-educativa",
+      "dispersione-scolastica",
+      "giovani",
+      "famiglia"
+    ],
+    "punteggio": 2,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Territorialmente limitato alla Lombardia; incluso per completezza di monitoraggio.",
+    "giorni": 35,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "eic-premiodonneinnovatrici2027",
+    "titolo": "Premio Europeo per le Donne Innovatrici 2027",
+    "ente": "European Innovation Council (EIC) / EIT",
+    "oggetto": "Premio per donne fondatrici/co-fondatrici di aziende o organizzazioni con innovazioni rivoluzionarie in Europa.",
+    "area_testo": "UE e paesi associati Horizon Europe",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Donne founder/co-founder di aziende/organizzazioni costituite da almeno 2 anni",
+    "importo": "Non indicato",
+    "stato": "aperto",
+    "scadenza": "2026-12-01",
+    "scadenza_testo": "1 dicembre 2026",
+    "checklist": [
+      "Video motivazionale max 90 secondi"
+    ],
+    "note": "Premio individuale a persone fisiche/aziende, non un bando per redazione documentazione di un ente.",
+    "fonte": "CSV Salerno — Opportunità",
+    "link": "https://www.csvsalerno.it/all/servizi-per-ets/opportunita/2026/11/02/premio-europeo-per-le-donne-innovatrici/",
+    "tag": [
+      "parita-di-genere",
+      "impresa-sociale",
+      "giovani"
+    ],
+    "punteggio": 1,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Premio a persona fisica/azienda, non coerente col modello di servizio dello studio.",
+    "giorni": 26,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "carisal-restart2026-canneavento",
+    "titolo": "Restart 2026 — Premio \"Canne al Vento\"",
+    "ente": "Fondazione Carisal",
+    "oggetto": "Concorso per opere d'arte con materiali di recupero, rivolto a giovani artisti emergenti (progetto Restart 2026/Salerno Green Forum).",
+    "area_testo": "Campania",
+    "regioni": [
+      "Campania"
+    ],
+    "beneficiari": "Giovani artisti 16-25 anni residenti in Campania",
+    "importo": "Nessun premio monetario, esposizione dell'opera",
+    "stato": "chiuso",
+    "scadenza": "2026-10-16",
+    "scadenza_testo": "16 ottobre 2026, ore 18:00",
+    "checklist": [],
+    "note": "Concorso artistico individuale già chiuso.",
+    "fonte": "CSV Salerno — Opportunità",
+    "link": "https://www.csvsalerno.it/all/servizi-per-ets/opportunita/2026/08/03/restart-2026/",
+    "tag": [
+      "musica-cultura",
+      "giovani",
+      "ambiente-sostenibilita"
+    ],
+    "punteggio": 1,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Concorso individuale per artisti, non pertinente al modello di servizio dello studio.",
+    "giorni": null,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "unicredit-semidibene-milano2026",
+    "titolo": "Semi di bene",
+    "ente": "UniCredit S.p.A. e CSV Milano",
+    "oggetto": "Sostegno a 4 progetti di ETS con ricaduta sociale rilevante, operanti con volontari nella Città metropolitana di Milano.",
+    "area_testo": "Città metropolitana di Milano",
+    "regioni": [
+      "Lombardia"
+    ],
+    "beneficiari": "ETS RUNTS con sede nella Città metropolitana di Milano",
+    "importo": "Non indicato (contributo base + bonus crowdfunding)",
+    "stato": "aperto",
+    "scadenza": "2026-12-18",
+    "scadenza_testo": "18 dicembre 2026, ore 23:59",
+    "checklist": [
+      "Campagna di crowdfunding su IlMioDono per il bonus"
+    ],
+    "note": "Limitato territorialmente a Milano, non applicabile a clienti di Salerno.",
+    "fonte": "CSV Lombardia",
+    "link": "https://www.csvlombardia.it/milano/post/bando-semi-di-bene-2/",
+    "tag": [
+      "terzo-settore-generico",
+      "volontariato"
+    ],
+    "punteggio": 1,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Fuori ambito territoriale per lo studio; incluso per completezza.",
+    "giorni": 43,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "veneto-edilizia-scolastica-sportello-2026-27",
+    "titolo": "Interventi urgenti di edilizia scolastica 2026-2027 (L.R. 59/1999 art. 3-bis) — sportello",
+    "ente": "Regione Veneto — Unità Organizzativa Edilizia Pubblica",
+    "oggetto": "Procedura a sportello per interventi urgenti di edilizia scolastica di competenza dei Comuni o Istituzioni scolastiche paritarie non commerciali, 2026-2027, fino a esaurimento fondi.",
+    "area_testo": "Regione Veneto",
+    "regioni": [
+      "Veneto"
+    ],
+    "beneficiari": "Comuni; Istituzioni scolastiche paritarie non commerciali",
+    "importo": "Fondi regionali 2027, fino a esaurimento",
+    "stato": "aperto",
+    "scadenza": "2027-09-30",
+    "scadenza_testo": "30/09/2027 (domande dal 01/09/2026, a sportello)",
+    "checklist": [
+      "Dichiarazione RUP (Allegato I)",
+      "Modulo Comuni (Allegato B)",
+      "Dichiarazione numero alunni",
+      "Dichiarazione costo intervento",
+      "Dichiarazione urgenza"
+    ],
+    "note": "Richiede esplicitamente una Dichiarazione RUP tra gli allegati: ottimo fit per assistenza tecnico-amministrativa.",
+    "fonte": "Regione Veneto — Portale Bandi",
+    "link": "https://bandi.regione.veneto.it/Public/Dettaglio?idAtto=13304&fromPage=Elenco",
+    "tag": [
+      "edilizia-scolastica",
+      "pa-digitale"
+    ],
+    "punteggio": 4,
+    "ruolo": "Assistenza RUP/supporto tecnico-amministrativo",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "giorni": 329,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "veneto-fesr-aree-interne-culturali",
+    "titolo": "PR Veneto FESR 2021-2027 — Recupero e valorizzazione delle aree interne tramite interventi ad alto impatto culturale",
+    "ente": "Regione Veneto — Direzione Cultura",
+    "oggetto": "Azione 5.2.2 del PR FESR 2021-2027: interventi di recupero e valorizzazione culturale nei Comuni classificati aree interne del Veneto.",
+    "area_testo": "Regione Veneto — aree interne",
+    "regioni": [
+      "Veneto"
+    ],
+    "beneficiari": "Comuni compresi nell'elenco aree interne (Allegato A4)",
+    "importo": "€ 5.850.000,00",
+    "stato": "aperto",
+    "scadenza": "2026-11-05",
+    "scadenza_testo": "05/11/2026 ore 17:00",
+    "checklist": [
+      "Schema di strategia settoriale (A1)",
+      "Relazione tecnico-illustrativa (A2)",
+      "Verifica climatica (A3)"
+    ],
+    "note": "Scadenza praticamente già spirata; segnalato per completezza di monitoraggio.",
+    "fonte": "Regione Veneto — Portale Bandi",
+    "link": "https://bandi.regione.veneto.it/Public/Dettaglio?idAtto=13179&fromPage=Elenco",
+    "tag": [
+      "musica-cultura",
+      "rigenerazione-urbana"
+    ],
+    "punteggio": 2,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Ottimo fit per profilo ma scadenza praticamente spirata per una nuova proposta.",
+    "giorni": 0,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "veneto-commercio-equo-solidale-2026",
+    "titolo": "Progetti di diffusione del commercio equo e solidale — Anno 2026",
+    "ente": "Regione Veneto — Cooperazione Internazionale",
+    "oggetto": "Contributi per progetti di diffusione del commercio equo e solidale nel 2026 (L.R. 6/2010).",
+    "area_testo": "Regione Veneto",
+    "regioni": [
+      "Veneto"
+    ],
+    "beneficiari": "Enti/associazioni di commercio equo e solidale",
+    "importo": "€ 85.000,00",
+    "stato": "aperto",
+    "scadenza": "2026-11-05",
+    "scadenza_testo": "05/11/2026 ore 23:59",
+    "checklist": [
+      "Modulo di domanda (B)",
+      "Piano economico (C)",
+      "Lettera di partenariato (D)",
+      "Dichiarazione de minimis (E)"
+    ],
+    "note": "Scadenza praticamente già spirata.",
+    "fonte": "Regione Veneto — Portale Bandi",
+    "link": "https://bandi.regione.veneto.it/Public/Dettaglio?idAtto=13357&fromPage=Elenco",
+    "tag": [
+      "terzo-settore-generico",
+      "cooperazione-internazionale"
+    ],
+    "punteggio": 1,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Scadenza praticamente spirata.",
+    "giorni": 0,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "veneto-melken-prevenzione-lupo-pubblico",
+    "titolo": "Bando Melken — Nuovi metodi di prevenzione delle predazioni da lupo in malga (beneficiari pubblici)",
+    "ente": "Regione Veneto — Direzione Foreste",
+    "oggetto": "Finanziamento di metodi innovativi di prevenzione delle predazioni da lupo in malga, per beneficiari pubblici gestori di alpeggi.",
+    "area_testo": "Regione Veneto",
+    "regioni": [
+      "Veneto"
+    ],
+    "beneficiari": "Enti pubblici gestori di malghe",
+    "importo": "Non specificato",
+    "stato": "aperto",
+    "scadenza": "2026-11-23",
+    "scadenza_testo": "23/11/2026 23:59",
+    "checklist": [],
+    "note": "Bando molto settoriale (gestione faunistico-venatoria).",
+    "fonte": "Regione Veneto — Portale Bandi",
+    "link": "https://bandi.regione.veneto.it/Public/Dettaglio?idAtto=13281&fromPage=Elenco",
+    "tag": [
+      "ambiente-sostenibilita"
+    ],
+    "punteggio": 1,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Settore di nicchia (predazione lupo in malga).",
+    "giorni": 18,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "veneto-proroga-sismica-edilizia-pubblica",
+    "titolo": "Proroga termini saldo progetti messa a norma sismica patrimonio edilizio pubblico (PR FESR Azione 2.4.2)",
+    "ente": "Regione Veneto — Lavori Pubblici",
+    "oggetto": "Proroga dei termini di presentazione delle domande di saldo per progetti già approvati di adeguamento sismico di edifici pubblici.",
+    "area_testo": "Regione Veneto",
+    "regioni": [
+      "Veneto"
+    ],
+    "beneficiari": "Comuni con progetti già finanziati",
+    "importo": "Non è un nuovo stanziamento (proroga)",
+    "stato": "aperto",
+    "scadenza": "2026-12-29",
+    "scadenza_testo": "29/12/2026 23:59",
+    "checklist": [],
+    "note": "Non è una nuova opportunità: riguarda solo proroga del termine di rendicontazione/saldo per progetti già in corso.",
+    "fonte": "Regione Veneto — Portale Bandi",
+    "link": "https://bandi.regione.veneto.it/Public/Dettaglio?idAtto=13192&fromPage=Elenco",
+    "tag": [
+      "protezione-civile-rischio-sismico",
+      "immobili-pubblici"
+    ],
+    "punteggio": 1,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Non è una nuova finestra di finanziamento, solo proroga amministrativa.",
+    "giorni": 54,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "piemonte-scuole-infanzia-paritarie-2026-27",
+    "titolo": "Avviso pubblico di finanziamento scuole dell'infanzia paritarie — a.s. 2026/2027",
+    "ente": "Regione Piemonte",
+    "oggetto": "Finanziamento per il funzionamento delle scuole dell'infanzia paritarie non dipendenti da enti locali, a.s. 2026/2027.",
+    "area_testo": "Regione Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Enti pubblici; Terzo settore (gestori di scuole dell'infanzia paritarie)",
+    "importo": "Non specificato",
+    "stato": "aperto",
+    "scadenza": "2026-11-30",
+    "scadenza_testo": "30/11/2026 23:59",
+    "checklist": [],
+    "note": "",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/contributi-finanziamenti/avviso-pubblico-finanziamento-scuole-dellinfanzia-paritarie-as-20262027",
+    "tag": [
+      "istruzione-formazione",
+      "famiglia"
+    ],
+    "punteggio": 3,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "giorni": 25,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "piemonte-adozione-internazionale-corsi-abc-2027-29",
+    "titolo": "Elenco Enti autorizzati per i \"Corsi ABC adozione\" 2027/2029",
+    "ente": "Regione Piemonte — Direzione Welfare",
+    "oggetto": "Manifestazione di interesse per elenco regionale di Enti autorizzati all'adozione internazionale, come relatori nei percorsi 'ABC adozione' 2027-2029.",
+    "area_testo": "Regione Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Terzo settore (enti autorizzati adozione internazionale)",
+    "importo": "Non previsto (iscrizione a elenco)",
+    "stato": "aperto",
+    "scadenza": "2026-11-24",
+    "scadenza_testo": "24/11/2026 12:00",
+    "checklist": [],
+    "note": "Manifestazione di interesse per elenco, non un contributo economico diretto.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/contributi-finanziamenti/formazione-un-elenco-enti-autorizzati-alle-pratiche-adozione-internazionale-partecipazione-ai-corsi",
+    "tag": [
+      "famiglia",
+      "terzo-settore-generico"
+    ],
+    "punteggio": 2,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Nicchia molto specifica, nessun contributo economico in palio.",
+    "giorni": 19,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "piemonte-disabilita-sport-misura-b2",
+    "titolo": "Progetti a favore delle persone con disabilità — Misura B.2 (Programma triennale Sport)",
+    "ente": "Regione Piemonte",
+    "oggetto": "Contributi per progetti/iniziative sportive 2026 a favore di persone con disabilità, Asse B del Programma triennale Sport.",
+    "area_testo": "Regione Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Terzo settore (ASD/SSD e associazioni sportive)",
+    "importo": "Non specificato",
+    "stato": "aperto",
+    "scadenza": "2026-11-23",
+    "scadenza_testo": "23/11/2026 16:00 (domande dal 26/10/2026)",
+    "checklist": [],
+    "note": "Parte di un pacchetto di 8 misure sportive (B.1, B.2, B.4, B.6, B.7, B.9) con stesse date.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/contributi-finanziamenti/progetti-favore-persone-disabilita-misura-b2",
+    "tag": [
+      "sport",
+      "disabilita"
+    ],
+    "punteggio": 4,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "giorni": 18,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "piemonte-sport-strategici-misura-b7",
+    "titolo": "Progetti strategici di rilevanza regionale — Misura B.7 (sport invernali)",
+    "ente": "Regione Piemonte",
+    "oggetto": "Progetti di educazione alla pratica degli sport invernali organizzati tra gennaio e giugno 2027.",
+    "area_testo": "Regione Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Terzo settore",
+    "importo": "Non specificato",
+    "stato": "aperto",
+    "scadenza": "2026-11-23",
+    "scadenza_testo": "23/11/2026 16:00",
+    "checklist": [],
+    "note": "Stesso pacchetto misure sportive B.1-B.9.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/contributi-finanziamenti/progetti-strategici-rilevanza-regionale-missione-b-7",
+    "tag": [
+      "sport",
+      "giovani"
+    ],
+    "punteggio": 3,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "giorni": 18,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "piemonte-sport-eventi-granfondo-misura-b6",
+    "titolo": "Eventi sportivi competitivi — sezione Gran Fondo e Marathon di ciclismo — Misura B.6",
+    "ente": "Regione Piemonte",
+    "oggetto": "Contributi per eventi sportivi competitivi di ciclismo (Gran Fondo/Marathon), Programma triennale Sport.",
+    "area_testo": "Regione Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Terzo settore",
+    "importo": "Non verificato individualmente",
+    "stato": "aperto",
+    "scadenza": "2026-11-23",
+    "scadenza_testo": "23/11/2026 16:00 (dedotta per analogia)",
+    "checklist": [],
+    "note": "Data dedotta da misure gemelle dello stesso programma.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/contributi-finanziamenti/eventi-sportivi-competitivi-sezione-gran-fondo-marathon-ciclismo-misura-b-6",
+    "tag": [
+      "sport"
+    ],
+    "punteggio": 3,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "giorni": 18,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "piemonte-sport-eventi-fsndsa-misura-b6",
+    "titolo": "Eventi sportivi competitivi — sezione F.S.N./D.S.A. ed altri — Misura B.6",
+    "ente": "Regione Piemonte",
+    "oggetto": "Contributi per eventi sportivi competitivi organizzati da Federazioni Sportive Nazionali/Discipline Sportive Associate.",
+    "area_testo": "Regione Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Terzo settore",
+    "importo": "Non verificato individualmente",
+    "stato": "aperto",
+    "scadenza": "2026-11-23",
+    "scadenza_testo": "23/11/2026 16:00 (dedotta per analogia)",
+    "checklist": [],
+    "note": "Data dedotta da misure gemelle.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/contributi-finanziamenti/eventi-sportivi-competitivi-sezione-fsndsa-altri-misura-b6",
+    "tag": [
+      "sport"
+    ],
+    "punteggio": 2,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Destinatari probabilmente Federazioni/Comitati, meno tipicamente piccole associazioni locali.",
+    "giorni": 18,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "piemonte-sport-eccellenza-misura-b4",
+    "titolo": "Progetti di eccellenza sportiva — sezione C.R.P. F.S.N. — Misura B.4",
+    "ente": "Regione Piemonte",
+    "oggetto": "Contributi per progetti di eccellenza sportiva regionale (Comitati Regionali Piemonte delle Federazioni).",
+    "area_testo": "Regione Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Terzo settore",
+    "importo": "Non verificato individualmente",
+    "stato": "aperto",
+    "scadenza": "2026-11-23",
+    "scadenza_testo": "23/11/2026 16:00 (dedotta per analogia)",
+    "checklist": [],
+    "note": "Data dedotta da misure gemelle.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/contributi-finanziamenti/progetti-eccellenza-sportiva-sezione-crp-fsn-misura-b4",
+    "tag": [
+      "sport"
+    ],
+    "punteggio": 2,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Probabilmente rivolto a Comitati Regionali/Federazioni più che a piccole associazioni.",
+    "giorni": 18,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "piemonte-sport-tradizionali-misura-b9",
+    "titolo": "Valorizzazione sport tradizionali piemontesi — Misura B9",
+    "ente": "Regione Piemonte",
+    "oggetto": "Contributi per iniziative di valorizzazione degli sport tradizionali piemontesi.",
+    "area_testo": "Regione Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Terzo settore",
+    "importo": "Non verificato individualmente",
+    "stato": "aperto",
+    "scadenza": "2026-11-23",
+    "scadenza_testo": "23/11/2026 16:00 (dedotta per analogia)",
+    "checklist": [],
+    "note": "Data dedotta da misure gemelle.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/contributi-finanziamenti/valorizzazione-sport-tradizionali-piemontesi-misura-b9",
+    "tag": [
+      "sport",
+      "musica-cultura"
+    ],
+    "punteggio": 3,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "giorni": 18,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "piemonte-sport-per-tutti-eps-misura-b1",
+    "titolo": "Sport per tutti — sezione E.P.S. e A.B. — Misura B.1",
+    "ente": "Regione Piemonte",
+    "oggetto": "Contributi per Enti di Promozione Sportiva e Associazioni Benemerite.",
+    "area_testo": "Regione Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Terzo settore (EPS, associazioni)",
+    "importo": "Non verificato individualmente",
+    "stato": "aperto",
+    "scadenza": "2026-11-23",
+    "scadenza_testo": "23/11/2026 16:00 (dedotta per analogia)",
+    "checklist": [],
+    "note": "Data dedotta da misure gemelle.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/contributi-finanziamenti/sport-tutti-sezione-eps-ab-misura-b1",
+    "tag": [
+      "sport",
+      "volontariato"
+    ],
+    "punteggio": 3,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "giorni": 18,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "piemonte-sport-per-tutti-eventi-misura-b1",
+    "titolo": "Sport per tutti — sezione eventi sportivi non competitivi con finalità sociali — Misura B.1",
+    "ente": "Regione Piemonte",
+    "oggetto": "Contributi per eventi sportivi non competitivi con finalità sociali.",
+    "area_testo": "Regione Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Terzo settore",
+    "importo": "Non verificato individualmente",
+    "stato": "aperto",
+    "scadenza": "2026-11-23",
+    "scadenza_testo": "23/11/2026 16:00 (dedotta per analogia)",
+    "checklist": [],
+    "note": "Data dedotta da misure gemelle.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/contributi-finanziamenti/sport-tutti-sezione-eventi-sportivi-non-competitivi-finalita-sociali-misura-b1",
+    "tag": [
+      "sport",
+      "volontariato"
+    ],
+    "punteggio": 3,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "giorni": 18,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "piemonte-cooperazione-lr232004",
+    "titolo": "L.R. 23/2004 — Interventi per lo sviluppo e la promozione della cooperazione",
+    "ente": "Regione Piemonte",
+    "oggetto": "Contributi a fondo perduto e finanziamenti a tasso agevolato per società cooperative (avvio, consulenze, aumento capitale sociale, investimenti).",
+    "area_testo": "Regione Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Terzo settore (società cooperative, incluse cooperative sociali)",
+    "importo": "Variabile per linea di intervento",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Sportello permanente (riaperto dal 20/05/2026 per finanziamento a tasso agevolato)",
+    "checklist": [],
+    "note": "Rivolto a società cooperative in generale, non specificamente a cooperative sociali.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/contributi-finanziamenti/lr-232004-e-smi-interventi-lo-sviluppo-e-la-promozione-della-cooperazione",
+    "tag": [
+      "impresa-sociale"
+    ],
+    "punteggio": 2,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Focus su cooperative in generale, non specificamente ETS.",
+    "giorni": null,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "piemonte-cure-domiciliari-accreditamento",
+    "titolo": "Autorizzazione e accreditamento istituzionale di strutture eroganti cure domiciliari",
+    "ente": "Regione Piemonte",
+    "oggetto": "Percorso autorizzativo/accreditamento permanente per strutture che erogano assistenza domiciliare (PNRR), elenco regionale sempre aperto.",
+    "area_testo": "Regione Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Terzo settore (cooperative sociali erogatrici di cure domiciliari)",
+    "importo": "Non applicabile (accreditamento, non contributo)",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Elenco aperto e continuamente aggiornato",
+    "checklist": [],
+    "note": "Procedura di accreditamento permanente, non un bando a graduatoria.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/avvisi-beni-regionali/avviso-pubblico-lautorizzazione-allesercizio-e-laccreditamento-istituzionale",
+    "tag": [
+      "salute-pubblica",
+      "impresa-sociale"
+    ],
+    "punteggio": 3,
+    "ruolo": "Assistenza RUP/supporto tecnico-amministrativo",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "giorni": null,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "piemonte-comunicazione-turismo-lr142016-2026",
+    "titolo": "L.R. 14/2016 art. 20 — Contributi per comunicazione e promo-pubblicità di manifestazioni/eventi — Anno 2026",
+    "ente": "Regione Piemonte",
+    "oggetto": "Contributi per attività di comunicazione e promo-pubblicità di manifestazioni/eventi turistici organizzati in Piemonte nel 2026.",
+    "area_testo": "Regione Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Enti pubblici; Terzo settore (Pro Loco, associazioni turistiche)",
+    "importo": "Non specificato",
+    "stato": "aperto",
+    "scadenza": "2026-11-24",
+    "scadenza_testo": "24/11/2026 12:00",
+    "checklist": [],
+    "note": "Procedura valutativa senza graduatoria di merito.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/contributi-finanziamenti/lr-142016-art-20-contributi-iniziative-comunicazione-promo-pubblicita-nellambito-manifestazioni",
+    "tag": [
+      "turismo-eventi"
+    ],
+    "punteggio": 2,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Importo contenuto, procedura semplice, probabilmente poco bisognosa di supporto tecnico.",
+    "giorni": 19,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "piemonte-cessione-legname-altavalsessera",
+    "titolo": "Cessione a titolo gratuito di legname di resinose da cippare — Foresta regionale Alta Val Sessera (BI)",
+    "ente": "Regione Piemonte",
+    "oggetto": "Avviso per la cessione gratuita di legname di risulta dalla Foresta regionale Alta Val Sessera.",
+    "area_testo": "Regione Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Terzo settore",
+    "importo": "Cessione gratuita di materiale",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non rilevata (dati parziali)",
+    "checklist": [],
+    "note": "Dati parziali, da verificare in futuro.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/avvisi-beni-regionali/cessione-titolo-gratuito-legname-resinose-cippare-foresta-regionale-alta-val-sessera-bi",
+    "tag": [
+      "ambiente-sostenibilita"
+    ],
+    "punteggio": 1,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Oggetto di nicchia (cessione legname), scarsa necessità di supporto documentale complesso.",
+    "giorni": null,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "piemonte-censimento-strade-storiche-montagna",
+    "titolo": "Censimento regionale strade storiche di montagna di interesse turistico",
+    "ente": "Regione Piemonte",
+    "oggetto": "Manifestazione di interesse per il censimento regionale di strade storiche di montagna di interesse turistico.",
+    "area_testo": "Regione Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Terzo settore (probabilmente anche Comuni/Pro Loco/CAI)",
+    "importo": "Non applicabile (censimento)",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non rilevata (dati parziali)",
+    "checklist": [],
+    "note": "Dati parziali, da verificare.",
+    "fonte": "Regione Piemonte — Portale Bandi (filtro Terzo settore/Aperto)",
+    "link": "https://bandi.regione.piemonte.it/contributi-finanziamenti/censimento-regionale-strade-storiche-di-montagna-di-interesse-turistico",
+    "tag": [
+      "turismo-eventi"
+    ],
+    "punteggio": 1,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Censimento conoscitivo, non un contributo economico.",
+    "giorni": null,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "lazio-gev-enti-gestori-aree-protette",
+    "titolo": "Avviso per le sedi dei corsi GEV (Guardie Ecologiche Volontarie) rivolto agli Enti gestori delle aree protette regionali",
+    "ente": "Regione Lazio — Direzione Ambiente",
+    "oggetto": "Individuazione delle sedi per i corsi di formazione delle Guardie Ecologiche Volontarie e assegnazione dei relativi contributi agli Enti gestori di aree naturali protette regionali.",
+    "area_testo": "Regione Lazio",
+    "regioni": [
+      "Lazio"
+    ],
+    "beneficiari": "Enti gestori di aree naturali protette regionali",
+    "importo": "Non specificato",
+    "stato": "aperto",
+    "scadenza": "2026-12-02",
+    "scadenza_testo": "02/12/2026 ore 16:00",
+    "checklist": [],
+    "note": "",
+    "fonte": "Regione Lazio — bandiavvisi.regione.lazio.it",
+    "link": "https://bandiavvisi.regione.lazio.it/bandiavvisi/",
+    "tag": [
+      "ambiente-sostenibilita",
+      "volontariato"
+    ],
+    "punteggio": 2,
+    "ruolo": "Redazione documentazione per conto dell'ente",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiari sono spesso Enti Parco dedicati, non Comuni/ETS generici.",
+    "giorni": 27,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "lazio-vittime-criminalita-ristoro-danni",
+    "titolo": "Contributi a favore delle vittime di atti della criminalità per il ristoro dei danni patrimoniali e alle attività economiche",
+    "ente": "Regione Lazio",
+    "oggetto": "Contributi a persone fisiche/giuridiche vittime incolpevoli di azioni criminali sul territorio regionale, per ristoro danni (L.R. 28/2019 art. 7).",
+    "area_testo": "Regione Lazio",
+    "regioni": [
+      "Lazio"
+    ],
+    "beneficiari": "Persone fisiche e giuridiche vittime di criminalità",
+    "importo": "Non specificato",
+    "stato": "aperto",
+    "scadenza": "2026-11-09",
+    "scadenza_testo": "09/11/2026 ore 17:00",
+    "checklist": [],
+    "note": "Scadenza molto ravvicinata; beneficiari generici.",
+    "fonte": "Regione Lazio — bandiavvisi.regione.lazio.it",
+    "link": "https://bandiavvisi.regione.lazio.it/bandiavvisi/",
+    "tag": [
+      "sicurezza-urbana"
+    ],
+    "punteggio": 1,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiari generici, non tipicamente comuni/ETS; scadenza quasi spirata.",
+    "giorni": 4,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "basilicata-libri-testo-comuni-2026-27",
+    "titolo": "Concessione contributi fornitura gratuita/semigratuita dei libri di testo — a.s. 2026/2027",
+    "ente": "Regione Basilicata",
+    "oggetto": "Contributi regionali ai Comuni per la fornitura gratuita/semigratuita dei libri di testo alle famiglie residenti, a.s. 2026/2027.",
+    "area_testo": "Regione Basilicata",
+    "regioni": [
+      "Basilicata"
+    ],
+    "beneficiari": "Comuni",
+    "importo": "€ 1.892.503,86 complessivi",
+    "stato": "aperto",
+    "scadenza": "2026-12-09",
+    "scadenza_testo": "Istanze dal 18/11/2026 — scadenza 09/12/2026 ore 23:59",
+    "checklist": [],
+    "note": "Avviso pubblicato il 03/11/2026 (DGR n.701 del 30/10/2026), esplicitamente riservato ai Comuni.",
+    "fonte": "Regione Basilicata — Portale Bandi (CeBas)",
+    "link": "https://portalebandi.regione.basilicata.it/avvisi-e-bandi/avviso-pubblico-concessione-contributi-fornitura-gratuita-o-semigratuita-dei-libri-di-testo-anno-scolastico-2026-2027/",
+    "tag": [
+      "istruzione-formazione",
+      "poverta-educativa"
+    ],
+    "punteggio": 4,
+    "ruolo": "Assistenza RUP/supporto tecnico-amministrativo",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Bando riservato ai Comuni, appena pubblicato.",
+    "giorni": 34,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "anci-conai-comunicazionelocale2026",
+    "titolo": "Bando ANCI-CONAI 2026 per la Comunicazione Locale",
+    "ente": "ANCI — CONAI",
+    "oggetto": "Contributi a Comuni (o soggetti delegati) per attività di comunicazione locale a supporto della raccolta differenziata e del riciclo degli imballaggi, nell'ambito dell'Accordo di Programma Quadro Nazionale ANCI-CONAI.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Comuni/enti locali o soggetti da essi delegati",
+    "importo": "Budget totale € 1.500.000; contributo massimo € 50.000 a progetto",
+    "stato": "aperto",
+    "scadenza": "2026-11-13",
+    "scadenza_testo": "13 novembre 2026",
+    "checklist": [
+      "Registrazione sul portale bandoanciconai.conai.org",
+      "Progetto di comunicazione locale (attività 2026, rendicontabili fino al 30/09/2027)",
+      "Rispetto delle Linee Guida alla Comunicazione Locale 2026"
+    ],
+    "note": "Scadenza stretta; utile per comuni con un progetto già pronto o in bozza.",
+    "fonte": "ANCI (www.anci.it)",
+    "link": "https://www.anci.it/rifiuti-pubblicato-il-nuovo-bando-anci-conai-2026-per-la-comunicazione-locale/",
+    "tag": [
+      "ambiente-sostenibilita",
+      "rifiuti-raccolta-differenziata"
+    ],
+    "punteggio": 4,
+    "ruolo": "Assistenza RUP/supporto tecnico-amministrativo",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "Pertinenza alta: rivolto direttamente ai Comuni; limite principale è la scadenza ravvicinata.",
+    "giorni": 8,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "regcampania-amaes-partenariati2026",
+    "titolo": "Progetto AMA ES — Individuazione di partenariati territoriali per l'inclusione di adulti in uscita da istituti penitenziari",
+    "ente": "Regione Campania — DG Politiche Sociali, Politiche Giovanili e Sport",
+    "oggetto": "Co-progettazione (art. 55 D.Lgs. 117/2017) per la selezione di 5 partenariati territoriali (uno per provincia campana, incluso Salerno) per percorsi di inclusione sociale/lavorativa e accoglienza residenziale per adulti in uscita dal circuito penale, con risorse FSE+.",
+    "area_testo": "Regione Campania — 5 HUB provinciali, incluso Salerno",
+    "regioni": [
+      "Campania"
+    ],
+    "beneficiari": "Partenariati territoriali di almeno 3 soggetti, con un ETS capofila",
+    "importo": "€ 6.154.359,80 complessivi",
+    "stato": "aperto",
+    "scadenza": "2026-12-02",
+    "scadenza_testo": "ore 23:59 del 2 dicembre 2026",
+    "checklist": [
+      "Costituire un partenariato di almeno 3 soggetti con un ETS capofila",
+      "Allegato B - Domanda di candidatura",
+      "Allegato C - Adesione al partenariato",
+      "Allegato D - Dichiarazione sostitutiva",
+      "Invio esclusivo via PEC a politiche.sociali@pec.regione.campania.it"
+    ],
+    "note": "Decreto Dirigenziale n. 430 del 30/10/2026, BURC n.60 del 02/11/2026. Un HUB è previsto in provincia di Salerno.",
+    "fonte": "Regione Campania — Regione Informa / Notizie",
+    "link": "https://www.regione.campania.it/regione-informa/notizie/progetto-ama-es-individuazione-partenariati-l-inclusione-adulti-uscita-istituti-penitenziari",
+    "tag": [
+      "terzo-settore-generico",
+      "poverta-marginalita",
+      "giustizia-riparativa-reinserimento"
+    ],
+    "punteggio": 5,
+    "ruolo": "Assistenza RUP/supporto tecnico-amministrativo",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "ETS capofila richiesto, importo rilevante, HUB previsto proprio in provincia di Salerno: massima pertinenza.",
+    "giorni": 27,
+    "aggiornato_il": "2026-11-05"
+  },
+  {
+    "id": "regcampania-multinterventodonnevv2026",
+    "titolo": "Avviso Pubblico Multintervento: sostegno alle donne vittime di violenza, annualità 2026",
+    "ente": "Regione Campania",
+    "oggetto": "Contributi economici individuali (fino a 3.000€+3.000€ per la donna, 1.500€ per figlio/orfano) per donne vittime di violenza e orfani di femminicidio, su progetti assentiti dai Centri Antiviolenza/Case Rifugio.",
+    "area_testo": "Regione Campania",
+    "regioni": [
+      "Campania"
+    ],
+    "beneficiari": "Persone fisiche (donne vittime di violenza, orfani di femminicidio), con mediazione CAV/Case Rifugio",
+    "importo": "Fino a € 7.500 per nucleo",
+    "stato": "aperto",
+    "scadenza": "2026-11-27",
+    "scadenza_testo": "dalle ore 12:00 del 06/11/2026 alle ore 12:00 del 27/11/2026",
+    "checklist": [],
+    "note": "Beneficiario diretto è la persona fisica, non l'ente gestore.",
+    "fonte": "Regione Campania — Regione Informa / Notizie",
+    "link": "https://www.regione.campania.it/regione-informa/notizie/avviso-pubblico-multintervento-sostegno-alle-donne-vittime-violenza-annualita-2026",
+    "tag": [
+      "parita-di-genere",
+      "famiglia"
+    ],
+    "punteggio": 2,
+    "ruolo": "Da verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Finanziamento diretto a persone fisiche, non a comuni/ETS/associazioni in quanto tali.",
+    "giorni": 22,
+    "aggiornato_il": "2026-11-05"
   }
 ]

@@ -1,52 +1,66 @@
 {
-  "ultima_verifica": "2026-11-03T10:45:00+00:00",
+  "ultima_verifica": "2026-11-05T15:39:01+00:00",
   "fonti_saltate": [
     {
-      "id": "regione-basilicata-portale-bandi",
-      "motivo": "robots_disallowed sia su root che su /portale/; non accessibile con i tool di fetch statico disponibili in questo ciclo. Da riprovare con navigazione browser in un prossimo ciclo."
+      "id": "mic-portalebandidgcc",
+      "motivo": "Confermato login wall SPID/CIE; non accessibile in modo automatizzato."
     },
     {
       "id": "mase-comuni-efficientamento",
-      "motivo": "client_error persistente su più tentativi, pagina irraggiungibile con gli strumenti disponibili."
+      "motivo": "WebFetch bloccato da errore client-side; fallback WebSearch senza nuove edizioni confermate oltre a C.S.E. 2025 già chiuso."
     },
     {
       "id": "mase-bandi-avvisi",
-      "motivo": "client_error persistente su più tentativi, pagina irraggiungibile con gli strumenti disponibili."
+      "motivo": "WebFetch bloccato (probabile anti-bot); fallback WebSearch senza bandi nuovi per comuni/ETS oltre a quelli già noti."
     },
     {
-      "id": "mit-fondo-piccoli-comuni",
-      "motivo": "robots_disallowed; nessun accesso via browser disponibile in questo ciclo."
-    },
-    {
-      "id": "mic-portalebandidgcc",
-      "motivo": "Richiede autenticazione SPID/CIE, non accessibile in modo automatizzato."
-    },
-    {
-      "id": "scelgoilserviziocivile-bando",
-      "motivo": "Pagina ufficiale bloccata da robots.txt per i tool disponibili; dato sulla scadenza (06/11/2026, bando già tracciato) confermato comunque tramite ricerca web esterna."
+      "id": "fondazione-cariplo-bandi",
+      "motivo": "Fetch statico bloccato (anche via web.archive.org); non riverificata via navigazione browser in questo ciclo, da riprovare al prossimo."
     },
     {
       "id": "europaconcorsi",
       "motivo": "Richiede sessione autenticata, non disponibile in questo ciclo."
-    },
-    {
-      "id": "anci.it",
-      "motivo": "robots_disallowed su root e sottosezioni tentate (fonte non in catalogo ufficiale, tentativo supplementare)."
     }
   ],
   "nuovi": [
-    { "id": "otto-per-mille-induista-2026", "dal": "2026-11-03" },
-    { "id": "progetti-transfrontalieri-alfabetizzazione-mediatica", "dal": "2026-11-03" },
-    { "id": "masaf-valorizzazione-agroalimentare-2026", "dal": "2026-11-03" },
-    { "id": "cerv-2026-char-liti", "dal": "2026-11-03" },
-    { "id": "pppa-2026-social-economy-tourism", "dal": "2026-11-03" },
-    { "id": "lombardia-una-casa-per-ricominciare", "dal": "2026-11-03" },
-    { "id": "rigenerazioni-disagio-giovanile", "dal": "2026-11-03" },
-    { "id": "valdese-8x1000-2026", "dal": "2026-11-03" },
-    { "id": "emilia-disabilita-visiva-2026", "dal": "2026-11-03" },
-    { "id": "piemonte-piani-integrati-welfare", "dal": "2026-11-03" },
-    { "id": "lazio-comunita-solidali-2026", "dal": "2026-11-03" }
+    { "id": "lavoro-avviso2-2026-terzosettore", "dal": "2026-11-05" },
+    { "id": "mic-incentivo-filieralibro2026", "dal": "2026-11-05" },
+    { "id": "cds-beniconfiscati2026", "dal": "2026-11-05" },
+    { "id": "cds-volontariato2026", "dal": "2026-11-05" },
+    { "id": "fondcattolica-intrapresasociale2026", "dal": "2026-11-05" },
+    { "id": "lom-fuoriclasse2026", "dal": "2026-11-05" },
+    { "id": "eic-premiodonneinnovatrici2027", "dal": "2026-11-05" },
+    { "id": "carisal-restart2026-canneavento", "dal": "2026-11-05" },
+    { "id": "unicredit-semidibene-milano2026", "dal": "2026-11-05" },
+    { "id": "veneto-edilizia-scolastica-sportello-2026-27", "dal": "2026-11-05" },
+    { "id": "veneto-fesr-aree-interne-culturali", "dal": "2026-11-05" },
+    { "id": "veneto-commercio-equo-solidale-2026", "dal": "2026-11-05" },
+    { "id": "veneto-melken-prevenzione-lupo-pubblico", "dal": "2026-11-05" },
+    { "id": "veneto-proroga-sismica-edilizia-pubblica", "dal": "2026-11-05" },
+    { "id": "piemonte-scuole-infanzia-paritarie-2026-27", "dal": "2026-11-05" },
+    { "id": "piemonte-adozione-internazionale-corsi-abc-2027-29", "dal": "2026-11-05" },
+    { "id": "piemonte-disabilita-sport-misura-b2", "dal": "2026-11-05" },
+    { "id": "piemonte-sport-strategici-misura-b7", "dal": "2026-11-05" },
+    { "id": "piemonte-sport-eventi-granfondo-misura-b6", "dal": "2026-11-05" },
+    { "id": "piemonte-sport-eventi-fsndsa-misura-b6", "dal": "2026-11-05" },
+    { "id": "piemonte-sport-eccellenza-misura-b4", "dal": "2026-11-05" },
+    { "id": "piemonte-sport-tradizionali-misura-b9", "dal": "2026-11-05" },
+    { "id": "piemonte-sport-per-tutti-eps-misura-b1", "dal": "2026-11-05" },
+    { "id": "piemonte-sport-per-tutti-eventi-misura-b1", "dal": "2026-11-05" },
+    { "id": "piemonte-cooperazione-lr232004", "dal": "2026-11-05" },
+    { "id": "piemonte-cure-domiciliari-accreditamento", "dal": "2026-11-05" },
+    { "id": "piemonte-comunicazione-turismo-lr142016-2026", "dal": "2026-11-05" },
+    { "id": "piemonte-cessione-legname-altavalsessera", "dal": "2026-11-05" },
+    { "id": "piemonte-censimento-strade-storiche-montagna", "dal": "2026-11-05" },
+    { "id": "lazio-gev-enti-gestori-aree-protette", "dal": "2026-11-05" },
+    { "id": "lazio-vittime-criminalita-ristoro-danni", "dal": "2026-11-05" },
+    { "id": "basilicata-libri-testo-comuni-2026-27", "dal": "2026-11-05" },
+    { "id": "anci-conai-comunicazionelocale2026", "dal": "2026-11-05" },
+    { "id": "regcampania-amaes-partenariati2026", "dal": "2026-11-05" },
+    { "id": "regcampania-multinterventodonnevv2026", "dal": "2026-11-05" }
   ],
-  "chiusi": [],
-  "note_ciclo": "Scansione completa di tutte le 6 fonti principali e le 27 fonti aggiuntive di fonti.json, eseguita in parallelo tramite subagent dedicati per gruppi di fonti. Infobandi CSVnet scansionata per intero (4 pagine, 37 bandi attivi totali). Effettuata anche ricerca web mirata PNRR/statale/fondazioni bancarie (oltre 20 query). Sui 90 bandi complessivamente riportati dai subagent, 62 sono risultati duplicati di bandi già tracciati (nessuna modifica necessaria in 59 casi; in 3 casi applicato un aggiornamento: 'Cultura Missione Comune 2026' riaperto per proroga al 05/12/2026, 'ZMINA-Resilience' aggiornato alla finestra sportello più vicina 14/12/2026, 'Internet Freedom Fund' completato con la prossima finestra bimestrale 01/01/2027); 11 bandi sono risultati genuinamente nuovi e sono stati aggiunti al database. Esclusi 2 bandi per incompatibilità di forma giuridica del beneficiario (Incentivo filiera del libro: beneficiari = imprese editoriali; Bando potenziamento ricerca nei Comuni: beneficiario reale = istituti di ricerca, già chiuso). Portale bandi.regione.piemonte.it (filtro Terzo Settore + Aperto) resta parzialmente inesplorato: il filtro segnala bandi aperti ma le pagine di dettaglio sono bloccate da robots.txt per il fetch statico — servirebbe una navigazione con browser reale per completare scadenze/importi dei bandi già tracciati con dati parziali e dei 2 bandi aggiuntivi individuati con dati incompleti in questo ciclo. SEZIONE B (ricerca nuove fonti) e SEZIONE C (manutenzione vocabolario) non eseguite in questo ciclo: soglia dei 14 giorni non raggiunta (ultima_ricerca_fonti 26/10/2026, 8 giorni; ultima_manutenzione_vocabolario 23/10/2026, 11 giorni)."
+  "chiusi": [
+    { "id": "piemonte-piani-integrati-welfare", "dal": "2026-11-05" }
+  ],
+  "note_ciclo": "Ciclo avviato il 04/11/2026 e completato/pubblicato il 05/11/2026 (interrotto e ripreso). Scansione completa tramite 4 subagent dedicati: (1) Infobandi CSVnet per intero (4 pagine, 37 bandi, nessuna novità) + fonti ministeriali nazionali; (2) fondazioni bancarie e CSV regionali (CSV Lombardia, Cosenza, Due Mari RC, Salerno, Fondazione con il Sud, Fondazione di Sardegna, Fondazione Carisal, Comunità Salernitana, GAL Casacastra); (3) portali regionali via navigazione browser reale (Lombardia, Lazio, Campania, Emilia-Romagna, Sicilia, Piemonte con scraping dell'endpoint JSON, Basilicata, Veneto con scraping dell'API GetListaAttiJson); (4) fonti bloccate da robots/anti-bot riverificate via browser (disabilita.governo.it, famiglia.governo.it, pariopportunita.gov.it, protezionecivile.gov.it, funzionepubblica.gov.it, ANCI, Marche, GAL Casacastra, Comunità Salernitana). 35 bandi nuovi aggiunti (su un totale di oltre 90 segnalazioni raccolte, molte risultate duplicati di bandi già tracciati e scartate). Completati scadenza/importo per 5 bandi Piemonte già tracciati con dati parziali; 1 bando Piemonte (piani-integrati-welfare) risultato non più presente nel portale ed è stato segnato come chiuso. Aggiunti 5 nuovi tag al vocabolario (rifiuti-raccolta-differenziata, giustizia-riparativa-reinserimento, edilizia-scolastica, cooperazione-internazionale, turismo-eventi) in modo additivo. Bando di punta individuato: 'Progetto AMA ES' della Regione Campania (co-progettazione ex art.55 CTS, HUB in provincia di Salerno, € 6,15 mln, scad. 02/12/2026). SEZIONE B (ricerca nuove fonti) in corso con priorità Campania su richiesta esplicita dell'utente. SEZIONE C (manutenzione vocabolario) non eseguita in questo ciclo: soglia 14 giorni non raggiunta (ultima_manutenzione_vocabolario 23/10/2026, 13 giorni)."
 }
