@@ -6781,7 +6781,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Stato dello sportello 2026 non confermato con certezza; necessaria verifica diretta su gse.it.",
-    "aggiornato_il": "2026-10-31"
+    "aggiornato_il": "2026-11-07"
   },
   {
     "id": "mindisabilita-vitaeopportunita",
@@ -6842,7 +6842,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-31"
+    "aggiornato_il": "2026-11-07"
   },
   {
     "id": "anci-fondoturismo2026",
@@ -7088,7 +7088,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
-    "aggiornato_il": "2026-11-05"
+    "aggiornato_il": "2026-11-07"
   },
   {
     "id": "piemonte-bullismo-cyberbullismo-2026-27",
@@ -7359,7 +7359,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
-    "aggiornato_il": "2026-11-01"
+    "aggiornato_il": "2026-11-07"
   },
   {
     "id": "piemonte-residenzialita-detenzione",
@@ -7390,7 +7390,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
-    "aggiornato_il": "2026-11-01"
+    "aggiornato_il": "2026-11-07"
   },
   {
     "id": "piemonte-cittadinanza-globale-2026",
