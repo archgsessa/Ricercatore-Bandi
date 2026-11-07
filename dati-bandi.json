@@ -7944,7 +7944,7 @@
       "terzo-settore-generico"
     ],
     "punteggio": 3,
-    "ruolo": "Redazione documentazione per conto dell'ente",
+    "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Rilevante per OdV/APS della provincia di Salerno (area ammessa), ciclo attuale già chiuso.",
     "giorni": null,
@@ -7977,7 +7977,7 @@
       "terzo-settore-generico"
     ],
     "punteggio": 4,
-    "ruolo": "Redazione documentazione per conto dell'ente",
+    "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Verificare se ammesse ETS campane prima di proporsi ai clienti; scadenza ravvicinata.",
     "giorni": 6,
@@ -8169,7 +8169,7 @@
       "rigenerazione-urbana"
     ],
     "punteggio": 2,
-    "ruolo": "Redazione documentazione per conto dell'ente",
+    "ruolo": "redazione_documentazione",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Ottimo fit per profilo ma scadenza praticamente spirata per una nuova proposta.",
     "giorni": -2,
@@ -8203,7 +8203,7 @@
       "cooperazione-internazionale"
     ],
     "punteggio": 1,
-    "ruolo": "Redazione documentazione per conto dell'ente",
+    "ruolo": "redazione_documentazione",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Scadenza praticamente spirata.",
     "giorni": -2,
@@ -8289,7 +8289,7 @@
       "famiglia"
     ],
     "punteggio": 3,
-    "ruolo": "Redazione documentazione per conto dell'ente",
+    "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
     "giorni": 23,
@@ -8347,7 +8347,7 @@
       "disabilita"
     ],
     "punteggio": 4,
-    "ruolo": "Redazione documentazione per conto dell'ente",
+    "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
     "giorni": 16,
@@ -8376,7 +8376,7 @@
       "giovani"
     ],
     "punteggio": 3,
-    "ruolo": "Redazione documentazione per conto dell'ente",
+    "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
     "giorni": 16,
@@ -8404,7 +8404,7 @@
       "sport"
     ],
     "punteggio": 3,
-    "ruolo": "Redazione documentazione per conto dell'ente",
+    "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
     "giorni": 16,
@@ -8432,7 +8432,7 @@
       "sport"
     ],
     "punteggio": 2,
-    "ruolo": "Redazione documentazione per conto dell'ente",
+    "ruolo": "redazione_documentazione",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Destinatari probabilmente Federazioni/Comitati, meno tipicamente piccole associazioni locali.",
     "giorni": 16,
@@ -8460,7 +8460,7 @@
       "sport"
     ],
     "punteggio": 2,
-    "ruolo": "Redazione documentazione per conto dell'ente",
+    "ruolo": "redazione_documentazione",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Probabilmente rivolto a Comitati Regionali/Federazioni più che a piccole associazioni.",
     "giorni": 16,
@@ -8489,7 +8489,7 @@
       "musica-cultura"
     ],
     "punteggio": 3,
-    "ruolo": "Redazione documentazione per conto dell'ente",
+    "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
     "giorni": 16,
@@ -8518,7 +8518,7 @@
       "volontariato"
     ],
     "punteggio": 3,
-    "ruolo": "Redazione documentazione per conto dell'ente",
+    "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
     "giorni": 16,
@@ -8547,7 +8547,7 @@
       "volontariato"
     ],
     "punteggio": 3,
-    "ruolo": "Redazione documentazione per conto dell'ente",
+    "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
     "giorni": 16,
@@ -8575,7 +8575,7 @@
       "impresa-sociale"
     ],
     "punteggio": 2,
-    "ruolo": "Redazione documentazione per conto dell'ente",
+    "ruolo": "redazione_documentazione",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Focus su cooperative in generale, non specificamente ETS.",
     "giorni": null,
@@ -8632,7 +8632,7 @@
       "turismo-eventi"
     ],
     "punteggio": 2,
-    "ruolo": "Redazione documentazione per conto dell'ente",
+    "ruolo": "redazione_documentazione",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Importo contenuto, procedura semplice, probabilmente poco bisognosa di supporto tecnico.",
     "giorni": 17,
@@ -8717,7 +8717,7 @@
       "volontariato"
     ],
     "punteggio": 2,
-    "ruolo": "Redazione documentazione per conto dell'ente",
+    "ruolo": "redazione_documentazione",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Beneficiari sono spesso Enti Parco dedicati, non Comuni/ETS generici.",
     "giorni": 25,
