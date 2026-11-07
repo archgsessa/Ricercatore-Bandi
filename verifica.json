@@ -1,66 +1,70 @@
 {
-  "ultima_verifica": "2026-11-05T15:39:01+00:00",
+  "ultima_verifica": "2026-11-07T09:27:25+01:00",
   "fonti_saltate": [
     {
       "id": "mic-portalebandidgcc",
-      "motivo": "Confermato login wall SPID/CIE; non accessibile in modo automatizzato."
-    },
-    {
-      "id": "mase-comuni-efficientamento",
-      "motivo": "WebFetch bloccato da errore client-side; fallback WebSearch senza nuove edizioni confermate oltre a C.S.E. 2025 già chiuso."
-    },
-    {
-      "id": "mase-bandi-avvisi",
-      "motivo": "WebFetch bloccato (probabile anti-bot); fallback WebSearch senza bandi nuovi per comuni/ETS oltre a quelli già noti."
-    },
-    {
-      "id": "fondazione-cariplo-bandi",
-      "motivo": "Fetch statico bloccato (anche via web.archive.org); non riverificata via navigazione browser in questo ciclo, da riprovare al prossimo."
+      "motivo": "Login wall SPID/CIE confermato in cicli precedenti; non riverificato in questo ciclo."
     },
     {
       "id": "europaconcorsi",
-      "motivo": "Richiede sessione autenticata, non disponibile in questo ciclo."
+      "motivo": "Richiede sessione autenticata; non disponibile in questo ciclo."
     }
   ],
   "nuovi": [
-    { "id": "lavoro-avviso2-2026-terzosettore", "dal": "2026-11-05" },
-    { "id": "mic-incentivo-filieralibro2026", "dal": "2026-11-05" },
-    { "id": "cds-beniconfiscati2026", "dal": "2026-11-05" },
-    { "id": "cds-volontariato2026", "dal": "2026-11-05" },
-    { "id": "fondcattolica-intrapresasociale2026", "dal": "2026-11-05" },
-    { "id": "lom-fuoriclasse2026", "dal": "2026-11-05" },
-    { "id": "eic-premiodonneinnovatrici2027", "dal": "2026-11-05" },
-    { "id": "carisal-restart2026-canneavento", "dal": "2026-11-05" },
-    { "id": "unicredit-semidibene-milano2026", "dal": "2026-11-05" },
-    { "id": "veneto-edilizia-scolastica-sportello-2026-27", "dal": "2026-11-05" },
-    { "id": "veneto-fesr-aree-interne-culturali", "dal": "2026-11-05" },
-    { "id": "veneto-commercio-equo-solidale-2026", "dal": "2026-11-05" },
-    { "id": "veneto-melken-prevenzione-lupo-pubblico", "dal": "2026-11-05" },
-    { "id": "veneto-proroga-sismica-edilizia-pubblica", "dal": "2026-11-05" },
-    { "id": "piemonte-scuole-infanzia-paritarie-2026-27", "dal": "2026-11-05" },
-    { "id": "piemonte-adozione-internazionale-corsi-abc-2027-29", "dal": "2026-11-05" },
-    { "id": "piemonte-disabilita-sport-misura-b2", "dal": "2026-11-05" },
-    { "id": "piemonte-sport-strategici-misura-b7", "dal": "2026-11-05" },
-    { "id": "piemonte-sport-eventi-granfondo-misura-b6", "dal": "2026-11-05" },
-    { "id": "piemonte-sport-eventi-fsndsa-misura-b6", "dal": "2026-11-05" },
-    { "id": "piemonte-sport-eccellenza-misura-b4", "dal": "2026-11-05" },
-    { "id": "piemonte-sport-tradizionali-misura-b9", "dal": "2026-11-05" },
-    { "id": "piemonte-sport-per-tutti-eps-misura-b1", "dal": "2026-11-05" },
-    { "id": "piemonte-sport-per-tutti-eventi-misura-b1", "dal": "2026-11-05" },
-    { "id": "piemonte-cooperazione-lr232004", "dal": "2026-11-05" },
-    { "id": "piemonte-cure-domiciliari-accreditamento", "dal": "2026-11-05" },
-    { "id": "piemonte-comunicazione-turismo-lr142016-2026", "dal": "2026-11-05" },
-    { "id": "piemonte-cessione-legname-altavalsessera", "dal": "2026-11-05" },
-    { "id": "piemonte-censimento-strade-storiche-montagna", "dal": "2026-11-05" },
-    { "id": "lazio-gev-enti-gestori-aree-protette", "dal": "2026-11-05" },
-    { "id": "lazio-vittime-criminalita-ristoro-danni", "dal": "2026-11-05" },
-    { "id": "basilicata-libri-testo-comuni-2026-27", "dal": "2026-11-05" },
-    { "id": "anci-conai-comunicazionelocale2026", "dal": "2026-11-05" },
-    { "id": "regcampania-amaes-partenariati2026", "dal": "2026-11-05" },
-    { "id": "regcampania-multinterventodonnevv2026", "dal": "2026-11-05" }
+    {
+      "id": "lazio-litorale-erosione-costiera2026",
+      "dal": "2026-11-07"
+    },
+    {
+      "id": "campania-associazionismo-comunale2026",
+      "dal": "2026-11-07"
+    }
   ],
   "chiusi": [
-    { "id": "piemonte-piani-integrati-welfare", "dal": "2026-11-05" }
+    {
+      "id": "cn-daphne",
+      "dal": "2026-11-07"
+    },
+    {
+      "id": "mic-marchio-patrimonio-europeo2027",
+      "dal": "2026-11-07"
+    },
+    {
+      "id": "aics-siria-emergenza",
+      "dal": "2026-11-07"
+    },
+    {
+      "id": "lazio-serviziinrete2026",
+      "dal": "2026-11-07"
+    },
+    {
+      "id": "lombardia-manifestazionisportive",
+      "dal": "2026-11-07"
+    },
+    {
+      "id": "campania-inclusione-disabilita-sensoriale",
+      "dal": "2026-11-07"
+    },
+    {
+      "id": "campania-aree-archeologiche-vesuviane",
+      "dal": "2026-11-07"
+    },
+    {
+      "id": "mic-altavoce-7ed",
+      "dal": "2026-11-07"
+    },
+    {
+      "id": "scu-filoneautofinanziato-3767posti",
+      "dal": "2026-11-07"
+    },
+    {
+      "id": "veneto-fesr-aree-interne-culturali",
+      "dal": "2026-11-07"
+    },
+    {
+      "id": "veneto-commercio-equo-solidale-2026",
+      "dal": "2026-11-07"
+    }
   ],
-  "note_ciclo": "Ciclo avviato il 04/11/2026 e completato/pubblicato il 05/11/2026 (interrotto e ripreso). Scansione completa tramite 4 subagent dedicati: (1) Infobandi CSVnet per intero (4 pagine, 37 bandi, nessuna novità) + fonti ministeriali nazionali; (2) fondazioni bancarie e CSV regionali (CSV Lombardia, Cosenza, Due Mari RC, Salerno, Fondazione con il Sud, Fondazione di Sardegna, Fondazione Carisal, Comunità Salernitana, GAL Casacastra); (3) portali regionali via navigazione browser reale (Lombardia, Lazio, Campania, Emilia-Romagna, Sicilia, Piemonte con scraping dell'endpoint JSON, Basilicata, Veneto con scraping dell'API GetListaAttiJson); (4) fonti bloccate da robots/anti-bot riverificate via browser (disabilita.governo.it, famiglia.governo.it, pariopportunita.gov.it, protezionecivile.gov.it, funzionepubblica.gov.it, ANCI, Marche, GAL Casacastra, Comunità Salernitana). 35 bandi nuovi aggiunti (su un totale di oltre 90 segnalazioni raccolte, molte risultate duplicati di bandi già tracciati e scartate). Completati scadenza/importo per 5 bandi Piemonte già tracciati con dati parziali; 1 bando Piemonte (piani-integrati-welfare) risultato non più presente nel portale ed è stato segnato come chiuso. Aggiunti 5 nuovi tag al vocabolario (rifiuti-raccolta-differenziata, giustizia-riparativa-reinserimento, edilizia-scolastica, cooperazione-internazionale, turismo-eventi) in modo additivo. Bando di punta individuato: 'Progetto AMA ES' della Regione Campania (co-progettazione ex art.55 CTS, HUB in provincia di Salerno, € 6,15 mln, scad. 02/12/2026). SEZIONE B (ricerca nuove fonti) in corso con priorità Campania su richiesta esplicita dell'utente. SEZIONE C (manutenzione vocabolario) non eseguita in questo ciclo: soglia 14 giorni non raggiunta (ultima_manutenzione_vocabolario 23/10/2026, 13 giorni)."
+  "note_ciclo": "Primo ciclo del task unificato (ex 3 scheduled task separati accorpati). SEZIONE A: scansione completa Infobandi CSVnet (4 pagine, 39 bandi attivi, nessuna novita sostanziale), Fondazione CDP (nessun bando nuovo), ricerca PNRR/statale mirata; verifica browser di 8 portali regionali critici (Piemonte, Veneto, Lazio, Lombardia, Campania, Emilia-Romagna, Basilicata, CSV Salerno) e verifica via WebSearch di ~30 fonti ministeriali/fondazioni/CSV aggiuntive. La maggior parte delle potenziali novita segnalate dai sotto-task erano in realta duplicati di bandi gia tracciati (dedup verificato su dati-bandi.json): solo 2 bandi genuinamente nuovi (Lazio difesa litorale comuni costieri, Campania contributo associazionismo comunale 2026 - dati parziali, scadenza da confermare). Ricalcolato il campo giorni per tutti i bandi aperti con scadenza: 11 bandi risultati scaduti sono stati aggiornati a chiuso. Corretti anche 2 bandi con stato non standard (da verificare -> aperto, valore non supportato dal rendering del sito) e 1 tag orfano (inclusione-sociale, usato da 3 bandi Piemonte su detenzione/reinserimento, mai aggiunto al vocabolario: ora integrato in SYNONYMS/MACRO_LABELS, e ai 3 bandi aggiunto anche il tag piu specifico giustizia-riparativa-reinserimento). SEZIONE B (ricerca nuove fonti) saltata: ultima_ricerca_fonti 05/11/2026, solo 2 giorni (soglia 14gg non raggiunta, prossima idonea dal 19/11/2026). SEZIONE C (manutenzione vocabolario) eseguita: soglia 14gg raggiunta (15 giorni da 23/10/2026). Aggiunta voce inclusione-sociale al vocabolario e 3 sinonimi (erosione costiera, difesa della costa, litorale) alla macro-area protezione-civile-rischio-sismico, in modo additivo. Nessuna nuova macro-area sostanzialmente necessaria oltre a questa."
 }
