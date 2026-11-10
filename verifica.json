@@ -1,70 +1,70 @@
 {
-  "ultima_verifica": "2026-11-07T09:27:25+01:00",
+  "ultima_verifica": "2026-11-10T15:34:00+01:00",
   "fonti_saltate": [
     {
       "id": "mic-portalebandidgcc",
-      "motivo": "Login wall SPID/CIE confermato in cicli precedenti; non riverificato in questo ciclo."
+      "motivo": "Login wall SPID/CIE confermato nei cicli precedenti; non riverificato in questo ciclo."
     },
     {
       "id": "europaconcorsi",
       "motivo": "Richiede sessione autenticata; non disponibile in questo ciclo."
+    },
+    {
+      "id": "pnrr-istruzione-avvisi",
+      "motivo": "Contenuto non renderizzato dal browser in questo ciclo (solo filtri visibili, lista elementi non caricata); nessuna novità rilevata negli esiti pregressi."
+    },
+    {
+      "id": "ministeroturismo-enti-territoriali",
+      "motivo": "Pagina priva di contenuto reale (solo header/footer) al momento della verifica in questo ciclo; possibile problema temporaneo del sito, da riverificare al prossimo ciclo."
+    },
+    {
+      "id": "regione-veneto-bandi-avvisi-concorsi",
+      "motivo": "Portale bandi.regione.veneto.it/Public/Elenco raggiunto e navigabile ma estrazione sistematica non completata (243 risultati generici su ricerca testuale, filtri categoria non impostabili in tempi ragionevoli); da riprendere in un prossimo ciclo con ricerca per idAtto."
     }
   ],
   "nuovi": [
     {
-      "id": "lazio-litorale-erosione-costiera2026",
-      "dal": "2026-11-07"
+      "id": "cn-eraseindifference2026",
+      "dal": "2026-11-10"
     },
     {
-      "id": "campania-associazionismo-comunale2026",
-      "dal": "2026-11-07"
+      "id": "cn-unamanochisostiene2627",
+      "dal": "2026-11-10"
+    },
+    {
+      "id": "cn-supportoosc-valoriue",
+      "dal": "2026-11-10"
+    },
+    {
+      "id": "cn-formazionegiustizia-professionisti",
+      "dal": "2026-11-10"
+    },
+    {
+      "id": "cn-culturemoveseurope",
+      "dal": "2026-11-10"
+    },
+    {
+      "id": "sc-giovaniincomune-3ed",
+      "dal": "2026-11-10"
+    },
+    {
+      "id": "mit-fondopiccolicomuni-strade2026",
+      "dal": "2026-11-10"
+    },
+    {
+      "id": "cosenza-parconazionalesila-turismo-terzaeta-disabili",
+      "dal": "2026-11-10"
+    },
+    {
+      "id": "csp-scelte-future-piemonte",
+      "dal": "2026-11-10"
     }
   ],
   "chiusi": [
     {
-      "id": "cn-daphne",
-      "dal": "2026-11-07"
-    },
-    {
-      "id": "mic-marchio-patrimonio-europeo2027",
-      "dal": "2026-11-07"
-    },
-    {
-      "id": "aics-siria-emergenza",
-      "dal": "2026-11-07"
-    },
-    {
-      "id": "lazio-serviziinrete2026",
-      "dal": "2026-11-07"
-    },
-    {
-      "id": "lombardia-manifestazionisportive",
-      "dal": "2026-11-07"
-    },
-    {
-      "id": "campania-inclusione-disabilita-sensoriale",
-      "dal": "2026-11-07"
-    },
-    {
-      "id": "campania-aree-archeologiche-vesuviane",
-      "dal": "2026-11-07"
-    },
-    {
-      "id": "mic-altavoce-7ed",
-      "dal": "2026-11-07"
-    },
-    {
-      "id": "scu-filoneautofinanziato-3767posti",
-      "dal": "2026-11-07"
-    },
-    {
-      "id": "veneto-fesr-aree-interne-culturali",
-      "dal": "2026-11-07"
-    },
-    {
-      "id": "veneto-commercio-equo-solidale-2026",
-      "dal": "2026-11-07"
+      "id": "lazio-vittime-criminalita-ristoro-danni",
+      "dal": "2026-11-10"
     }
   ],
-  "note_ciclo": "Primo ciclo del task unificato (ex 3 scheduled task separati accorpati). SEZIONE A: scansione completa Infobandi CSVnet (4 pagine, 39 bandi attivi, nessuna novita sostanziale), Fondazione CDP (nessun bando nuovo), ricerca PNRR/statale mirata; verifica browser di 8 portali regionali critici (Piemonte, Veneto, Lazio, Lombardia, Campania, Emilia-Romagna, Basilicata, CSV Salerno) e verifica via WebSearch di ~30 fonti ministeriali/fondazioni/CSV aggiuntive. La maggior parte delle potenziali novita segnalate dai sotto-task erano in realta duplicati di bandi gia tracciati (dedup verificato su dati-bandi.json): solo 2 bandi genuinamente nuovi (Lazio difesa litorale comuni costieri, Campania contributo associazionismo comunale 2026 - dati parziali, scadenza da confermare). Ricalcolato il campo giorni per tutti i bandi aperti con scadenza: 11 bandi risultati scaduti sono stati aggiornati a chiuso. Corretti anche 2 bandi con stato non standard (da verificare -> aperto, valore non supportato dal rendering del sito) e 1 tag orfano (inclusione-sociale, usato da 3 bandi Piemonte su detenzione/reinserimento, mai aggiunto al vocabolario: ora integrato in SYNONYMS/MACRO_LABELS, e ai 3 bandi aggiunto anche il tag piu specifico giustizia-riparativa-reinserimento). SEZIONE B (ricerca nuove fonti) saltata: ultima_ricerca_fonti 05/11/2026, solo 2 giorni (soglia 14gg non raggiunta, prossima idonea dal 19/11/2026). SEZIONE C (manutenzione vocabolario) eseguita: soglia 14gg raggiunta (15 giorni da 23/10/2026). Aggiunta voce inclusione-sociale al vocabolario e 3 sinonimi (erosione costiera, difesa della costa, litorale) alla macro-area protezione-civile-rischio-sismico, in modo additivo. Nessuna nuova macro-area sostanzialmente necessaria oltre a questa."
+  "note_ciclo": "Secondo ciclo del task unificato. SEZIONE A: scansione completa Infobandi CSVnet (5 pagine, 41 bandi attivi, 5 novita testuali/4 genuinamente nuove), Fondazione con il Sud, Fondazione CDP, CSV Lombardia, Sviluppo Campania, professionearchitetto.it/concorsi, ricerca PNRR/statale generica; verifica browser di 14 fonti regionali/ministeriali note per blocchi anti-bot/JS (Lombardia, Lazio, Campania, Emilia-Romagna, Piemonte filtro Terzo Settore/Aperto, Veneto, Basilicata CeBas, Cariplo, CSV Salerno, ANCI, Scelgo il Servizio Civile, MASE x2, Interno Finanza Locale, Sicilia); verifica di 20 fonti aggiuntive ministeriali/fondazioni/CSV (MiC x2, Lavoro, Politiche Giovanili, Sport e Salute, PNRR Istruzione, Turismo, MIT, Invitalia, GSE, Fondazione Sardegna, Carisal, Banco di Napoli, CSV Napoli, CCIAA Napoli, Fondazione Comunita Salernitana, Fondazione CRT, Compagnia di San Paolo, CSV Cosenza, CSV Due Mari RC). Risultato: 9 bandi genuinamente nuovi aggiunti (4 Infobandi CSVnet a bassa pertinenza/premi individuali, 1 Sviluppo Campania dati parziali da verificare, MIT fondo strade piccoli comuni scad. 30/11 molto pertinente, CSV Cosenza Parco Sila scad. 23/11, Compagnia San Paolo Scelte Future Piemonte bassa pertinenza per sede). CORREZIONE rilevante: il bando Servizio Civile Universale 3.767 posti (scu-filoneautofinanziato-3767posti) era stato erroneamente segnato chiuso (scadenza 06/11/2026) nel ciclo precedente; il sito ufficiale conferma scadenza reale 13/11/2026 ore 14:00, ancora aperto — riaperto nei dati con alert a 3 giorni. Ricalcolato il campo giorni per tutti i bandi aperti con scadenza: 1 bando (lazio-vittime-criminalita-ristoro-danni, scad. 09/11/2026) risultato scaduto e aggiornato a chiuso. Data hygiene: normalizzati 19 valori legacy del campo ruolo in formato testo libero (\"Da verificare\", \"Assistenza RUP/supporto tecnico-amministrativo\") ai codici standard (da_verificare, assistenza_rup) usati dal rendering del sito e dalla dashboard Cowork. Aggiunta in modo additivo la voce di vocabolario infrastrutture-viarie (SYNONYMS/MACRO_LABELS in index.html) per il bando MIT sulle strade comunali, tema non ancora coperto. SEZIONE B (ricerca nuove fonti) saltata: ultima_ricerca_fonti 05/11/2026, solo 5 giorni (soglia 14gg non raggiunta, prossima idonea dal 19/11/2026). SEZIONE C (manutenzione vocabolario) saltata: ultima_manutenzione_vocabolario 07/11/2026, solo 3 giorni (soglia 14gg non raggiunta, prossima idonea dal 21/11/2026) — eccetto l aggiunta contestuale di infrastrutture-viarie, fatta in SEZIONE A come richiesto quando un bando introduce un tema nuovo."
 }
