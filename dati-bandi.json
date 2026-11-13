@@ -222,7 +222,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-10",
     "scadenza_testo": "10 dic 2026",
-    "giorni": 30,
+    "giorni": 27,
     "checklist": [
       "Idea progettuale (fase 1) su Chàiros",
       "Bene assegnato da massimo 3 anni",
@@ -719,7 +719,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-31",
     "scadenza_testo": "31 dic 2026",
-    "giorni": 51,
+    "giorni": 48,
     "checklist": [
       "Domanda a segreteria@fispo.it",
       "Descrizione della linea di intervento scelta"
@@ -752,7 +752,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-31",
     "scadenza_testo": "31 dic 2026",
-    "giorni": 51,
+    "giorni": 48,
     "checklist": [
       "Contatto preliminare su piattaforma Re@dy",
       "Progettazione di dettaglio (fase 2)",
@@ -1355,7 +1355,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-13",
     "scadenza_testo": "13 nov 2026",
-    "giorni": 3,
+    "giorni": 0,
     "checklist": [
       "Colloquio telefonico preliminare obbligatorio",
       "Piano di sostenibilità economica del progetto"
@@ -1387,7 +1387,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-16",
     "scadenza_testo": "16 nov 2026",
-    "giorni": 6,
+    "giorni": 3,
     "checklist": [
       "Verificare requisiti di rilievo regionale della manifestazione",
       "Piano organizzativo dell'iniziativa"
@@ -1419,7 +1419,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-23",
     "scadenza_testo": "23 nov 2026",
-    "giorni": 13,
+    "giorni": 10,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -1450,7 +1450,7 @@
     "stato": "aperto",
     "scadenza": "2027-06-30",
     "scadenza_testo": "30 giu 2027",
-    "giorni": 232,
+    "giorni": 229,
     "checklist": [
       "Partenariato su piattaforma Chàiros",
       "Individuazione co-finanziatore",
@@ -1483,7 +1483,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-31",
     "scadenza_testo": "31 dic 2026",
-    "giorni": 51,
+    "giorni": 48,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2139,7 +2139,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-15",
     "scadenza_testo": "15 novembre 2026 (termine prorogato dal 31/10/2026)",
-    "giorni": 5,
+    "giorni": 2,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2171,7 +2171,7 @@
     "stato": "aperto",
     "scadenza": "2027-09-22",
     "scadenza_testo": "22 set 2027",
-    "giorni": 316,
+    "giorni": 313,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2203,7 +2203,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-14",
     "scadenza_testo": "Procedura a sportello; prossima finestra 14 dicembre 2026 (altre finestre: 15/03, 14/06, 14/10/2027)",
-    "giorni": 34,
+    "giorni": 31,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2235,7 +2235,7 @@
     "stato": "aperto",
     "scadenza": "2027-12-31",
     "scadenza_testo": "31 dic 2027",
-    "giorni": 416,
+    "giorni": 413,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2266,7 +2266,7 @@
     "stato": "aperto",
     "scadenza": "2027-01-01",
     "scadenza_testo": "Scadenze bimestrali (1 gen, 1 mar, 1 mag, 1 lug, 1 set, 1 nov); prossima finestra 1 gennaio 2027",
-    "giorni": 52,
+    "giorni": 49,
     "checklist": [
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
@@ -2393,7 +2393,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-05",
     "scadenza_testo": "Proroga al 5 dicembre 2026, ore 23:59 (scadenza originaria 30 settembre 2026)",
-    "giorni": 25,
+    "giorni": 22,
     "checklist": [
       "Delibera dell'ente",
       "Progetto di intervento sul bene culturale",
@@ -2426,7 +2426,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-05",
     "scadenza_testo": "5 dic 2026",
-    "giorni": 25,
+    "giorni": 22,
     "checklist": [
       "Delibera dell'ente",
       "Progetto tecnico dell'impianto sportivo",
@@ -2459,7 +2459,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-30",
     "scadenza_testo": "30 nov 2026",
-    "giorni": 20,
+    "giorni": 17,
     "checklist": [
       "Individuazione dell'immobile pubblico inutilizzato",
       "Progetto di riuso/riqualificazione",
@@ -3114,7 +3114,7 @@
     "stato": "aperto",
     "scadenza": "2027-04-23",
     "scadenza_testo": "23 apr 2027",
-    "giorni": 164,
+    "giorni": 161,
     "checklist": [
       "Iscrizione RUNTS con sede in Lombardia",
       "Verifica soglia ricavi (piccole realtà)",
@@ -3689,7 +3689,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-20",
     "scadenza_testo": "20 novembre 2026",
-    "giorni": 10,
+    "giorni": 7,
     "checklist": [],
     "note": "",
     "fonte": "Infobandi CSVnet",
@@ -3718,7 +3718,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-30",
     "scadenza_testo": "30 novembre 2026",
-    "giorni": 20,
+    "giorni": 17,
     "checklist": [],
     "note": "",
     "fonte": "Infobandi CSVnet",
@@ -3802,7 +3802,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-30",
     "scadenza_testo": "30 nov 2026",
-    "giorni": 20,
+    "giorni": 17,
     "checklist": [
       "Verifica proprietà/disponibilità dell'immobile",
       "Progetto di recupero/ristrutturazione",
@@ -3836,7 +3836,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-31",
     "scadenza_testo": "31 dic 2026",
-    "giorni": 51,
+    "giorni": 48,
     "checklist": [
       "Verifica iscrizione RUNTS",
       "DURC regolare",
@@ -3870,7 +3870,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-30",
     "scadenza_testo": "30 nov 2026",
-    "giorni": 20,
+    "giorni": 17,
     "checklist": [
       "Verifica requisiti soggetto proponente",
       "Progetto di leva civica",
@@ -3902,7 +3902,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-15",
     "scadenza_testo": "15 dic 2026",
-    "giorni": 35,
+    "giorni": 32,
     "checklist": [
       "Verifica requisiti Pro Loco",
       "Progetto di attività sociale/culturale/comunitaria"
@@ -3934,7 +3934,7 @@
     "stato": "aperto",
     "scadenza": "2027-10-31",
     "scadenza_testo": "31 ott 2027",
-    "giorni": 355,
+    "giorni": 352,
     "checklist": [
       "Verifica requisiti soggetto proponente",
       "Progetto di leva civica volontaria"
@@ -3966,7 +3966,7 @@
     "stato": "aperto",
     "scadenza": "2027-01-21",
     "scadenza_testo": "21 gen 2027",
-    "giorni": 72,
+    "giorni": 69,
     "checklist": [
       "Verifica requisiti soggetto proponente",
       "Progetto formativo/orientamento STEM"
@@ -4123,7 +4123,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-30",
     "scadenza_testo": "30 nov 2026",
-    "giorni": 20,
+    "giorni": 17,
     "checklist": [
       "Richiesta di patrocinio oneroso",
       "Programma dell'iniziativa"
@@ -4215,7 +4215,7 @@
     "stato": "aperto",
     "scadenza": "2027-02-18",
     "scadenza_testo": "18 feb 2027",
-    "giorni": 100,
+    "giorni": 97,
     "checklist": [
       "Costituzione rete/partenariato",
       "Progetto territoriale 0-3 anni"
@@ -4247,7 +4247,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-09",
     "scadenza_testo": "09 dic 2026",
-    "giorni": 29,
+    "giorni": 26,
     "checklist": [
       "Progetto di accessibilità museale",
       "Piano di cofinanziamento 20%"
@@ -4455,7 +4455,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-16",
     "scadenza_testo": "16 dic 2026",
-    "giorni": 36,
+    "giorni": 33,
     "checklist": [],
     "note": "",
     "fonte": "Ricerca mirata PNRR/statale",
@@ -4484,7 +4484,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-18",
     "scadenza_testo": "18 nov 2026",
-    "giorni": 8,
+    "giorni": 5,
     "checklist": [],
     "note": "",
     "fonte": "Ricerca mirata PNRR/statale",
@@ -4513,7 +4513,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-30",
     "scadenza_testo": "30 nov 2026, ore 23:59",
-    "giorni": 20,
+    "giorni": 17,
     "checklist": [
       "Candidatura online su piattaforma WIIN (inglese o francese)",
       "Documentazione costitutiva ente (almeno 2 anni di attività)",
@@ -4998,7 +4998,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-18",
     "scadenza_testo": "Domande dalle 12:00 del 19/10/2026 alle 18:00 del 18/11/2026",
-    "giorni": 8,
+    "giorni": 5,
     "checklist": [
       "Domanda tramite piattaforma informatica di Sport e Salute S.p.A.",
       "Progetto tensostruttura polifunzionale"
@@ -5095,7 +5095,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-18",
     "scadenza_testo": "18 dic 2026",
-    "giorni": 38,
+    "giorni": 35,
     "checklist": [
       "Proposta progettuale",
       "Biografia della figura proposta",
@@ -5196,7 +5196,7 @@
     "stato": "aperto",
     "scadenza": "2027-01-21",
     "scadenza_testo": "21 gen 2027, ore 13:00",
-    "giorni": 72,
+    "giorni": 69,
     "checklist": [
       "Verifica forma giuridica del soggetto responsabile (privato no-profit, non associazione di categoria/sindacato)",
       "Costituzione partenariato con 3-8 soggetti incluse almeno 3 scuole",
@@ -5265,7 +5265,7 @@
     "stato": "aperto",
     "scadenza": "2027-01-21",
     "scadenza_testo": "21/01/2027",
-    "giorni": 72,
+    "giorni": 69,
     "checklist": [
       "Verifica forma giuridica non profit costituita da almeno 2 anni",
       "Candidatura online su piattaforma Re@dy",
@@ -5298,7 +5298,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-01",
     "scadenza_testo": "01/12/2026",
-    "giorni": 21,
+    "giorni": 18,
     "checklist": [],
     "note": "",
     "fonte": "Infobandi CSVnet",
@@ -5327,7 +5327,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-07",
     "scadenza_testo": "07/12/2026",
-    "giorni": 27,
+    "giorni": 24,
     "checklist": [],
     "note": "",
     "fonte": "Infobandi CSVnet",
@@ -5412,7 +5412,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-13",
     "scadenza_testo": "13/11/2026",
-    "giorni": 3,
+    "giorni": 0,
     "checklist": [],
     "note": "",
     "fonte": "Regione Lazio — Avvisi e Bandi",
@@ -5468,7 +5468,7 @@
     "stato": "aperto",
     "scadenza": "2027-02-15",
     "scadenza_testo": "15/02/2027",
-    "giorni": 97,
+    "giorni": 94,
     "checklist": [],
     "note": "",
     "fonte": "Portale Bandi Regione Basilicata (CeBas)",
@@ -5609,7 +5609,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-27",
     "scadenza_testo": "Presentazione telematica dalle 00:00 del 26/10/2026 alle 23:59 del 27/11/2026, tramite Catalogo Servizi Digitali regionale (SPID/CIE/CNS)",
-    "giorni": 17,
+    "giorni": 14,
     "checklist": [],
     "note": "Verificato il testo integrale il 21/10/2026 (Decreto dirigenziale n. 26 del 19/10/2026): confermato che NON è un bando di finanziamento, ma una ricognizione/censimento tecnico senza stanziamento economico diretto. Mantenuto in monitoraggio solo per l'eventuale supporto alla compilazione della Scheda Tecnica di Ricognizione per un Comune/Pro Loco cliente.",
     "fonte": "Regione Campania — Notizie e Avvisi",
@@ -5701,7 +5701,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-30",
     "scadenza_testo": "A sportello; prossima finestra 30/11/2026",
-    "giorni": 20,
+    "giorni": 17,
     "checklist": [],
     "note": "Individuato tramite ricerca mirata fondazioni bancarie. Rilevanza bassa per lo studio: importo massimo molto contenuto (2.000 €/progetto) e perimetro territoriale ristretto (Ascoli Piceno), difficilmente giustifica un incarico di assistenza tecnica proporzionato.",
     "fonte": "Ricerca mirata PNRR/fondazioni bancarie",
@@ -5762,7 +5762,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-18",
     "scadenza_testo": "Candidature dalle ore 12:00 del 04/11/2026 alle ore 12:00 del 18/12/2026",
-    "giorni": 38,
+    "giorni": 35,
     "checklist": [],
     "note": "Individuato tramite ricerca mirata sui siti ministeriali il 21/10/2026. Partenariato minimo di 3 soggetti, anche enti pubblici: possibile ruolo di assistenza tecnica sia per il capofila ETS/ASD sia per un Comune partner.",
     "fonte": "Dipartimento Politiche Giovanili — Avvisi pubblici",
@@ -5854,16 +5854,16 @@
     ],
     "beneficiari": "Organizzazioni senza scopo di lucro attive nella promozione della lettura 0-6, in partenariato con istituzioni (Regioni, Comuni, biblioteche, ASL), associazioni, fondazioni ed ETS.",
     "importo": "857.375 € totali — max 34.000 € (progetti locali consolidati), 17.500 € (progetti locali nuovi), 85.000 € (progetti regionali/interregionali/nazionali)",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-10",
     "scadenza_testo": "10 novembre 2026, ore 13:00",
-    "giorni": 0,
+    "giorni": null,
     "checklist": [
       "Individuare la sezione di finanziamento pertinente (locale consolidato/nuovo/regionale)",
       "Costituire il partenariato con l'ente pubblico (Comune/Regione/biblioteca)",
       "Invio online tramite piattaforma bandi.cepell.it"
     ],
-    "note": "Individuato su Ministero della Cultura — Bandi e concorsi. ETS capofila con Comune in partenariato: ruolo tipico di assistenza alla redazione del progetto.",
+    "note": "Individuato su Ministero della Cultura — Bandi e concorsi. ETS capofila con Comune in partenariato: ruolo tipico di assistenza alla redazione del progetto. AGGIORNAMENTO 2026-11-13: scadenza (10/11/2026 ore 13:00) confermata passata senza proroga (verifica diretta cultura.gov.it); bando chiuso.",
     "fonte": "Ministero della Cultura",
     "link": "https://centroperillibro.cultura.gov.it/wp-content/uploads/2026/10/Bando_Leggimi-0-6_9a-edizione.pdf",
     "tag": [
@@ -5874,7 +5874,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-23"
+    "aggiornato_il": "2026-11-13"
   },
   {
     "id": "mic-altavoce-7ed",
@@ -5921,7 +5921,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-13",
     "scadenza_testo": "13 novembre 2026, ore 13:00",
-    "giorni": 3,
+    "giorni": 0,
     "checklist": [
       "Verificare i criteri di valutazione in Allegato A",
       "Invio online tramite piattaforma bandi.cepell.it"
@@ -6361,7 +6361,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-13",
     "scadenza_testo": "Domande online dalle 10:00 del 27/10/2026 alle 12:00 del 13/11/2026",
-    "giorni": 3,
+    "giorni": 0,
     "checklist": [
       "Verifica iscrizione RUNTS e rappresentatività nel settore sordità/LIS",
       "Partecipazione al procedimento di coprogettazione ex art. 55 d.lgs. 117/2017",
@@ -6393,7 +6393,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-13",
     "scadenza_testo": "Domande online dalle 10:00 del 27/10/2026 alle 12:00 del 13/11/2026 (BURL Serie Ordinaria n. 43 del 21/10/2026)",
-    "giorni": 3,
+    "giorni": 0,
     "checklist": [
       "Verifica appartenenza all'Osservatorio nazionale disabilità o status universitario",
       "Partecipazione al procedimento di coprogettazione",
@@ -6487,14 +6487,14 @@
     ],
     "beneficiari": "Non specificati nel testo accessibile (probabili enti pubblici/associazioni culturali, da verificare sull'avviso integrale)",
     "importo": "Non specificato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-10",
     "scadenza_testo": "10 novembre 2026, ore 23:59",
-    "giorni": 0,
+    "giorni": null,
     "checklist": [
       "Verificare requisiti di ammissibilità e beneficiari ammessi sull'avviso integrale"
     ],
-    "note": "Individuato il 31/10/2026 tramite scansione di Regione Siciliana — Portale Bandi. SCADENZA ENTRO 10 GIORNI: verificare con urgenza i beneficiari ammessi.",
+    "note": "Individuato il 31/10/2026 tramite scansione di Regione Siciliana — Portale Bandi. SCADENZA ENTRO 10 GIORNI: verificare con urgenza i beneficiari ammessi. AGGIORNAMENTO 2026-11-13: scadenza (10/11/2026) confermata passata, il bando non compare più tra i bandi correnti del portale regionale; chiuso.",
     "fonte": "Regione Siciliana — Portale Bandi",
     "link": "https://www.regione.sicilia.it/istituzioni/servizi-informativi/bandi/avviso-valorizzazione-eccellenze-territorio-siciliano-occasione-millenium-2027-anno-europeo-normanni",
     "tag": [
@@ -6505,7 +6505,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Beneficiari ammessi non specificati nel testo accessibile; verificare se aperto a comuni/associazioni culturali.",
-    "aggiornato_il": "2026-10-31"
+    "aggiornato_il": "2026-11-13"
   },
   {
     "id": "scu-filoneautofinanziato-3767posti",
@@ -6521,13 +6521,13 @@
     "stato": "aperto",
     "scadenza": "2026-11-13",
     "scadenza_testo": "13 novembre 2026, ore 14:00",
-    "giorni": 3,
+    "giorni": 0,
     "checklist": [
       "Accreditamento SCU dell'ente",
       "Progetto autofinanziato di servizio civile",
       "Verifica requisiti su piattaforma scelgoilserviziocivile.gov.it"
     ],
-    "note": "CORREZIONE 2026-11-10: il bando era stato segnato come chiuso (scadenza ritenuta 06/11/2026), ma il sito ufficiale scelgoilserviziocivile.gov.it conferma scadenza reale 13/11/2026 ore 14:00, ancora aperto. Distinto dal bando SCU principale 2026 (scu-2026, già chiuso il 30/09/2026).",
+    "note": "CORREZIONE 2026-11-13 (verifica diretta): questa mattina (ore 08:12 CET) ho letto direttamente la pagina ufficiale scelgoilserviziocivile.gov.it/leggi-il-bando/, che mostra testualmente: \"Affrettati, hai tempo fino alle ore 14:00 del 13 novembre 2026\". La scadenza 13/11 ore 14:00 tracciata dal ciclo del 10/11/2026 è quindi CONFERMATA corretta. In questo stesso ciclo, prima di questa verifica diretta, un subagent aveva segnalato (sulla base di 4 fonti giornalistiche indirette convergenti: orizzontescuola.it, tecnicadellascuola.it, studenti.it, informazionefiscale.it, tutte con robots.txt impossibile da verificare direttamente) una scadenza alternativa al 06/11/2026, che a questo punto risulta ERRATA o relativa a un sotto-termine diverso (es. una finestra di prenotazione precedente): il sito ufficiale, letto in tempo reale oggi stesso prima delle 14:00, resta la fonte primaria e prevale. Bando ancora aperto al momento della verifica (08:12 CET), scade oggi stesso alle 14:00. Distinto dal bando SCU principale 2026 (scu-2026, già chiuso il 30/09/2026).",
     "fonte": "Scelgo il Servizio Civile — Il Bando",
     "link": "https://www.scelgoilserviziocivile.gov.it/leggi-il-bando/",
     "tag": [
@@ -6540,7 +6540,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-11-10"
+    "aggiornato_il": "2026-11-13"
   },
   {
     "id": "eu-libertamedia-rapidresponse",
@@ -6556,7 +6556,7 @@
     "stato": "aperto",
     "scadenza": "2027-01-27",
     "scadenza_testo": "27 gennaio 2027",
-    "giorni": 78,
+    "giorni": 75,
     "checklist": [],
     "note": "Individuato su Infobandi CSVnet. Tema molto specifico, poco compatibile col profilo tipico comuni/ETS generalisti.",
     "fonte": "Infobandi CSVnet",
@@ -6586,7 +6586,7 @@
     "stato": "aperto",
     "scadenza": "2027-02-04",
     "scadenza_testo": "4 febbraio 2027",
-    "giorni": 86,
+    "giorni": 83,
     "checklist": [],
     "note": "Individuato su Infobandi CSVnet.",
     "fonte": "Infobandi CSVnet",
@@ -6615,7 +6615,7 @@
     "stato": "aperto",
     "scadenza": "2027-02-24",
     "scadenza_testo": "24 febbraio 2027",
-    "giorni": 106,
+    "giorni": 103,
     "checklist": [],
     "note": "Individuato su Infobandi CSVnet.",
     "fonte": "Infobandi CSVnet",
@@ -6675,7 +6675,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-28",
     "scadenza_testo": "dalle 15:00 del 28/10/2026 alle 12:00 del 28/11/2026",
-    "giorni": 18,
+    "giorni": 15,
     "checklist": [],
     "note": "ETS/associazioni possono partecipare solo come partner; il capofila deve essere un Organismo Sportivo riconosciuto CONI.",
     "fonte": "Sport e Salute S.p.A. — Bandi e Avvisi",
@@ -6887,7 +6887,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-02",
     "scadenza_testo": "Prorogato alle ore 23:59 del 02/12/2026 (Decreto dirigenziale n. 427 del 30/10/2026); termine originario 02/11/2026",
-    "giorni": 22,
+    "giorni": 19,
     "checklist": [
       "Iscrizione RUNTS",
       "Costituzione rete ATS (ETS capofila + Ambito territoriale + ASL/distretto sanitario + soggetti autorizzati ai servizi per il lavoro)",
@@ -6953,7 +6953,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-11",
     "scadenza_testo": "11 dic 2026",
-    "giorni": 31,
+    "giorni": 28,
     "checklist": [
       "Verificare testo integrale per beneficiari ammissibili e modulistica"
     ],
@@ -6983,7 +6983,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-13",
     "scadenza_testo": "13/11/2026 ore 12:00",
-    "giorni": 3,
+    "giorni": 0,
     "checklist": [
       "Verificare beneficiari e modulistica tramite il portale DOMINO bandiavvisi.regione.lazio.it"
     ],
@@ -7013,7 +7013,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-18",
     "scadenza_testo": "18/11/2026 ore 12:00",
-    "giorni": 8,
+    "giorni": 5,
     "checklist": [
       "Verificare beneficiari e requisiti tramite il portale DOMINO bandiavvisi.regione.lazio.it"
     ],
@@ -7043,7 +7043,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-18",
     "scadenza_testo": "18/11/2026 ore 12:00",
-    "giorni": 8,
+    "giorni": 5,
     "checklist": [
       "Verificare beneficiari e requisiti tramite il portale DOMINO bandiavvisi.regione.lazio.it"
     ],
@@ -7073,7 +7073,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-16",
     "scadenza_testo": "16/11/2026 ore 12:00 (domande dal 15/10/2026)",
-    "giorni": 6,
+    "giorni": 3,
     "checklist": [
       "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
     ],
@@ -7104,7 +7104,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-19",
     "scadenza_testo": "19/11/2026 ore 12:00 (domande dal 29/10/2026)",
-    "giorni": 9,
+    "giorni": 6,
     "checklist": [
       "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
     ],
@@ -7134,7 +7134,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-01",
     "scadenza_testo": "01/12/2026 ore 12:00 (domande dal 29/10/2026)",
-    "giorni": 21,
+    "giorni": 18,
     "checklist": [
       "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
     ],
@@ -7314,7 +7314,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-16",
     "scadenza_testo": "16/11/2026 ore 12:00 (domande dal 19/10/2026)",
-    "giorni": 6,
+    "giorni": 3,
     "checklist": [
       "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
     ],
@@ -7466,7 +7466,7 @@
     "stato": "aperto",
     "scadenza": "2027-12-31",
     "scadenza_testo": "Bando a sportello continuativo dal 01/01/2026 al 31/12/2027",
-    "giorni": 416,
+    "giorni": 413,
     "checklist": [
       "Aprire il dettaglio sul portale bandi.regione.piemonte.it per scadenza, importo e beneficiari precisi"
     ],
@@ -7496,7 +7496,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-30",
     "scadenza_testo": "30 novembre 2026",
-    "giorni": 20,
+    "giorni": 17,
     "checklist": [
       "Modulo online 'presenta un progetto' su 8xmille.induismo.it"
     ],
@@ -7528,7 +7528,7 @@
     "stato": "aperto",
     "scadenza": "2027-01-20",
     "scadenza_testo": "20 gennaio 2027",
-    "giorni": 71,
+    "giorni": 68,
     "checklist": [
       "Consorzio di almeno 3 soggetti di 3 Paesi diversi; portale Funding & Tender"
     ],
@@ -7912,7 +7912,7 @@
     "ruolo": "assistenza_rup",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Riguarda la Campania, partenariati multi-ente ETS+PA, fase di progettazione esecutiva assistita: ottimo fit.",
-    "giorni": 30,
+    "giorni": 27,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -7980,7 +7980,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Verificare se ammesse ETS campane prima di proporsi ai clienti; scadenza ravvicinata.",
-    "giorni": 3,
+    "giorni": 0,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8011,7 +8011,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Territorialmente limitato alla Lombardia; incluso per completezza di monitoraggio.",
-    "giorni": 30,
+    "giorni": 27,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8043,7 +8043,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Premio a persona fisica/azienda, non coerente col modello di servizio dello studio.",
-    "giorni": 21,
+    "giorni": 18,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8104,7 +8104,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Fuori ambito territoriale per lo studio; incluso per completezza.",
-    "giorni": 38,
+    "giorni": 35,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8139,7 +8139,7 @@
     "ruolo": "assistenza_rup",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "giorni": 324,
+    "giorni": 321,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8234,7 +8234,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Settore di nicchia (predazione lupo in malga).",
-    "giorni": 13,
+    "giorni": 10,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8263,7 +8263,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Non è una nuova finestra di finanziamento, solo proroga amministrativa.",
-    "giorni": 49,
+    "giorni": 46,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8292,7 +8292,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "giorni": 20,
+    "giorni": 17,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8321,7 +8321,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Nicchia molto specifica, nessun contributo economico in palio.",
-    "giorni": 14,
+    "giorni": 11,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8350,7 +8350,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "giorni": 13,
+    "giorni": 10,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8379,7 +8379,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "giorni": 13,
+    "giorni": 10,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8407,7 +8407,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "giorni": 13,
+    "giorni": 10,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8435,7 +8435,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Destinatari probabilmente Federazioni/Comitati, meno tipicamente piccole associazioni locali.",
-    "giorni": 13,
+    "giorni": 10,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8463,7 +8463,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Probabilmente rivolto a Comitati Regionali/Federazioni più che a piccole associazioni.",
-    "giorni": 13,
+    "giorni": 10,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8492,7 +8492,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "giorni": 13,
+    "giorni": 10,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8521,7 +8521,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "giorni": 13,
+    "giorni": 10,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8550,7 +8550,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "giorni": 13,
+    "giorni": 10,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8635,7 +8635,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Importo contenuto, procedura semplice, probabilmente poco bisognosa di supporto tecnico.",
-    "giorni": 14,
+    "giorni": 11,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8720,7 +8720,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Beneficiari sono spesso Enti Parco dedicati, non Comuni/ETS generici.",
-    "giorni": 22,
+    "giorni": 19,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8777,7 +8777,7 @@
     "ruolo": "assistenza_rup",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Bando riservato ai Comuni, appena pubblicato.",
-    "giorni": 29,
+    "giorni": 26,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8810,7 +8810,7 @@
     "ruolo": "assistenza_rup",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Pertinenza alta: rivolto direttamente ai Comuni; limite principale è la scadenza ravvicinata.",
-    "giorni": 3,
+    "giorni": 0,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8846,7 +8846,7 @@
     "ruolo": "assistenza_rup",
     "pertinenza_bassa": false,
     "nota_pertinenza": "ETS capofila richiesto, importo rilevante, HUB previsto proprio in provincia di Salerno: massima pertinenza.",
-    "giorni": 22,
+    "giorni": 19,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8875,7 +8875,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Finanziamento diretto a persone fisiche, non a comuni/ETS/associazioni in quanto tali.",
-    "giorni": 17,
+    "giorni": 14,
     "aggiornato_il": "2026-11-05"
   },
   {
@@ -8892,7 +8892,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-04",
     "scadenza_testo": "04/12/2026",
-    "giorni": 24,
+    "giorni": 21,
     "checklist": [
       "Verificare requisiti di ammissibilita e modulistica sul portale bandiavvisi.regione.lazio.it",
       "Delibera di giunta/consiglio comunale di adesione"
@@ -8955,7 +8955,7 @@
     "stato": "aperto",
     "scadenza": "2026-12-04",
     "scadenza_testo": "04/12/2026",
-    "giorni": 24,
+    "giorni": 21,
     "checklist": [],
     "note": "Premio internazionale per attività già svolte, non per nuovi progetti da redigere.",
     "fonte": "Infobandi CSVnet",
@@ -8985,7 +8985,7 @@
     "stato": "aperto",
     "scadenza": "2027-02-16",
     "scadenza_testo": "16/02/2027",
-    "giorni": 98,
+    "giorni": 95,
     "checklist": [],
     "note": "Distinto da fondcattolica-intrapresasociale2026 e da duemari-fondazionecattolica già tracciati (altri bandi della stessa fondazione).",
     "fonte": "Infobandi CSVnet",
@@ -9015,7 +9015,7 @@
     "stato": "aperto",
     "scadenza": "2027-02-24",
     "scadenza_testo": "24/02/2027",
-    "giorni": 106,
+    "giorni": 103,
     "checklist": [],
     "note": "Meccanismo a cascata: il bando seleziona intermediari, non singoli progetti direttamente.",
     "fonte": "Infobandi CSVnet",
@@ -9044,7 +9044,7 @@
     "stato": "aperto",
     "scadenza": "2027-03-04",
     "scadenza_testo": "04/03/2027",
-    "giorni": 114,
+    "giorni": 111,
     "checklist": [],
     "note": "",
     "fonte": "Infobandi CSVnet",
@@ -9072,7 +9072,7 @@
     "stato": "aperto",
     "scadenza": "2027-04-30",
     "scadenza_testo": "30/04/2027",
-    "giorni": 171,
+    "giorni": 168,
     "checklist": [],
     "note": "",
     "fonte": "Infobandi CSVnet",
@@ -9131,7 +9131,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-30",
     "scadenza_testo": "Istanze dalle ore 12:00 del 10/11/2026 alle ore 12:00 del 30/11/2026, tramite istanzedigitali.mit.gov.it",
-    "giorni": 20,
+    "giorni": 17,
     "checklist": [
       "Verificare che il Comune non abbia già beneficiato del Fondo (o solo parzialmente <50%)",
       "Presentazione istanza su istanzedigitali.mit.gov.it",
@@ -9163,7 +9163,7 @@
     "stato": "aperto",
     "scadenza": "2026-11-23",
     "scadenza_testo": "Domande via PEC a parcosila@pec.it entro le ore 18:00 del 23 novembre 2026",
-    "giorni": 13,
+    "giorni": 10,
     "checklist": [
       "Programma di viaggio di uno o più giorni nel Parco",
       "Domanda con allegati via PEC a parcosila@pec.it"
@@ -9195,7 +9195,7 @@
     "stato": "aperto",
     "scadenza": "2027-03-30",
     "scadenza_testo": "Candidatura su piattaforma ROL entro il 30 marzo 2027",
-    "giorni": 141,
+    "giorni": 137,
     "checklist": [
       "Verificare sede operativa in Piemonte e requisiti di esperienza quinquennale",
       "Candidatura su piattaforma ROL"
@@ -9212,5 +9212,234 @@
     "pertinenza_bassa": true,
     "nota_pertinenza": "Requisito di sede operativa in Piemonte riduce fortemente l'applicabilità per lo studio (sede in Campania); incluso per completezza del monitoraggio nazionale fondazioni bancarie.",
     "aggiornato_il": "2026-11-10"
+  },
+  {
+    "id": "supernova-arci-energiaspazicisud",
+    "titolo": "SuperNova — Energia per nuovi spazi associativi al Sud",
+    "ente": "Arci, Acli, Mcl, Legambiente — con il sostegno di Fondazione con il Sud",
+    "oggetto": "Contributi a fondo perduto per aprire un nuovo circolo associativo o rilanciarne uno esistente nel Sud Italia, con due percorsi (Start-up per gruppi informali di almeno 7 persone; Potenziamento per associazioni già costituite), accompagnati da formazione e tutoraggio.",
+    "area_testo": "Basilicata, Calabria, Campania, Molise, Puglia, Sardegna, Sicilia",
+    "regioni": [
+      "Basilicata",
+      "Calabria",
+      "Campania",
+      "Molise",
+      "Puglia",
+      "Sardegna",
+      "Sicilia"
+    ],
+    "beneficiari": "Gruppi informali di almeno 7 persone e associazioni/enti del terzo settore già costituiti, nelle regioni del Sud Italia",
+    "importo": "Budget totale 528.000 €; contributi a fondo perduto da 3.000 a 20.000 € per progetto",
+    "stato": "aperto",
+    "scadenza": "2026-12-03",
+    "scadenza_testo": "3 dicembre 2026, ore 13:00",
+    "giorni": 20,
+    "checklist": [
+      "Verificare requisiti (gruppo informale ≥7 persone o associazione costituita)",
+      "Scegliere il percorso Start-up o Potenziamento",
+      "Predisporre proposta progettuale e piano di utilizzo del contributo"
+    ],
+    "note": "Individuato il 13/11/2026 tramite ricerca mirata. Campania inclusa tra le regioni ammesse: target pienamente compatibile con il profilo clienti dello studio (associazioni/ETS).",
+    "fonte": "Ricerca mirata PNRR/regionali",
+    "link": "https://www.arci.it/bando-supernova",
+    "tag": [
+      "terzo-settore-generico",
+      "volontariato",
+      "impresa-sociale"
+    ],
+    "punteggio": 5,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-11-13"
+  },
+  {
+    "id": "csp-ia-economiasociale",
+    "titolo": "Bando per lo sviluppo di strategie e percorsi di uso responsabile e sicuro dell'intelligenza artificiale nell'economia sociale",
+    "ente": "Compagnia di San Paolo",
+    "oggetto": "Sostegno a progetti di enti del terzo settore/economia sociale per l'adozione responsabile e sicura dell'intelligenza artificiale nelle proprie attività.",
+    "area_testo": "Piemonte, Liguria (area di intervento tipica della Compagnia di San Paolo)",
+    "regioni": [
+      "Piemonte",
+      "Liguria"
+    ],
+    "beneficiari": "Enti del terzo settore/economia sociale (da confermare nel dettaglio sul bando integrale)",
+    "importo": "Non specificato nel testo sintetico disponibile",
+    "stato": "aperto",
+    "scadenza": "2026-12-18",
+    "scadenza_testo": "18 dicembre 2026",
+    "giorni": 35,
+    "checklist": [
+      "Verificare beneficiari ammessi e requisiti sul bando integrale"
+    ],
+    "note": "Individuato il 13/11/2026 su compagniadisanpaolo.it, area Contributi. Beneficiari e importo da confermare sul testo integrale.",
+    "fonte": "Compagnia di San Paolo — Contributi",
+    "link": "https://www.compagniadisanpaolo.it/it/cosa-facciamo/contributi/",
+    "tag": [
+      "inclusione-digitale",
+      "impresa-sociale",
+      "terzo-settore-generico"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Area di intervento tipica Piemonte/Liguria, lontana dalla sede operativa dello studio (Campania); beneficiari ammessi da confermare.",
+    "aggiornato_il": "2026-11-13"
+  },
+  {
+    "id": "csp-festivalpartecipativi2027",
+    "titolo": "Festival partecipativi 2027",
+    "ente": "Compagnia di San Paolo",
+    "oggetto": "Linee guida per il sostegno a festival partecipativi (culturali/di comunità) nell'edizione 2027.",
+    "area_testo": "Piemonte, Liguria (area di intervento tipica della Compagnia di San Paolo)",
+    "regioni": [
+      "Piemonte",
+      "Liguria"
+    ],
+    "beneficiari": "Enti organizzatori di festival partecipativi (da confermare sul bando integrale)",
+    "importo": "Non specificato nel testo sintetico disponibile",
+    "stato": "aperto",
+    "scadenza": "2027-04-05",
+    "scadenza_testo": "5 aprile 2027",
+    "giorni": 143,
+    "checklist": [
+      "Verificare beneficiari ammessi e requisiti sul bando integrale"
+    ],
+    "note": "Individuato il 13/11/2026 su compagniadisanpaolo.it, area Contributi.",
+    "fonte": "Compagnia di San Paolo — Contributi",
+    "link": "https://www.compagniadisanpaolo.it/it/cosa-facciamo/contributi/",
+    "tag": [
+      "musica-cultura",
+      "giovani",
+      "terzo-settore-generico"
+    ],
+    "punteggio": 1,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Area di intervento Piemonte/Liguria, lontana dalla sede operativa dello studio; natura del bando (festival) poco compatibile col tipo di assistenza offerto.",
+    "aggiornato_il": "2026-11-13"
+  },
+  {
+    "id": "csp-alleanzeeducative-06",
+    "titolo": "Alleanze ad alta intensità educativa",
+    "ente": "Compagnia di San Paolo",
+    "oggetto": "Linee guida 06 per il sostegno ad alleanze educative ad alta intensità tra enti del territorio per il contrasto alla povertà educativa.",
+    "area_testo": "Piemonte, Liguria (area di intervento tipica della Compagnia di San Paolo)",
+    "regioni": [
+      "Piemonte",
+      "Liguria"
+    ],
+    "beneficiari": "Reti/alleanze di enti del terzo settore e scuole (da confermare sul bando integrale)",
+    "importo": "Non specificato nel testo sintetico disponibile",
+    "stato": "aperto",
+    "scadenza": "2029-06-30",
+    "scadenza_testo": "30 giugno 2029",
+    "giorni": 960,
+    "checklist": [
+      "Verificare beneficiari ammessi e requisiti sul bando integrale"
+    ],
+    "note": "Individuato il 13/11/2026 su compagniadisanpaolo.it, area Contributi. Scadenza molto lontana (programma pluriennale).",
+    "fonte": "Compagnia di San Paolo — Contributi",
+    "link": "https://www.compagniadisanpaolo.it/it/cosa-facciamo/contributi/",
+    "tag": [
+      "poverta-educativa",
+      "istruzione-formazione"
+    ],
+    "punteggio": 1,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Area di intervento Piemonte/Liguria, lontana dalla sede operativa dello studio.",
+    "aggiornato_il": "2026-11-13"
+  },
+  {
+    "id": "lombardia-caniguida-nonvedenti2026",
+    "titolo": "Assegnazione di contributi alle associazioni che forniscono gratuitamente ai non vedenti lombardi cani guida appositamente addestrati — Anno 2026",
+    "ente": "Regione Lombardia",
+    "oggetto": "Contributi alle associazioni che forniscono gratuitamente cani guida addestrati a persone non vedenti residenti in Lombardia.",
+    "area_testo": "Lombardia",
+    "regioni": [
+      "Lombardia"
+    ],
+    "beneficiari": "Associazioni/enti RUNTS specializzati nella fornitura di cani guida per non vedenti",
+    "importo": "Non specificato",
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non indicata",
+    "giorni": null,
+    "checklist": [],
+    "note": "Individuato il 13/11/2026 su CSV Lombardia. Ambito molto specifico (associazioni cani guida), solo Lombardia.",
+    "fonte": "CSV Lombardia",
+    "link": "https://www.csvlombardia.it/lombardia/post/assegnazione-di-contributi-alle-associazioni-che-forniscono-gratuitamente-ai-non-vedenti-lombardi-cani-guida-appositamente-addestrati-anno-2026/",
+    "tag": [
+      "disabilita",
+      "volontariato"
+    ],
+    "punteggio": 1,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Solo Lombardia, lontano dalla sede operativa dello studio; ambito molto specifico (cani guida per non vedenti).",
+    "aggiornato_il": "2026-11-13"
+  },
+  {
+    "id": "lazio-costruirefuturo-previdenziale-detenuti2026",
+    "titolo": "Avviso pubblico COSTRUIRE FUTURO: interventi di supporto previdenziale e socio-assistenziale per detenuti nel Lazio — Edizione 2026",
+    "ente": "Regione Lazio",
+    "oggetto": "Interventi di supporto previdenziale e socio-assistenziale a favore di persone detenute negli istituti penitenziari del Lazio, nell'ambito del programma regionale Costruire Futuro 2026.",
+    "area_testo": "Lazio",
+    "regioni": [
+      "Lazio"
+    ],
+    "beneficiari": "Da verificare (probabile coinvolgimento di ETS/cooperative sociali operanti in ambito penitenziario, sul modello delle altre componenti di Costruire Futuro 2026)",
+    "importo": "Non specificato nell'elenco avvisi",
+    "stato": "aperto",
+    "scadenza": "2026-11-27",
+    "scadenza_testo": "27/11/2026 ore 12:00",
+    "giorni": 14,
+    "checklist": [
+      "Verificare beneficiari e modulistica sul portale bandiavvisi.regione.lazio.it"
+    ],
+    "note": "Individuato il 13/11/2026 via browser diretto su bandiavvisi.regione.lazio.it (apertura 13/11/2026). Componente 'previdenziale/socio-assistenziale' di Costruire Futuro 2026, distinta dalla componente odontoiatrica già tracciata (lazio-costruirefuturo-odontoiatria2026).",
+    "fonte": "Regione Lazio — Bandi e Avvisi (bandiavvisi.regione.lazio.it)",
+    "link": "https://bandiavvisi.regione.lazio.it/bandiavvisi/",
+    "tag": [
+      "giustizia-riparativa-reinserimento"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiari non confermati; probabile ambito socio-assistenziale/previdenziale più che tecnico-edile.",
+    "aggiornato_il": "2026-11-13"
+  },
+  {
+    "id": "lazio-termovalorizzazione-comuni2026",
+    "titolo": "Avviso pubblico per concessione di contributi ai Comuni interessati dalla presenza di impianti di termovalorizzazione e smaltimento dei rifiuti per opere pubbliche di interesse locale",
+    "ente": "Regione Lazio",
+    "oggetto": "Contributi ai Comuni del Lazio interessati dalla presenza di impianti di termovalorizzazione e smaltimento dei rifiuti, per la realizzazione di opere pubbliche di interesse locale (art. 39-ter L.R. 27/1998, DGR 593 del 16/07/2026).",
+    "area_testo": "Lazio (comuni con impianti di termovalorizzazione/smaltimento rifiuti)",
+    "regioni": [
+      "Lazio"
+    ],
+    "beneficiari": "Comuni del Lazio interessati dalla presenza sul proprio territorio di impianti di termovalorizzazione/smaltimento rifiuti",
+    "importo": "Non specificato nell'elenco avvisi",
+    "stato": "aperto",
+    "scadenza": "2026-12-10",
+    "scadenza_testo": "10/12/2026 ore 23:59",
+    "giorni": 27,
+    "checklist": [
+      "Verificare requisiti di ammissibilità e modulistica sul portale bandiavvisi.regione.lazio.it",
+      "Delibera di giunta/consiglio comunale di adesione"
+    ],
+    "note": "Individuato il 13/11/2026 via browser diretto su bandiavvisi.regione.lazio.it (apertura 10/11/2026). Beneficiario diretto: Comuni — pertinenza alta per assistenza tecnica/RUP.",
+    "fonte": "Regione Lazio — Bandi e Avvisi (bandiavvisi.regione.lazio.it)",
+    "link": "https://bandiavvisi.regione.lazio.it/bandiavvisi/",
+    "tag": [
+      "rifiuti-raccolta-differenziata",
+      "immobili-pubblici"
+    ],
+    "punteggio": 4,
+    "ruolo": "assistenza_rup",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-11-13"
   }
 ]

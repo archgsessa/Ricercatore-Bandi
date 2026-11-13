@@ -1,70 +1,79 @@
 {
-  "ultima_verifica": "2026-11-10T15:34:00+01:00",
+  "ultima_verifica": "2026-11-13T08:30:00+01:00",
   "fonti_saltate": [
     {
-      "id": "mic-portalebandidgcc",
-      "motivo": "Login wall SPID/CIE confermato nei cicli precedenti; non riverificato in questo ciclo."
+      "id": "scelgoilserviziocivile-bando",
+      "motivo": "Risolta con verifica diretta via browser in questo ciclo (vedi nota sul bando scu-filoneautofinanziato-3767posti): fetch statico/ricerca Google restano bloccati da robots.txt, compensati con browser diretto."
     },
     {
-      "id": "europaconcorsi",
-      "motivo": "Richiede sessione autenticata; non disponibile in questo ciclo."
+      "id": "politichegiovanili-avvisi",
+      "motivo": "robots.txt blocca il fetch statico; nessuna alternativa trovata oltre ai PDF già noti (Fabbrica, RETE)."
     },
     {
-      "id": "pnrr-istruzione-avvisi",
-      "motivo": "Contenuto non renderizzato dal browser in questo ciclo (solo filtri visibili, lista elementi non caricata); nessuna novità rilevata negli esiti pregressi."
+      "id": "anci-nazionale",
+      "motivo": "robots.txt blocca sistematicamente il fetch statico; dati su anci-conai-comunicazionelocale2026 ricavati tramite rilanci terzi (segretaricomunalivighenzi.it, lentepubblica.it)."
     },
     {
-      "id": "ministeroturismo-enti-territoriali",
-      "motivo": "Pagina priva di contenuto reale (solo header/footer) al momento della verifica in questo ciclo; possibile problema temporaneo del sito, da riverificare al prossimo ciclo."
+      "id": "mase-bandi-avvisi",
+      "motivo": "client_error sia su /bandi-e-avvisi che su /comuni-progetti-di-efficientamento-energetico-e-sviluppo-territoriale; nessuna novità rilevante trovata con ricerca alternativa."
     },
     {
-      "id": "regione-veneto-bandi-avvisi-concorsi",
-      "motivo": "Portale bandi.regione.veneto.it/Public/Elenco raggiunto e navigabile ma estrazione sistematica non completata (243 risultati generici su ricerca testuale, filtri categoria non impostabili in tempi ragionevoli); da riprendere in un prossimo ciclo con ricerca per idAtto."
+      "id": "interno-finanza-locale",
+      "motivo": "client_error su dait.interno.gov.it/finanza-locale/documentazione; nessuna novità trovata con ricerca alternativa."
+    },
+    {
+      "id": "regione-basilicata-portale-bandi",
+      "motivo": "Bloccato da robots.txt per fetch statico; browser Chrome (claude-in-chrome) non disponibile in questa sessione per la verifica alternativa."
+    },
+    {
+      "id": "regione-veneto-bandi",
+      "motivo": "Contenuto caricato via JavaScript, non renderizzato da fetch statico; browser Chrome non disponibile in questa sessione."
+    },
+    {
+      "id": "regione-emiliaromagna-sociale-bandi",
+      "motivo": "Contenuto caricato via JavaScript, non renderizzato da fetch statico; browser Chrome non disponibile in questa sessione. Segnalato (non confermato) un possibile nuovo 'Bando 2026 dell'Assemblea Legislativa LR 5/2015' per enti locali/APS/OdV su bur.regione.emilia-romagna.it, data di pubblicazione incerta: da verificare con priorità nel prossimo ciclo."
+    },
+    {
+      "id": "fondazione-cariplo-bandi",
+      "motivo": "Errore client sul fetch diretto; browser Chrome non disponibile in questa sessione per la verifica alternativa."
+    },
+    {
+      "id": "regione-lombardia-bandi-terzo-settore",
+      "motivo": "Verificata solo la prima pagina di circa 14 (fetch statico); non è stato possibile raggiungere le pagine successive né confermare lo stato di lombardia-comunicasenzabarriere2628 e lombardia-coprogettazione-pft-disabilita (scadenza 13/11/2026)."
+    },
+    {
+      "id": "regione-piemonte-portale-bandi",
+      "motivo": "Verificato parzialmente via fetch statico: 30 risultati nel filtro Terzo Settore/Aperto contro i 34 noti dal ciclo precedente. Discrepanza non chiarita (possibili bandi scaduti nel frattempo); da riverificare con browser nel prossimo ciclo."
+    },
+    {
+      "id": "regione-sicilia-bandi",
+      "motivo": "Verificato solo parzialmente (prima pagina di molte, su totale 988 risultati non filtrabile efficacemente)."
+    },
+    {
+      "id": "professionearchitetto-concorsi",
+      "motivo": "Verificata solo la prima pagina di 7; nessuno degli 8 concorsi pertinente (tutti concorsi di progettazione diretti, correttamente esclusi)."
+    },
+    {
+      "id": "csv-salerno",
+      "motivo": "Il bottone 'Carica altre notizie' non è azionabile da fetch statico; letti solo i 16 post visibili senza paginazione dinamica."
+    },
+    {
+      "id": "fondazione-banco-napoli",
+      "motivo": "L'URL tracciato (?page_id=11388) non è più raggiungibile; struttura del sito cambiata (nuove pagine /avviso-straordinario-2026/, /avviso-n-1-2025/, /contributi-a-sportello/, tutte senza bandi attualmente aperti). URL da aggiornare in un prossimo ciclo di manutenzione fonti (Sezione B)."
     }
   ],
   "nuovi": [
-    {
-      "id": "cn-eraseindifference2026",
-      "dal": "2026-11-10"
-    },
-    {
-      "id": "cn-unamanochisostiene2627",
-      "dal": "2026-11-10"
-    },
-    {
-      "id": "cn-supportoosc-valoriue",
-      "dal": "2026-11-10"
-    },
-    {
-      "id": "cn-formazionegiustizia-professionisti",
-      "dal": "2026-11-10"
-    },
-    {
-      "id": "cn-culturemoveseurope",
-      "dal": "2026-11-10"
-    },
-    {
-      "id": "sc-giovaniincomune-3ed",
-      "dal": "2026-11-10"
-    },
-    {
-      "id": "mit-fondopiccolicomuni-strade2026",
-      "dal": "2026-11-10"
-    },
-    {
-      "id": "cosenza-parconazionalesila-turismo-terzaeta-disabili",
-      "dal": "2026-11-10"
-    },
-    {
-      "id": "csp-scelte-future-piemonte",
-      "dal": "2026-11-10"
-    }
+    { "id": "supernova-arci-energiaspazicisud", "dal": "2026-11-13" },
+    { "id": "csp-ia-economiasociale", "dal": "2026-11-13" },
+    { "id": "csp-festivalpartecipativi2027", "dal": "2026-11-13" },
+    { "id": "csp-alleanzeeducative-06", "dal": "2026-11-13" },
+    { "id": "lombardia-caniguida-nonvedenti2026", "dal": "2026-11-13" },
+    { "id": "lazio-costruirefuturo-previdenziale-detenuti2026", "dal": "2026-11-13" },
+    { "id": "lazio-termovalorizzazione-comuni2026", "dal": "2026-11-13" }
   ],
   "chiusi": [
-    {
-      "id": "lazio-vittime-criminalita-ristoro-danni",
-      "dal": "2026-11-10"
-    }
+    { "id": "mic-leggimi06-9ed", "dal": "2026-11-13" },
+    { "id": "sicilia-millennium2027-normanni", "dal": "2026-11-13" }
   ],
-  "note_ciclo": "Secondo ciclo del task unificato. SEZIONE A: scansione completa Infobandi CSVnet (5 pagine, 41 bandi attivi, 5 novita testuali/4 genuinamente nuove), Fondazione con il Sud, Fondazione CDP, CSV Lombardia, Sviluppo Campania, professionearchitetto.it/concorsi, ricerca PNRR/statale generica; verifica browser di 14 fonti regionali/ministeriali note per blocchi anti-bot/JS (Lombardia, Lazio, Campania, Emilia-Romagna, Piemonte filtro Terzo Settore/Aperto, Veneto, Basilicata CeBas, Cariplo, CSV Salerno, ANCI, Scelgo il Servizio Civile, MASE x2, Interno Finanza Locale, Sicilia); verifica di 20 fonti aggiuntive ministeriali/fondazioni/CSV (MiC x2, Lavoro, Politiche Giovanili, Sport e Salute, PNRR Istruzione, Turismo, MIT, Invitalia, GSE, Fondazione Sardegna, Carisal, Banco di Napoli, CSV Napoli, CCIAA Napoli, Fondazione Comunita Salernitana, Fondazione CRT, Compagnia di San Paolo, CSV Cosenza, CSV Due Mari RC). Risultato: 9 bandi genuinamente nuovi aggiunti (4 Infobandi CSVnet a bassa pertinenza/premi individuali, 1 Sviluppo Campania dati parziali da verificare, MIT fondo strade piccoli comuni scad. 30/11 molto pertinente, CSV Cosenza Parco Sila scad. 23/11, Compagnia San Paolo Scelte Future Piemonte bassa pertinenza per sede). CORREZIONE rilevante: il bando Servizio Civile Universale 3.767 posti (scu-filoneautofinanziato-3767posti) era stato erroneamente segnato chiuso (scadenza 06/11/2026) nel ciclo precedente; il sito ufficiale conferma scadenza reale 13/11/2026 ore 14:00, ancora aperto — riaperto nei dati con alert a 3 giorni. Ricalcolato il campo giorni per tutti i bandi aperti con scadenza: 1 bando (lazio-vittime-criminalita-ristoro-danni, scad. 09/11/2026) risultato scaduto e aggiornato a chiuso. Data hygiene: normalizzati 19 valori legacy del campo ruolo in formato testo libero (\"Da verificare\", \"Assistenza RUP/supporto tecnico-amministrativo\") ai codici standard (da_verificare, assistenza_rup) usati dal rendering del sito e dalla dashboard Cowork. Aggiunta in modo additivo la voce di vocabolario infrastrutture-viarie (SYNONYMS/MACRO_LABELS in index.html) per il bando MIT sulle strade comunali, tema non ancora coperto. SEZIONE B (ricerca nuove fonti) saltata: ultima_ricerca_fonti 05/11/2026, solo 5 giorni (soglia 14gg non raggiunta, prossima idonea dal 19/11/2026). SEZIONE C (manutenzione vocabolario) saltata: ultima_manutenzione_vocabolario 07/11/2026, solo 3 giorni (soglia 14gg non raggiunta, prossima idonea dal 21/11/2026) — eccetto l aggiunta contestuale di infrastrutture-viarie, fatta in SEZIONE A come richiesto quando un bando introduce un tema nuovo."
+  "note_ciclo": "Terzo ciclo del task unificato (ogni 3 giorni). SEZIONE A: scansione completa Infobandi CSVnet (5 pagine, 41 bandi, nessuna novità/variazione oltre a quanto già tracciato), Fondazione con il Sud, Fondazione CDP (via ricerca web, pagina dinamica JS), CSV Lombardia, Sviluppo Campania, professionearchitetto.it/concorsi (solo pagina 1 di 7), CSV Salerno, CSV Napoli, CCIAA Napoli, Fondazione Comunità Salernitana, Fondazione Carisal, Fondazione Banco di Napoli (URL cambiato), fonti ministeriali/nazionali (MiC, Lavoro, Politiche Giovanili, Sport e Salute, PNRR Istruzione, Turismo, MIT, Invitalia, GSE, MASE, Interno, ANCI, Scelgo il Servizio Civile), verifica browser diretta di scelgoilserviziocivile.gov.it e bandiavvisi.regione.lazio.it (piattaforma Lazio raggiunta con successo via browser, a differenza dei cicli precedenti via fetch statico). Risultato: 7 bandi nuovi aggiunti (SuperNova Arci/Fondazione con il Sud molto pertinente per la Campania, punteggio 5; 3 bandi Compagnia di San Paolo a bassa pertinenza geografica Piemonte/Liguria; 1 bando Lombardia cani guida bassa pertinenza; 2 nuovi avvisi Regione Lazio tramite browser diretto, di cui uno — contributi Comuni termovalorizzazione — con beneficiario diretto Comuni, punteggio 4). 2 bandi chiusi per data hygiene (mic-leggimi06-9ed e sicilia-millennium2027-normanni, scadenze passate confermate senza proroga). CORREZIONE IMPORTANTE gestita con cautela: un subagent aveva inizialmente segnalato (da fonti giornalistiche indirette) che scu-filoneautofinanziato-3767posti fosse in realtà scaduto il 06/11/2026 invece del 13/11/2026 tracciato; prima di applicare la correzione ho verificato DIRETTAMENTE via browser la pagina ufficiale scelgoilserviziocivile.gov.it/leggi-il-bando/ (ore 08:12 CET), che conferma testualmente scadenza 13/11/2026 ore 14:00: il dato tracciato era corretto, la segnalazione indiretta era errata. Bando confermato ancora aperto, in scadenza oggi stesso — alert prioritario in sintesi. Ricalcolato il campo 'giorni' per tutti i 94 bandi aperti con scadenza nota (relativo a oggi 13/11/2026), senza toccare 'aggiornato_il' dove non vi sono altre modifiche di contenuto, secondo la convenzione già in uso nei cicli precedenti. SEZIONE B (ricerca nuove fonti) saltata: ultima_ricerca_fonti 05/11/2026, solo 8 giorni (soglia 14gg non raggiunta, prossima idonea dal 19/11/2026). SEZIONE C (manutenzione vocabolario) saltata: ultima_manutenzione_vocabolario 07/11/2026, solo 6 giorni (soglia 14gg non raggiunta, prossima idonea dal 21/11/2026). Nessun tag nuovo necessario in questo ciclo: tutti i bandi aggiunti si sono potuti classificare con tag già esistenti in SYNONYMS/MACRO_LABELS (verificato programmaticamente: nessun tag orfano). NOTA PER PROSSIMI CICLI: (1) verificare con priorità il possibile bando Emilia-Romagna 'LR 5/2015 bando 2026' (match potenziale 5/5 con enti locali/APS/OdV, ma data di pubblicazione incerta, pagina JS non raggiungibile in questo ciclo); (2) chiarire discrepanza 30 vs 34 bandi nel filtro Piemonte Terzo Settore/Aperto; (3) aggiornare URL fonte Fondazione Banco di Napoli (pagina ?page_id=11388 non più valida); (4) GAL competente per l'Agro Nocerino Sarnese non individuato con questo nome esatto, verificare denominazione corretta in Sezione B."
 }
