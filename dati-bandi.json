@@ -1352,15 +1352,15 @@
     ],
     "beneficiari": "Associazioni ed enti privati senza fini di lucro attivi in Italia.",
     "importo": "Max 30.000 €, non oltre il 50% dei costi",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-13",
     "scadenza_testo": "13 nov 2026",
-    "giorni": 0,
+    "giorni": null,
     "checklist": [
       "Colloquio telefonico preliminare obbligatorio",
       "Piano di sostenibilità economica del progetto"
     ],
-    "note": "Esclusi immobili/attrezzature salvo importi minimi.",
+    "note": "Esclusi immobili/attrezzature salvo importi minimi. Chiuso per scadenza naturale (13/11/2026) rilevata nel ciclo pomeridiano di monitoraggio.",
     "fonte": "Infobandi CSVnet",
     "link": "https://infobandi.csvnet.it/bando-intraprendere-nel-sociale-2026/",
     "tag": [
@@ -1371,7 +1371,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-11-13"
   },
   {
     "id": "lom-manifestazioni2026",
@@ -5409,12 +5409,12 @@
     ],
     "beneficiari": "Comuni fino a 5.000 abitanti.",
     "importo": "Fino a 30.000 € per Comune (dotazione complessiva 1.500.000 €)",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-13",
     "scadenza_testo": "13/11/2026",
-    "giorni": 0,
+    "giorni": null,
     "checklist": [],
-    "note": "",
+    "note": "Chiuso per scadenza naturale (13/11/2026) rilevata nel ciclo pomeridiano di monitoraggio.",
     "fonte": "Regione Lazio — Avvisi e Bandi",
     "link": "https://bandiavvisi.regione.lazio.it/bandiavvisi/",
     "tag": [
@@ -5424,7 +5424,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-19"
+    "aggiornato_il": "2026-11-13"
   },
   {
     "id": "lazio-polizialocaleplus2026",
@@ -5918,15 +5918,15 @@
     ],
     "beneficiari": "Fondazioni, associazioni culturali e altri organismi senza scopo di lucro.",
     "importo": "454.408,75 € totali — max 30.000 € per progetto, fino a esaurimento fondi",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-13",
     "scadenza_testo": "13 novembre 2026, ore 13:00",
-    "giorni": 0,
+    "giorni": null,
     "checklist": [
       "Verificare i criteri di valutazione in Allegato A",
       "Invio online tramite piattaforma bandi.cepell.it"
     ],
-    "note": "Individuato su Ministero della Cultura — Bandi e concorsi.",
+    "note": "Individuato su Ministero della Cultura — Bandi e concorsi. Chiuso per scadenza naturale (13/11/2026) rilevata nel ciclo pomeridiano di monitoraggio.",
     "fonte": "Ministero della Cultura",
     "link": "https://centroperillibro.cultura.gov.it/wp-content/uploads/2026/10/Bando-Educare-alla-lettura_9a-edizione.pdf",
     "tag": [
@@ -5937,7 +5937,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-23"
+    "aggiornato_il": "2026-11-13"
   },
   {
     "id": "mic-fondolettura-biblioteche2026",
@@ -6358,16 +6358,16 @@
     ],
     "beneficiari": "Enti del terzo settore iscritti al RUNTS, tra i più rappresentativi di persone sorde/ipoacusiche/sordocieche in Lombardia, con sede in Lombardia ed esperienza comprovata nel settore.",
     "importo": "Valore complessivo progetto 1.343.526,00 €; contributo a fondo perduto, quota definita a fine coprogettazione.",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-13",
     "scadenza_testo": "Domande online dalle 10:00 del 27/10/2026 alle 12:00 del 13/11/2026",
-    "giorni": 0,
+    "giorni": null,
     "checklist": [
       "Verifica iscrizione RUNTS e rappresentatività nel settore sordità/LIS",
       "Partecipazione al procedimento di coprogettazione ex art. 55 d.lgs. 117/2017",
       "Proposta progettuale e piano economico"
     ],
-    "note": "Platea di beneficiari molto ristretta (ETS più rappresentativi dei sordi in Lombardia, verosimilmente riconducibile a enti come ENS); utile solo se lo studio ha già un rapporto con un ETS del settore disabilità/sordità.",
+    "note": "Platea di beneficiari molto ristretta (ETS più rappresentativi dei sordi in Lombardia, verosimilmente riconducibile a enti come ENS); utile solo se lo studio ha già un rapporto con un ETS del settore disabilità/sordità. Chiuso per scadenza naturale (13/11/2026) rilevata nel ciclo pomeridiano di monitoraggio.",
     "fonte": "Regione Lombardia — Bandi Terzo Settore/Volontariato",
     "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/politiche-sociali/disabilita/comunicare-senza-barriere-2026-2028-RLD12026057543",
     "tag": [
@@ -6377,7 +6377,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Platea di beneficiari molto ristretta (enti rappresentativi dei sordi in Lombardia); difficile un committente generico per lo studio.",
-    "aggiornato_il": "2026-10-29"
+    "aggiornato_il": "2026-11-13"
   },
   {
     "id": "lombardia-coprogettazione-pft-disabilita",
@@ -6390,16 +6390,16 @@
     ],
     "beneficiari": "Federazioni/associazioni del terzo settore partecipanti o invitate permanenti all'Osservatorio nazionale sulla condizione delle persone con disabilità con sede operativa in Lombardia; Università lombarde con esperienza sui temi.",
     "importo": "Valore complessivo progetto 2.972.699,11 €; contributo a fondo perduto, ripartizione definita in coprogettazione.",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-13",
     "scadenza_testo": "Domande online dalle 10:00 del 27/10/2026 alle 12:00 del 13/11/2026 (BURL Serie Ordinaria n. 43 del 21/10/2026)",
-    "giorni": 0,
+    "giorni": null,
     "checklist": [
       "Verifica appartenenza all'Osservatorio nazionale disabilità o status universitario",
       "Partecipazione al procedimento di coprogettazione",
       "Proposta progettuale del Piano Formativo Territoriale"
     ],
-    "note": "Platea di beneficiari estremamente ristretta (federazioni nazionali disabilità iscritte all'Osservatorio nazionale, o università); profilo non compatibile con un tipico committente dello studio.",
+    "note": "Platea di beneficiari estremamente ristretta (federazioni nazionali disabilità iscritte all'Osservatorio nazionale, o università); profilo non compatibile con un tipico committente dello studio. Chiuso per scadenza naturale (13/11/2026) rilevata nel ciclo pomeridiano di monitoraggio.",
     "fonte": "Regione Lombardia — Bandi Terzo Settore/Volontariato",
     "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/politiche-sociali/disabilita/coprogettazione-piano-formativo-territoriale-RLD12026057544",
     "tag": [
@@ -6410,7 +6410,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Beneficiari sono federazioni nazionali disabilità o università, non un comune/ODV/APS locale tipico.",
-    "aggiornato_il": "2026-10-29"
+    "aggiornato_il": "2026-11-13"
   },
   {
     "id": "sicilia-reimar-borghimarinari2026",
@@ -6518,16 +6518,16 @@
     ],
     "beneficiari": "Enti di servizio civile accreditati: enti pubblici (inclusi i Comuni), enti del terzo settore, associazioni che ospitano operatori volontari",
     "importo": "Non indicato (progetti autofinanziati dagli enti proponenti)",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-13",
     "scadenza_testo": "13 novembre 2026, ore 14:00",
-    "giorni": 0,
+    "giorni": null,
     "checklist": [
       "Accreditamento SCU dell'ente",
       "Progetto autofinanziato di servizio civile",
       "Verifica requisiti su piattaforma scelgoilserviziocivile.gov.it"
     ],
-    "note": "CORREZIONE 2026-11-13 (verifica diretta): questa mattina (ore 08:12 CET) ho letto direttamente la pagina ufficiale scelgoilserviziocivile.gov.it/leggi-il-bando/, che mostra testualmente: \"Affrettati, hai tempo fino alle ore 14:00 del 13 novembre 2026\". La scadenza 13/11 ore 14:00 tracciata dal ciclo del 10/11/2026 è quindi CONFERMATA corretta. In questo stesso ciclo, prima di questa verifica diretta, un subagent aveva segnalato (sulla base di 4 fonti giornalistiche indirette convergenti: orizzontescuola.it, tecnicadellascuola.it, studenti.it, informazionefiscale.it, tutte con robots.txt impossibile da verificare direttamente) una scadenza alternativa al 06/11/2026, che a questo punto risulta ERRATA o relativa a un sotto-termine diverso (es. una finestra di prenotazione precedente): il sito ufficiale, letto in tempo reale oggi stesso prima delle 14:00, resta la fonte primaria e prevale. Bando ancora aperto al momento della verifica (08:12 CET), scade oggi stesso alle 14:00. Distinto dal bando SCU principale 2026 (scu-2026, già chiuso il 30/09/2026).",
+    "note": "CORREZIONE 2026-11-13 (verifica diretta): questa mattina (ore 08:12 CET) ho letto direttamente la pagina ufficiale scelgoilserviziocivile.gov.it/leggi-il-bando/, che mostra testualmente: \"Affrettati, hai tempo fino alle ore 14:00 del 13 novembre 2026\". La scadenza 13/11 ore 14:00 tracciata dal ciclo del 10/11/2026 è quindi CONFERMATA corretta. In questo stesso ciclo, prima di questa verifica diretta, un subagent aveva segnalato (sulla base di 4 fonti giornalistiche indirette convergenti: orizzontescuola.it, tecnicadellascuola.it, studenti.it, informazionefiscale.it, tutte con robots.txt impossibile da verificare direttamente) una scadenza alternativa al 06/11/2026, che a questo punto risulta ERRATA o relativa a un sotto-termine diverso (es. una finestra di prenotazione precedente): il sito ufficiale, letto in tempo reale oggi stesso prima delle 14:00, resta la fonte primaria e prevale. Bando ancora aperto al momento della verifica (08:12 CET), scade oggi stesso alle 14:00. Distinto dal bando SCU principale 2026 (scu-2026, già chiuso il 30/09/2026). Chiuso per scadenza naturale (13/11/2026) rilevata nel ciclo pomeridiano di monitoraggio.",
     "fonte": "Scelgo il Servizio Civile — Il Bando",
     "link": "https://www.scelgoilserviziocivile.gov.it/leggi-il-bando/",
     "tag": [
@@ -6980,14 +6980,14 @@
     ],
     "beneficiari": "Da verificare (probabile coinvolgimento di ETS/enti sanitari operanti nel settore penitenziario, sul modello delle precedenti edizioni di Costruire Futuro).",
     "importo": "Da verificare",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-13",
     "scadenza_testo": "13/11/2026 ore 12:00",
-    "giorni": 0,
+    "giorni": null,
     "checklist": [
       "Verificare beneficiari e modulistica tramite il portale DOMINO bandiavvisi.regione.lazio.it"
     ],
-    "note": "Trovato sul portale bandiavvisi.regione.lazio.it (piattaforma DOMINO, 100 avvisi totali), in precedenza inaccessibile via fetch statico. Distinto da 'Costruire Futuro — III edizione' già tracciato come chiuso: qui si tratta della componente odontoiatrica dell'Edizione 2026.",
+    "note": "Trovato sul portale bandiavvisi.regione.lazio.it (piattaforma DOMINO, 100 avvisi totali), in precedenza inaccessibile via fetch statico. Distinto da 'Costruire Futuro — III edizione' già tracciato come chiuso: qui si tratta della componente odontoiatrica dell'Edizione 2026. Chiuso per scadenza naturale (13/11/2026) rilevata nel ciclo pomeridiano di monitoraggio.",
     "fonte": "Regione Lazio — Bandi e Avvisi (bandiavvisi.regione.lazio.it)",
     "link": "https://bandiavvisi.regione.lazio.it/bandiavvisi/",
     "tag": [
@@ -6997,7 +6997,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Beneficiari non confermati; probabile ambito sanitario-penitenziario più che tecnico-edile.",
-    "aggiornato_il": "2026-11-01"
+    "aggiornato_il": "2026-11-13"
   },
   {
     "id": "lazio-sovraindebitamento-usura-art2",
@@ -7961,14 +7961,14 @@
     ],
     "beneficiari": "ETS iscritti RUNTS, enti privati senza scopo di lucro, enti religiosi civilmente riconosciuti",
     "importo": "Max € 30.000 per progetto, cofinanziamento 50% richiesto",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-13",
     "scadenza_testo": "13 novembre 2026, ore 12:00",
     "checklist": [
       "Colloquio telefonico preliminare obbligatorio con la Fondazione",
       "Istruttoria completa per i proponenti ammessi"
     ],
-    "note": "Richiede colloquio preliminare obbligatorio prima della domanda completa.",
+    "note": "Richiede colloquio preliminare obbligatorio prima della domanda completa. Chiuso per scadenza naturale (13/11/2026) rilevata nel ciclo pomeridiano di monitoraggio.",
     "fonte": "CSV Lombardia (segnalazione bando Fondazione Cattolica)",
     "link": "https://www.csvlombardia.it/milano/post/bando-intrapresa-sociale-2026/",
     "tag": [
@@ -7980,8 +7980,8 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Verificare se ammesse ETS campane prima di proporsi ai clienti; scadenza ravvicinata.",
-    "giorni": 0,
-    "aggiornato_il": "2026-11-05"
+    "giorni": null,
+    "aggiornato_il": "2026-11-13"
   },
   {
     "id": "lom-fuoriclasse2026",
@@ -8791,7 +8791,7 @@
     ],
     "beneficiari": "Comuni/enti locali o soggetti da essi delegati",
     "importo": "Budget totale € 1.500.000; contributo massimo € 50.000 a progetto",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-13",
     "scadenza_testo": "13 novembre 2026",
     "checklist": [
@@ -8799,7 +8799,7 @@
       "Progetto di comunicazione locale (attività 2026, rendicontabili fino al 30/09/2027)",
       "Rispetto delle Linee Guida alla Comunicazione Locale 2026"
     ],
-    "note": "Scadenza stretta; utile per comuni con un progetto già pronto o in bozza.",
+    "note": "Scadenza stretta; utile per comuni con un progetto già pronto o in bozza. Chiuso per scadenza naturale (13/11/2026) rilevata nel ciclo pomeridiano di monitoraggio.",
     "fonte": "ANCI (www.anci.it)",
     "link": "https://www.anci.it/rifiuti-pubblicato-il-nuovo-bando-anci-conai-2026-per-la-comunicazione-locale/",
     "tag": [
@@ -8810,8 +8810,8 @@
     "ruolo": "assistenza_rup",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Pertinenza alta: rivolto direttamente ai Comuni; limite principale è la scadenza ravvicinata.",
-    "giorni": 0,
-    "aggiornato_il": "2026-11-05"
+    "giorni": null,
+    "aggiornato_il": "2026-11-13"
   },
   {
     "id": "regcampania-amaes-partenariati2026",
@@ -9440,6 +9440,34 @@
     "ruolo": "assistenza_rup",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
+    "aggiornato_il": "2026-11-13"
+  },
+  {
+    "id": "piemonte-prolocopiemonte2026",
+    "titolo": "Avviso pubblico di finanziamento alle associazioni turistiche Pro Loco del Piemonte - anno 2026",
+    "ente": "Regione Piemonte / Finpiemonte",
+    "oggetto": "Contributi alle associazioni Pro Loco piemontesi per attivita di promozione turistica locale. Bando gestito tramite la piattaforma Finpiemonte, individuato nel portale bandi regionale con filtro Terzo Settore/Aperto.",
+    "area_testo": "Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Associazioni Pro Loco",
+    "importo": null,
+    "stato": "aperto",
+    "scadenza": null,
+    "scadenza_testo": "Non estraibile dalla vista elenco del portale (card senza link diretto); verificare su bandi.regione.piemonte.it o finpiemonte.it",
+    "giorni": null,
+    "checklist": [],
+    "note": "Individuato nel ciclo del 13/11/2026 (pomeriggio) tramite il filtro Terzo Settore+Aperto di bandi.regione.piemonte.it. Scadenza e importo non estraibili dalla vista elenco (card senza link diretto); da approfondire con apertura manuale del dettaglio.",
+    "fonte": "Regione Piemonte — Portale Bandi",
+    "link": "https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19",
+    "tag": [
+      "turismo-eventi"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Beneficiario tipico (associazioni Pro Loco) fuori dal nucleo prioritario enti comunali/ETS-RUNTS/APS; area Piemonte non prioritaria per lo studio.",
     "aggiornato_il": "2026-11-13"
   }
 ]
