@@ -2136,7 +2136,7 @@
     ],
     "beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
     "importo": "Non specificato — verificare sulla pagina del bando",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-15",
     "scadenza_testo": "15 novembre 2026 (termine prorogato dal 31/10/2026)",
     "giorni": 2,
@@ -2144,7 +2144,7 @@
       "Verificare requisiti di ammissibilità sulla pagina del bando",
       "Verificare modalità e piattaforma di invio della domanda"
     ],
-    "note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi. [Aggiornamento 31/10/2026: termine prorogato dalle ore 12:00 del 31/10/2026 alle ore 23:59 del 15/11/2026, confermato da Ministero della Cultura.]",
+    "note": "Dati sintetici da elenco Infobandi CSVnet; approfondire sulla pagina di dettaglio prima di proporsi. [Aggiornamento 31/10/2026: termine prorogato dalle ore 12:00 del 31/10/2026 alle ore 23:59 del 15/11/2026, confermato da Ministero della Cultura.] [Chiuso automaticamente: scadenza 15/11/2026 passata, non più presente tra i 39 bandi attivi su Infobandi CSVnet al 16/11/2026]",
     "fonte": "Infobandi CSVnet",
     "link": "https://infobandi.csvnet.it/premio-mattei-per-la-cooperazione-culturale-italia-africa/",
     "tag": [
@@ -2155,7 +2155,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": true,
     "nota_pertinenza": "Premio a consuntivo per iniziative già realizzate, ambito di nicchia (cooperazione Italia-Africa).",
-    "aggiornato_il": "2026-10-31"
+    "aggiornato_il": "2026-11-16"
   },
   {
     "id": "cn-marchioqualita-umanitari",

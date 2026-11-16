@@ -1,58 +1,17 @@
 {
-  "ultima_verifica": "2026-11-13T19:55:00+01:00",
+  "ultima_verifica": "2026-11-16T08:04:00+01:00",
   "fonti_saltate": [
     {
-      "id": "regione-veneto-bandi",
-      "motivo": "Portale bandi.regione.veneto.it/Public/Elenco: ricerca testuale e filtri lato client (Destinatari/Categoria/Stato) non applicano alcuna selezione sui risultati, confermato anche con approccio browser in questo ciclo (243-423 risultati sempre non filtrati). Estrazione sistematica non praticabile in automazione."
-    },
-    {
-      "id": "regione-piemonte-portale-bandi",
-      "motivo": "Confermati 31 risultati nel filtro Terzo Settore/Aperto (oscillazione naturale rispetto a 30/34 dei cicli precedenti); le card non espongono link diretti, solo 1 bando non ancora tracciato individuato (Pro Loco, aggiunto a bassa pertinenza) — scadenza/importo non estraibili dalla vista elenco."
+      "id": "professionearchitetto-concorsi",
+      "motivo": "Sito non raggiungibile in questo ciclo nemmeno con navigazione browser e permesso di accesso one-time concesso (navigazione negata/fallita). Da riprovare al prossimo ciclo."
     }
   ],
-  "nuovi": [
-    {
-      "id": "piemonte-prolocopiemonte2026",
-      "dal": "2026-11-13"
-    }
-  ],
+  "nuovi": [],
   "chiusi": [
     {
-      "id": "cn-intraprenderesociale",
-      "dal": "2026-11-13"
-    },
-    {
-      "id": "lazio-spazioargento",
-      "dal": "2026-11-13"
-    },
-    {
-      "id": "mic-educarelettura-9ed",
-      "dal": "2026-11-13"
-    },
-    {
-      "id": "lombardia-comunicasenzabarriere2628",
-      "dal": "2026-11-13"
-    },
-    {
-      "id": "lombardia-coprogettazione-pft-disabilita",
-      "dal": "2026-11-13"
-    },
-    {
-      "id": "scu-filoneautofinanziato-3767posti",
-      "dal": "2026-11-13"
-    },
-    {
-      "id": "lazio-costruirefuturo-odontoiatria2026",
-      "dal": "2026-11-13"
-    },
-    {
-      "id": "fondcattolica-intrapresasociale2026",
-      "dal": "2026-11-13"
-    },
-    {
-      "id": "anci-conai-comunicazionelocale2026",
-      "dal": "2026-11-13"
+      "id": "cn-premiomattei",
+      "dal": "2026-11-16"
     }
   ],
-  "note_ciclo": "Quarto ciclo del task unificato, secondo ciclo dello stesso giorno 13/11/2026 (ore pomeridiane, dopo quello delle 08:30). Essendo il ciclo mattutino gia stato molto approfondito su quasi tutte le fonti, questo ciclo si e concentrato su: (1) data hygiene — chiusura di 9 bandi aperti con scadenza 13/11/2026 (tra cui il bando SCU 'filoneautofinanziato-3767posti', confermato aperto stamattina alle 08:12 con scadenza 13/11 ore 14:00, ora chiuso essendo passate le 19:00); (2) risoluzione dei punti aperti lasciati dal ciclo mattutino tramite due controlli paralleli: controllo rapido Infobandi CSVnet (ora 39 bandi/4 pagine, nessuna novita), ricerca web PNRR/nazionale (nessuna novita nelle ultime 24-48h), MASE e Ministero dell'Interno Finanza Locale (ora raggiungibili via browser, non piu client_error, nessun bando nuovo); e verifica browser di 5 follow-up specifici: Piemonte (confermati 31 risultati nel filtro, 1 nuovo bando Pro Loco a bassa pertinenza aggiunto), Emilia-Romagna LR 5/2015 (bando identificato ma tema emigrazione/finestra 2025 gia chiusa, non pertinente), Fondazione Banco di Napoli (nuove URL verificate: sportello permanente aperto, due avvisi annuali chiusi, URL fonte aggiornata), Veneto (filtri confermati non funzionanti, fonte segnalata come saltata), GAL Agro Nocerino Sarnese (non esiste con questo nome, area coperta da GAL Colline Salernitane gia tracciato e gia verificato senza bandi attivi). Risultato: 1 bando nuovo aggiunto (Pro Loco Piemonte, bassa pertinenza, punteggio 2), 9 bandi chiusi per scadenza naturale, nessuna novita di rilievo oltre questo. SEZIONE B (ricerca nuove fonti) saltata: ultima_ricerca_fonti 05/11/2026, solo 8 giorni (soglia 14gg non raggiunta, prossima idonea dal 19/11/2026). SEZIONE C (manutenzione vocabolario) saltata: ultima_manutenzione_vocabolario 07/11/2026, solo 6 giorni (soglia 14gg non raggiunta, prossima idonea dal 21/11/2026). Nessun tag nuovo necessario: il bando Pro Loco e classificabile con il tag esistente 'turismo-eventi' (gia include il sinonimo 'pro loco')."
+  "note_ciclo": "Quinto ciclo del task unificato (ora accorpato in un unico task ogni 3 giorni). SEZIONE A: scansione completa di Infobandi CSVnet (tutti i 39 bandi attivi su 4 pagine, nessuna novita' rispetto al ciclo precedente del 13/11 - tutti gia' tracciati); chiuso cn-premiomattei (Premio Mattei, scadenza 15/11/2026 passata, non piu' presente tra i bandi attivi). Verificate anche: Fondazione CON IL SUD (3 bandi in corso, tutti gia' tracciati), Fondazione CDP (ricerca web: 'A scuola per il futuro' IV ed. e 'Ecosistemi culturali Sud' gia' tracciati e chiusi, nessun nuovo bando individuato), CSV Lombardia (rimanda a Infobandi, nessun contenuto proprio), Sviluppo Campania (solo bandi per imprese/privati fuori profilo, 'Giovani in Comune 3ed' gia' tracciato), CSV Salerno/Opportunita (tutti gli item della pagina principale gia' tracciati o fuori perimetro - corsi/master non sono bandi di finanziamento). Ricerca web mirata PNRR/nazionale: individuati 'Risorse in Comune' e 'Innovazione sociale nella PA' (Funzione Pubblica/Capacity Italy) ma risultano gia' in fase di attuazione/candidature chiuse (graduatoria pubblicata gennaio 2026, candidature gia' presentate), coerente con quanto gia' annotato in fonti_da_verificare_manualmente. professionearchitetto.it/concorsi non raggiungibile (vedi fonti_saltate). Per limiti di tempo in questo ciclo non sono state riverificate singolarmente tutte le 37 fonti_aggiuntive (in particolare i portali regionali gia' marcati come pienamente verificati nei cicli precedenti del 31/10-13/11, con note dettagliate e nessuna novita' strutturale attesa a cosi' breve distanza): si raccomanda una riverifica piu' ampia nel prossimo ciclo o in quello di SEZIONE B del 19/11/2026. SEZIONE B saltata: ultima_ricerca_fonti 05/11/2026, 11 giorni (soglia 14gg non raggiunta, prossima idonea dal 19/11/2026). SEZIONE C saltata: ultima_manutenzione_vocabolario 07/11/2026, 9 giorni (soglia 14gg non raggiunta, prossima idonea dal 21/11/2026)."
 }
