@@ -352,6 +352,15 @@
       "regione": "Piemonte",
       "note": "Verificata 05/11/2026, pagina aggiornata (modifica 09/03/2026). Fondazione bancaria con sede a Torino, competenza su Piemonte e Liguria. 6 bandi attivi con scadenze fino al 2027-2029 (es. 'Bando IA nell'economia sociale' per ETS, scad. 18/12/2026; 'Festival partecipativi 2027', scad. 05/04/2027; 'Alleanze ad alta intensità educativa', scad. 30/06/2029). Beneficiari compatibili: enti del terzo settore, enti pubblici locali, associazioni secondo i singoli bandi tematici.",
       "data_integrazione": "2026-11-05"
+    },
+    {
+      "id": "toscana-bandi-aperti",
+      "nome": "Regione Toscana — Bandi aperti",
+      "url": "https://www.regione.toscana.it/bandi-aperti",
+      "categoria": "ente-regionale",
+      "regione": "Toscana",
+      "note": "Validata il 19/11/2026 (SEZIONE B, rotazione Toscana): portale regionale generale bandi/avvisi, 160 bandi aperti al momento della verifica, filtrabile per tipologia (Aperti/In corso e graduatorie/Archiviati), aggiornato quotidianamente (voci pubblicate 17-18/11/2026). Diversi avvisi espliciti per Enti locali ed Enti del Terzo Settore iscritti al RUNTS (es. 'Rete dei Punti Digitale Facile') e per Comuni/Unioni di Comuni (es. Toscana Art Bonus paesaggio). Sostituisce la precedente valutazione 'nessun hub centralizzato' in fonti_scartate_non_riproporre (basata solo su Cesvot, CSV Toscana, che non ha sezione bandi dedicata). Non ancora scansionata per intero: solo le prime voci della lista (ordinata per data di modifica) sono state controllate in questo ciclo.",
+      "data_integrazione": "2026-11-19"
     }
   ],
   "rotazione_regioni": {
@@ -377,11 +386,11 @@
       "Valle d'Aosta",
       "Veneto"
     ],
-    "prossimo_indice": 13,
-    "ultima_regione_controllata": "Puglia",
-    "ultima_esecuzione": "2026-11-05"
+    "prossimo_indice": 16,
+    "ultima_regione_controllata": "Toscana",
+    "ultima_esecuzione": "2026-11-19"
   },
-  "ultima_ricerca_fonti": "2026-11-05",
+  "ultima_ricerca_fonti": "2026-11-19",
   "ultima_manutenzione_vocabolario": "2026-11-07",
   "fonti_da_verificare_manualmente": [
     {
@@ -520,11 +529,6 @@
       "nome": "Puglia",
       "url": null,
       "motivo": "Nessun portale bandi terzo settore/enti locali centralizzato individuato dopo piu' ricerche. RICONFERMATO 05/11/2026 con query diversificate nuove (CCIAA, GAL, fondazioni comunitarie, portale Galattica): nessun portale centralizzato trovato. Vedi fonti_da_verificare_manualmente per Fondazione BPPB ETS come possibile sviluppo futuro."
-    },
-    {
-      "nome": "Toscana",
-      "url": null,
-      "motivo": "Nessun hub centralizzato; Cesvot.it (CSV Toscana) non ha sezione bandi dedicata."
     },
     {
       "nome": "Umbria",

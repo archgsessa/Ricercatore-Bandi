@@ -1,17 +1,49 @@
 {
-  "ultima_verifica": "2026-11-16T08:04:00+01:00",
-  "fonti_saltate": [
-    {
-      "id": "professionearchitetto-concorsi",
-      "motivo": "Sito non raggiungibile in questo ciclo nemmeno con navigazione browser e permesso di accesso one-time concesso (navigazione negata/fallita). Da riprovare al prossimo ciclo."
-    }
+  "ultima_verifica": "2026-11-19T12:00:00+01:00",
+  "fonti_saltate": [],
+  "nuovi": [
+    "allianz-umanamente-callforideas2026",
+    "mic-rievocazionestorica2027",
+    "frd-inclusionedigitale-cofinanziamento2026",
+    "campania-infeas2026-ceas",
+    "lazio-istituticulturali-ciclo2627",
+    "lazio-termovalorizzazione-comuni",
+    "lazio-litorale-comunicostieri",
+    "lazio-gev-areenaturali",
+    "piemonte-scuoleinfanzia-paritarie2026-27",
+    "cn-capitalevolontariato2027",
+    "toscana-puntidigitalifacili-runts2026",
+    "toscana-artbonus-comuni-paesaggio"
   ],
-  "nuovi": [],
   "chiusi": [
     {
-      "id": "cn-premiomattei",
-      "dal": "2026-11-16"
+      "id": "lom-manifestazioni2026",
+      "dal": "2026-11-17"
+    },
+    {
+      "id": "aics-karamoja-agroforestale",
+      "dal": "2026-11-19"
+    },
+    {
+      "id": "lazio-spaziosport2026",
+      "dal": "2026-11-19"
+    },
+    {
+      "id": "lazio-sovraindebitamento-usura-art2",
+      "dal": "2026-11-19"
+    },
+    {
+      "id": "lazio-sovraindebitamento-usura-art5-7",
+      "dal": "2026-11-19"
+    },
+    {
+      "id": "piemonte-hub-territoriali-detenzione",
+      "dal": "2026-11-17"
+    },
+    {
+      "id": "piemonte-servizio-civile-regionale-4ed-2027",
+      "dal": "2026-11-17"
     }
   ],
-  "note_ciclo": "Quinto ciclo del task unificato (ora accorpato in un unico task ogni 3 giorni). SEZIONE A: scansione completa di Infobandi CSVnet (tutti i 39 bandi attivi su 4 pagine, nessuna novita' rispetto al ciclo precedente del 13/11 - tutti gia' tracciati); chiuso cn-premiomattei (Premio Mattei, scadenza 15/11/2026 passata, non piu' presente tra i bandi attivi). Verificate anche: Fondazione CON IL SUD (3 bandi in corso, tutti gia' tracciati), Fondazione CDP (ricerca web: 'A scuola per il futuro' IV ed. e 'Ecosistemi culturali Sud' gia' tracciati e chiusi, nessun nuovo bando individuato), CSV Lombardia (rimanda a Infobandi, nessun contenuto proprio), Sviluppo Campania (solo bandi per imprese/privati fuori profilo, 'Giovani in Comune 3ed' gia' tracciato), CSV Salerno/Opportunita (tutti gli item della pagina principale gia' tracciati o fuori perimetro - corsi/master non sono bandi di finanziamento). Ricerca web mirata PNRR/nazionale: individuati 'Risorse in Comune' e 'Innovazione sociale nella PA' (Funzione Pubblica/Capacity Italy) ma risultano gia' in fase di attuazione/candidature chiuse (graduatoria pubblicata gennaio 2026, candidature gia' presentate), coerente con quanto gia' annotato in fonti_da_verificare_manualmente. professionearchitetto.it/concorsi non raggiungibile (vedi fonti_saltate). Per limiti di tempo in questo ciclo non sono state riverificate singolarmente tutte le 37 fonti_aggiuntive (in particolare i portali regionali gia' marcati come pienamente verificati nei cicli precedenti del 31/10-13/11, con note dettagliate e nessuna novita' strutturale attesa a cosi' breve distanza): si raccomanda una riverifica piu' ampia nel prossimo ciclo o in quello di SEZIONE B del 19/11/2026. SEZIONE B saltata: ultima_ricerca_fonti 05/11/2026, 11 giorni (soglia 14gg non raggiunta, prossima idonea dal 19/11/2026). SEZIONE C saltata: ultima_manutenzione_vocabolario 07/11/2026, 9 giorni (soglia 14gg non raggiunta, prossima idonea dal 21/11/2026)."
+  "note_ciclo": "Sesto ciclo del task unificato. SEZIONE A: scansione completa Infobandi CSVnet (42 bandi su 5 pagine, 3 nuovi: Allianz Umana Mente call for ideas, Fondo Nazionale Rievocazione Storica 2027, Repubblica Digitale inclusione digitale cofinanziamento). professionearchitetto.it/concorsi raggiungibile in questo ciclo (a differenza del precedente) ma solo concorsi di progettazione/idee, nessun bando pertinente. Verificate anche Fondazione CON IL SUD (3 bandi in corso, tutti gia' tracciati), Fondazione CDP (ricerca web: nessun nuovo bando oltre quelli gia' tracciati/chiusi), CSV Lombardia (rimanda a Infobandi), Sviluppo Campania (Giovani in Comune 3ed gia' tracciato), CSV Salerno/Opportunita (tutti gli item gia' tracciati o fuori perimetro). Regione Campania — Notizie e Avvisi: individuato nuovo avviso IN.F.E.A.S. 2026 per C.E.A.S. (apertura proprio il 19/11); altri due avvisi trovati (patrimonio bandistico/majorettes, promozione spettacolo L.R.6/2007) risultano gia' in fase di rendicontazione, non azionabili. Regione Lazio (bandiavvisi.regione.lazio.it): individuati 4 nuovi avvisi aperti (istituti culturali ciclo 2026-27 con scadenza molto ravvicinata 25/11, contributi comuni termovalorizzazione, contributi comuni costieri litorale, GEV aree naturali protette). Regione Piemonte (filtro Terzo Settore/Aperto): 24 bandi aperti (da 34 del 01/11), un solo nuovo item (scuole infanzia paritarie, pertinenza bassa), tutti gli altri gia' tracciati; nessuna chiusura rilevata oltre quelle gia' note. Individuato e tracciato anche 'Capitale italiana del volontariato 2027' (gia' chiuso dal 31/03/2026, incluso per completezza come le altre 'Capitale italiana'). Rilevate e chiuse 7 posizioni 'aperto' con scadenza gia' passata (igiene dati): lom-manifestazioni2026, aics-karamoja-agroforestale, lazio-spaziosport2026, lazio-sovraindebitamento-usura-art2/art5-7, piemonte-hub-territoriali-detenzione, piemonte-servizio-civile-regionale-4ed-2027. ALERT SCADENZE CRITICHE (<=10 giorni): piemonte-bullismo-cyberbullismo-2026-27 scade OGGI 19/11; cn-ganassini-maisoli 20/11; lazio-istituticulturali-ciclo2627 (NUOVO) 25/11; 9 bandi piemontesi+veneto-melken 23/11; piemonte-adozione-corsi-abc e piemonte-comunicazione-turismo 24/11; campania-ciclovie, lazio-costruirefuturo-previdenziale, regcampania-multinterventodonnevv2026 27/11; sportsalute-losportevita 28/11. Per limiti di tempo non sono state riverificate singolarmente tutte le fonti_aggiuntive stabili con cadenza annuale/pluriennale gia' verificate nei cicli 26/10-13/11 (fondazioni bancarie, portali ministeriali con bandi stagionali); sono state invece riverificate con priorita' le fonti Campania/Salerno locali (Fondazione Banco di Napoli, CSV Napoli, Camera Commercio Napoli, Fondazione Comunita' Salernitana, Fondazione Carisal) risultate stabili/senza novita' azionabili (bandi annuali gia' chiusi, in fase di rendicontazione). SEZIONE B eseguita (14 giorni esatti da ultima_ricerca_fonti 05/11/2026): coperte Campania (priorita', nessuna nuova fonte sub-provinciale validata oltre quelle gia' in catalogo; CESVOP Palermo e GAL Casacastra gia' notati restano da verificare manualmente) e le 3 regioni di rotazione Sardegna/Sicilia/Toscana. NUOVA FONTE VALIDATA: Regione Toscana — Bandi aperti (regione.toscana.it/bandi-aperti), portale generale con 160 bandi aperti, aggiornato quotidianamente, con avvisi espliciti per Enti locali/ETS RUNTS; rimossa Toscana da fonti_scartate_non_riproporre. Dalla nuova fonte tracciati 2 bandi (Rete Punti Digitale Facile RUNTS/Enti locali, scadenza ravvicinata 26/11; Toscana Art Bonus Comuni/Unioni di Comuni paesaggio). Sardegna: nessun portale regionale centralizzato individuato oltre a Fondazione di Sardegna gia' tracciata (ricerca web senza esito). Sicilia: fonte gia' tracciata (regione-sicilia-bandi) confermata attiva; individuato CESVOP Palermo (bando 'Semi di Bene' Unicredit) come possibile fonte aggiuntiva da validare in un prossimo ciclo. SEZIONE C saltata: ultima_manutenzione_vocabolario 07/11/2026, 12 giorni (soglia 14gg non raggiunta, prossima idonea dal 21/11/2026). Tutti i tag dei nuovi bandi riutilizzano chiavi SYNONYMS/MACRO_LABELS esistenti (musica-cultura, turismo-eventi, inclusione-digitale, ambiente-sostenibilita, istruzione-formazione, rifiuti-raccolta-differenziata, immobili-pubblici, volontariato, disabilita, giovani, inclusione-sociale, sport): nessuna modifica a index.html necessaria in questo ciclo."
 }
