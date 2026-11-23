@@ -3686,7 +3686,7 @@
     ],
     "beneficiari": "Enti del terzo settore, associazioni",
     "importo": "Non specificato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-20",
     "scadenza_testo": "20 novembre 2026",
     "giorni": 1,
@@ -3702,7 +3702,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-11-23"
   },
   {
     "id": "cn-premio-pignone-disabilita",
@@ -7101,7 +7101,7 @@
     ],
     "beneficiari": "Rivolto esplicitamente a 'Terzo settore' secondo il filtro del portale regionale (destinatari precisi da verificare nel dettaglio del singolo avviso).",
     "importo": "Da verificare",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-19",
     "scadenza_testo": "19/11/2026 ore 12:00 (domande dal 29/10/2026)",
     "giorni": 0,
@@ -7118,7 +7118,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Rilevanza del destinatario (Terzo settore) confermata dal filtro di portale; scadenza/importo da verificare nel dettaglio.",
-    "aggiornato_il": "2026-11-05"
+    "aggiornato_il": "2026-11-23"
   },
   {
     "id": "piemonte-santuari-animali",
@@ -9857,5 +9857,65 @@
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
     "aggiornato_il": "2026-11-19"
+  },
+  {
+    "id": "valdese-8x1000-2027",
+    "titolo": "Bando 2027 Otto per Mille Valdese",
+    "ente": "Chiesa Evangelica Valdese (Unione delle Chiese Metodiste e Valdesi)",
+    "oggetto": "Finanziamento di progetti sociali, sanitari, educativi, culturali, di integrazione, di sviluppo e di risposta a emergenze umanitarie/ambientali/climatiche tramite i fondi dell'Otto per Mille della Chiesa Valdese per il 2027. Le domande si presentano dal 7 gennaio 2027 tramite la piattaforma Juno.",
+    "area_testo": "Terzo settore generico",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Organizzazioni senza finalità di lucro",
+    "importo": "Non indicato",
+    "stato": "aperto",
+    "scadenza": "2027-01-29",
+    "scadenza_testo": "29 gennaio 2027",
+    "giorni": null,
+    "checklist": [],
+    "note": "Successore del bando 2026 (valdese-8x1000-2026, chiuso il 30/01/2026); domande presentabili dal 7 gennaio 2027 tramite piattaforma Juno.",
+    "fonte": "Infobandi CSVnet",
+    "link": "https://infobandi.csvnet.it/bando-2027-otto-per-mille-valdese/",
+    "tag": [
+      "terzo-settore-generico",
+      "poverta-marginalita"
+    ],
+    "punteggio": 2,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-11-23"
+  },
+  {
+    "id": "piemonte-protezionecivile-oovv-2026",
+    "titolo": "Bando contributi alle OO.VV. di Protezione Civile — Anno 2026",
+    "ente": "Regione Piemonte",
+    "oggetto": "Contributi alle associazioni di volontariato di protezione civile di primo livello e ai gruppi comunali/intercomunali di protezione civile (tramite gli enti locali di appartenenza) per l'acquisto di attrezzature (Asse A, max 15.000€), mezzi/rimorchi targati (Asse B, max 20.000€) e vestiario/DPI (Asse C, max 10.000-20.000€).",
+    "area_testo": "Piemonte",
+    "regioni": [
+      "Piemonte"
+    ],
+    "beneficiari": "Associazioni di volontariato di protezione civile iscritte all'elenco territoriale regionale; gruppi comunali/intercomunali di protezione civile per il tramite degli enti locali di appartenenza",
+    "importo": "Fino a 20.000€ per asse (max 80% del preventivo di spesa)",
+    "stato": "aperto",
+    "scadenza": "2026-12-20",
+    "scadenza_testo": "20 dicembre 2026 ore 23:59",
+    "giorni": null,
+    "checklist": [
+      "Domande a partire dal 21/11/2026"
+    ],
+    "note": "Rivolto a Enti pubblici e Terzo settore. I gruppi comunali/intercomunali di protezione civile partecipano per il tramite dell'ente locale di appartenenza.",
+    "fonte": "Regione Piemonte — Portale Bandi",
+    "link": "https://bandi.regione.piemonte.it/contributi-finanziamenti/bando-contributi-alle-oovv-protezione-civile-anno-2026",
+    "tag": [
+      "protezione-civile-rischio-sismico",
+      "volontariato"
+    ],
+    "punteggio": 2,
+    "ruolo": "assistenza_rup",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-11-23"
   }
 ]
