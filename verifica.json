@@ -1,19 +1,63 @@
 {
-  "ultima_verifica": "2026-11-23T12:05:00+01:00",
+  "ultima_verifica": "2026-11-25T08:15:00+01:00",
   "fonti_saltate": [],
   "nuovi": [
-    "valdese-8x1000-2027",
-    "piemonte-protezionecivile-oovv-2026"
+    "cn-edufinindex-donnechecontano",
+    "cn-naturadiprossimita"
   ],
   "chiusi": [
     {
-      "id": "cn-ganassini-maisoli",
-      "dal": "2026-11-20"
+      "id": "cn-copower",
+      "dal": "2026-11-23"
     },
     {
-      "id": "piemonte-bullismo-cyberbullismo-2026-27",
-      "dal": "2026-11-19"
+      "id": "veneto-melken-prevenzione-lupo-pubblico",
+      "dal": "2026-11-23"
+    },
+    {
+      "id": "piemonte-disabilita-sport-misura-b2",
+      "dal": "2026-11-23"
+    },
+    {
+      "id": "piemonte-sport-strategici-misura-b7",
+      "dal": "2026-11-23"
+    },
+    {
+      "id": "piemonte-sport-eventi-granfondo-misura-b6",
+      "dal": "2026-11-23"
+    },
+    {
+      "id": "piemonte-sport-eventi-fsndsa-misura-b6",
+      "dal": "2026-11-23"
+    },
+    {
+      "id": "piemonte-sport-eccellenza-misura-b4",
+      "dal": "2026-11-23"
+    },
+    {
+      "id": "piemonte-sport-tradizionali-misura-b9",
+      "dal": "2026-11-23"
+    },
+    {
+      "id": "piemonte-sport-per-tutti-eps-misura-b1",
+      "dal": "2026-11-23"
+    },
+    {
+      "id": "piemonte-sport-per-tutti-eventi-misura-b1",
+      "dal": "2026-11-23"
+    },
+    {
+      "id": "cosenza-parconazionalesila-turismo-terzaeta-disabili",
+      "dal": "2026-11-23"
+    },
+    {
+      "id": "piemonte-adozione-internazionale-corsi-abc-2027-29",
+      "dal": "2026-11-24"
+    },
+    {
+      "id": "piemonte-comunicazione-turismo-lr142016-2026",
+      "dal": "2026-11-24"
     }
   ],
-  "note_ciclo": "Settimo ciclo del task unificato. SEZIONE A: scansione completa Infobandi CSVnet (41 bandi su 5 pagine, 1 nuovo: Bando 2027 Otto per Mille Valdese, successore del bando 2026 ormai chiuso; tutti gli altri 40 gia' tracciati). Fondazione CON IL SUD (solo 3 bandi 'In corso', tutti gia' tracciati, nessuna novita'). Fondazione CDP (ricerca web mirata: A Scuola per il Futuro IV ed., Premio Innovazione Sociale 2026 gia' tracciati e chiusi, nessun nuovo bando). professionearchitetto.it/concorsi: solo un concorso di idee internazionale (Islanda), fuori perimetro. Regione Lazio (bandiavvisi.regione.lazio.it): i 5 avvisi aperti piu' recenti sono tutti gia' tracciati, nessuna novita'. Regione Campania — Notizie e Avvisi (filtro Associazioni e terzo settore): nessun nuovo avviso pertinente oltre a quelli gia' tracciati (AMA ES). Regione Toscana — Bandi aperti: portale molto ampio (160 bandi, in gran parte concorsi pubblici/incentivi a imprese); verificati i piu' recenti, i soli due pertinenti (Rete Punti Digitale Facile, Toscana Art Bonus) gia' tracciati — scansione per categoria beneficiario non ancora praticabile in automazione (filtri non raggiungibili via click diretto), da riprendere in un prossimo ciclo. Regione Piemonte (filtro Terzo Settore/Aperto): 25 bandi aperti (da 24 del 19/11), 1 NUOVO individuato: 'Bando contributi alle OO.VV. di Protezione Civile - Anno 2026' (rivolto anche a Enti pubblici/gruppi comunali tramite l'ente locale, scad. 20/12/2026); tutti gli altri 24 gia' tracciati. CSV Salerno/Opportunita: tutti gli item gia' tracciati o fuori perimetro, nessuna novita'. Ministero della Cultura — Bandi e concorsi: elenco non aggiornato dal 11/09/2026, nessuna novita'. Igiene dati: chiuse 2 posizioni 'aperto' con scadenza gia' passata (cn-ganassini-maisoli 20/11, piemonte-bullismo-cyberbullismo-2026-27 19/11). ALERT SCADENZE CRITICHE (<=10 giorni da oggi 23/11): cn-copower, veneto-melken-prevenzione-lupo-pubblico, piemonte-disabilita-sport-misura-b2, piemonte-sport-strategici-misura-b7, piemonte-sport-eventi-granfondo-misura-b6, piemonte-sport-eventi-fsndsa-misura-b6, piemonte-sport-eccellenza-misura-b4, piemonte-sport-tradizionali-misura-b9, piemonte-sport-per-tutti-eps-misura-b1, piemonte-sport-per-tutti-eventi-misura-b1, cosenza-parconazionalesila-turismo-terzaeta-disabili scadono OGGI 23/11; piemonte-adozione-internazionale-corsi-abc-2027-29 e piemonte-comunicazione-turismo-lr142016-2026 24/11; lazio-istituticulturali-ciclo2627 25/11; toscana-puntidigitalifacili-runts2026 26/11; campania-ciclovie-manifestazione-interesse, regcampania-multinterventodonnevv2026, lazio-costruirefuturo-previdenziale-detenuti2026 27/11; sportsalute-losportevita 28/11; anci-spazi-pubblici-under35-iv, cn-premio-pignone-disabilita, cn-8x1000straordinario-culturascienza, lombardia-leva-civica-senior, basilicata-patrocinio-oneroso, axa-tacklingviolence-italiasenegal, carisap-fondo-prossimita-ets2026, otto-per-mille-induista-2026, piemonte-scuole-infanzia-paritarie-2026-27, mit-fondopiccolicomuni-strade2026 30/11; cn-internationaltransfund, piemonte-santuari-animali, eic-premiodonneinnovatrici2027 01/12; campania-spettro-autistico2026, lazio-gev-enti-gestori-aree-protette, regcampania-amaes-partenariati2026, campania-infeas2026-ceas, lazio-gev-areenaturali 02/12; supernova-arci-energiaspazicisud 03/12. SEZIONE B saltata: ultima_ricerca_fonti 19/11/2026, 4 giorni (soglia 14gg non raggiunta, prossima idonea dal 03/12/2026). SEZIONE C eseguita (16 giorni da ultima_manutenzione_vocabolario 07/11/2026, soglia 14gg raggiunta): vedi index.html e fonti.json per il dettaglio."
+  "note_ciclo": "Ottavo ciclo del task unificato (3 giorni dal ciclo precedente del 23/11). SEZIONE A: scansione completa Infobandi CSVnet (42 bandi su 5 pagine, 2 nuovi: Premio Edufin Index 2026/2027 | Donne che contano — Generali Italia/Fondazione Alleanza, scad. 20/12, premio a concorso di importo esiguo (15.000€) con procedura semplice, bassa pertinenza; e Bando \"Natura di prossimità\" — NOPLANETB/Fondazione PuntoSud, scad. 23/12, micro-interventi su spazi verdi di prossimità, 6.000-7.000€/progetto; tutti gli altri 40 bandi già tracciati). Fondazione CON IL SUD: confermati 3 bandi 'In corso' (beni confiscati e infrastrutturazione sociale già tracciati aperti; il terzo, 'Bando storico-artistico e culturale', è mostrato 'In corso' sul sito pur con scadenza indicata 18/03/2026 già passata — probabile etichetta di stato non aggiornata sul sito, non riaperto in dati-bandi.json in assenza di conferma di una nuova edizione con scadenza futura). Fondazione CDP (ricerca web mirata): 'A Scuola per il Futuro' IV ed. e Premio Innovazione Sociale 2026 già tracciati e chiusi, nessun bando nuovo. professionearchitetto.it/concorsi: un solo concorso di idee internazionale (Macedonia del Nord), fuori perimetro. CSV Salerno/Opportunità: tutti gli item già tracciati o fuori perimetro (bando agroalimentare per imprese). Regione Piemonte (filtro Terzo settore/Aperto): 13 risultati in questo ciclo (vs 25 del 23/11 — il filtro resta inaffidabile, oscilla e include anche voci non pertinenti come gare d'appalto e avvisi sanitari non filtrati correttamente), nessun bando nuovo rispetto a quelli già tracciati. Ricerche web mirate PNRR/enti locali: nessun bando nuovo rilevante individuato (solo notizie su iniziative già tracciate o già chiuse, es. 'Innovazione sociale nella PA' 10 mln€ chiusa a giugno 2026). Igiene dati: chiuse 13 posizioni 'aperto' con scadenza già passata (23-24/11/2026): cn-copower, veneto-melken-prevenzione-lupo-pubblico, piemonte-disabilita-sport-misura-b2, piemonte-sport-strategici-misura-b7, piemonte-sport-eventi-granfondo-misura-b6, piemonte-sport-eventi-fsndsa-misura-b6, piemonte-sport-eccellenza-misura-b4, piemonte-sport-tradizionali-misura-b9, piemonte-sport-per-tutti-eps-misura-b1, piemonte-sport-per-tutti-eventi-misura-b1, cosenza-parconazionalesila-turismo-terzaeta-disabili, piemonte-adozione-internazionale-corsi-abc-2027-29, piemonte-comunicazione-turismo-lr142016-2026. ALERT SCADENZE CRITICHE (<=10 giorni da oggi 25/11): lazio-istituticulturali-ciclo2627 scade OGGI 25/11; toscana-puntidigitalifacili-runts2026 26/11; campania-ciclovie-manifestazione-interesse, regcampania-multinterventodonnevv2026, lazio-costruirefuturo-previdenziale-detenuti2026 27/11; sportsalute-losportevita 28/11; anci-spazi-pubblici-under35-iv, cn-premio-pignone-disabilita, cn-8x1000straordinario-culturascienza, lombardia-leva-civica-senior, basilicata-patrocinio-oneroso, axa-tacklingviolence-italiasenegal, carisap-fondo-prossimita-ets2026, otto-per-mille-induista-2026, piemonte-scuole-infanzia-paritarie-2026-27, mit-fondopiccolicomuni-strade2026 30/11; cn-internationaltransfund, piemonte-santuari-animali, eic-premiodonneinnovatrici2027 01/12; campania-spettro-autistico2026, lazio-gev-enti-gestori-aree-protette, regcampania-amaes-partenariati2026, campania-infeas2026-ceas, lazio-gev-areenaturali 02/12; supernova-arci-energiaspazicisud 03/12; lazio-litorale-erosione-costiera2026, cn-eraseindifference2026, lazio-litorale-comunicostieri 04/12; cultura-missione-comune2026, anci-sport-missione-comune2026 05/12. SEZIONE B saltata: ultima_ricerca_fonti 19/11/2026, 6 giorni (soglia 14gg non raggiunta, prossima idonea dal 03/12/2026). SEZIONE C saltata: ultima_manutenzione_vocabolario 23/11/2026, 2 giorni (soglia 14gg non raggiunta, prossima idonea dal 07/12/2026)."
 }

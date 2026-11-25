@@ -1416,7 +1416,7 @@
     ],
     "beneficiari": "Enti del terzo settore (verificare requisiti specifici sulla pagina del bando).",
     "importo": "Non specificato — verificare sulla pagina del bando",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-23",
     "scadenza_testo": "23 nov 2026",
     "giorni": 4,
@@ -1434,7 +1434,7 @@
     "ruolo": "da_verificare",
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
-    "aggiornato_il": "2026-10-12"
+    "aggiornato_il": "2026-11-25"
   },
   {
     "id": "cn-povertaeducativa5ed",
@@ -8220,7 +8220,7 @@
     ],
     "beneficiari": "Enti pubblici gestori di malghe",
     "importo": "Non specificato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-23",
     "scadenza_testo": "23/11/2026 23:59",
     "checklist": [],
@@ -8235,7 +8235,7 @@
     "pertinenza_bassa": true,
     "nota_pertinenza": "Settore di nicchia (predazione lupo in malga).",
     "giorni": 4,
-    "aggiornato_il": "2026-11-05"
+    "aggiornato_il": "2026-11-25"
   },
   {
     "id": "veneto-proroga-sismica-edilizia-pubblica",
@@ -8306,7 +8306,7 @@
     ],
     "beneficiari": "Terzo settore (enti autorizzati adozione internazionale)",
     "importo": "Non previsto (iscrizione a elenco)",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-24",
     "scadenza_testo": "24/11/2026 12:00",
     "checklist": [],
@@ -8322,7 +8322,7 @@
     "pertinenza_bassa": true,
     "nota_pertinenza": "Nicchia molto specifica, nessun contributo economico in palio.",
     "giorni": 5,
-    "aggiornato_il": "2026-11-05"
+    "aggiornato_il": "2026-11-25"
   },
   {
     "id": "piemonte-disabilita-sport-misura-b2",
@@ -8335,7 +8335,7 @@
     ],
     "beneficiari": "Terzo settore (ASD/SSD e associazioni sportive)",
     "importo": "Non specificato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-23",
     "scadenza_testo": "23/11/2026 16:00 (domande dal 26/10/2026)",
     "checklist": [],
@@ -8351,7 +8351,7 @@
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
     "giorni": 4,
-    "aggiornato_il": "2026-11-05"
+    "aggiornato_il": "2026-11-25"
   },
   {
     "id": "piemonte-sport-strategici-misura-b7",
@@ -8364,7 +8364,7 @@
     ],
     "beneficiari": "Terzo settore",
     "importo": "Non specificato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-23",
     "scadenza_testo": "23/11/2026 16:00",
     "checklist": [],
@@ -8380,7 +8380,7 @@
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
     "giorni": 4,
-    "aggiornato_il": "2026-11-05"
+    "aggiornato_il": "2026-11-25"
   },
   {
     "id": "piemonte-sport-eventi-granfondo-misura-b6",
@@ -8393,7 +8393,7 @@
     ],
     "beneficiari": "Terzo settore",
     "importo": "Non verificato individualmente",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-23",
     "scadenza_testo": "23/11/2026 16:00 (dedotta per analogia)",
     "checklist": [],
@@ -8408,7 +8408,7 @@
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
     "giorni": 4,
-    "aggiornato_il": "2026-11-05"
+    "aggiornato_il": "2026-11-25"
   },
   {
     "id": "piemonte-sport-eventi-fsndsa-misura-b6",
@@ -8421,7 +8421,7 @@
     ],
     "beneficiari": "Terzo settore",
     "importo": "Non verificato individualmente",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-23",
     "scadenza_testo": "23/11/2026 16:00 (dedotta per analogia)",
     "checklist": [],
@@ -8436,7 +8436,7 @@
     "pertinenza_bassa": true,
     "nota_pertinenza": "Destinatari probabilmente Federazioni/Comitati, meno tipicamente piccole associazioni locali.",
     "giorni": 4,
-    "aggiornato_il": "2026-11-05"
+    "aggiornato_il": "2026-11-25"
   },
   {
     "id": "piemonte-sport-eccellenza-misura-b4",
@@ -8449,7 +8449,7 @@
     ],
     "beneficiari": "Terzo settore",
     "importo": "Non verificato individualmente",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-23",
     "scadenza_testo": "23/11/2026 16:00 (dedotta per analogia)",
     "checklist": [],
@@ -8464,7 +8464,7 @@
     "pertinenza_bassa": true,
     "nota_pertinenza": "Probabilmente rivolto a Comitati Regionali/Federazioni più che a piccole associazioni.",
     "giorni": 4,
-    "aggiornato_il": "2026-11-05"
+    "aggiornato_il": "2026-11-25"
   },
   {
     "id": "piemonte-sport-tradizionali-misura-b9",
@@ -8477,7 +8477,7 @@
     ],
     "beneficiari": "Terzo settore",
     "importo": "Non verificato individualmente",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-23",
     "scadenza_testo": "23/11/2026 16:00 (dedotta per analogia)",
     "checklist": [],
@@ -8493,7 +8493,7 @@
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
     "giorni": 4,
-    "aggiornato_il": "2026-11-05"
+    "aggiornato_il": "2026-11-25"
   },
   {
     "id": "piemonte-sport-per-tutti-eps-misura-b1",
@@ -8506,7 +8506,7 @@
     ],
     "beneficiari": "Terzo settore (EPS, associazioni)",
     "importo": "Non verificato individualmente",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-23",
     "scadenza_testo": "23/11/2026 16:00 (dedotta per analogia)",
     "checklist": [],
@@ -8522,7 +8522,7 @@
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
     "giorni": 4,
-    "aggiornato_il": "2026-11-05"
+    "aggiornato_il": "2026-11-25"
   },
   {
     "id": "piemonte-sport-per-tutti-eventi-misura-b1",
@@ -8535,7 +8535,7 @@
     ],
     "beneficiari": "Terzo settore",
     "importo": "Non verificato individualmente",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-23",
     "scadenza_testo": "23/11/2026 16:00 (dedotta per analogia)",
     "checklist": [],
@@ -8551,7 +8551,7 @@
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
     "giorni": 4,
-    "aggiornato_il": "2026-11-05"
+    "aggiornato_il": "2026-11-25"
   },
   {
     "id": "piemonte-cooperazione-lr232004",
@@ -8621,7 +8621,7 @@
     ],
     "beneficiari": "Enti pubblici; Terzo settore (Pro Loco, associazioni turistiche)",
     "importo": "Non specificato",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-24",
     "scadenza_testo": "24/11/2026 12:00",
     "checklist": [],
@@ -8636,7 +8636,7 @@
     "pertinenza_bassa": true,
     "nota_pertinenza": "Importo contenuto, procedura semplice, probabilmente poco bisognosa di supporto tecnico.",
     "giorni": 5,
-    "aggiornato_il": "2026-11-05"
+    "aggiornato_il": "2026-11-25"
   },
   {
     "id": "piemonte-cessione-legname-altavalsessera",
@@ -9160,7 +9160,7 @@
     ],
     "beneficiari": "Associazioni della Terza Età e Associazioni per i Diversamente Abili",
     "importo": "Budget complessivo 40.000 €",
-    "stato": "aperto",
+    "stato": "chiuso",
     "scadenza": "2026-11-23",
     "scadenza_testo": "Domande via PEC a parcosila@pec.it entro le ore 18:00 del 23 novembre 2026",
     "giorni": 4,
@@ -9179,7 +9179,7 @@
     "ruolo": "redazione_documentazione",
     "pertinenza_bassa": false,
     "nota_pertinenza": "Importo contenuto e ambito molto specifico, ma procedura semplice e profilo beneficiario compatibile (associazioni).",
-    "aggiornato_il": "2026-11-10"
+    "aggiornato_il": "2026-11-25"
   },
   {
     "id": "csp-scelte-future-piemonte",
@@ -9917,5 +9917,72 @@
     "pertinenza_bassa": false,
     "nota_pertinenza": "",
     "aggiornato_il": "2026-11-23"
+  },
+  {
+    "id": "cn-edufinindex-donnechecontano",
+    "titolo": "Premio Edufin Index 2026/2027 | Donne che contano",
+    "ente": "Generali Italia e Fondazione Alleanza in memoria di Mario Gasbarri",
+    "oggetto": "Premio che seleziona e sostiene progetti di educazione finanziaria e autonomia economica delle donne (reinserimento lavorativo, contrasto alla violenza economica, imprenditoria femminile, previdenza, welfare di comunità), realizzati in Italia con impatto diretto e misurabile sulle beneficiarie.",
+    "area_testo": "Nazionale",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Fondazioni senza scopo di lucro (anche non RUNTS), ETS iscritti RUNTS incluse cooperative sociali A/B, cooperative sociali iscritte all'albo regionale, associazioni regolarmente costituite (anche non RUNTS), con sede legale in Italia.",
+    "importo": "Montepremi complessivo 15.000 € — 1 premio assoluto da 5.000 € + fino a 4 menzioni speciali da 2.500 € ciascuna (cumulabili)",
+    "stato": "aperto",
+    "scadenza": "2026-12-20",
+    "scadenza_testo": "20 dicembre 2026 ore 23:59",
+    "giorni": 25,
+    "checklist": [
+      "Modulo online sulla pagina dedicata al Premio, dal 5 ottobre al 20/12/2026 ore 23:59",
+      "Allegare atto costitutivo o statuto e ultimo bilancio approvato",
+      "Una sola candidatura per ente"
+    ],
+    "note": "È un premio/concorso a graduatoria (non un bando di investimento in senso stretto): importo esiguo (15.000€ totali) e procedura di candidatura semplice (form online + statuto e bilancio), quindi scarso spazio per un servizio di redazione documentazione a pagamento.",
+    "fonte": "Infobandi CSVnet",
+    "link": "https://infobandi.csvnet.it/premio-edufin-index-2026-2027-donne-che-contano/",
+    "tag": [
+      "parita-di-genere",
+      "terzo-settore-generico"
+    ],
+    "punteggio": 1,
+    "ruolo": "da_verificare",
+    "pertinenza_bassa": true,
+    "nota_pertinenza": "Premio a concorso con montepremi esiguo (15.000€) e domanda semplice (form + statuto + bilancio): bassa pertinenza per assistenza tecnica a pagamento.",
+    "aggiornato_il": "2026-11-25"
+  },
+  {
+    "id": "cn-naturadiprossimita",
+    "titolo": "Bando \"Natura di prossimità\"",
+    "ente": "NOPLANETB (Fondazione PuntoSud, programma DEAR Commissione Europea, cofinanziato da Fondazione Cariplo)",
+    "oggetto": "Supporto finanziario e tecnico a micro-interventi su piccoli spazi verdi di prossimità (cortili, aiuole, aree incolte, giardini di scuole e condomini) per coinvolgere in azioni collettive persone e gruppi poco sensibili ai temi climatici ed ecologici; progetti da avviare il 1° febbraio 2027, durata massima 6 mesi.",
+    "area_testo": "Nazionale (intervento nella regione di sede del proponente)",
+    "regioni": [
+      "Nazionale"
+    ],
+    "beneficiari": "Organizzazioni della società civile senza scopo di lucro con sede e operatività in Italia, costituite da almeno 1 anno, con fatturato medio ultimi 3 anni inferiore a 150.000 €. Non richieste competenze specifiche ambientali.",
+    "importo": "Dotazione complessiva 70.000 € — contributo di 6.000-7.000 € per progetto, copertura 100% dei costi ammissibili, nessun cofinanziamento richiesto",
+    "stato": "aperto",
+    "scadenza": "2026-12-23",
+    "scadenza_testo": "23 dicembre 2026 ore 17:00",
+    "giorni": 28,
+    "checklist": [
+      "Modulo Google (https://forms.gle/q351Cf2oboa2UoXN8) entro il 23/12/2026 ore 17:00, in italiano",
+      "Progetto deve iniziare il 1° febbraio 2027, durata massima 6 mesi",
+      "Webinar informativo il 30/11/2026 ore 15:00 (previa iscrizione)"
+    ],
+    "note": "Importo per progetto contenuto (6.000-7.000€) e domanda tramite semplice modulo Google: spazio limitato ma non nullo per un supporto tecnico alla stesura del progetto, specie per enti del terzo settore locali (es. interventi su aree verdi comunali/scolastiche).",
+    "fonte": "Infobandi CSVnet",
+    "link": "https://infobandi.csvnet.it/bando-natura-di-prossimita/",
+    "tag": [
+      "ambiente-sostenibilita",
+      "agricoltura-sociale",
+      "terzo-settore-generico"
+    ],
+    "punteggio": 2,
+    "ruolo": "redazione_documentazione",
+    "pertinenza_bassa": false,
+    "nota_pertinenza": "",
+    "aggiornato_il": "2026-11-25"
   }
 ]
