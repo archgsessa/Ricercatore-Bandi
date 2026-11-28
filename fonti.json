@@ -98,7 +98,7 @@
       "url": "https://www.fondazionecariplo.it/contributi/bandi/",
       "categoria": "fondazione-bancaria-terzo-settore",
       "regione": "Lombardia",
-      "note": "Pagina ufficiale bandi della fondazione bancaria, dedicata esplicitamente al Terzo Settore. Verificata: almeno 6 bandi attivi visibili con paginazione su piu pagine, aggiornamento gennaio 2026. Scadenze riportate nelle pagine di dettaglio di ciascun bando. AGGIORNAMENTO 01/11/2026: confermata piena accessibilità via browser (6 pagine tramite pattern URL /page/N/); nessun nuovo bando rilevante oltre quelli già tracciati. Nota: il sito mostra 'cariplo-veicolo' come ATTIVO mentre è tracciato come chiuso in dati-bandi.json — discrepanza segnalata ma non corretta (bando a bassa pertinenza).",
+      "note": "Pagina ufficiale bandi della fondazione bancaria, dedicata esplicitamente al Terzo Settore. Verificata: almeno 6 bandi attivi visibili con paginazione su piu pagine, aggiornamento gennaio 2026. Scadenze riportate nelle pagine di dettaglio di ciascun bando. AGGIORNAMENTO 01/11/2026: confermata piena accessibilità via browser (6 pagine tramite pattern URL /page/N/); nessun nuovo bando rilevante oltre quelli già tracciati. Nota: il sito mostra 'cariplo-veicolo' come ATTIVO mentre è tracciato come chiuso in dati-bandi.json — discrepanza segnalata ma non corretta (bando a bassa pertinenza). AGGIORNAMENTO 28/11/2026: la pagina bandi ha restituito errore 403 in questo ciclo (era accessibile il 01/11/2026) - possibile blocco anti-bot temporaneo o protezione rafforzata, da riverificare nel prossimo ciclo prima di segnalarla come fonte bloccata in modo permanente.",
       "data_integrazione": "2026-10-07"
     },
     {
@@ -278,7 +278,7 @@
       "url": "https://sociale.regione.emilia-romagna.it/leggi-atti-bandi/bandi",
       "categoria": "ente-regionale",
       "regione": "Emilia-Romagna",
-      "note": "Sezione bandi sociali/terzo settore, aggiornata al 14/10/2026. Esempi: Bando progetti di rilevanza locale 2026-2027 per ODV/APS/fondazioni, avviso cittadinanza europea 2026, bando cooperazione internazionale 2026. Contatto: terzosettore@regione.emilia-romagna.it.",
+      "note": "Sezione bandi sociali/terzo settore, aggiornata al 14/10/2026. Esempi: Bando progetti di rilevanza locale 2026-2027 per ODV/APS/fondazioni, avviso cittadinanza europea 2026, bando cooperazione internazionale 2026. Contatto: terzosettore@regione.emilia-romagna.it. AGGIORNAMENTO 28/11/2026: la pagina elenco risulta renderizzata via JavaScript lato client; il fetch statico non restituisce i singoli bandi nell'HTML. Richiederebbe un accesso via browser per l'estrazione sistematica - non ancora implementato.",
       "data_integrazione": "2026-10-26"
     },
     {
@@ -361,6 +361,33 @@
       "regione": "Toscana",
       "note": "Validata il 19/11/2026 (SEZIONE B, rotazione Toscana): portale regionale generale bandi/avvisi, 160 bandi aperti al momento della verifica, filtrabile per tipologia (Aperti/In corso e graduatorie/Archiviati), aggiornato quotidianamente (voci pubblicate 17-18/11/2026). Diversi avvisi espliciti per Enti locali ed Enti del Terzo Settore iscritti al RUNTS (es. 'Rete dei Punti Digitale Facile') e per Comuni/Unioni di Comuni (es. Toscana Art Bonus paesaggio). Sostituisce la precedente valutazione 'nessun hub centralizzato' in fonti_scartate_non_riproporre (basata solo su Cesvot, CSV Toscana, che non ha sezione bandi dedicata). Non ancora scansionata per intero: solo le prime voci della lista (ordinata per data di modifica) sono state controllate in questo ciclo.",
       "data_integrazione": "2026-11-19"
+    },
+    {
+      "id": "regione-piemonte-portale-bandi",
+      "nome": "Regione Piemonte — Portale Bandi",
+      "url": "https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19",
+      "categoria": "ente-regionale",
+      "regione": "Piemonte",
+      "note": "METODO DI ESTRAZIONE RISOLTO il 28/11/2026. Portale Drupal/Views. Filtro funzionante via URL: field_target_target_id=4 (Terzo Settore) + field_stato_target_id=19 (Aperto). IMPORTANTE: NON usare il link onclick della card nell'elenco (non e' un vero <a href>, solo navigazione JS) - il link di dettaglio reale e' l'ancora testuale 'Per saperne di piu su...' renderizzata lato server nell'HTML della card, estraibile con un fetch statico della pagina elenco (no browser necessario). QUIRK: la paginazione usa un doppio parametro page (es. page=P0,P1) - verificare entrambi gli indici per non perdere risultati. ATTENZIONE: il filtro 'Aperto' (field_stato_target_id=19) e' INAFFIDABILE - puo' mostrare come aperti bandi la cui scadenza sul dettaglio e' gia' passata; va SEMPRE riverificata la scadenza effettiva sulla pagina di dettaglio rispetto alla data corrente. Verifica 28/11/2026: 4 bandi del filtro 'Aperto' controllati a campione, risultati tutti coerenti con i record gia' tracciati (2 gia' chiusi correttamente in un ciclo precedente, 2 ulteriori chiusi in questo ciclo perche' scaduti il 17/11/2026 nonostante il filtro li mostrasse ancora aperti).",
+      "data_integrazione": "2026-11-28"
+    },
+    {
+      "id": "fondazione-carilucca-bandi",
+      "nome": "Fondazione Cassa di Risparmio di Lucca (Fondazione Carilucca) - Bandi",
+      "url": "https://www.fondazionecarilucca.it/bandi-in-corso",
+      "categoria": "fondazione-bancaria-terzo-settore",
+      "regione": "Toscana",
+      "note": "Pagina bandi dedicata e aggiornata, 11 bandi pubblicati nel 2026 (Welfare e comunita, Cultura, Movimento, Opere pubbliche, Progett-Azioni, Grandi Eventi, L'Arte che Cura, Manifestazioni Culturali, +Api, Bella Li). Beneficiari confermati nel testo ufficiale del 'Bando 2026 Welfare e comunita' (punto 4.1): Enti del Terzo Settore (D.Lgs. 117/2017), altre associazioni e fondazioni con finalita sociali, amministrazioni pubbliche incluse le scuole (quindi anche i Comuni), enti religiosi. Bando attivo al 28/11/2026: 'Bando 2027 FUORILUOGO - Territori in scena' (spettacolo dal vivo, soggetti pubblici), apertura 02/11/2026, scadenza 11/12/2026. Ciclo annuale: la maggior parte dei bandi 2026 ha scadenze gia' passate ma il flusso riparte a inizio anno.",
+      "data_integrazione": "2026-11-28"
+    },
+    {
+      "id": "fondazione-carisap-bandi",
+      "nome": "Fondazione Cassa di Risparmio di Ascoli Piceno (Fondazione Carisap) - Opportunita",
+      "url": "https://www.fondazionecarisap.it/opportunita",
+      "categoria": "fondazione-bancaria-terzo-settore",
+      "regione": "Marche",
+      "note": "Pagina 'Opportunita' dedicata, 8-10 bandi pubblicati nel 2026 (Forza al non profit, Fondo di prossimita per ETS, Comunita inclusive, Comunita educante e cittadinanza attiva, Anziani protagonisti, Salute di prossimita, Alta Formazione, Abitare la montagna, Giovani famiglie e salute mentale). Beneficiari confermati nel bando 'Comunita inclusive': Enti del Terzo Settore iscritti al RUNTS, cooperative sociali, imprese sociali, soggetti privati senza scopo di lucro del territorio. Tutti i bandi censiti al 28/11/2026 hanno scadenze 2026 gia' passate (ultime giugno-luglio) ma il flusso di pubblicazione e' fitto e continuo nell'anno.",
+      "data_integrazione": "2026-11-28"
     }
   ],
   "rotazione_regioni": {
@@ -390,7 +417,7 @@
     "ultima_regione_controllata": "Toscana",
     "ultima_esecuzione": "2026-11-19"
   },
-  "ultima_ricerca_fonti": "2026-11-19",
+  "ultima_ricerca_fonti": "2026-11-28",
   "ultima_manutenzione_vocabolario": "2026-11-23",
   "fonti_da_verificare_manualmente": [
     {
@@ -424,11 +451,6 @@
       "motivo": "Bloccato da robots.txt. Evidenza: Fondo ANCI Turismo (bando 2026 attivo), bando \"immobili inutilizzati ai giovani\" (12,3 mln€ under 35). AGGIORNAMENTO 01/11/2026: sito navigabile via browser ma senza un portale bandi strutturato per il profilo del committente; nessun nuovo elemento azionabile trovato."
     },
     {
-      "nome": "Regione Piemonte — Portale Bandi",
-      "url": "https://bandi.regione.piemonte.it/",
-      "motivo": "SCOPERTA MAGGIORE 01/11/2026 (scansione browser approfondita): il portale è pienamente navigabile e filtrabile tramite parametri URL del tema Drupal/Views: field_target_target_id=4 (Terzo Settore) + field_stato_target_id=19 (Aperto). URL filtro funzionante: https://bandi.regione.piemonte.it/tutti?field_temi_target_id=All&field_target_target_id=4&field_risorse_target_id=All&field_stato_target_id=19 — restituisce 34 bandi aperti rivolti al Terzo Settore (su 2357 risultati totali non filtrati). 14 di questi sono stati aggiunti a dati-bandi.json con dati parziali (titolo/ente/stato confermati; scadenza e importo non estraibili dalla vista elenco — le card non espongono link <a href> diretti, solo elementi 'generic' con navigazione via JS onclick — richiede apertura manuale/mirata di ciascun dettaglio). Fonte ora da trattare come pienamente utilizzabile nei prossimi cicli con questo pattern URL, non più 'non estraibile'."
-    },
-    {
       "nome": "Regione Marche — Portale Bandi",
       "url": "https://bandi.regione.marche.it/",
       "motivo": "Contenuto non estraibile via fetch automatico. Evidenza: documento 13/03/2026, storico bandi Terzo Settore, \"Bando istituzioni\" per enti locali. AGGIORNAMENTO 01/11/2026: confermato che il portale è genuinamente non funzionante — risponde con il solo testo 'ok' anche con rendering completo via browser (probabile stub/health-check, non un blocco anti-bot). Non riproponibile finché il sito non viene ripristinato."
@@ -436,7 +458,7 @@
     {
       "nome": "Regione Veneto — Bandi, Avvisi e Concorsi",
       "url": "https://www.regione.veneto.it/web/bandi-avvisi-concorsi/bandi2",
-      "motivo": "Portale navigabile con filtri (Enti Locali, Sociale) ma contenuto singoli bandi non estraibile via fetch automatico (42 risultati rilevati). AGGIORNAMENTO 01/11/2026: la pagina regione.veneto.it/web/bandi-avvisi-concorsi/bandi2 è solo una vetrina; il vero portale dei bandi/contributi regionali è https://bandi.regione.veneto.it/Public/Elenco?Tipo=1 (piattaforma ASP.NET dedicata, 799 bandi totali, permalink reali nel formato Dettaglio?idAtto=N&fromPage=Elenco). Ricerca full-text presente ma filtri poco efficaci (245 risultati su ricerca generica 'sociale', non chiaramente filtrati per Terzo Settore/Aperto). Estrazione sistematica dei bandi pertinenti non completata in questo ciclo per limiti di tempo: da riprendere in un prossimo ciclo con ricerca per parola chiave sui singoli idAtto. AGGIORNAMENTO 13/11/2026 (pomeriggio): riconfermato con approccio browser che campo 'Cerca testo' e combobox Destinatari/Categoria/Stato nella pagina di Ricerca Avanzata non applicano alcun filtro reale sui risultati (restituiscono sempre la lista completa non filtrata, 243-423 risultati). Estrazione sistematica non praticabile in automazione; richiederebbe navigazione manuale per idAtto singoli."
+      "motivo": "Portale navigabile con filtri (Enti Locali, Sociale) ma contenuto singoli bandi non estraibile via fetch automatico (42 risultati rilevati). AGGIORNAMENTO 01/11/2026: la pagina regione.veneto.it/web/bandi-avvisi-concorsi/bandi2 è solo una vetrina; il vero portale dei bandi/contributi regionali è https://bandi.regione.veneto.it/Public/Elenco?Tipo=1 (piattaforma ASP.NET dedicata, 799 bandi totali, permalink reali nel formato Dettaglio?idAtto=N&fromPage=Elenco). Ricerca full-text presente ma filtri poco efficaci (245 risultati su ricerca generica 'sociale', non chiaramente filtrati per Terzo Settore/Aperto). Estrazione sistematica dei bandi pertinenti non completata in questo ciclo per limiti di tempo: da riprendere in un prossimo ciclo con ricerca per parola chiave sui singoli idAtto. AGGIORNAMENTO 13/11/2026 (pomeriggio): riconfermato con approccio browser che campo 'Cerca testo' e combobox Destinatari/Categoria/Stato nella pagina di Ricerca Avanzata non applicano alcun filtro reale sui risultati (restituiscono sempre la lista completa non filtrata, 243-423 risultati). Estrazione sistematica non praticabile in automazione; richiederebbe navigazione manuale per idAtto singoli. AGGIORNAMENTO 28/11/2026: confermato via browser il meccanismo tecnico - il portale https://bandi.regione.veneto.it/Public/Elenco?Tipo=1 usa una tabella jQuery DataTables con serverSide:true (793 bandi totali), quindi il fetch statico dell'HTML restituisce una tabella vuota (i dati arrivano via chiamata AJAX POST separata, probabilmente con cookie di sessione). La UI di filtro non e' affidabile (confermato nei cicli precedenti). PROSSIMO PASSO per risolvere: aprire la pagina con un browser, usare lo strumento di lettura delle richieste di rete (read_network_requests) subito dopo aver cliccato un pulsante di paginazione o aver applicato un filtro, per catturare l'URL esatto dell'endpoint AJAX e i parametri POST (probabilmente draw/start/length/search in stile DataTables), cosi' da poterlo richiamare direttamente senza browser nei cicli successivi. Non risolto in questo ciclo per limiti di tempo dell'agente di ricerca."
     },
     {
       "nome": "Regione Abruzzo — Contributi e finanziamenti/sociale",
